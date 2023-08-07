@@ -9,6 +9,10 @@ Stories from Magic Origins to March of the Machine: The Aftermath are sorted wit
 
 To download and compile I wrote a small Python script, which is not part this repository.
 
+If you want to download all the PDFs, use https://github.com/polarkac/MTG-Stories/releases  
+For one big PDF with all the stories (300+ MB, 5202 pages) use https://drive.google.com/file/d/18yX6IZONqO9SyWXEA6msmNYjbsjwEXUX/view?usp=sharing  
+If you want to compile it yourself, use Typst source file `COMPLETE_STORIES.typ`.
+
 # List of sets (in published order)
 
 - Magic 2013
