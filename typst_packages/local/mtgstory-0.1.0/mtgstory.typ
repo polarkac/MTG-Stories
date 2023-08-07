@@ -1,4 +1,4 @@
-#let conf(title, set_name: "Unknown set", author: "Unknown author", doc) = {
+#let conf(title, set_name: "Unknown set", author: "Unknown author", show_images: true, doc) = {
     set par(justify: true)
     set page(
         paper: "a4",
@@ -15,12 +15,12 @@
             #align(center)[#counter(page).display("1")]
         ],
     )
-    set document(title: title)
     [
+        #set document(title: title)
         #{
             set text(size: 2.5em)
             set align(center)
-            heading(level: 1, title)
+            heading(level: 2, title)
             author
         }
         #{
@@ -29,6 +29,12 @@
             [From set #emph[#set_name]]
         }
         #set heading(outlined: false)
-        #doc
+
+        #if show_images == false [
+            #show figure: it => {}
+            #doc
+        ] else [
+            #doc
+        ]
     ]
 }
