@@ -538,3 +538,10 @@
 = March of the Machine: The Aftermath
 #include "March of the Machine: The Aftermath/290_She Who Breaks the World.typ"
 #include "March of the Machine: The Aftermath/291_Beyond Repair.typ"
+
+= Wilds of Eldraine
+#include "Wilds of Eldraine/001_Episode 1: Pure of Heart.typ"
+#include "Wilds of Eldraine/002_Episode 2: Wandering Knight, Budding Hero.typ"
+#include "Wilds of Eldraine/003_Episode 3: Two Great Banquets.typ"
+#include "Wilds of Eldraine/004_Episode 4: Ruby and the Frozen Heart.typ"
+#include "Wilds of Eldraine/005_Episode 5 Broken Oaths.typ"
