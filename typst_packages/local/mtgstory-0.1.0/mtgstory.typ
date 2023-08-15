@@ -16,7 +16,7 @@
         ],
     )
     [
-        #set document(title: title)
+        #set document(title: title, author: author)
         #{
             set text(size: 2.5em)
             set align(center)
