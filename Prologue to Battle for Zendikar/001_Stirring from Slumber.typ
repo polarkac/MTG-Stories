@@ -33,7 +33,7 @@ And for those first few centuries, she had lived—really #emph[lived] —among 
 
 She had trained the kor to keep watch over the Eldrazi prison, leading bands of them on long pilgrimages across the plane. She showed them the focal points of the hedron network's power, and taught the stoneforgers among them how to test the walls of the prison, to make sure the—she had called them "gods," to help the kor understand—to make sure the gods did not emerge to ruin the world.
 
-#figure(image("126_Stirring from Slumber/01.jpg", width: 100%), caption: [Nomads' Assembly | Art by Erica Yang], supplement: none, numbering: none)
+#figure(image("001_Stirring from Slumber/01.jpg", width: 100%), caption: [Nomads' Assembly | Art by Erica Yang], supplement: none, numbering: none)
 
 But her students learned and moved on. Her lovers aged and died. Birth followed birth, over and over, and one funeral followed another, and eventually she couldn't remember why it mattered…any of it.
 
@@ -55,7 +55,7 @@ It was all metaphor, of course. The Eldrazi weren't contained, they weren't phys
 
 But something had shifted, just slightly. She sensed restless movement from the titans, as though they were testing the strength of their bonds, and the seething motion of their broods bubbling into existence around them. The Spirit Dragon had explained, once, that these teeming throngs of lesser Eldrazi were like extensions of the three titans, sensory and digestive organs that all connected to the same extra-planar beings. When the titans had first been bound, their brood lineages continued swarming over the world but, with the titans in stasis, the lesser Eldrazi were like bodies spasming in the throes of death, their heads severed. Eventually, the people of Zendikar had finished them off. And as long as the prison had held, no new Eldrazi were created.
 
-#figure(image("126_Stirring from Slumber/02.jpg", width: 100%), caption: [Emrakul's Hatcher | Art by Jaime Jones], supplement: none, numbering: none)
+#figure(image("001_Stirring from Slumber/02.jpg", width: 100%), caption: [Emrakul's Hatcher | Art by Jaime Jones], supplement: none, numbering: none)
 
 Now they were erupting from the ground, their every movement a prick of pain in Nahiri's flesh—a sensation she had not experienced in ages. She observed the feeling curiously, noticing the annoyance it stirred in her mind. She considered discarding those feelings and letting the Eldrazi free themselves, letting them annihilate Zendikar and its people and her along with them, letting them bring an end to the unchanging eternity of her existence and the meaningless passage of time.
 
@@ -67,7 +67,7 @@ Now, at last, it was time to summon Sorin.
 
 The Spirit Dragon had worked some magic in the Eye of Ugin that surpassed her understanding, forging a special connection between each of them and that place—a connection that spanned the Blind Eternities. Any of the three of them, standing in that place, could send a message to the others, amplified by the Eye's magic, seeking the others out no matter what planes they were on. This spell was intended for exactly this circumstance, so that Nahiri could summon the others if the Eldrazi ever slipped their bonds.
 
-#figure(image("126_Stirring from Slumber/03.jpg", width: 100%), caption: [Eye of Ugin | Art by James Paick], supplement: none, numbering: none)
+#figure(image("001_Stirring from Slumber/03.jpg", width: 100%), caption: [Eye of Ugin | Art by James Paick], supplement: none, numbering: none)
 
 Closing her eyes and shutting out the rumbling of stone around her, she sent her call into the Æther—a wordless summons, which the others would experience as an insistent pull, tugging them toward Zendikar.
 
@@ -93,7 +93,7 @@ Eldrazi teemed in the valleys below her, turning the ground to chalky dust in th
 
 The Eldrazi were there as well, but the city lay in rubble—dusty ruins, long abandoned, surely long before the Eldrazi emerged. With a wave of her hand, she closed the canyon to swallow the Eldrazi as she entered the city through a gap in its crumbling wall.
 
-#figure(image("126_Stirring from Slumber/04.jpg", width: 100%), caption: [Demolish | Art by John Avon], supplement: none, numbering: none)
+#figure(image("001_Stirring from Slumber/04.jpg", width: 100%), caption: [Demolish | Art by John Avon], supplement: none, numbering: none)
 
 "I know this street," she murmured. Her voice was a crunch of gravel, so long unused. She remembered haggling in the marketplace, ahead on the left, to buy a—what was it? Something bright and blue that made her smile. Soft.
 
@@ -137,7 +137,7 @@ She strode toward the building, each step shaking the ground and causing trickle
 
 She paused in her advance, falling to one knee and reaching a hand into the earth beneath her. The advancing figures slowed, wary. Then, with a shout, she pulled a glowing-hot sword from the ground and charged.
 
-#figure(image("126_Stirring from Slumber/05.png", width: 100%), caption: [Nahiri, the Lithomancer | Art by Eric Deschamps], supplement: none, numbering: none)
+#figure(image("001_Stirring from Slumber/05.png", width: 100%), caption: [Nahiri, the Lithomancer | Art by Eric Deschamps], supplement: none, numbering: none)
 
 The figures seemed human, but she didn't recognize their clothing from any culture she knew. Flimsy gauze barely covered their chests, revealing the stark red paint adorning their ashen skin. Sharp hooks protruded from their shoulders and upper arms and, as they snarled at her approach, she saw slightly protruding fangs.
 
@@ -171,7 +171,7 @@ The pounding of footsteps on the surrounding ground broke her concentration and 
 
 "Do we have to do this?" she said. "It's getting tedious."
 
-#figure(image("126_Stirring from Slumber/06.jpg", width: 100%), caption: [Guul Draz Assassin | Art by James Ryman], supplement: none, numbering: none)
+#figure(image("001_Stirring from Slumber/06.jpg", width: 100%), caption: [Guul Draz Assassin | Art by James Ryman], supplement: none, numbering: none)
 
 One of them hissed. "You defile our—"
 
@@ -185,7 +185,7 @@ Perhaps she had been cocooned long enough and she was ready to emerge into a new
 
 At last the hedron was finished. Spreading her arms, she shattered the stone dome around her and took a deep breath of fresh air.
 
-#figure(image("126_Stirring from Slumber/07.jpg", width: 100%), caption: [Perilous Vault | Art by Sam Burley], supplement: none, numbering: none)
+#figure(image("001_Stirring from Slumber/07.jpg", width: 100%), caption: [Perilous Vault | Art by Sam Burley], supplement: none, numbering: none)
 
 #emph[How long was I in there?]  she wondered.
 

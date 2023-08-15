@@ -31,7 +31,7 @@ The human, Elspeth, asked something about Kruphix's temple, and the cat-man answ
 
 The cat-man had suspected all along she wasn't who she said she was, but he'd come aboard the #emph[Monsoon]  anyway because she had something he wanted. They'd used her to get to Nyx, and she'd used them to get to Arixmethes. Now she was here, and they could take the #emph[Monsoon]  and go and get themselves killed. It was like a trade. Everyone got what they wanted.
 
-#figure(image("127_Drop for Drop/01.png", width: 100%), caption: [Kiora, the Crashing Wave | Art by Tyler Jacobson], supplement: none, numbering: none)
+#figure(image("002_Drop for Drop/01.png", width: 100%), caption: [Kiora, the Crashing Wave | Art by Tyler Jacobson], supplement: none, numbering: none)
 
 Behind them, the waves became turbulent, and there was a rushing sound deep below the surface.
 
@@ -49,7 +49,7 @@ Thassa was close. Arixmethes would wait, and she no longer needed the drywalkers
 
 Kiora cast a spell to aid her swimming, and her arms grew longer with a cracking sound as she dove beneath the waves. The last thing she saw before the water closed around her was the Great Eye—the sea god Thassa in one of her many guises—bursting out of the water, fixing its terrible gaze first on her, then on the two drywalkers. Elspeth, the Betrayer, so people called her. Kiora had never caught the exact details of her crime—you don't get to ask many questions when you're posing as a god—but hopefully Elspeth's presence would draw Thassa's ire long enough for Kiora to prepare.
 
-#figure(image("127_Drop for Drop/02.jpg", width: 100%), caption: [Thassa's Ire | Art by Chris Rahn], supplement: none, numbering: none)
+#figure(image("002_Drop for Drop/02.jpg", width: 100%), caption: [Thassa's Ire | Art by Chris Rahn], supplement: none, numbering: none)
 
 She dove straight down, down and down, her elongated body propelling her through the water. It grew darker, and colder, and more silent. The pressure became immense, the water flowing through her gills shockingly cold. She could feel great shapes moving around her, but saw nothing—the darkness was total. Just when she thought she would have to turn back, her palm came to rest on the cold and silent surface of the sea bed. She paused, upside-down, and for a disorienting moment imagined that she was hanging from the ceiling of the depths, dangling precariously above thousands of feet of water and the hard, unyielding surface of the sea. She smiled and began a spell.
 
@@ -69,7 +69,7 @@ Kiora no longer knew whom to pray to for good fortune. For many years she had pr
 
 The sea grew lighter around her, and at last she could see the armada she had assembled, massive creatures from a dozen worlds swimming together with the precision of a school of fish. They broke the surface in a boiling mass, and Kiora whooped from the back of her serpent. In the distance, she saw Thassa, in triton form, standing on the deck of the #emph[Monsoon] . She bristled—even if she no longer needed the ship, even if she was happy to let Elspeth and Ajani ride it to the edge of the world, she'd be damned if she'd let Thassa have it.
 
-#figure(image("127_Drop for Drop/03.jpg", width: 100%), caption: [Godhunter Octopus | Art by Tyler Jacobson], supplement: none, numbering: none)
+#figure(image("002_Drop for Drop/03.jpg", width: 100%), caption: [Godhunter Octopus | Art by Tyler Jacobson], supplement: none, numbering: none)
 
 She willed a black, barnacled, titanic squid to surface next to the ship. The #emph[Monsoon ] pitched and rolled in agitation. Arixmethes had had enough jostling from the lesser leviathans, and dove beneath the waves. No matter. She would find him. But she had to deal with Thassa first.
 
@@ -83,7 +83,7 @@ The sea boiled. More krakens emerged, propelled from seas all over Theros, answe
 
 Kiora laughed.
 
-#figure(image("127_Drop for Drop/04.jpg", width: 100%), caption: [Thassa, God of the Sea | Art by Jason Chan], supplement: none, numbering: none)
+#figure(image("002_Drop for Drop/04.jpg", width: 100%), caption: [Thassa, God of the Sea | Art by Jason Chan], supplement: none, numbering: none)
 
 She called her titans to her, and Thassa did the same. Thassa had far greater command of the sea itself, so Kiora focused on keeping her own little patch of it stable and let the sea god come to her. She arrayed her krakens around her.
 
@@ -103,7 +103,7 @@ Did she need their belief? Had Kiora taken that from her? Was that what this was
 
 Kiora's serpent surged forward through the crush of enormous bodies and choking tentacles, pointed not toward Thassa, but toward Arixmethes. Thassa had to defeat her in order to win. Kiora just had to form a bond with that kraken. She gripped the serpent tightly, trying to balance between lending strength to her forces and saving her own for what was to come.
 
-#figure(image("127_Drop for Drop/05.jpg", width: 100%), caption: [Serpent of the Endless Sea | Art by Kieran Yanner], supplement: none, numbering: none)
+#figure(image("002_Drop for Drop/05.jpg", width: 100%), caption: [Serpent of the Endless Sea | Art by Kieran Yanner], supplement: none, numbering: none)
 
 The serpent thrashed and twisted, sometimes swimming along the surface like a river-snake, sometimes diving below, even leaping out of the water—anything to get through. And she #emph[was]  getting through. Thassa had all the krakens of Theros, minus the few that Kiora had suborned. But Kiora had titans from a dozen worlds, things that Thassa had never seen, never even imagined. Many of them were larger than Thassa's largest children, save Arixmethes. Slowly it dawned on her: #emph[she was winning] .
 
@@ -145,7 +145,7 @@ Thassa raised the bident and sent a great wave crashing toward Kiora and her ser
 
 Kiora shook with fury. She pushed her hands against the serpent's great back and willed away, banished it back to the Æther from which it came. She sent more of her krakens with it, the ones that had turned against her. The great body beneath her vanished in a shimmer of turquoise light, and Kiora plunged toward the ocean like a stone, stretching her body out to turn an awkward fall into a smooth dive.
 
-#figure(image("127_Drop for Drop/06.jpg", width: 100%), caption: [Voyage's End | Art by Chris Rahn], supplement: none, numbering: none)
+#figure(image("002_Drop for Drop/06.jpg", width: 100%), caption: [Voyage's End | Art by Chris Rahn], supplement: none, numbering: none)
 
 The water began, horribly, to recede. Thassa's bident glowed brightly as she pushed back the sea in a great bowl, somewhere between a whirlpool and an arena. The remaining krakens were pushed outside the growing well of water, swirling around, and Thassa's followers became an audience arrayed around a sloping, circular wall of water.
 
@@ -157,7 +157,7 @@ She didn't think Thassa was going to let her hit the sea floor—the sea god cle
 
 She smiled. She was alive, at least. That was a good start.
 
-#figure(image("127_Drop for Drop/07.jpg", width: 100%), caption: [Harrow | Art by Rob Alexander], supplement: none, numbering: none)
+#figure(image("002_Drop for Drop/07.jpg", width: 100%), caption: [Harrow | Art by Rob Alexander], supplement: none, numbering: none)
 
 Before she could free herself from the vines, a wave of grasping hands made of sea foam rushed through her little forest, tearing the still-green branches apart, ripping the vines, and pulling her out of the greenery. The hands of water deposited her on her knees on the sea-bottom, Thassa's arena towering around her. Behind her, the wall of water surged forward over her forest, drowning it.
 
@@ -171,7 +171,7 @@ She dove for the wall of rushing water, hoping to get away long enough to planes
 
 Thassa threw her bident, and it sailed through the air with astonishing speed, shrinking as it flew toward her. Kiora twisted in the air, but the bident followed her movement. It slammed into her and pinned her to one of the boulders that littered the sea floor, its prongs fitting snugly around her neck. She lay against the boulder, dazed, the coral-like surface of the bident pressing into her throat.
 
-#figure(image("127_Drop for Drop/08.jpg", width: 100%), caption: [Bident of Thassa | Art by Yeong-Hao Han], supplement: none, numbering: none)
+#figure(image("002_Drop for Drop/08.jpg", width: 100%), caption: [Bident of Thassa | Art by Yeong-Hao Han], supplement: none, numbering: none)
 
 "Pathetic," said Thassa, her feet coming to rest on a carpet of clean water that flowed before her over the oozing muck.
 
