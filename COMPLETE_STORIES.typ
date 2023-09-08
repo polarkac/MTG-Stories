@@ -1,10 +1,10 @@
-#set document(title: "Magic 2013 through March of the Machine: The Aftermath - The Ultimate PDF")
+#set document(title: "Magic 2013 through Wilds of Eldraine - The Ultimate PDF")
 
 #{
     set text(size: 32pt)
     set align(center)
     v(35%)
-    heading(level: 1, outlined: false)[Magic 2013 through March of the Machine: The Aftermath\ - The Ultimate PDF]
+    heading(level: 1, outlined: false)[Magic 2013 through Wilds of Eldraine\ - The Ultimate PDF]
 }
 
 #pagebreak()
