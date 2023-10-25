@@ -1,10 +1,10 @@
-#set document(title: "Magic 2013 through Wilds of Eldraine - The Ultimate PDF")
+#set document(title: "Magic 2013 through Lost Caverns of Ixalan - The Ultimate PDF")
 
 #{
     set text(size: 32pt)
     set align(center)
     v(35%)
-    heading(level: 1, outlined: false)[Magic 2013 through Wilds of Eldraine\ - The Ultimate PDF]
+    heading(level: 1, outlined: false)[Magic 2013 through Lost Caverns of Ixalan\ - The Ultimate PDF]
 }
 
 #pagebreak()
@@ -545,3 +545,12 @@
 #include "Wilds of Eldraine/003_Episode 3: Two Great Banquets.typ"
 #include "Wilds of Eldraine/004_Episode 4: Ruby and the Frozen Heart.typ"
 #include "Wilds of Eldraine/005_Episode 5 Broken Oaths.typ"
+
+= Lost Caverns of Ixalan
+#include "Lost Caverns of Ixalan/001_Episode 1.typ"
+#include "Lost Caverns of Ixalan/002_Episode 2.typ"
+#include "Lost Caverns of Ixalan/003_Episode 3.typ"
+#include "Lost Caverns of Ixalan/004_Episode 4.typ"
+#include "Lost Caverns of Ixalan/005_Episode 5.typ"
+#include "Lost Caverns of Ixalan/006_Episode 6.typ"
+#include "Lost Caverns of Ixalan/007_Pawns.typ"
