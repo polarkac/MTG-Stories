@@ -71,6 +71,7 @@ If you want to compile it yourself, use Typst source file `COMPLETE_STORIES.typ`
 - March of the Machine
 - March of the Machine: The Aftermath
 - Wilds of Eldraine
+- Lost Caverns of Ixalan
 
 
 # Typst
