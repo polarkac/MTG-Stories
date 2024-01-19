@@ -10,9 +10,8 @@ Stories from Wilds of Eldraine going forward sorted with https://mtgstory.com
 
 To download and compile I wrote a small Python script, which is not part this repository.
 
-If you want to download all the PDFs, use https://github.com/polarkac/MTG-Stories/releases  
-For one big PDF with all the stories (300+ MB, 5202 pages) use https://drive.google.com/file/d/18yX6IZONqO9SyWXEA6msmNYjbsjwEXUX/view?usp=sharing  
-If you want to compile it yourself, use Typst source file `COMPLETE_STORIES.typ`.
+If you want to download all the PDFs or complete stories in one big file (with or without images), use https://github.com/polarkac/MTG-Stories/releases  
+If you want to compile all stories into one big PDF yourself, use Typst source file `COMPLETE_STORIES.typ`.
 
 # List of sets (in published order)
 
@@ -72,6 +71,7 @@ If you want to compile it yourself, use Typst source file `COMPLETE_STORIES.typ`
 - March of the Machine: The Aftermath
 - Wilds of Eldraine
 - Lost Caverns of Ixalan
+- Murders at Karlov Manor
 
 
 # Typst
