@@ -1,10 +1,10 @@
-#set document(title: "Magic 2013 through Lost Caverns of Ixalan - The Ultimate PDF")
+#set document(title: "Magic 2013 through Murders at Karlov Manor - The Ultimate PDF")
 
 #{
     set text(size: 32pt)
     set align(center)
     v(35%)
-    heading(level: 1, outlined: false)[Magic 2013 through Lost Caverns of Ixalan\ - The Ultimate PDF]
+    heading(level: 1, outlined: false)[Magic 2013 through Murders at Karlov Manor\ - The Ultimate PDF]
 }
 
 #pagebreak()
@@ -22,6 +22,7 @@
     v(35%)
     h.body
 }
+// #show figure: it => {}
 
 = Magic 2013
 #include "Magic 2013/001_Odric, Master Tactician.typ"
@@ -554,3 +555,15 @@
 #include "Lost Caverns of Ixalan/005_Episode 5.typ"
 #include "Lost Caverns of Ixalan/006_Episode 6.typ"
 #include "Lost Caverns of Ixalan/007_Pawns.typ"
+
+= Murders at Karlov Manor
+#include "Murders at Karlov Manor/001_Episode 1: Ghosts of Our Past.typ"
+#include "Murders at Karlov Manor/002_Episode 2: Monsters We Became.typ"
+#include "Murders at Karlov Manor/003_Episode 3: Shadows of Regret.typ"
+#include "Murders at Karlov Manor/004_Episode 4: Justice Before Mercy.typ"
+#include "Murders at Karlov Manor/005_Episode 5: Chains of Expectation.typ"
+#include "Murders at Karlov Manor/006_Episode 6: Explosions of Genius.typ"
+#include "Murders at Karlov Manor/007_Episode 7: Rot before Recovery.typ"
+#include "Murders at Karlov Manor/008_Episode 8: Gods of Chaos.typ"
+#include "Murders at Karlov Manor/009_Episode 9: Beauty in Destruction.typ"
+#include "Murders at Karlov Manor/010_Episode 10: Roots of Decay.typ"
