@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Know Which Way the Wind Is Blowing",
     set_name: "Kaldheim",
+    story_date: datetime(day: 08, month: 01, year: 2021),
     author: "Setsu Uzumé",
     doc
 )

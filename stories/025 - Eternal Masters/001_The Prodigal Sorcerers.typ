@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "The Prodigal Sorcerers",
     set_name: "Eternal Masters",
+    story_date: datetime(day: 25, month: 05, year: 2016),
     author: "Mark Price",
     doc
 )

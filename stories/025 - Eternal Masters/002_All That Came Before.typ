@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "All That Came Before",
     set_name: "Eternal Masters",
+    story_date: datetime(day: 01, month: 06, year: 2016),
     author: "Leah Potyondy",
     doc
 )

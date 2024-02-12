@@ -1,14 +1,15 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Catching Up",
     set_name: "Prologue to Battle for Zendikar",
+    story_date: datetime(day: 22, month: 07, year: 2015),
     author: "Kelly Digges",
     doc
 )
 
-#emph[The mind mage Jace Beleren is many things to many people. Chief among his current responsibilities is that of the Living Guildpact, the magically empowered arbiter of inter-guild conflicts on the city-plane of Ravnica. But he has made many other promises and taken on many other problems—and each of those unfinished puzzles tugs at his mind.] 
+#emph[The mind mage Jace Beleren is many things to many people. Chief among his current responsibilities is that of the Living Guildpact, the magically empowered arbiter of inter-guild conflicts on the city-plane of Ravnica. But he has made many other promises and taken on many other problems—and each of those unfinished puzzles tugs at his mind.]
 
-#emph[Some, perhaps, more than others.] 
+#emph[Some, perhaps, more than others.]
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -560,7 +561,7 @@ She stopped and faced him, eyes bright with rage.
 
 She waited.
 
-"He #emph[asked.] #emph["] 
+"He #emph[asked.] #emph["]
 
 She plucked the dead rose out of her hair and tossed it as his feet, then turned on her heel and walked away.
 

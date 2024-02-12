@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Episode 4: Harvesttide",
     set_name: "Innistrad: Midnight Hunt",
+    story_date: datetime(day: 22, month: 09, year: 2021),
     author: "K. Arsenault Rivera",
     doc
 )

@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "The Education of Ulf",
     set_name: "Dominari United",
+    story_date: datetime(day: 15, month: 08, year: 2022),
     author: "Brian Evenson",
     doc
 )

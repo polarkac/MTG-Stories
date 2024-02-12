@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "A Silent Voice Calls",
     set_name: "Strixhaven: School of Mages",
+    story_date: datetime(day: 30, month: 04, year: 2021),
     author: "Marcus Terell Smith",
     doc
 )

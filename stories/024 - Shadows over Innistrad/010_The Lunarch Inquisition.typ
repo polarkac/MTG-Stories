@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "The Lunarch Inquisition",
     set_name: "Shadows Over Innistrad",
+    story_date: datetime(day: 04, month: 05, year: 2016),
     author: "James Wyatt",
     doc
 )

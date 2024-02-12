@@ -1,8 +1,9 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #set page(margin: (top: 96pt))
 #show: doc => conf(
     "Zendikar Resurgent",
     set_name: "Oath of the Gatewatch",
+    story_date: datetime(day: 24, month: 02, year: 2016),
     author: "Ari Levitch, Doug Beyer, Kelly Digges, and Kimberly J. Kreines",
     doc
 )

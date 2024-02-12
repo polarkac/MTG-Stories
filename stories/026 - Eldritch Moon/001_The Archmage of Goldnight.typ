@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "The Archmage of Goldnight",
     set_name: "Eldritch Moon",
+    story_date: datetime(day: 08, month: 06, year: 2016),
     author: "Kimberly J. Kreines",
     doc
 )

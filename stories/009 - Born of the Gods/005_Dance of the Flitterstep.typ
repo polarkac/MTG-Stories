@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "Dance of the Flitterstep",
 set_name: "Born of the Gods",
+story_date: datetime(day: 19, month: 02, year: 2014),
 author: "Jennifer Clarke Wilkes",
 doc)
 

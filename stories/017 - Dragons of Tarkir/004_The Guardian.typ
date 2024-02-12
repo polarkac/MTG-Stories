@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "The Guardian",
 set_name: "Dragons of Tarkir",
+story_date: datetime(day: 02, month: 04, year: 2015),
 author: "Ari Levitch",
 doc)
 

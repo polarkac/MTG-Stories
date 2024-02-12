@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Episode 1: Travelers",
     set_name: "Kaldheim",
+    story_date: datetime(day: 07, month: 01, year: 2021),
     author: "Roy Graham & Jenna Helland",
     doc
 )

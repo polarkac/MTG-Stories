@@ -1,8 +1,9 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #set page(margin: (top: 96pt))
 #show: doc => conf(
     "Episode 2: The Dolorous Weight of Pleasantries",
     set_name: "Innistrad: Crimson Vow",
+    story_date: datetime(day: 03, month: 11, year: 2021),
     author: "K. Arsenault Rivera",
     doc
 )

@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Under the Silver Moon",
     set_name: "Shadows Over Innistrad",
+    story_date: datetime(day: 02, month: 03, year: 2016),
     author: "Kimbelry J. Kreines",
     doc
 )

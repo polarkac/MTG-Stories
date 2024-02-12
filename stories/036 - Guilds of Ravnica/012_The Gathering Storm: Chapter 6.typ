@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "The Gathering Storm: Chapter 6",
     set_name: "Guilds of Ravnica",
+    story_date: datetime(day: 10, month: 07, year: 2019),
     doc
 )
 

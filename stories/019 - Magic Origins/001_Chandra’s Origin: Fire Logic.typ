@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Chandra’s Origin: Fire Logic",
     set_name: "Magic Origins",
+    story_date: datetime(day: 10, month: 06, year: 2015),
     author: "Doug Beyer",
     doc
 )

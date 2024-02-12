@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Return to Dominaria: Episode 6",
     set_name: "Dominaria",
+    story_date: datetime(day: 18, month: 04, year: 2018),
     author: "Martha Wells",
     doc
 )

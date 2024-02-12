@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "The Promised End",
     set_name: "Eldritch Moon",
+    story_date: datetime(day: 27, month: 07, year: 2016),
     author: "Ken Troop",
     doc
 )

@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Unkindness of Ravens",
     set_name: "Prologue to Battle for Zendikar",
+    story_date: datetime(day: 29, month: 07, year: 2015),
     author: "James Wyatt",
     doc
 )

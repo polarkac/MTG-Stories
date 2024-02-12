@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "The Seven Bells, Part 1",
 set_name: "Return to Ravnica",
+story_date: datetime(day: 07, month: 11, year: 2012),
 author: "Jenna Helland",
 doc)
 

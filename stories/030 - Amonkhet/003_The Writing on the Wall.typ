@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "The Writing on the Wall",
     set_name: "Amonkhet",
+    story_date: datetime(day: 12, month: 04, year: 2017),
     author: "Alison Luhrs",
     doc
 )

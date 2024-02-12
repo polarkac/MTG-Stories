@@ -1,8 +1,9 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #set page(margin: (top: 96pt))
 #show: doc => conf(
     "Renewal",
     set_name: "Aether Revolt",
+    story_date: datetime(day: 01, month: 02, year: 2017),
     author: "Mel Li, Kelly Digges, Alison Luhrs, Doug Beyer & Chris L'Etoile",
     doc
 )

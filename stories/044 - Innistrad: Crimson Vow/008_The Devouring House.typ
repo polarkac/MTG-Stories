@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "The Devouring House",
     set_name: "Innistrad: Crimson Vow",
+    story_date: datetime(day: 19, month: 11, year: 2021),
     author: "Brian Evenson",
     doc
 )

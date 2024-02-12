@@ -1,8 +1,9 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #set page(margin: (top: 96pt))
 #show: doc => conf(
     "Kaito Origin Stories: A Test of Loyalty & The Path Forward",
     set_name: "Kamigawa: Neon Dynasty",
+    story_date: datetime(day: 16, month: 12, year: 2021),
     author: "Akemi Dawn Bowman",
     doc
 )

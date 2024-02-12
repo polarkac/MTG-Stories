@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Episode 1: Class Is in Session",
     set_name: "Strixhaven: School of Mages",
+    story_date: datetime(day: 23, month: 03, year: 2021),
     author: "Adana Washington",
     doc
 )

@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "His Eyes, All of Them",
     set_name: "Innistrad: Midnight Hunt",
+    story_date: datetime(day: 17, month: 09, year: 2021),
     author: "Margaret Killjoy",
     doc
 )

@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "The Race, Part 2",
     set_name: "Ixalan",
+    story_date: datetime(day: 18, month: 10, year: 2017),
     author: "Alison Luhrs & Gregg Luben",
     doc
 )

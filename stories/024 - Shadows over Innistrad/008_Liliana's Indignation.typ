@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Liliana's Indignation",
     set_name: "Shadows Over Innistrad",
+    story_date: datetime(day: 20, month: 04, year: 2016),
     author: "Kelly Digges",
     doc
 )

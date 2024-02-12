@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Episode 4: The Font",
     set_name: "Streets of New Capenna",
+    story_date: datetime(day: 04, month: 04, year: 2022),
     author: "Elise Kova",
     doc
 )

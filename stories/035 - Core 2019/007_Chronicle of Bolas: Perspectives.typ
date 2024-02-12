@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Chronicle of Bolas: Perspectives",
     set_name: "Core 2019",
+    story_date: datetime(day: 08, month: 08, year: 2018),
     author: "Kate Elliott",
     doc
 )

@@ -1,8 +1,9 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #set page(margin: (top: 96pt))
 #show: doc => conf(
     "Episode 4: Of Haunting Songs and Whispered Warnings",
     set_name: "Zendikar Rising",
+    story_date: datetime(day: 23, month: 09, year: 2020),
     author: "A. T. Greenblatt",
     doc
 )

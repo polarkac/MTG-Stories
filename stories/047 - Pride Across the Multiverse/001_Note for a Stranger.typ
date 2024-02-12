@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Note for a Stranger",
     set_name: "Pride Across the Multiverse",
+    story_date: datetime(day: 02, month: 05, year: 2022),
     author: "Alison Lührs",
     doc
 )
@@ -10,37 +11,17 @@ On the exterior wall of an inn in Precinct Five on the city-plane of Ravnica han
 
 The notes range in usefulness. On parchment, hanging dead center:
 
- 
-
 #emph[TWO EXTRA TICKETS: Championship Singles Match, Valor's Reach, next planar quarter-moon. Leave planar contact address below if interested!!]
-
- 
-
- 
 
 Just to the right, on the back of a menu:
 
- 
-
 #emph[LOST: Tie clip—silver beetle. Last seen Whisperers encampment, Qal Sisma mtns, Tarkir. Return at once, will trade 20 units of Halo. Leave under violin case, 187 S 14th St, New Capenna]
-
- 
-
- 
 
 On an old sheet of paper torn by years of weather, in a haphazard and bold scrawl:
 
- 
-
 #emph[FOR A GOOD TIME, 44 TOFANA PLAZA, PALIANO, FIORA]
 
- 
-
- 
-
 But on a warm amber morning in early summer, a fresh note is stuck with a slim silver pin near the top:
-
- 
 
 #emph[Seeking raw copper.]
 
@@ -48,37 +29,23 @@ But on a warm amber morning in early summer, a fresh note is stuck with a slim s
 
 #emph[—R]
 
- 
-
- 
-
 Here, at the Traveler's Noticeboard, the planeswalker Huatli stands, feet firmly planted, chin tipped up out of equal parts confidence and short stature, and skims the board because #emph[why not] . Her eye is caught by the fresh note up top, and she remembers the raw copper brought from Ixalan to trade when she first arrived on this plane.
 
 In the square behind her, linden trees brighten in verdant praise and dandelions and clover punch through the cobblestones, the rubble of the city's recent sorrows cleared away at last.
 
 Not one to leave a stranger in want, Huatli rises on her tiptoes to snag an old piece of paper from another corner of the board and responds in a loopy and flourished hand. Thus begins their correspondence.
 
- 
-
 #emph[Is there an appropriate location to trade if interested?]
 
 #emph[—H]
-
- 
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
- 
-
 #emph[Write your initial on the box below the bulletin board. Your signature has been encoded into the warding.]
 
 #emph[—R]
-
- 
-
- 
 
 "Seems like overkill," Huatli murmurs to no one in particular. She looks down. Sure enough, at her feet is a silver box tied to the post with a delicate metal chain. Huatli taps it with the steel of her toe. Yes. Must be that box.
 
@@ -88,15 +55,9 @@ She kneels, a little uncertain she's doing this right, and uses her index finger
 
 Feeling slightly reassured by this development, Huatli places a medium-sized lump of Sun Empire copper inside, along with a quick inquiring note.
 
- 
-
 #emph[Are you a spy?]
 
 #emph[—H]
-
- 
-
- 
 
 She seals the box, only realizing after it's shut that she forgot to mention what currency she wanted in return. Huatli says a word she once heard Angrath use and draws the H on top of the box again.
 
@@ -104,21 +65,13 @@ It remains closed.
 
 It isn't until she returns the next day and tries again that the box reopens, a fresh note inside.
 
- 
-
 #emph[I am a very authentic spy.]
 
 #emph[Also you forgot to mention how I should pay you.]
 
 #emph[—R]
 
- 
-
- 
-
 Huatli smiles. Whoever the spy is, they're cheeky.
-
- 
 
 #emph[Attention: Secret Agent R,]
 
@@ -132,13 +85,7 @@ Huatli smiles. Whoever the spy is, they're cheeky.
 
 #emph[P.S. I am a woman of honor and do not need compensation in exchange for the goods I gift in the spirit of altruism.]
 
- 
-
- 
-
 The next morning brings a new note from the mystery writer that draws her smile wider, eliciting a laugh and a thrill in her heart.
-
- 
 
 #emph[Not A Secret Agent,]
 
@@ -154,17 +101,11 @@ The next morning brings a new note from the mystery writer that draws her smile 
 
 #emph[—R]
 
- 
-
- 
-
 Huatli spends the next day with a light heart, pleased her assumption was correct. #emph["I'm a lady."]  She spends the day reading and rereading the letter, privately beaming in victory. #emph[Bullseye] .
 
 She skips from consultation to consultation, from the Azorius legislative records to a long meeting with the sub-lieutenant of the Boros. All the while she can't stop thinking of R, her spy-that-isn't-a-spy.
 
 After an afternoon of trying to contain herself, she returns to the box and leaves her response.
-
- 
 
 #emph[Lady, Not A Liar,]
 
@@ -176,13 +117,9 @@ After an afternoon of trying to contain herself, she returns to the box and leav
 
 #emph[—H]
 
- 
-
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
-
- 
 
 #emph[Seeker of Utopia,]
 
@@ -194,13 +131,9 @@ After an afternoon of trying to contain herself, she returns to the box and leav
 
 #emph[—R]
 
- 
-
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
-
- 
 
 #emph[R,]
 
@@ -212,13 +145,9 @@ After an afternoon of trying to contain herself, she returns to the box and leav
 
 #emph[—H]
 
- 
-
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
-
- 
 
 #emph[H,]
 
@@ -232,15 +161,11 @@ After an afternoon of trying to contain herself, she returns to the box and leav
 
 #emph[—R]
 
- 
-
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
 Huatli's heart catches in her throat as she reads that morning's missive. By reflex, she defaults to formality.
-
- 
 
 #emph[Dear R,]
 
@@ -248,15 +173,9 @@ Huatli's heart catches in her throat as she reads that morning's missive. By ref
 
 #emph[—H]
 
- 
-
- 
-
 A response doesn't come for two days.
 
 Huatli worries she did something wrong. Until one morning in her box by the noticeboard~
-
- 
 
 #emph[H,]
 
@@ -266,13 +185,7 @@ Huatli worries she did something wrong. Until one morning in her box by the noti
 
 #emph[—R]
 
- 
-
- 
-
 Huatli doesn't have a heart attack, but comes close. She responds instinctually, shamelessly, with a reflex of over-the-top poetry—
-
- 
 
 #emph[R,]
 
@@ -284,13 +197,9 @@ Huatli doesn't have a heart attack, but comes close. She responds instinctually,
 
 #emph[—H]
 
- 
-
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
-
- 
 
 #emph[H,]
 
@@ -301,8 +210,6 @@ Huatli doesn't have a heart attack, but comes close. She responds instinctually,
 #emph[Come dance with me, H,]
 
 #emph[—R]
-
- 
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))

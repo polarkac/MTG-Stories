@@ -1,8 +1,9 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #set page(margin: (top: 96pt))
 #show: doc => conf(
     "The Flood",
     set_name: "Rivals of Ixalan",
+    story_date: datetime(day: 10, month: 01, year: 2018),
     author: "Alison Luhrs, Gregg Luben & Kelly Digges",
     doc
 )

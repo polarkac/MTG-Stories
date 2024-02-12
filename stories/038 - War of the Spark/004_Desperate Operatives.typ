@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Desperate Operatives",
     set_name: "War of the Spark",
+    story_date: datetime(day: 29, month: 05, year: 2019),
     author: "Greg Weisman",
     doc
 )

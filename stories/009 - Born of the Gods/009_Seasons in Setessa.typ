@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "Seasons in Setessa",
 set_name: "Born of the Gods",
+story_date: datetime(day: 26, month: 03, year: 2014),
 author: "Ken Troop",
 doc)
 

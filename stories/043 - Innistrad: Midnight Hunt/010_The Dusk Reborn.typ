@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "The Dusk Reborn",
     set_name: "Innistrad: Midnight Hunt",
+    story_date: datetime(day: 01, month: 10, year: 2021),
     author: "Rhiannon Rasmussen",
     doc
 )

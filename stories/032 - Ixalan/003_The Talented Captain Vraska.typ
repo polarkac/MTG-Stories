@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "The Talented Captain Vraska",
     set_name: "Ixalan",
+    story_date: datetime(day: 20, month: 09, year: 2017),
     author: "Alison Luhrs & Gregg Luben",
     doc
 )

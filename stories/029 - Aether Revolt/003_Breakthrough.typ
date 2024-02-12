@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Breakthrough",
     set_name: "Aether Revolt",
+    story_date: datetime(day: 14, month: 12, year: 2016),
     author: "Kimberly J. Kreines",
     doc
 )

@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "A Grateful Consulate",
     set_name: "Kaladesh",
+    story_date: datetime(day: 19, month: 10, year: 2016),
     author: "James Wyatt",
     doc
 )

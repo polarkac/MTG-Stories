@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "I Am Avacyn",
     set_name: "Shadows Over Innistrad",
+    story_date: datetime(day: 18, month: 05, year: 2016),
     author: "Doug Beyer",
     doc
 )

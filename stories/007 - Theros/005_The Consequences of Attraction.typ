@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "The Consequences of Attraction",
 set_name: "Theros",
+story_date: datetime(day: 09, month: 10, year: 2013),
 author: "Ken Troop",
 doc)
 

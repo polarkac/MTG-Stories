@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Liliana's Origin: The Fourth Pact",
     set_name: "Magic Origins",
+    story_date: datetime(day: 17, month: 06, year: 2015),
     author: "James Wyatt",
     doc
 )

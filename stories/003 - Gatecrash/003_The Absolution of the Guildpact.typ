@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "The Absolution of the Guildpact",
 set_name: "Gatecrash",
+story_date: datetime(day: 16, month: 01, year: 2013),
 author: "Adam Lee",
 doc)
 

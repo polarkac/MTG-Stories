@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Stone and Blood",
     set_name: "Eldritch Moon",
+    story_date: datetime(day: 15, month: 06, year: 2016),
     author: "Kelly Digges",
     doc
 )

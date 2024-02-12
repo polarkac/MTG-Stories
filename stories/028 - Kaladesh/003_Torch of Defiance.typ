@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Torch of Defiance",
     set_name: "Kaladesh",
+    story_date: datetime(day: 05, month: 09, year: 2016),
     author: "Doug Beyer",
     doc
 )

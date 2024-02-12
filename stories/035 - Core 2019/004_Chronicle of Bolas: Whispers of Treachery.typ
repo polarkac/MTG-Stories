@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Chronicle of Bolas: Whispers of Treachery",
     set_name: "Core 2019",
+    story_date: datetime(day: 11, month: 07, year: 2018),
     author: "Kate Elliott",
     doc
 )

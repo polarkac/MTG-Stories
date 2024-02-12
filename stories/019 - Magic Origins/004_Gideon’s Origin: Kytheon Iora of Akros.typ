@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Gideon’s Origin: Kytheon Iora of Akros",
     set_name: "Magic Origins",
+    story_date: datetime(day: 01, month: 07, year: 2015),
     author: "Ari Levitch",
     doc
 )

@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "In the Dead of Night",
     set_name: "Aether Revolt",
+    story_date: datetime(day: 30, month: 11, year: 2016),
     author: "Alison Luhrs",
     doc
 )

@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Reclamation",
     set_name: "Oath of the Gatewatch",
+    story_date: datetime(day: 06, month: 01, year: 2016),
     author: "Mel Li",
     doc
 )

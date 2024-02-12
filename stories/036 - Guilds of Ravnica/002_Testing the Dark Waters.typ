@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Testing the Dark Waters",
     set_name: "Guilds of Ravnica",
+    story_date: datetime(day: 17, month: 10, year: 2018),
     author: "Nicky Drayden",
     doc
 )

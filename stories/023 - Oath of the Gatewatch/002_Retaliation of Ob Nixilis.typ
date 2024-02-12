@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Retaliation of Ob Nixilis",
     set_name: "Oath of the Gatewatch",
+    story_date: datetime(day: 30, month: 12, year: 2015),
     author: "Kimberly J. Kreines & Nik Davidson",
     doc
 )

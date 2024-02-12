@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "No End and No Beginning",
 set_name: "Fate Reforged",
+story_date: datetime(day: 11, month: 02, year: 2015),
 author: "Nik Davidson",
 doc)
 

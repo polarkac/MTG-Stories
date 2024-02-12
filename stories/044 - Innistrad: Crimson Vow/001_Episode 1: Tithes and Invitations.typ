@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Episode 1: Tithes and Invitations",
     set_name: "Innistrad: Crimson Vow",
+    story_date: datetime(day: 28, month: 10, year: 2021),
     author: "K. Arsenault Rivera",
     doc
 )

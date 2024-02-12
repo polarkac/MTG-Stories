@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "The First World Is the Hardest",
 set_name: "Commander (2014 Edition)",
+story_date: datetime(day: 05, month: 11, year: 2014),
 author: "Nik Davidson",
 doc)
 

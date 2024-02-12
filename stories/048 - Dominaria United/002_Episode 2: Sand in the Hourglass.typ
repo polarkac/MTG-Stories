@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Episode 2: Sand in the Hourglass",
     set_name: "Dominaria United",
+    story_date: datetime(day: 11, month: 08, year: 2022),
     author: "Langley Hyde",
     doc
 )

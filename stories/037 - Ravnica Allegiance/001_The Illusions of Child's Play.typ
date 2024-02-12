@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "The Illusions of Child's Play",
     set_name: "Ravnica Allegiance",
+    story_date: datetime(day: 23, month: 01, year: 2019),
     author: "Nicky Drayden",
     doc
 )

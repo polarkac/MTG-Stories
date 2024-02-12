@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "Talrand, Sky Summoner",
 set_name: "Magic 2013",
+story_date: datetime(day: 30, month: 07, year: 2012),
 author: "Ken Troop",
 doc)
 

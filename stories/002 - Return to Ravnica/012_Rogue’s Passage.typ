@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "Rogue’s Passage",
 set_name: "Return to Ravnica",
+story_date: datetime(day: 21, month: 11, year: 2012),
 author: "Tom LaPille",
 doc)
 

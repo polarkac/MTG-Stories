@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Episode 4: The Break-In",
     set_name: "Kamigawa: Neon Dynasty",
+    story_date: datetime(day: 26, month: 01, year: 2022),
     author: "Akemi Dawn Bowman",
     doc
 )

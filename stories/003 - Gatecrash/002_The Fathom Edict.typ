@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "The Fathom Edict",
 set_name: "Gatecrash",
+story_date: datetime(day: 09, month: 01, year: 2013),
 author: "Brady Dommermuth",
 doc)
 #strong[Document function:]  Intelligence#linebreak() #strong[Document category:]  Transcript#linebreak() #strong[Document recipient, primary:]  Commander Yaszen, Horizon Academy#linebreak() #strong[Documenter:]  Wojek Scribe-Sergeant Bogumil Bem#linebreak() #strong[Document context:]  Merfolk woman Zegana, calling herself Prime Speaker, announced address at Forum of Azor one month ago. At appointed time she entered Forum of Azor with entourage, took center rostrum, delivered speech to audience of approx 12,000. Speech concluded with decree regarding a new Simic Combine. Within hours, criers and signalers referred to speech as "Fathom Edict."

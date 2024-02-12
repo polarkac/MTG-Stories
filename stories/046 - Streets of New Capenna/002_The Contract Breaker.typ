@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "The Contract Breaker",
     set_name: "Streets of New Capenna",
+    story_date: datetime(day: 28, month: 03, year: 2022),
     author: "Tobias S. Buckell",
     doc
 )

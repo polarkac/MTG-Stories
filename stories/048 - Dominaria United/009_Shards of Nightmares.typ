@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Shards of Nightmares",
     set_name: "Dominaria United",
+    story_date: datetime(day: 17, month: 08, year: 2022),
     author: "Phoebe Barton",
     doc
 )

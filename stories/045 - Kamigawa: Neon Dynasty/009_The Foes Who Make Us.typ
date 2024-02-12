@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "The Foes Who Make Us",
     set_name: "Kamigawa: Neon Dynasty",
+    story_date: datetime(day: 09, month: 02, year: 2022),
     doc
 )
 

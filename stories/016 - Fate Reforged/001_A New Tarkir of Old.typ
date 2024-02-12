@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "A New Tarkir of Old",
 set_name: "Fate Reforged",
+story_date: datetime(day: 31, month: 12, year: 2014),
 author: "Kimberly J. Kreines",
 doc)
 

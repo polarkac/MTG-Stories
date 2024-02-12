@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Theros: Beyond Death Story Summary",
     set_name: "Theros: Beyond Death",
+    story_date: datetime(day: 10, month: 01, year: 2020),
     author: "Wizards of the Coast",
     doc
 )

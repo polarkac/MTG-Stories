@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "The Arbiter of Law Left Chaos in His Wake",
     set_name: "Rivals of Ixalan",
+    story_date: datetime(day: 24, month: 01, year: 2018),
     author: "Alison Luhrs & Gregg Luben",
     doc
 )

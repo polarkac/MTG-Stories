@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "Cowardice of the Hero",
 set_name: "Born of the Gods",
+story_date: datetime(day: 22, month: 01, year: 2014),
 author: "Matt Knicl",
 doc)
 

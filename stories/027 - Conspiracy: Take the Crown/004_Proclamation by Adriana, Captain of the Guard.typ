@@ -1,8 +1,9 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #set page(margin: (top: 96pt))
 #show: doc => conf(
     "Proclamation by Adriana, Captain of the Guard",
     set_name: "Conspiracy: Take the Crown",
+    story_date: datetime(day: 16, month: 08, year: 2016),
     author: "Kelly Digges",
     doc
 )

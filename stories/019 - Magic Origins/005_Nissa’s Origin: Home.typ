@@ -1,7 +1,9 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Nissa’s Origin: Home",
     set_name: "Magic Origins",
+    story_date: datetime(day: 08, month: 07, year: 2015),
+    author: "Kimberly J. Kreines & Adam Lee",
     doc
 )
 

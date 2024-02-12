@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "Way of the Mantis",
 set_name: "Khans of Tarkir",
+story_date: datetime(day: 08, month: 10, year: 2014),
 author: "Matt Knicl",
 doc)
 

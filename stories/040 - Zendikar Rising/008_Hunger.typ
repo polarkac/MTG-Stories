@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Hunger",
     set_name: "Zendikar Rising",
+    story_date: datetime(day: 25, month: 09, year: 2020),
     author: "Brandon O'Brien",
     doc
 )

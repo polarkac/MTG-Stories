@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Campaign of Vengeance",
     set_name: "Eldritch Moon",
+    story_date: datetime(day: 06, month: 07, year: 2016),
     author: "Ari Levitch",
     doc
 )

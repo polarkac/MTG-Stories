@@ -1,8 +1,9 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #set page(margin: (top: 96pt))
 #show: doc => conf(
 "The Truth of Names",
 set_name: "Fate Reforged",
+story_date: datetime(day: 28, month: 01, year: 2015),
 author: "James Wyatt, Matt Knicl & Allison Medwin",
 doc)
 

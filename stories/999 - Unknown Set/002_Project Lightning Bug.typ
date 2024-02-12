@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Project Lightning Bug",
-author: "Doug Beyer",
+    "Project Lightning Bug",
+    story_date: datetime(day: 27, month: 05, year: 2015),
+    author: "Doug Beyer",
 doc)
 
 #emph[The guilds of Ravnica have grudgingly accepted that Jace Beleren is now the living manifestation of the Guildpact. It has become apparent that whenever the guilds clash, it is Beleren who will adjudicate between them. What is not apparent is Beleren's true nature as a Planeswalker—except to an informed few. Izzet guildmage Ral Zarek has no love for the new Living Guildpact, but Ral is also secretly a Planeswalker, and that shared trait has suddenly become of critical importance.]
@@ -10,7 +11,7 @@ doc)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("128_Project Lightning Bug/01.jpg", width: 100%), caption: [Underworld Connections | Art by Yeong-Hao Han], supplement: none, numbering: none)
+#figure(image("002_Project Lightning Bug/01.jpg", width: 100%), caption: [Underworld Connections | Art by Yeong-Hao Han], supplement: none, numbering: none)
 
 The nameless Undercity street was open to the sky, and the same clouds hung over the Tenth that had hung there for weeks, dropping the same soft drizzle over the city. Ral Zarek led the way through the sunken street, the mind mage a step behind him.
 
@@ -46,7 +47,7 @@ Ral stopped at a door in the tunnel wall. He electrified the handle for a moment
 
 "How much does Niv-Mizzet suspect?" Beleren's voice echoed.
 
-#figure(image("128_Project Lightning Bug/02.jpg", width: 100%), caption: [Jace, Architect of Thought | Art by Jaime Jones], supplement: none, numbering: none)
+#figure(image("002_Project Lightning Bug/02.jpg", width: 100%), caption: [Jace, Architect of Thought | Art by Jaime Jones], supplement: none, numbering: none)
 
 "If he has already grasped the pattern, he's been quiet about it. And he's never quiet about anything, so I think he hasn't seen it yet. But he's frustratingly brilliant, as you know, and he's not one for patience. He's beginning to suspect I'm not telling him everything."
 
@@ -76,7 +77,7 @@ As dangerous as it was, he had agreed to lead the project immediately. Better to
 
 Ral had to admit, he was the right man for the job—his methods were brilliant. He couldn't help himself once Niv-Mizzet handed him the project—his mind spun, crackling with ideas on how to track the Guildpact. He helped design a subtle enchantment that would deliver a small energetic pulse whenever it experienced a discontinuity, such as a planeswalk. An Izzet underling had planted the enchantment on Beleren's cloak. Then Ral conjured a dynamic amplification field above the Tenth—which the district's denizens had experienced as the last month of annoyingly-persistent drizzly weather. The drizzle field would magnify the tracking enchantment's small pulses into detectable cracks of lightning overhead, while not being blatant enough to raise suspicion.
 
-#figure(image("128_Project Lightning Bug/03.jpg", width: 100%), caption: [Blast of Genius | Art by Terese Nielsen], supplement: none, numbering: none)
+#figure(image("002_Project Lightning Bug/03.jpg", width: 100%), caption: [Blast of Genius | Art by Terese Nielsen], supplement: none, numbering: none)
 
 It was a perfect system. Other Izzet guildmages began watching for the telltale lightning. Only at the last minute did Ral remember to tweak his persistent storm to weaken its precision, so that Project Lightning Bug wouldn't immediately prove the existence of Planeswalkers.
 
@@ -140,7 +141,7 @@ This was bad, he thought.
 
 "This is good," said Niv-Mizzet. "You're starting to show consistent repetitions here, Zarek."
 
-#figure(image("128_Project Lightning Bug/04.jpg", width: 100%), caption: [Niv-Mizzet, the Firemind | Art by Todd Lockwood], supplement: none, numbering: none)
+#figure(image("002_Project Lightning Bug/04.jpg", width: 100%), caption: [Niv-Mizzet, the Firemind | Art by Todd Lockwood], supplement: none, numbering: none)
 
 Ral gritted his teeth. He stared at the glimmering data hanging in the air, and as he understood, static electricity hopped down his spine. "Those aren't all my detections," said Ral. "Those aren't all the Guildpact."
 
@@ -190,7 +191,7 @@ Ral and Beleren continued down the moss-draped tunnel. Rhythmic chants and march
 
 They emerged in a side street next to a Boros garrison, facing a main thoroughfare lit by lamps in the evening gloom. Ral and Beleren kept hidden in a sunken doorway of the garrison building, watching Boros Legion soldiers march past in a training exercise, their boots splashing in the shallow puddles that dotted the street. Ral glanced up at the drizzle field overhead and verified the time from a nearby clock tower.
 
-#figure(image("128_Project Lightning Bug/05.jpg", width: 100%), caption: [Boros Guildgate | Art by Noah Bradley], supplement: none, numbering: none)
+#figure(image("002_Project Lightning Bug/05.jpg", width: 100%), caption: [Boros Guildgate | Art by Noah Bradley], supplement: none, numbering: none)
 
 "Watch that spot," Ral said, nodding toward the alleyway directly across the thoroughfare. "It's just about time."
 
@@ -244,7 +245,7 @@ Ral hadn't slept much.
 
 "All taken care of," said the Chamberlain, handing him two flexible, humming cables. "You can socket directly into Nivix's supply." She tried to find his eyes. "And Zarek—about the extension we did. I didn't mean to overstep my bounds. It's your project. I should have consulted you."
 
-#figure(image("128_Project Lightning Bug/06.jpg", width: 100%), caption: [Izzet Charm | Art by Zoltan Boros], supplement: none, numbering: none)
+#figure(image("002_Project Lightning Bug/06.jpg", width: 100%), caption: [Izzet Charm | Art by Zoltan Boros], supplement: none, numbering: none)
 
 Ral just attached the cables to his gauntlet. His skin prickled and his hair stuck out straighter. Ral couldn't help but feel exhilarated as energy flowed through him. He just hoped the plan he and Jace had come up with worked.
 
@@ -262,7 +263,7 @@ Ral completed the spell, and felt power leave his arms and pulse into the storm 
 
 Despite everything that had happened, it was times like this that made him certain he was in the right guild.
 
-#figure(image("128_Project Lightning Bug/07.png", width: 100%), caption: [Ral Zarek | Art by Eric Deschamps], supplement: none, numbering: none)
+#figure(image("002_Project Lightning Bug/07.png", width: 100%), caption: [Ral Zarek | Art by Eric Deschamps], supplement: none, numbering: none)
 
 A mighty gust swirled the air, and Niv-Mizzet himself rose to the top of the building. He came to roost on the rooftop next to the two mages with a flourish of his wings, like a peacock coming around to have his plumage appreciated. "Your conclusions, researchers," he said.
 
@@ -288,7 +289,7 @@ Ral made a display of studying the dots on the device with a critical eye. "Hmm.
 
 The Chamberlain cranked a dial on the measuring device and read it again, exasperated. "But that's what all our data is based on. The subjects weren't actually disappearing—they were just becoming invisible to the storm."
 
-#figure(image("128_Project Lightning Bug/08.jpg", width: 100%), caption: [Niv-Mizzet, the Firemind | Art by Svetlin Velinov], supplement: none, numbering: none)
+#figure(image("002_Project Lightning Bug/08.jpg", width: 100%), caption: [Niv-Mizzet, the Firemind | Art by Svetlin Velinov], supplement: none, numbering: none)
 
 Niv-Mizzet spoke, and his voice was thunder. "This method," he boomed, in the manner of a judge condemning a defendant to death, "is #emph[demonstrably unreliable] ."
 
@@ -326,4 +327,4 @@ The Izzet mage, for his part, crawled down into a sewer grate and disappeared ou
 
 The Planeswalker stroked the cropped stubble on his chin. He was no longer being tracked, so that was a positive. And he had learned a critical new piece of information about the arbiter of the guilds—a productive stakeout, well worth altering his usual schedule. He inspected a dent in his armor as the last strains of the Boros infantry chant faded away, and abandoned his position.
 
-#figure(image("128_Project Lightning Bug/09.jpg", width: 100%), caption: [Art by Richard Wright], supplement: none, numbering: none)
+#figure(image("002_Project Lightning Bug/09.jpg", width: 100%), caption: [Art by Richard Wright], supplement: none, numbering: none)

@@ -1,8 +1,9 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #set page(margin: (top: 96pt))
 #show: doc => conf(
     "Revolution Begins",
     set_name: "Aether Revolt",
+    story_date: datetime(day: 02, month: 01, year: 2017),
     author: "Nik Davidson, Kelly Digges & Kimberly J. Kreines",
     doc
 )

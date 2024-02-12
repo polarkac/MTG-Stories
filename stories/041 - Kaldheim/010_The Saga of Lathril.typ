@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "The Saga of Lathril",
     set_name: "Kaldheim",
+    story_date: datetime(day: 05, month: 02, year: 2021),
     author: "Elsa Sjunneson",
     doc
 )

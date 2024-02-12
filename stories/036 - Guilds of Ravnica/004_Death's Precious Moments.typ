@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Death's Precious Moments",
     set_name: "Guilds of Ravnica",
+    story_date: datetime(day: 07, month: 11, year: 2018),
     author: "Nicky Drayden",
     doc
 )
