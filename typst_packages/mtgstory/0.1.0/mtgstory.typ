@@ -32,7 +32,7 @@
         #{
             set text(size: 1.5em)
             set align(center)
-            [From set #emph[#set_name]\]
+            [From set #emph[#set_name]]
         }
         #set heading(outlined: false)
 
