@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "Episode 7: Rot before Recovery",
 set_name: "Murders at Karlov Manor",
+story_date: datetime(day: 15, month: 01, year: 2024),
 author: "Seanan McGuire",
 doc)
 
