@@ -1,4 +1,11 @@
-#let conf(title, set_name: "Unknown set", author: "Unknown author", show_images: true, doc) = {
+#let conf(
+    title,
+    set_name: "Unknown set",
+    story_date: datetime(day: 05, month: 08, year: 1993),
+    author: "Unknown author",
+    show_images: true,
+    doc
+) = {
     set par(justify: true)
     set page(
         paper: "a4",
@@ -13,6 +20,11 @@
         ],
         footer: [
             #align(center)[#counter(page).display("1")]
+            #{
+                set align(center)
+                set text(fill: gray)
+                [All stories at #link("github.com/polarkac/MTG-Stories")]
+            }
         ],
     )
     [
@@ -26,7 +38,7 @@
         #{
             set text(size: 1.5em)
             set align(center)
-            [From set #emph[#set_name]]
+            [From set #emph[#set_name]\ #story_date.display("[day]. [month]. [year]")]
         }
         #set heading(outlined: false)
 

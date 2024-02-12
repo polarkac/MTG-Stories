@@ -1,0 +1,7 @@
+[package]
+name = "mtgstory"
+version = "0.2.0"
+entrypoint = "mtgstory.typ"
+authors = ["Polarkac"]
+license = "MIT"
+description = "MTG Story template"
