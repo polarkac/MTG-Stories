@@ -28,7 +28,7 @@
         ],
     )
     [
-        #set document(title: title, author: author)
+        #set document(title: title, author: author, date: story_date)
         #{
             set text(size: 2.5em)
             set align(center)
