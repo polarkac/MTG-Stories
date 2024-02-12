@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "Episode 5",
 set_name: "Lost Caverns of Ixalan",
+story_date: datetime(day: 20, month: 10, year: 2023),
 author: "Valerie Valdes",
 doc)
 
