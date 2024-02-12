@@ -1,8 +1,9 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #set page(margin: (top: 96pt))
 #show: doc => conf(
     "Zendikar: Battles in the Field and in the Mind",
     set_name: "March of the Machine",
+    story_date: datetime(day: 27, month: 04, year: 2023),
     author: "A. T. Greenblatt",
     doc
 )
