@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
     "Beyond Repair",
     set_name: "March of the Machine: The Aftermath",
+    story_date: datetime(day: 02, month: 05, year: 2023),
     author: "Emily Teng",
     doc
 )
