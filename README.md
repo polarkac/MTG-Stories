@@ -1,8 +1,8 @@
 # MTG Stories
 
-This is an archive of MTG stories publicly available on Wizard of the Coast website and compiled into PDF version.
+This is an archive of MTG stories publicly available on Wizard of the Coast website and compiled into PDF version. Images are also available either in PDF or as a separate files.
 
-Stories are sorted into folder by set name and in published order.
+Stories are sorted into folder `stories` by set name and in published order.
 
 Stories from Magic 2013 to Modern Masters 2015 are sorted with https://mtg.fandom.com/wiki/Magic_Story.  
 Stories from Magic Origins to March of the Machine: The Aftermath are sorted with https://mtglore.com/story-timeline-published-order/.  
@@ -37,7 +37,7 @@ If you want to compile all stories into one big PDF yourself, use Typst source f
 - Prologue to Battle for Zendikar
 - Battle for Zendikar
 - Commander (2015 Edition)
-- Oauth of the Gatewatch
+- Oath of the Gatewatch
 - Shadows Over Innistrad
 - Eternal Masters
 - Eldritch Moon
