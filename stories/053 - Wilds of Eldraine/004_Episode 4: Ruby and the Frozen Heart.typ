@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "Episode 4: Ruby and the Frozen Heart",
 set_name: "Wilds of Eldrain",
+story_date: datetime(day: 11, month: 08, year: 2023),
 author: "K. Arsenault Rivera",
 doc)
 

@@ -1,7 +1,8 @@
-#import "@local/mtgstory:0.1.0": conf
+#import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
 "Episode 5 Broken Oaths",
 set_name: "Wilds of Eldraine",
+story_date: datetime(day: 14, month: 08, year: 2023),
 author: "K. Arsenault Rivera",
 doc)
 
@@ -27,7 +28,7 @@ This is not a place of succor or rest, nor a place of glory.
 
 It is a place where wounds fester.
 
-Kellan doesn't want to enter it. But he has given his word that he will, and something in his blood has affixed itself to this oath like enamel to a knight's shield. 
+Kellan doesn't want to enter it. But he has given his word that he will, and something in his blood has affixed itself to this oath like enamel to a knight's shield.
 
 "We can't go through the sleeping guards," he says. "We'll just be hurting them."
 
@@ -67,7 +68,7 @@ Kellan and Ruby press themselves on either side of the door. Ruby is the first t
 
 He understands why. Standing before a lectern and surrounded by swirls of curse-clouds is a woman known even in Orrinshire. Rowan Kenrith, the daughter of the High King herself, has come to Castle Ardenvale.
 
-Kellan cannot stop himself from smiling. She must have figured it out the same as they did. He can't believe their luck. 
+Kellan cannot stop himself from smiling. She must have figured it out the same as they did. He can't believe their luck.
 
 The glad tidings overwhelm his good sense. Kellan dashes into the room, and Ruby follows, her sword hanging toylike at her side. "Rowan!" he calls. Then, his cheeks reddening with embarrassment when she looks up, he sputters. "I-I mean, L-Lady Kenrith! Be careful with the curse—"
 
@@ -81,7 +82,7 @@ Kellan hadn't thought of that. Good thing Ruby came along; she's always thinking
 
 "We're heroes," Ruby adds, helpfully.
 
-But Rowan Kenrith neither laughs nor smiles, nor even thanks them for their assistance. She lays her hands on either edge of the lectern. Sparks crackle along her fingers. 
+But Rowan Kenrith neither laughs nor smiles, nor even thanks them for their assistance. She lays her hands on either edge of the lectern. Sparks crackle along her fingers.
 
 "I think the two of you should leave," she says, her voice cool and level.
 
@@ -91,7 +92,7 @@ But Rowan Kenrith neither laughs nor smiles, nor even thanks them for their assi
 
 Something in her voice raises Kellan's hackles. His tongue sticks to the roof of his mouth, and he looks once more at the page before him. In red-brown ink, jagged handwriting spells the truth.
 
-#emph[Attempt 23. Haven't been able to put anyone to sleep yet except the old-fashioned way. ] 
+#emph[Attempt 23. Haven't been able to put anyone to sleep yet except the old-fashioned way. ]
 
 He has no time to process what he's just read, for when he looks up at Rowan, she's wreathed in sparking light.
 
@@ -143,9 +144,9 @@ The last thing she needs are distractions, but what she can use is help. Ashiok 
 
 A phalanx of knights breach the doors. To counter them, Eriette fields her dreamers, positioned in two ranks before the throne. Eriette might be her better when it comes to dream magic, but Rowan's taken enough tactics lessons to know this is going to end badly. Two ranks won't be enough to counter a phalanx of that size.
 
-"Under order of His Majesty the High King of Eldraine, stand down!" shouts a woman in the vanguard. Rowan narrows her eyes; the voice is familiar. Is that a wooden arm? Ah—the jet of fire over the heads of the sleepers confirms her suspicions. Imodane. Of course someone that foolish would think shooting fire at innocent sleepers is a good idea. She was careless at the mountain and she's careless here. 
+"Under order of His Majesty the High King of Eldraine, stand down!" shouts a woman in the vanguard. Rowan narrows her eyes; the voice is familiar. Is that a wooden arm? Ah—the jet of fire over the heads of the sleepers confirms her suspicions. Imodane. Of course someone that foolish would think shooting fire at innocent sleepers is a good idea. She was careless at the mountain and she's careless here.
 
-Rowan focuses on the sparks in her blood, lets them grow, lets them build. All of this energy she unleashes in a fearsome bolt aimed at Imodane's feet. Stone shatters; smoke rises from a newly made crater in the castle's flooring. 
+Rowan focuses on the sparks in her blood, lets them grow, lets them build. All of this energy she unleashes in a fearsome bolt aimed at Imodane's feet. Stone shatters; smoke rises from a newly made crater in the castle's flooring.
 
 "There is no High King in Eldraine," she booms. "Turn tail and return to the pretender, Imodane, or I'll dash you across the rocks."
 
@@ -163,7 +164,7 @@ Worse still when he narrows his eyes, when he calls with his voice full of disbe
 
 There is a lump in her throat, a pain unspeakable, when her brother looks at her like this. Like he's afraid of her. Like he wants her to be something other than she is, to wake up one day and return to being the woman he knew before. When will he realize the Rowan he knew is dead?
 
-"I'm learning how to save the Realm," she says. 
+"I'm learning how to save the Realm," she says.
 
 "Listen to yourself. Working with witches? Cursing the Realm? This isn't like you," he says. Is this what he thinks a High King should be—a man who is on the verge of tears atop his warhorse? "Please come home."
 
@@ -171,7 +172,7 @@ She wants him to understand. She wants so badly for him to understand that she's
 
 But he won't.
 
-She's charging them before she knows what else to do. Her sword beats back shields and snaps lances. In the thick of the melee her blood sings. Here, surrounded by steel's blooming petals, she is free from any thought save that which animates her limbs. Parry, riposte; dodge, blast. 
+She's charging them before she knows what else to do. Her sword beats back shields and snaps lances. In the thick of the melee her blood sings. Here, surrounded by steel's blooming petals, she is free from any thought save that which animates her limbs. Parry, riposte; dodge, blast.
 
 When she reaches her brother, there is already blood on her armor. She levels her sword at him, he on his horse, and dares him to dismount. "Home is gone, Will!"
 
@@ -277,17 +278,17 @@ Rowan's heart leaps to her throat.
 
 In this moment of distress, Eriette remains calm and collected. Across the ruins of the throne room her eyes meet Rowan's. A single thread of the curse—hardly enough to be noticed—links them.
 
-#emph[Go from this place, ] Eriette says to her. #emph[When the time is right, we will meet again. ] 
+#emph[Go from this place, ] Eriette says to her. #emph[When the time is right, we will meet again. ]
 
-Rowan steps toward her. #emph[But I can't lose anyone else. ] 
+Rowan steps toward her. #emph[But I can't lose anyone else. ]
 
-#emph[You aren't losing anyone. They won't kill me, darling. They're too soft. We bide our time. ] 
+#emph[You aren't losing anyone. They won't kill me, darling. They're too soft. We bide our time. ]
 
 The thread snaps. In the recesses of her mind she is alone, watching once more as someone she cares about is held at sword point.
 
 If she does not heed Eriette's advice, then her brother will surely take her in. He will imprison her, and there will be an endless parade of healers and tender-hearted fools to speak with her. To try to understand her. Meanwhile Eldraine will remain splintered, for though Will has gathered an army of many colors here, he has not gathered them all. And if she finally gives in, if she pretends to be all right, he will remain High King and she ...
 
-She will always be the woman who rebelled. Worse, she will always be the woman he#emph[ graciously forgave] . 
+She will always be the woman who rebelled. Worse, she will always be the woman he#emph[ graciously forgave] .
 
 No—there is no going back now, no returning home.
 
@@ -307,7 +308,7 @@ Rowan's in the air.
 
 From up here she can see the threads of the curse coming together, a spiderweb centered around the castle.
 
-What was it Royse had said to her?#emph[ If you do not make time for rest, it will come to you when you least expect. ] 
+What was it Royse had said to her?#emph[ If you do not make time for rest, it will come to you when you least expect. ]
 
 It is the same for Eldraine. How many blows have they weathered by now? How many shattered dreams? If they are to be strong again—if they are to be unified—they need to forge those dreams a new.
 
@@ -315,7 +316,7 @@ They need to rest.
 
 As does Rowan.
 
-One day, she'll bring that blessed slumber to the rest of Eldraine. 
+One day, she'll bring that blessed slumber to the rest of Eldraine.
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -403,7 +404,7 @@ Kellan listens, too intent to interrupt, looking over the coat again and again.
 
 "Could you tell me more about him?" Kellan says. "About what he was like."
 
-His mother's smile is only a little sad. "Of course. Whatever you'd like to know." 
+His mother's smile is only a little sad. "Of course. Whatever you'd like to know."
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -413,7 +414,7 @@ He cannot sleep. There is too much story inside his head. Too many of his father
 
 But if so, why hasn't his father introduced himself?
 
-That is the question that keeps him from rest, like a horseshoe badly struck keeps a mount from running. It hurts. The question keeps coming to him: #emph[W] #emph[hy haven't you spoken to me? Am I not good enough?] 
+That is the question that keeps him from rest, like a horseshoe badly struck keeps a mount from running. It hurts. The question keeps coming to him: #emph[W] #emph[hy haven't you spoken to me? Am I not good enough?]
 
 He hadn't been brave enough to ask his mother.
 
@@ -447,7 +448,7 @@ Kellan pets Hex, and steps through the portal.
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#emph[Awake. All is not yet lost. I have returned for you.] 
+#emph[Awake. All is not yet lost. I have returned for you.]
 
 The voice is cool, familiar. Eriette wonders why it took this long before she heard it once more. When she opens her eyes, the jail cell stares back at her, but so, too, does Ashiok. Smoke billows from their evanescent shrouds, despite the lack of wind in the room.
 
