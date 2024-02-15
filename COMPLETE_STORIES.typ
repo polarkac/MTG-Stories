@@ -574,3 +574,4 @@
 #include "./stories/055 - Murders at Karlov Manor/008_Episode 8: Gods of Chaos.typ"
 #include "./stories/055 - Murders at Karlov Manor/009_Episode 9: Beauty in Destruction.typ"
 #include "./stories/055 - Murders at Karlov Manor/010_Episode 10: Roots of Decay.typ"
+#include "./stories/055 - Murders at Karlov Manor/011_Episode 11: Portents and Omens.typ"
