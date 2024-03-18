@@ -8,7 +8,7 @@
 #{
     set align(center)
     set text(size: 18pt)
-    [Compiled by Polarkac, last update: 12. 02. 2024]
+    [Compiled by Polarkac, last update: #datetime.today().display("[day]. [month]. [year]")]
 }
 
 #pagebreak()
