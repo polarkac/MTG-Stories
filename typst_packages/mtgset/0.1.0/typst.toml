@@ -1,0 +1,7 @@
+[package]
+name = "mtgset"
+version = "0.1.0"
+entrypoint = "mtgset.typ"
+authors = ["Polarkac"]
+license = "MIT"
+description = "MTG Set template"
