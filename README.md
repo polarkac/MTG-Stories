@@ -86,3 +86,7 @@ Windows: `%APPDATA/typst/packages/`
 Linux: `~/.local/share/typst/packages/`
 
 More info can be found https://github.com/typst/packages#local-packages
+
+# Contribution
+
+If you find any mistake or you want to contribute, feel free to send a pull request. You can also contact me at mtg@pohlreichlukas.eu.
