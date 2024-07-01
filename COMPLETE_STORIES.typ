@@ -1,9 +1,10 @@
-#set document(title: "Magic 2013 through Murders at Karlov Manor - The Ultimate PDF")
+#let title = [Magic 2013 through Outlaws of Thunder Junction - The~Ultimate PDF]
+#set document(title: title)
 
 #{
     set text(size: 32pt)
     set align(center + horizon)
-    heading(level: 1, outlined: false)[Magic 2013 through Murders at Karlov Manor\ - The Ultimate PDF]
+    heading(level: 1, outlined: false)[#title]
 }
 #{
     set align(center)
@@ -25,7 +26,6 @@
     set align(center)
     h.body
 }
-// #show figure: it => {}
 
 #include "./stories/001_Magic 2013.typ"
 #include "./stories/002_Return to Ravnica.typ"
