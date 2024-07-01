@@ -73,6 +73,7 @@ If you want to compile all stories into one big PDF yourself, use Typst source f
 - Lost Caverns of Ixalan
 - Murders at Karlov Manor
 - Outlaws of Thunder Junction
+- Bloomburrow
 
 # Typst
 
