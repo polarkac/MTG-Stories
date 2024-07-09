@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Stonekiller, Part 2",
-set_name: "Magic 2013",
-story_date: datetime(day: 15, month: 08, year: 2012),
-author: "Jenna Helland",
-doc)
+    "The Stonekiller, Part 2",
+    set_name: "Magic 2013",
+    story_date: datetime(day: 15, month: 08, year: 2012),
+    author: "Jenna Helland",
+    doc
+)
 
 Lia bit the hand that pulled the bag off her head. Something yelped, but didn't strike her. Instead it set her gently on the ground and backed away.
 

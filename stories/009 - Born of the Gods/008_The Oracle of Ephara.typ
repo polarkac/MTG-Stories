@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Oracle of Ephara",
-set_name: "Born of the Gods",
-story_date: datetime(day: 19, month: 03, year: 2014),
-author: "Jeremiah Isgur",
-doc)
+    "The Oracle of Ephara",
+    set_name: "Born of the Gods",
+    story_date: datetime(day: 19, month: 03, year: 2014),
+    author: "Jeremiah Isgur",
+    doc
+)
 
 Iris, the Oracle of Ephara, leaned forward in the wooden armchair and carefully probed the small side table until her fingertips touched the clay drinking vessel. She gingerly lifted the cup to her mouth, a thin stain of purple remaining on her lips as she tentatively placed the cup back on the table.
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Stirring from Slumber",
-set_name: "Prologue to Battle for Zendikar",
-story_date: datetime(day: 13, month: 05, year: 2015),
-author: "James Wyatt",
-doc)
+    "Stirring from Slumber",
+    set_name: "Prologue to Battle for Zendikar",
+    story_date: datetime(day: 13, month: 05, year: 2015),
+    author: "James Wyatt",
+    doc
+)
 
 #emph[Over a thousand years ago, one woman stood between her world and the brink of destruction.]
 

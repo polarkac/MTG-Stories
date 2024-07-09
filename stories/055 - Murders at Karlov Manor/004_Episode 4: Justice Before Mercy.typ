@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 4: Justice Before Mercy",
-set_name: "Murders at Karlov Manor",
-story_date: datetime(day: 10, month: 01, year: 2024),
-author: "Seanan McGuire",
-doc)
+    "Episode 4: Justice Before Mercy",
+    set_name: "Murders at Karlov Manor",
+    story_date: datetime(day: 10, month: 01, year: 2024),
+    author: "Seanan McGuire",
+    doc
+)
 
 Teysa's body had yet to cool. When Kaya found the strength to move—when her frozen legs began responding to her commands, although her feet refused to quite solidify, bits of broken statue on the floor passed through them as she approached the desk—she crossed the office to her fallen friend, brushing her fingertips across Teysa's cheek. She was no stranger to death, hadn't been even before her time in Ravnica, and she knew what had to happen now. She also knew these might be the only moments she had to study the scene undisturbed before the rest of the household came rushing in.
 

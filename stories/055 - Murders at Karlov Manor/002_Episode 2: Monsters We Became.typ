@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 2: Monsters We Became",
-set_name: "Murders at Karlov Manor",
-story_date: datetime(day: 08, month: 01, year: 2024),
-author: "Seanan McGuire",
-doc)
+    "Episode 2: Monsters We Became",
+    set_name: "Murders at Karlov Manor",
+    story_date: datetime(day: 08, month: 01, year: 2024),
+    author: "Seanan McGuire",
+    doc
+)
 
 Kaya ran through the manor as swiftly as her legs could carry her. Teysa still caught up quickly, moving with a speed that Kaya knew would cost her later: for Teysa to be running alongside the much younger, fitter Planeswalker, she had to be drawing deep on her magical reserves. That sort of thing always came with a price.
 

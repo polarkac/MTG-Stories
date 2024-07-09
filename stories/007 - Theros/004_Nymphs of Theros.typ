@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Nymphs of Theros",
-set_name: "Theros",
-story_date: datetime(day: 02, month: 10, year: 2013),
-author: "Jennifer Robles",
-doc)
+    "Nymphs of Theros",
+    set_name: "Theros",
+    story_date: datetime(day: 02, month: 10, year: 2013),
+    author: "Jennifer Robles",
+    doc
+)
 
 Awaking into being, she experienced such sadness swelling in her core. Overcome with the grief of a life lost—no, many lives lost—and the spirits within the massive hydra forever extinguished, was the first of many feelings this youthful nymph would become familiar with. Arising from the grass beneath the spilled blood, Zoe stood and immediately fell to her knees to press her leafy forehead to one of the hydra's fallen heads. Her starlit hands caressed the front horn of the creature and she sang in a sad, low voice her first words in Theros. A blade had slain this majestic creature and it hurt Zoe, who was connected to all the souls of the forest. A servant of Nylea, Zoe wanted to protect the rest of her beloved beasts from the tragedy that had just occurred.
 

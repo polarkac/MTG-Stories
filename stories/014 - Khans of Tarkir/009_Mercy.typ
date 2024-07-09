@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Mercy",
-set_name: "Khans of Tarkir",
-story_date: datetime(day: 19, month: 11, year: 2014),
-author: "Sam Stoddard",
-doc)
+    "Mercy",
+    set_name: "Khans of Tarkir",
+    story_date: datetime(day: 19, month: 11, year: 2014),
+    author: "Sam Stoddard",
+    doc
+)
 
 The goblin. The stinking goblin. The fat, stinking goblin. Sidisi sat, slumped in her throne, head bare, crown gone—taken right off her head by the accursed goblin. There was little else she had been able to think about in the past few months except for the goblin and what she would do to him and his clan when she got a hold of them. It had become an obsession. One by one, her most trusted advisors had warned her against the course of blind revenge, and one by one they had met their fate at the maw of the Mother Crocodile at the center of the Kheru Temple pit.
 

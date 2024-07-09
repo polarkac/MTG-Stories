@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"I Iroan",
-set_name: "Theros",
-story_date: datetime(day: 06, month: 11, year: 2013),
-author: "Jennifer Clarke Wilkes",
-doc)
+    "I Iroan",
+    set_name: "Theros",
+    story_date: datetime(day: 06, month: 11, year: 2013),
+    author: "Jennifer Clarke Wilkes",
+    doc
+)
 
 #figure(image("007_I Iroan/01.jpg", width: 100%), caption: [Priest of Iroas | Art by Clint Cearley], supplement: none, numbering: none)
 

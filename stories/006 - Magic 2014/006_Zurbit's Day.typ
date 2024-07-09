@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Zurbit's Day",
-set_name: "Magic 2014",
-story_date: datetime(day: 31, month: 07, year: 2013),
-author: "Adam Lee",
-doc)
+    "Zurbit's Day",
+    set_name: "Magic 2014",
+    story_date: datetime(day: 31, month: 07, year: 2013),
+    author: "Adam Lee",
+    doc
+)
 
 #emph["I need more money."]
 

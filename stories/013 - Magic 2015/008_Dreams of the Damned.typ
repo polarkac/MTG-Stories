@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Dreams of the Damned",
-set_name: "Magic 2015",
-story_date: datetime(day: 06, month: 08, year: 2014),
-author: "Nik Davidson",
-doc)
+    "Dreams of the Damned",
+    set_name: "Magic 2015",
+    story_date: datetime(day: 06, month: 08, year: 2014),
+    author: "Nik Davidson",
+    doc
+)
 
 #emph[The demon Ob Nixilis is shrouded in mystery. We do not know his origins—where he comes from, or even whether he was always a demon. We do know this: He was once a Planeswalker, until he was stripped of his spark and trapped on the wild-mana plane of Zendikar thousands of years ago. Since then, he has slowly enacted a plan to regain his power and escape.]
 

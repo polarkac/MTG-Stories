@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Krenko, Mob Boss",
-set_name: "Magic 2013",
-story_date: datetime(day: 18, month: 07, year: 2012),
-author: "Jenna Helland",
-doc)
+    "Krenko, Mob Boss",
+    set_name: "Magic 2013",
+    story_date: datetime(day: 18, month: 07, year: 2012),
+    author: "Jenna Helland",
+    doc
+)
 
 #figure(image("004_Krenko, Mob Boss/01.png", height: 40%), caption: [], supplement: none, numbering: none)
 

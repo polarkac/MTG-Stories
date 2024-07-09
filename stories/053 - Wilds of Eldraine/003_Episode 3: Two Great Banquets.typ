@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 3: Two Great Banquets",
-set_name: "Wilds of Eldraine",
-story_date: datetime(day: 10, month: 08, year: 2023),
-author: " K. Arsenault Rivera",
-doc)
+    "Episode 3: Two Great Banquets",
+    set_name: "Wilds of Eldraine",
+    story_date: datetime(day: 10, month: 08, year: 2023),
+    author: " K. Arsenault Rivera",
+    doc
+)
 
 #emph[Rowan, ]
 

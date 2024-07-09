@@ -1,11 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
-#set page(margin: (top: 96pt))
 #show: doc => conf(
-"The Truth of Names",
-set_name: "Fate Reforged",
-story_date: datetime(day: 28, month: 01, year: 2015),
-author: "James Wyatt, Matt Knicl & Allison Medwin",
-doc)
+    "The Truth of Names",
+    set_name: "Fate Reforged",
+    story_date: datetime(day: 28, month: 01, year: 2015),
+    author: "James Wyatt, Matt Knicl & Allison Medwin",
+    doc
+)
 
 The young khan of the Mardu sat poised at the front of her horde, perfectly still despite her horse shifting nervously beneath her. The worn leather grip of her bow, the weight of her sword on her back, the nervous energy of the warriors almost palpable behind her—she drew strength from all of these. More than anything else, she drew strength from her war name, Alesha, because it was #emph[hers.]
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Great Concourse",
-set_name: "Return to Ravnica",
-story_date: datetime(day: 24, month: 10, year: 2012),
-author: "Adam Lee",
-doc)
+    "The Great Concourse",
+    set_name: "Return to Ravnica",
+    story_date: datetime(day: 24, month: 10, year: 2012),
+    author: "Adam Lee",
+    doc
+)
 
 The three dryads sat in a circle as they had done for the past three months, hoping they could make contact. They did it alone, in a small grove where the branches of the trees curved about them to create a quiet, interior space apart from the massive granite and brick buildings that sprawled about them like an ancient, fallen golem.
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Life in the Ring",
-set_name: "Dragon's Maze",
-story_date: datetime(day: 08, month: 05, year: 2013),
-author: "Sam Stoddard",
-doc)
+    "Life in the Ring",
+    set_name: "Dragon's Maze",
+    story_date: datetime(day: 08, month: 05, year: 2013),
+    author: "Sam Stoddard",
+    doc
+)
 
 Strips of flaming banners whipped violently around the Carnarium stage, threatening to catch the rafters ablaze. A half dozen goblin stagehands struggled for breath underneath a collapsed girder. There were screams of joy and pain as a cannon, which had become unmoored, tumbled into the crowd. All in all, it was one of the most successful performances of #emph[The Aria of Hilrod]  seen since the Decamillenial.
 

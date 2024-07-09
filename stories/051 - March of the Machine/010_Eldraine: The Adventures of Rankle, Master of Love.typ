@@ -1,5 +1,4 @@
 #import "@local/mtgstory:0.2.0": conf
-#set page(margin: (top: 96pt))
 #show: doc => conf(
     "Eldraine: The Adventures of Rankle, Master of Love",
     set_name: "March of the Machine",

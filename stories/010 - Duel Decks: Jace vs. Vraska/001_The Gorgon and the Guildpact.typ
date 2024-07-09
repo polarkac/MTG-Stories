@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Gorgon and the Guildpact",
-set_name: "Duel Decks: Jace vs. Vraska",
-story_date: datetime(day: 12, month: 03, year: 2014),
-author: "Doug Beyer",
-doc)
+    "The Gorgon and the Guildpact",
+    set_name: "Duel Decks: Jace vs. Vraska",
+    story_date: datetime(day: 12, month: 03, year: 2014),
+    author: "Doug Beyer",
+    doc
+)
 
 Jace appeared on Ravnica already late, judging by the speed with which a courier had found him upon arrival and by the number of times the message used the word "urgently," which was three. Lavinia, formerly the Azorius maze runner and currently Jace's aide and deputy at the Chamber of the Guildpact, tended to deploy adverbs when Jace was falling behind in his duties.
 

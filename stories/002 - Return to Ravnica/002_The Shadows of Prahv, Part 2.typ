@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Shadows of Prahv, Part 2",
-set_name: "Return to Ravnica",
-story_date: datetime(day: 05, month: 09, year: 2012),
-author: "Jenna Helland",
-doc)
+    "The Shadows of Prahv, Part 2",
+    set_name: "Return to Ravnica",
+    story_date: datetime(day: 05, month: 09, year: 2012),
+    author: "Jenna Helland",
+    doc
+)
 
 Javy's cryptic note led Relov to a disreputable tenement building. Fourth floor. East End. Javy was waiting for him in a dim corridor that smelled of rat poison. Despite the sordid surroundings, she looked as immaculate as always. Her Boros uniform fitted her as if it had been sewn by the best on Tailor's Row.
 

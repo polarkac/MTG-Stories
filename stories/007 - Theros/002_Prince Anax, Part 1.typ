@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Prince Anax, Part 1",
-set_name: "Theros",
-story_date: datetime(day: 18, month: 09, year: 2013),
-author: "Tom LaPille",
-doc)
+    "Prince Anax, Part 1",
+    set_name: "Theros",
+    story_date: datetime(day: 18, month: 09, year: 2013),
+    author: "Tom LaPille",
+    doc
+)
 
 Anax ran around the edge of the gymnasium. The scalding summer sun was getting high in the sky. He was sweating and his lungs burned, but it felt good.
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"A Tarkir of Dragons",
-set_name: "Dragons of Tarkir",
-story_date: datetime(day: 25, month: 02, year: 2015),
-author: "Kimberly J. Kreines",
-doc)
+    "A Tarkir of Dragons",
+    set_name: "Dragons of Tarkir",
+    story_date: datetime(day: 25, month: 02, year: 2015),
+    author: "Kimberly J. Kreines",
+    doc
+)
 
 #emph[The Planeswalker and dragon mage, Sarkhan Vol, left his time to travel back more than 1,200 years into Tarkir's past and save Ugin, the Spirit Dragon from death. By saving Ugin, Sarkhan ensured the dragon tempests would continue to thrive on Tarkir, and thus he saved the dragons—or so he hopes. After he created a magical, protective hedron cocoon around the fallen Ugin, Sarkhan was ripped back through time to his present. Now he is left to wonder how much change his actions caused. How many ripples propagated out across Tarkir's history? And who will share this new world with him? Who will glory in a Tarkir of dragons?]
 

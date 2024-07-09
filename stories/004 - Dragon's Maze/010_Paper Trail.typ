@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Paper Trail",
-set_name: "Dragon's Maze",
-story_date: datetime(day: 12, month: 06, year: 2013),
-author: "Nik Davidson",
-doc)
+    "Paper Trail",
+    set_name: "Dragon's Maze",
+    story_date: datetime(day: 12, month: 06, year: 2013),
+    author: "Nik Davidson",
+    doc
+)
 
 #box(inset: (left: 2.0mm), stroke: (left: 0.5mm + gray))[Diary,
 

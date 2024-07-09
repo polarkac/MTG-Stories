@@ -1,5 +1,4 @@
 #import "@local/mtgstory:0.2.0": conf
-#set page(margin: (top: 96pt))
 #show: doc => conf(
     "The Shapers",
     set_name: "Ixalan",

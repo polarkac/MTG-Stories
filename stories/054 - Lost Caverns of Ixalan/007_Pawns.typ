@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Pawns",
-set_name: "Lost Caverns of Ixalan",
-story_date: datetime(day: 20, month: 10, year: 2023),
-author: "Miguel Lopez",
-doc)
+    "Pawns",
+    set_name: "Lost Caverns of Ixalan",
+    story_date: datetime(day: 20, month: 10, year: 2023),
+    author: "Miguel Lopez",
+    doc
+)
 
 Saheeli stood on the white sand of some lonely strand of Ixalan's northern coast. She held herself and contemplated simply walking out into the ocean. Sparking blue out to the cloudless horizon. In another life she could have stepped out across that distance with a thought. She had traveled some, but save for short moments with Huatli, her adventures around the Multiverse were always driven by a mission: Save the plane. Save every plane. How far could she go now?
 

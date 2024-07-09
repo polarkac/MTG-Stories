@@ -1,5 +1,4 @@
 #import "@local/mtgstory:0.2.0": conf
-#set page(margin: (top: 96pt))
 #show: doc => conf(
     "Proclamation by Adriana, Captain of the Guard",
     set_name: "Conspiracy: Take the Crown",

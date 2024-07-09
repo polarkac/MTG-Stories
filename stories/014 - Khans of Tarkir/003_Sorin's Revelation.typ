@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Sorin's Revelation",
-set_name: "Khans of Tarkir",
-story_date: datetime(day: 24, month: 09, year: 2014),
-author: "Adam Lee",
-doc)
+    "Sorin's Revelation",
+    set_name: "Khans of Tarkir",
+    story_date: datetime(day: 24, month: 09, year: 2014),
+    author: "Adam Lee",
+    doc
+)
 
 #emph[Sarkhan Vol is not the only one who has come to Tarkir in search of something. The vampire Planeswalker Sorin Markov is here as well, for reasons of his own. Although the two Planeswalkers don't know it, they are here looking for the same thing: the spirit dragon Ugin.]
 

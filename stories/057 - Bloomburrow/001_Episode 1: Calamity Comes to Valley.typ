@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 1: Calamity Comes to Valley",
-set_name: "Bloomburrow",
-story_date: datetime(day: 01, month: 07, year: 2024),
-author: "Valeria Valdes",
-doc)
+    "Episode 1: Calamity Comes to Valley",
+    set_name: "Bloomburrow",
+    story_date: datetime(day: 01, month: 07, year: 2024),
+    author: "Valeria Valdes",
+    doc
+)
 
 #strong[Helga] 
 

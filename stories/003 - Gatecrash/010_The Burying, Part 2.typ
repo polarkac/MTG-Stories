@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Burying, Part 2",
-set_name: "Gatecrash",
-story_date: datetime(day: 06, month: 03, year: 2013),
-author: "Adam Lee",
-doc)
+    "The Burying, Part 2",
+    set_name: "Gatecrash",
+    story_date: datetime(day: 06, month: 03, year: 2013),
+    author: "Adam Lee",
+    doc
+)
 
 #emph[To be close to the Old Gods, you must go under the earth. There you will hear their voices and feel their power. Some may whisper sacred words to you, some may give you visions, some may fill you with fear, but it is their way of making you whole, of making you a real person who knows his own heart. Do not fear.]
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Slaughter Games",
-set_name: "Return to Ravnica",
-story_date: datetime(day: 17, month: 10, year: 2012),
-author: "Trick Jarrett",
-doc)
+    "Slaughter Games",
+    set_name: "Return to Ravnica",
+    story_date: datetime(day: 17, month: 10, year: 2012),
+    author: "Trick Jarrett",
+    doc
+)
 
 Maritta slammed the door and slammed down the crossbar. It landed with a solid thud, barring her family's door and protecting them from The Rakdos outside. The guild was on parade, filling the streets with a dreadful cacophony of dragging chains, mad cackling, and the screams of agony by those who were swept up in their gruesome marching carnival.
 

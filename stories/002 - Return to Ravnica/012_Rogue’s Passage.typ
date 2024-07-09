@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Rogue’s Passage",
-set_name: "Return to Ravnica",
-story_date: datetime(day: 21, month: 11, year: 2012),
-author: "Tom LaPille",
-doc)
+    "Rogue’s Passage",
+    set_name: "Return to Ravnica",
+    story_date: datetime(day: 21, month: 11, year: 2012),
+    author: "Tom LaPille",
+    doc
+)
 
 Tanek awoke lying shirtless on his back. The smoke-masked sun was already high in the sky, and the exhaust pipe next to him blasted a long jet of steam.
 

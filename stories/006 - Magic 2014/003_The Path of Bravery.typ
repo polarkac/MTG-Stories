@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Path of Bravery",
-set_name: "Magic 2014",
-story_date: datetime(day: 10, month: 07, year: 2013),
-author: "Adam Lee",
-doc)
+    "The Path of Bravery",
+    set_name: "Magic 2014",
+    story_date: datetime(day: 10, month: 07, year: 2013),
+    author: "Adam Lee",
+    doc
+)
 
 They stood in silence.
 

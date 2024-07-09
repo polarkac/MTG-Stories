@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 2: The Jailbreak",
-set_name: "Outlaws of Thunder Junction",
-story_date: datetime(day: 13, month: 03, year: 2024),
-author: "Akemi Dawn Bowman",
-doc)
+    "Episode 2: The Jailbreak",
+    set_name: "Outlaws of Thunder Junction",
+    story_date: datetime(day: 13, month: 03, year: 2024),
+    author: "Akemi Dawn Bowman",
+    doc
+)
 
 Wind rustled through the open window, making the curtains billow in Annie's room. She watched the shadows curl around the floorboards, listened to the restless bray of a lone animal in the field, and rolled from one side of her bed to the other.
 

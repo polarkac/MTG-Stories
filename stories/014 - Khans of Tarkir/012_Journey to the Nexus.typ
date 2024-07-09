@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Journey to the Nexus",
-set_name: "Khans of Tarkir",
-story_date: datetime(day: 10, month: 12, year: 2014),
-author: "Jennifer Clarke Wilkes",
-doc)
+    "Journey to the Nexus",
+    set_name: "Khans of Tarkir",
+    story_date: datetime(day: 10, month: 12, year: 2014),
+    author: "Jennifer Clarke Wilkes",
+    doc
+)
 
 #emph[When last we saw him, Sarkhan Vol ] had just returned #emph[to his home world of Tarkir.]
 

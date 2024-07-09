@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Burying, Part 1",
-set_name: "Gatecrash",
-story_date: datetime(day: 30, month: 01, year: 2013),
-author: "Adam Lee",
-doc)
+    "The Burying, Part 1",
+    set_name: "Gatecrash",
+    story_date: datetime(day: 30, month: 01, year: 2013),
+    author: "Adam Lee",
+    doc
+)
 
 #figure(image("005_The Burying, Part 1/01.jpg", width: 100%), caption: [Godless Shrine | Art by Cliff Childs], supplement: none, numbering: none)
 

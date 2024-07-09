@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Experiment One",
-set_name: "Gatecrash",
-story_date: datetime(day: 18, month: 02, year: 2013),
-author: "Kelly Digges",
-doc)
+    "Experiment One",
+    set_name: "Gatecrash",
+    story_date: datetime(day: 18, month: 02, year: 2013),
+    author: "Kelly Digges",
+    doc
+)
 
 The entrance to the lab was an unassuming hatch set in a dank, moss-covered wall. Liana had to double back twice to find it, and when she knocked on the door it swung open with a creak.
 

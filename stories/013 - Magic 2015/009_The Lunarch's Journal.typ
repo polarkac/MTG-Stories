@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Lunarch's Journal",
-set_name: "Magic 2015",
-story_date: datetime(day: 13, month: 08, year: 2014),
-author: "Colin Kawakami",
-doc)
+    "The Lunarch's Journal",
+    set_name: "Magic 2015",
+    story_date: datetime(day: 13, month: 08, year: 2014),
+    author: "Colin Kawakami",
+    doc
+)
 
 #emph[On the plane of Innistrad, the angel Avacyn has returned to guide her faithful worshipers, pushing back the darkness that ruled the plane while she was sealed away. The plane's monsters are in retreat, the church is resurgent, and everywhere humanity is stepping back into the light.]
 

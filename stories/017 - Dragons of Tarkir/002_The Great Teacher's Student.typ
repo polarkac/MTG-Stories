@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Great Teacher's Student",
-set_name: "Dragons of Tarkir",
-story_date: datetime(day: 04, month: 03, year: 2015),
-author: "Kimberly J. Kreines",
-doc)
+    "The Great Teacher's Student",
+    set_name: "Dragons of Tarkir",
+    story_date: datetime(day: 04, month: 03, year: 2015),
+    author: "Kimberly J. Kreines",
+    doc
+)
 
 #emph[In another time there were no dragons. In another time Narset was the khan of a clan known as the Jeskai. In another time she felt a great potential within her—one that she would never release, for in that time she fell at the hands of Zurgo Helmsmasher, the khan of the Mardu. But that time is gone, lost forever to endless eternities. This time is all that remains. In this time, dragons fill the skies of Tarkir, there are no khans, there is no clan known as the Jeskai, and Zurgo is a bell-striker. But one thing remains the same: Narset has a secret power burning inside of her—a restless potential that pulls on her, begging to be released.]
 

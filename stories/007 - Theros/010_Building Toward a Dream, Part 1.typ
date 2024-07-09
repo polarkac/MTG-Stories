@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Building Toward a Dream, Part 1",
-set_name: "Theros",
-story_date: datetime(day: 27, month: 11, year: 2013),
-author: "Ken Troop",
-doc)
+    "Building Toward a Dream, Part 1",
+    set_name: "Theros",
+    story_date: datetime(day: 27, month: 11, year: 2013),
+    author: "Ken Troop",
+    doc
+)
 
 My dearest Klytessa—
 

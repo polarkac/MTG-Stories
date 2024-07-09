@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Bilagru Will Come for You",
-set_name: "Gatecrash",
-story_date: datetime(day: 13, month: 03, year: 2013),
-author: "Ari Levitch",
-doc)
+    "Bilagru Will Come for You",
+    set_name: "Gatecrash",
+    story_date: datetime(day: 13, month: 03, year: 2013),
+    author: "Ari Levitch",
+    doc
+)
 
 Arresters descended upon the scene only moments after the deed was done. A crowd was already gathering, pressing in on a gangly man who stood over a lifeless body. Blood welled from the body, the flow following the seams between the paving stones before it pooled around the man's fine boots. The man made no effort to move, to run. He remained there, hunched and disheveled, but frantically alert. His eyes darted this way and that across the faces of the swelling crowd, and the point of his sword followed his shifting gaze in a series of jerky movements.
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Dragon's Errand",
-set_name: "Modern Masters 2015",
-story_date: datetime(day: 06, month: 05, year: 2015),
-author: "Alexander O. Smith",
-doc)
+    "The Dragon's Errand",
+    set_name: "Modern Masters 2015",
+    story_date: datetime(day: 06, month: 05, year: 2015),
+    author: "Alexander O. Smith",
+    doc
+)
 
 #emph[Long ago, on the plane of Kamigawa, a goblin named Kiki-Jiki finds himself in a tight spot…]
 

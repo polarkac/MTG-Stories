@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Path or the Horizon",
-set_name: "Journey into Nyx",
-story_date: datetime(day: 07, month: 05, year: 2014),
-author: "Adam Lee",
-doc)
+    "The Path or the Horizon",
+    set_name: "Journey into Nyx",
+    story_date: datetime(day: 07, month: 05, year: 2014),
+    author: "Adam Lee",
+    doc
+)
 
 Zosimos walked along the dirt path that meandered around the border of the ancient woods and welcomed the cool of the shade from the tall trees. The sun was bright against the blue sky as he breathed in the fresh air, thick with the smell of spring blossoms.
 

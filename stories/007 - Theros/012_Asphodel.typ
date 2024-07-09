@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Asphodel",
-set_name: "Theros",
-story_date: datetime(day: 11, month: 12, year: 2013),
-author: "Kelly Digges",
-doc)
+    "Asphodel",
+    set_name: "Theros",
+    story_date: datetime(day: 11, month: 12, year: 2013),
+    author: "Kelly Digges",
+    doc
+)
 
 Maia picked her way through the ruined building with bare and careful feet. They were already covered in soot, but she could wash them off in the stream. It was her sandals she couldn't get dirty, along with her tunic. She'd only made that mistake once, and mother had sent her to bed without dinner and forbidden her from going back.
 

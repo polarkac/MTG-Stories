@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Consequences of Attraction",
-set_name: "Theros",
-story_date: datetime(day: 09, month: 10, year: 2013),
-author: "Ken Troop",
-doc)
+    "The Consequences of Attraction",
+    set_name: "Theros",
+    story_date: datetime(day: 09, month: 10, year: 2013),
+    author: "Ken Troop",
+    doc
+)
 
 The vole had crept too close. Xandria had been waiting for most of the day and night and through the rain. The rain was cold and lashing, but comforting in a way. It was like being touched by someone. Besides, she would not die from sickness. She would not die at all. The same could not be said of the vole.
 

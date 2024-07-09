@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"In Praise of the Worldsoul, Part 2",
-set_name: "Return to Ravnica",
-story_date: datetime(day: 03, month: 10, year: 2012),
-author: "Jenna Helland",
-doc)
+    "In Praise of the Worldsoul, Part 2",
+    set_name: "Return to Ravnica",
+    story_date: datetime(day: 03, month: 10, year: 2012),
+    author: "Jenna Helland",
+    doc
+)
 
 Cecilee came to build gardens. Instead, she built walls.
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 5: High Moon",
-set_name: "Outlaws of Thunder Junction",
-story_date: datetime(day: 22, month: 03, year: 2024),
-author: "Akemi Dawn Bowman",
-doc)
+    "Episode 5: High Moon",
+    set_name: "Outlaws of Thunder Junction",
+    story_date: datetime(day: 22, month: 03, year: 2024),
+    author: "Akemi Dawn Bowman",
+    doc
+)
 
 Twelve chimes erupted from the molten clock tower. Its sharp edges glowed a sinister red, and its shadow stretched across the enormous courtyard below. Fenceposts made of bone and black iron were wedged into the ground, circling the perimeter to create an enclosure.
 

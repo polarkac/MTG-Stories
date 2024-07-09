@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Chronomaton",
-set_name: "Magic 2013",
-story_date: datetime(day: 11, month: 07, year: 2012),
-author: "Ryan Miller",
-doc)
+    "Chronomaton",
+    set_name: "Magic 2013",
+    story_date: datetime(day: 11, month: 07, year: 2012),
+    author: "Ryan Miller",
+    doc
+)
 
 #figure(image("003_Chronomaton/01.jpg", height: 40%), caption: [], supplement: none, numbering: none)
 

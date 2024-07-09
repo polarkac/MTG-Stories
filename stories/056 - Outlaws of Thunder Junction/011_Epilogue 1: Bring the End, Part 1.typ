@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Epilogue 1: Bring the End, Part 1",
-set_name: "Outlaws of Thunder Junction",
-story_date: datetime(day: 01, month: 04, year: 2024),
-author: "Alison Lührs",
-doc)
+    "Epilogue 1: Bring the End, Part 1",
+    set_name: "Outlaws of Thunder Junction",
+    story_date: datetime(day: 01, month: 04, year: 2024),
+    author: "Alison Lührs",
+    doc
+)
 
 #emph[One Year Prior. The Invasion Tree.]
 

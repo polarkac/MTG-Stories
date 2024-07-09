@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Battle for the Ninth",
-set_name: "Dragon's Maze",
-story_date: datetime(day: 19, month: 06, year: 2013),
-author: "Adam Lee",
-doc)
+    "Battle for the Ninth",
+    set_name: "Dragon's Maze",
+    story_date: datetime(day: 19, month: 06, year: 2013),
+    author: "Adam Lee",
+    doc
+)
 
 Gideon wiped the dirt and dust from his face and smiled.
 

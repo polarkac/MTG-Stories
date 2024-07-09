@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Black Rose",
-set_name: "Conspiracy",
-story_date: datetime(day: 21, month: 05, year: 2014),
-author: "Matt Knicl",
-doc)
+    "The Black Rose",
+    set_name: "Conspiracy",
+    story_date: datetime(day: 21, month: 05, year: 2014),
+    author: "Matt Knicl",
+    doc
+)
 
 #figure(image("002_The Black Rose/01.jpg", height: 40%), caption: [], supplement: none, numbering: none)
 

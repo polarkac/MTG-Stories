@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Chensal Twins",
-set_name: "Khans of Tarkir",
-story_date: datetime(day: 15, month: 10, year: 2014),
-author: "Kimberly J. Kreines",
-doc)
+    "The Chensal Twins",
+    set_name: "Khans of Tarkir",
+    story_date: datetime(day: 15, month: 10, year: 2014),
+    author: "Kimberly J. Kreines",
+    doc
+)
 
 #emph[A thief stands accused. A Jeskai village is ready to mete out justice. But true justice has only one source.]
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 8: Gods of Chaos",
-set_name: "Murders at Karlov Manor",
-story_date: datetime(day: 16, month: 01, year: 2024),
-author: "Seanan McGuire",
-doc)
+    "Episode 8: Gods of Chaos",
+    set_name: "Murders at Karlov Manor",
+    story_date: datetime(day: 16, month: 01, year: 2024),
+    author: "Seanan McGuire",
+    doc
+)
 
 The sun rose bright and beautiful over the moor, shining through every blade of grass and glinting off every drop of dew. It was a glorious morning, the sort of day that appeared filled with promise and glory, with absolutely no chance of shadows lurking around the edges to snare and engulf. Kaya stood on the porch of Vitu-Ghazi, squinting at that flawless sky, and wondered when she'd lost the ability to appreciate something as simple as a sunrise. It wasn't that she couldn't tell that it was lovely. It was more …
 

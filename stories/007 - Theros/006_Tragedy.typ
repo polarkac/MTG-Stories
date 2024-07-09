@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Tragedy",
-set_name: "Theros",
-story_date: datetime(day: 23, month: 10, year: 2013),
-author: "Jennifer Clarke Wilkes",
-doc)
+    "Tragedy",
+    set_name: "Theros",
+    story_date: datetime(day: 23, month: 10, year: 2013),
+    author: "Jennifer Clarke Wilkes",
+    doc
+)
 
 #figure(image("006_Tragedy/01.jpg", width: 100%), caption: [Triad of Fates | Art by Daarken], supplement: none, numbering: none)
 

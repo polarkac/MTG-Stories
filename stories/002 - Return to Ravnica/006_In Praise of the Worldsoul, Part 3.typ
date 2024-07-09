@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"In Praise of the Worldsoul, Part 3",
-set_name: "Return to Ravnica",
-story_date: datetime(day: 10, month: 10, year: 2012),
-author: "Jenna Helland",
-doc)
+    "In Praise of the Worldsoul, Part 3",
+    set_name: "Return to Ravnica",
+    story_date: datetime(day: 10, month: 10, year: 2012),
+    author: "Jenna Helland",
+    doc
+)
 
 Kuma smelled the blood before Ruzi saw the smoke. The wolf sprinted through the clutter of ruined buildings, rapidly closing the distance between them and the Selesnyan settlement. The wooden gate had been ripped from its hinges, and Ruzi urged Kuma through the shattered entrance, heedless of whatever threat might be inside.
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 11: Portents and Omens",
-set_name: "Murders at Karlov Manor",
-story_date: datetime(day: 14, month: 02, year: 2024),
-author: "Seanan McGuire",
-doc)
+    "Episode 11: Portents and Omens",
+    set_name: "Murders at Karlov Manor",
+    story_date: datetime(day: 14, month: 02, year: 2024),
+    author: "Seanan McGuire",
+    doc
+)
 
 Proft's footsteps echoed as he walked into the chamber currently occupied by Niv-Mizzet, the Firemind and Living Guildpact. Etrata's did not. She moved beside the detective as quietly as a ghost and looked amused when he shot her an irritated glance.
 

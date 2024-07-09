@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 4: Finding Tarnation",
-set_name: "Outlaws of Thunder Junction",
-story_date: datetime(day: 20, month: 03, year: 2024),
-author: "Akemi Dawn Bowman",
-doc)
+    "Episode 4: Finding Tarnation",
+    set_name: "Outlaws of Thunder Junction",
+    story_date: datetime(day: 20, month: 03, year: 2024),
+    author: "Akemi Dawn Bowman",
+    doc
+)
 
 It had been hours since Oko's crew evaded the Sterling Company, but Kellan couldn't stop fidgeting. He tucked his hands into his wool-lined pockets, knees bouncing with unease. A pot of stew simmered over the campfire in front of him, each flame casting shadows against the nearby rockface.
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Pride Cometh",
-set_name: "Magic 2014",
-story_date: datetime(day: 17, month: 07, year: 2013),
-author: "Adam Lee",
-doc)
+    "Pride Cometh",
+    set_name: "Magic 2014",
+    story_date: datetime(day: 17, month: 07, year: 2013),
+    author: "Adam Lee",
+    doc
+)
 
 Skrikkle wanted grubs.
 

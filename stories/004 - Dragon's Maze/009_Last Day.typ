@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Last Day",
-set_name: "Dragon's Maze",
-story_date: datetime(day: 05, month: 06, year: 2013),
-author: "Colin Kawakami",
-doc)
+    "Last Day",
+    set_name: "Dragon's Maze",
+    story_date: datetime(day: 05, month: 06, year: 2013),
+    author: "Colin Kawakami",
+    doc
+)
 
 #figure(image("009_Last Day/01.png", height: 40%), caption: [], supplement: none, numbering: none)
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Nissa, Worldwaker",
-set_name: "Magic 2015",
-story_date: datetime(day: 25, month: 06, year: 2014),
-author: "Kelly Digges",
-doc)
+    "Nissa, Worldwaker",
+    set_name: "Magic 2015",
+    story_date: datetime(day: 25, month: 06, year: 2014),
+    author: "Kelly Digges",
+    doc
+)
 
 #emph[The elf Planeswalker Nissa Revane has led a difficult life. She's been exiled from her tribe, the Joraga, on more than one occasion, and becoming a Planeswalker set her even further apart. She traveled to different worlds, seeking to understand the nature of elves' responsibility toward nature, but she always returned to her home plane of Zendikar.]
 

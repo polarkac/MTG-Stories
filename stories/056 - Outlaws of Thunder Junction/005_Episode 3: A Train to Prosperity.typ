@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 3: A Train to Prosperity",
-set_name: "Outlaws of Thunder Junction",
-story_date: datetime(day: 18, month: 03, year: 2024),
-author: "Akemi Dawn Bowman",
-doc)
+    "Episode 3: A Train to Prosperity",
+    set_name: "Outlaws of Thunder Junction",
+    story_date: datetime(day: 18, month: 03, year: 2024),
+    author: "Akemi Dawn Bowman",
+    doc
+)
 
 Akul dug his claws into the gravel, watching as two Hellspurs appeared through the thick smoke. Their fists were tightened around the mine overseer's disheveled uniform, and when they shoved the man toward Akul, the overseer collapsed to his knees, face stained with blood and soot.
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Blood Is Thicker than Venom",
-set_name: "Outlaws of Thunder Junction",
-story_date: datetime(day: 14, month: 03, year: 2024),
-author: "H.E. Edgmon",
-doc)
+    "Blood Is Thicker than Venom",
+    set_name: "Outlaws of Thunder Junction",
+    story_date: datetime(day: 14, month: 03, year: 2024),
+    author: "H.E. Edgmon",
+    doc
+)
 
 It's dark, the bedroom overlooking Saddlebrush lit by candlelight and the glow of the moon, when Annie Flash leaves a stranger's bed. Everything about the moment hangs in the in-between, where familiarity can no longer be feigned. It seems appropriate for a moment like this to be overstuffed with shadows. As she redresses, another sits up in bed.
 

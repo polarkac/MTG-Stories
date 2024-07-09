@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Armor in the Crypt",
-set_name: "Magic 2014",
-story_date: datetime(day: 03, month: 07, year: 2013),
-author: "Ari Levitch",
-doc)
+    "The Armor in the Crypt",
+    set_name: "Magic 2014",
+    story_date: datetime(day: 03, month: 07, year: 2013),
+    author: "Ari Levitch",
+    doc
+)
 
 The day was unusually hot. Not that the summers were mild here, but the oppressive heat had an uncharacteristically early start today. The heat visibly radiated off the black stones of the castle walls, and the sentries clung to patches of shade cast by the crenellations. On most mornings, Borico Gavish, son of the castle's lord, could be seen up on the battlements coordinating the castle's defenses against various imagined attackers. In this, he was an unquestioned master, for under his command, no such force had yet to breech the walls.
 

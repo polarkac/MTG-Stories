@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Nature of Identity",
-set_name: "Born of the Gods",
-story_date: datetime(day: 15, month: 01, year: 2014),
-author: "Adam Lee",
-doc)
+    "The Nature of Identity",
+    set_name: "Born of the Gods",
+    story_date: datetime(day: 15, month: 01, year: 2014),
+    author: "Adam Lee",
+    doc
+)
 
 #emph[When sentient, mortal beings die on Theros,]
 

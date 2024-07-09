@@ -3,7 +3,8 @@
     "Project Lightning Bug",
     story_date: datetime(day: 27, month: 05, year: 2015),
     author: "Doug Beyer",
-doc)
+    doc
+)
 
 #emph[The guilds of Ravnica have grudgingly accepted that Jace Beleren is now the living manifestation of the Guildpact. It has become apparent that whenever the guilds clash, it is Beleren who will adjudicate between them. What is not apparent is Beleren's true nature as a Planeswalker—except to an informed few. Izzet guildmage Ral Zarek has no love for the new Living Guildpact, but Ral is also secretly a Planeswalker, and that shared trait has suddenly become of critical importance.]
 

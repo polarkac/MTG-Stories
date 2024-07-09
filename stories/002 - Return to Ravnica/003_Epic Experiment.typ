@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Epic Experiment",
-set_name: "Return to Ravnica",
-story_date: datetime(day: 12, month: 09, year: 2012),
-author: "Jenna Helland",
-doc)
+    "Epic Experiment",
+    set_name: "Return to Ravnica",
+    story_date: datetime(day: 12, month: 09, year: 2012),
+    author: "Jenna Helland",
+    doc
+)
 
 #figure(image("003_Epic Experiment/02.jpg", width: 100%), caption: [Art by David Rapoza], supplement: none, numbering: none)
 

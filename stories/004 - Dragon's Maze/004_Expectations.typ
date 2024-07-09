@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Expectations",
-set_name: "Dragon's Maze",
-story_date: datetime(day: 24, month: 04, year: 2013),
-author: "Nik Davidson",
-doc)
+    "Expectations",
+    set_name: "Dragon's Maze",
+    story_date: datetime(day: 24, month: 04, year: 2013),
+    author: "Nik Davidson",
+    doc
+)
 
 Oana clutched an armful of scrolls as she sprinted down the echoing halls of New Prahv. She was late. That was almost a given. Her busiest days were scheduled out down to the minute, but never accounted for time to make it from one appointment to the next. By the time the sun had crested the skyline, she had already begun her daily descent, falling further and further behind the relentless march of hours.
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 7: Rot before Recovery",
-set_name: "Murders at Karlov Manor",
-story_date: datetime(day: 15, month: 01, year: 2024),
-author: "Seanan McGuire",
-doc)
+    "Episode 7: Rot before Recovery",
+    set_name: "Murders at Karlov Manor",
+    story_date: datetime(day: 15, month: 01, year: 2024),
+    author: "Seanan McGuire",
+    doc
+)
 
 Kellan didn't have an office so much as he had an alcove, a semi-partitioned little corner of the main floor where room had been made for a desk, a rickety file cabinet, and a small brass machine on a perfectly sized pedestal. Kellan tapped the machine as he ushered Kaya into the space. The machine made a soft humming sound and clicked on, its cracked glass screen becoming consumed by a web of notes and rough sketches.
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Behind the Black Sun",
-set_name: "Gatecrash",
-story_date: datetime(day: 27, month: 03, year: 2013),
-author: "Adam Lee",
-doc)
+    "Behind the Black Sun",
+    set_name: "Gatecrash",
+    story_date: datetime(day: 27, month: 03, year: 2013),
+    author: "Adam Lee",
+    doc
+)
 
 The candle flickered.
 

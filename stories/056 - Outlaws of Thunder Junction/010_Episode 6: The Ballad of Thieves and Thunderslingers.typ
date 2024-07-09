@@ -1,15 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
-#set page(
-    margin: (
-        top: 8.5em
-    )
-)
 #show: doc => conf(
-"Episode 6: The Ballad of Thieves and Thunderslingers",
-set_name: "Outlaws of Thunder Junction",
-story_date: datetime(day: 25, month: 03, year: 2024),
-author: "Akemi Dawn Bowman",
-doc)
+    "Episode 6: The Ballad of Thieves and Thunderslingers",
+    set_name: "Outlaws of Thunder Junction",
+    story_date: datetime(day: 25, month: 03, year: 2024),
+    author: "Akemi Dawn Bowman",
+    doc
+)
 
 The hot wind carried a flurry of embers that swirled around Oko like fireflies. He swept a hand through his hair, staring up at the entrance to the vault. A round door stretched into the dark fog. Lava seeped through the cracks, flowing over the edge and down onto Tarnation's surface below.
 

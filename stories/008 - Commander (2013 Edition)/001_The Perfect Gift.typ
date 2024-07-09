@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Perfect Gift",
-set_name: "Commander (Edition 2013)",
-story_date: datetime(day: 16, month: 10, year: 2013),
-author: "Nik Davidson",
-doc)
+    "The Perfect Gift",
+    set_name: "Commander (Edition 2013)",
+    story_date: datetime(day: 16, month: 10, year: 2013),
+    author: "Nik Davidson",
+    doc
+)
 
 The gilded dome of Earl Bartolotti's grand ballroom was famed for its perfect acoustic properties. Beneath it danced and swirled dozens of the High City's lesser nobility. For those on the edges of the aristocracy, the Earl's Spring Gala was the event of the year—a place where alliances were made and broken, business deals sealed, marriages and affairs arranged, and gossip flowed even more freely than the wine.
 

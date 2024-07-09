@@ -3,6 +3,7 @@
     "The Gathering Storm: Chapter 2",
     set_name: "Guilds of Ravnica",
     story_date: datetime(day: 12, month: 06, year: 2019),
+    author: "Django Wexler",
     doc
 )
 

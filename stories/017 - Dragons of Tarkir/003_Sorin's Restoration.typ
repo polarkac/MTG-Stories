@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Sorin's Restoration",
-set_name: "Dragons of Tarkir",
-story_date: datetime(day: 27, month: 03, year: 2015),
-author: "Doug Beyer",
-doc)
+    "Sorin's Restoration",
+    set_name: "Dragons of Tarkir",
+    story_date: datetime(day: 27, month: 03, year: 2015),
+    author: "Doug Beyer",
+    doc
+)
 
 #emph[The vampire Planeswalker Sorin Markov has come to Tarkir seeking the spirit dragon Ugin. Long ago, Sorin helped Ugin and another Planeswalker, the lithomancer Nahiri, seal away the monstrous Eldrazi on Zendikar. Recently, the Eldrazi escaped, and Sorin believes that Ugin is one of the few who can stop them.]
 

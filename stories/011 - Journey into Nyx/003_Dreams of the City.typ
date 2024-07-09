@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Dreams of the City",
-set_name: "Journey into Nyx",
-story_date: datetime(day: 23, month: 04, year: 2014),
-author: "Ken Troop",
-doc)
+    "Dreams of the City",
+    set_name: "Journey into Nyx",
+    story_date: datetime(day: 23, month: 04, year: 2014),
+    author: "Ken Troop",
+    doc
+)
 
 === Somewhere in Meletis
 

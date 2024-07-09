@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"No End and No Beginning",
-set_name: "Fate Reforged",
-story_date: datetime(day: 11, month: 02, year: 2015),
-author: "Nik Davidson",
-doc)
+    "No End and No Beginning",
+    set_name: "Fate Reforged",
+    story_date: datetime(day: 11, month: 02, year: 2015),
+    author: "Nik Davidson",
+    doc
+)
 
 #emph[Several years have passed since Sarkhan Vol ] altered the fate of Tarkir #emph[by saving Ugin from the villainous Nicol Bolas and encasing the ailing Spirit Dragon in a cocoon of stone. Since then, the dragon tempests that spawn young dragons on Tarkir have not only continued—they have intensified—as though enraged at Ugin's injury.]
 

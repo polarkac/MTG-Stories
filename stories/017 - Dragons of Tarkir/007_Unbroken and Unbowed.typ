@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Unbroken and Unbowed",
-set_name: "Dragons of Tarkir",
-story_date: datetime(day: 22, month: 04, year: 2015),
-author: "Kelly Digges",
-doc)
+    "Unbroken and Unbowed",
+    set_name: "Dragons of Tarkir",
+    story_date: datetime(day: 22, month: 04, year: 2015),
+    author: "Kelly Digges",
+    doc
+)
 
 #emph[Sarkhan Vol has been on a strange journey, and his search for understanding is almost at an end. He traveled back through time, changed the past, and returned to a present transformed by his action. He has ] encountered old enemies and old friends#emph[, and none of them remember him. He has searched for Narset, whose sacrifice enabled him to change the past, and found her nowhere on Tarkir.]
 

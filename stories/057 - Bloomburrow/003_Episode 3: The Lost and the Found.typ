@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 3: The Lost and the Found",
-set_name: "Bloomburrow",
-story_date: datetime(day: 03, month: 07, year: 2024),
-author: "Valerie Valdes",
-doc)
+    "Episode 3: The Lost and the Found",
+    set_name: "Bloomburrow",
+    story_date: datetime(day: 03, month: 07, year: 2024),
+    author: "Valerie Valdes",
+    doc
+)
 
 #strong[Helga]
 

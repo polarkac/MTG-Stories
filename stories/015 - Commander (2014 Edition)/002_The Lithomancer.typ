@@ -1,10 +1,12 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Lithomancer",
-set_name: "Commander (2014 Edition)",
-story_date: datetime(day: 29, month: 10, year: 2014),
-author: "Kelly Digges",
-doc)
+    "The Lithomancer",
+    set_name: "Commander (2014 Edition)",
+    story_date: datetime(day: 29, month: 10, year: 2014),
+    author: "Kelly Digges",
+    doc
+)
+
 #emph[Long ago, the world-devouring Eldrazi were sealed away on Zendikar by three Planeswalkers: the spirit dragon Ugin; the vampire Sorin Markov; and a third Planeswalker called the Lithomancer, about whom little is known in the present day.]
 
 #emph[Today, we look back in time, more than 6,000 years ago, to a plane whose name is lost to history.]

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Kruphix's Insight",
-set_name: "Journey into Nyx",
-story_date: datetime(day: 11, month: 06, year: 2014),
-author: "Kelly Digges",
-doc)
+    "Kruphix's Insight",
+    set_name: "Journey into Nyx",
+    story_date: datetime(day: 11, month: 06, year: 2014),
+    author: "Kelly Digges",
+    doc
+)
 
 Diantha took a deep breath, centered herself, and knocked.
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"A Pleasant Family Outing",
-set_name: "Outlaws of Thunder Junction",
-story_date: datetime(day: 21, month: 03, year: 2024),
-author: "Seanan McGuire",
-doc)
+    "A Pleasant Family Outing",
+    set_name: "Outlaws of Thunder Junction",
+    story_date: datetime(day: 21, month: 03, year: 2024),
+    author: "Seanan McGuire",
+    doc
+)
 
 THE EFFECTS OF TRANS-PLANAR RELOCATION ON INDIVIDUAL MAGICAL MANIFESTATIONS: #linebreak() A MONOGRAPH BY GERALF CECANI
 

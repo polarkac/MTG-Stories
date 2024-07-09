@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Xathrid Gorgon",
-set_name: "Magic 2013",
-story_date: datetime(day: 04, month: 07, year: 2012),
-author: "Jenna Helland",
-doc)
+    "Xathrid Gorgon",
+    set_name: "Magic 2013",
+    story_date: datetime(day: 04, month: 07, year: 2012),
+    author: "Jenna Helland",
+    doc
+)
 
 #figure(image("002_Xathrid Gorgon/01.jpg", height: 40%), caption: [], supplement: none, numbering: none)
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Kiora's Followers",
-set_name: "Born of the Gods",
-story_date: datetime(day: 12, month: 02, year: 2014),
-author: "Kelly Digges",
-doc)
+    "Kiora's Followers",
+    set_name: "Born of the Gods",
+    story_date: datetime(day: 12, month: 02, year: 2014),
+    author: "Kelly Digges",
+    doc
+)
 
 #emph[Every sea is different, but all of them are connected.]
 

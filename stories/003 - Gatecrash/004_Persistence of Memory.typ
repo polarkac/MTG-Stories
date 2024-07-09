@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Persistence of Memory",
-set_name: "Gatecrash",
-story_date: datetime(day: 23, month: 01, year: 2013),
-author: "Adam Lee",
-doc)
+    "Persistence of Memory",
+    set_name: "Gatecrash",
+    story_date: datetime(day: 23, month: 01, year: 2013),
+    author: "Adam Lee",
+    doc
+)
 
 Sarusin sat in a dimly lit room far beneath the cobbled streets of Ravnica. He knew by the air that he was underground—the smell and sounds were different underground. Where he was exactly he had no idea, which was strange, as Sarusin knew the tunnels under the Seventh District quite well. He should; he grew up in them.
 

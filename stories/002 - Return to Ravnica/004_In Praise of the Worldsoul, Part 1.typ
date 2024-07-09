@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"In Praise of the Worldsoul, Part 1",
-set_name: "Return to Ravnica",
-story_date: datetime(day: 26, month: 09, year: 2012),
-author: "Jenna Helland",
-doc)
+    "In Praise of the Worldsoul, Part 1",
+    set_name: "Return to Ravnica",
+    story_date: datetime(day: 26, month: 09, year: 2012),
+    author: "Jenna Helland",
+    doc
+)
 
 Tiptoes!" the young elf squeaked before yanking desperately on the left rein. Her wolf veered sharply and tripped off the low beam. The elf clutched at him, slipped sideways in the saddle, and they both tumbled awkwardly to the ground.
 

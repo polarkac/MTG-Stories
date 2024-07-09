@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Monster",
-set_name: "Magic 2015",
-story_date: datetime(day: 20, month: 08, year: 2014),
-author: "Ken Troop",
-doc)
+    "Monster",
+    set_name: "Magic 2015",
+    story_date: datetime(day: 20, month: 08, year: 2014),
+    author: "Ken Troop",
+    doc
+)
 
 #emph[Garruk Wildspeaker is not the man he once was. Cursed by Liliana Vess and the sinister power of the Chain Veil, he turned his savage instincts toward hunting the most dangerous prey of all: other Planeswalkers. Left unchecked, he would have slaughtered his way through the multitude of planes.]
 

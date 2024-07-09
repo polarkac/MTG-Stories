@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Emonberry Red",
-set_name: "Born of the Gods",
-story_date: datetime(day: 05, month: 02, year: 2014),
-author: "Clayton Kroh",
-doc)
+    "Emonberry Red",
+    set_name: "Born of the Gods",
+    story_date: datetime(day: 05, month: 02, year: 2014),
+    author: "Clayton Kroh",
+    doc
+)
 
 #emph[There was no need to trouble the Agent for this; it simply required Adrasteia's shears. Such a shame, she thought, and sighed aloud. Her two sisters, one at the far end of the enormous and ancient oak table, the other at the side midway between the two, paused their work on a great tapestry spread out between them to look up.]
 

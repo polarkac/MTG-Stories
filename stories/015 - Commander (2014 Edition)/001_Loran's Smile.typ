@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Loran's Smile",
-set_name: "Commander (2014 Edition)",
-story_date: datetime(day: 27, month: 10, year: 2014),
-author: "Jeff Grubb",
-doc)
+    "Loran's Smile",
+    set_name: "Commander (2014 Edition)",
+    story_date: datetime(day: 27, month: 10, year: 2014),
+    author: "Jeff Grubb",
+    doc
+)
 
 #emph[This short story originally ran in ] The Colors of Magic#emph[ anthology published in 1999. It retells portions of the story of ] Antiquities#emph[, including the story of Feldon, who received his own legendary creature card in ] Commander (2014 Edition)#emph[, previewed today in an article by Ethan Fleischer and Ian Duke. Ethan took a great deal of Feldon's design from this very story, so we thought we'd share it with you all.]
 

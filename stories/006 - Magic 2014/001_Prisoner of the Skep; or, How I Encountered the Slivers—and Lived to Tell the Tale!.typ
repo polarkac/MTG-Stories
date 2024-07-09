@@ -1,11 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
-#set page(margin: (top: 96pt))
 #show: doc => conf(
-"Prisoner of the Skep; or, How I Encountered the Slivers—and Lived to Tell the Tale!",
-set_name: "Magic 2014",
-story_date: datetime(day: 26, month: 06, year: 2013),
-author: "Jennifer Clarke Wilkes",
-doc)
+    "Prisoner of the Skep; or, How I Encountered the Slivers—and Lived to Tell the Tale!",
+    set_name: "Magic 2014",
+    story_date: datetime(day: 26, month: 06, year: 2013),
+    author: "Jennifer Clarke Wilkes",
+    doc
+)
 
 #emph["One emitted a strange series of buzzing clicks and guttural commands, then clawed arms emerged from all of them. Is there no limit to their adaptations?"]
 

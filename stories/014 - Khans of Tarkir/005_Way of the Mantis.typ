@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Way of the Mantis",
-set_name: "Khans of Tarkir",
-story_date: datetime(day: 08, month: 10, year: 2014),
-author: "Matt Knicl",
-doc)
+    "Way of the Mantis",
+    set_name: "Khans of Tarkir",
+    story_date: datetime(day: 08, month: 10, year: 2014),
+    author: "Matt Knicl",
+    doc
+)
 
 #emph[On many planes, the mantis is a small creature. On Tarkir, the mantises are larger than oxen and native to the mountainous region the Jeskai control.]
 

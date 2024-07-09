@@ -1,15 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
-#set page(margin: (top: 96pt))
 #show: doc => conf(
-"Episode 2: Wandering Knight, Budding Hero",
-set_name: "Wilds of Eldraine",
-story_date: datetime(day: 09, month: 08, year: 2023),
-author: "K. Arsenault Rivera",
-doc)
-
-#v(0.35em)
-#line(length: 100%, stroke: rgb(90%, 90%, 90%))
-#v(0.35em)
+    "Episode 2: Wandering Knight, Budding Hero",
+    set_name: "Wilds of Eldraine",
+    story_date: datetime(day: 09, month: 08, year: 2023),
+    author: "K. Arsenault Rivera",
+    doc
+)
 
 Across the valleys and into the wilds ventures Rowan Kenrith. Atop a stout horse, with a sharp blade hanging at her hip and sparks dancing from her fingertips, she journeys wherever the winds guide her. Gladly the smallfolk take her into their homes, offering what little they have; gladly does Rowan accept their kindness. In the small hours of the night, when they ask her why she is awake, she asks if they've heard where she might find a cure for the Wicked Slumber.
 

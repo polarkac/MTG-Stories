@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Fblthp",
-set_name: "Gatecrash",
-story_date: datetime(day: 25, month: 12, year: 2013),
-author: "Matt Tabak",
-doc)
+    "Fblthp",
+    set_name: "Gatecrash",
+    story_date: datetime(day: 25, month: 12, year: 2013),
+    author: "Matt Tabak",
+    doc
+)
 
 The noise that escaped Fblthp's lips could best be described as a whimper. He didn't speak any language the citizens of Ravnica were familiar with, but that agonized sound of desperation was instantly recognizable. Unfortunately, the alley Fblthp found himself in was seemingly deserted, except for who caused the whimper in the first place.
 

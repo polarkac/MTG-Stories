@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 1: Ghosts of Our Past",
-set_name: "Murders at Karlov Manor",
-story_date: datetime(day: 05, month: 12, year: 2023),
-author: "Seanan McGuire",
-doc)
+    "Episode 1: Ghosts of Our Past",
+    set_name: "Murders at Karlov Manor",
+    story_date: datetime(day: 05, month: 12, year: 2023),
+    author: "Seanan McGuire",
+    doc
+)
 
 The sky over Karlov Manor danced with a dizzying array of colors, brought to life by shimmering cascades of magic. The Orzhov had purchased every Izzet pyrowork in the Tenth District, creating a profligate display of power and plenty. #emph[See? ] it said, even to those not fortunate or favored enough to have obtained an invitation. #emph[See? ] We have so many resources at our command that we can spend them on frivolities. Ravnica is safe now: we do not need to worry and conserve for wartime. It was a calculated expenditure, and every burst of colors or illusionary blossoms falling from the sky reminded the people living in the shadow of the Orzhov Syndicate who their saviors were.
 

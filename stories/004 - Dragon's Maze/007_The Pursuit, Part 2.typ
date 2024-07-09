@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Pursuit, Part 2",
-set_name: "Dragon's Maze",
-story_date: datetime(day: 14, month: 05, year: 2013),
-author: "Ari Levitch",
-doc)
+    "The Pursuit, Part 2",
+    set_name: "Dragon's Maze",
+    story_date: datetime(day: 14, month: 05, year: 2013),
+    author: "Ari Levitch",
+    doc
+)
 
 "You should not have come."
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The First World Is the Hardest",
-set_name: "Commander (2014 Edition)",
-story_date: datetime(day: 05, month: 11, year: 2014),
-author: "Nik Davidson",
-doc)
+    "The First World Is the Hardest",
+    set_name: "Commander (2014 Edition)",
+    story_date: datetime(day: 05, month: 11, year: 2014),
+    author: "Nik Davidson",
+    doc
+)
 
 #emph[When we first met Ob Nixilis, he was a fearsome—but wingless—demon, a former Planeswalker who had somehow become trapped on Zendikar. The next time we saw him on a card, he had regained some portion of his former power when the hedron shard embedded in his head was removed. Despite that, he remains unable to leave Zendikar for the time being, as shown in the Uncharted Realms story "] Dreams of the Damned#emph[."]
 

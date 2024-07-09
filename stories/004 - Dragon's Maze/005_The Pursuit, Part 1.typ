@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Pursuit, Part 1",
-set_name: "Dragon's Maze",
-story_date: datetime(day: 01, month: 05, year: 2013),
-author: "Ari Levitch",
-doc)
+    "The Pursuit, Part 1",
+    set_name: "Dragon's Maze",
+    story_date: datetime(day: 01, month: 05, year: 2013),
+    author: "Ari Levitch",
+    doc
+)
 
 Alayer of tension permeated the laboratory that made even the signature Izzet hiss of steam and the creaking of countless moving parts seem distant. For the aging guildmage, Madarrak, nothing existed at that moment except anticipation.
 

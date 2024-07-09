@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Reforged Chain",
-set_name: "Fate Reforged",
-story_date: datetime(day: 21, month: 01, year: 2015),
-author: "Doug Beyer",
-doc)
+    "The Reforged Chain",
+    set_name: "Fate Reforged",
+    story_date: datetime(day: 21, month: 01, year: 2015),
+    author: "Doug Beyer",
+    doc
+)
 
 #emph[Sarkhan Vol followed the whispers of the spirit dragon Ugin back into Tarkir's past, with no idea what to expect. He found a glorious world, full of hungry dragons and vigorous clans.]
 

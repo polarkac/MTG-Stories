@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Guardian",
-set_name: "Dragons of Tarkir",
-story_date: datetime(day: 02, month: 04, year: 2015),
-author: "Ari Levitch",
-doc)
+    "The Guardian",
+    set_name: "Dragons of Tarkir",
+    story_date: datetime(day: 02, month: 04, year: 2015),
+    author: "Ari Levitch",
+    doc
+)
 
 #emph[In the original timeline of ] Khans of Tarkir#emph[, Anafenza ] was khan of the Abzan#emph[, the stalwart ruler of an enduringly loyal clan. In the alternative timeline of ] Dragons of Tarkir#emph[, her fate has been less kind, but no less grand…]
 

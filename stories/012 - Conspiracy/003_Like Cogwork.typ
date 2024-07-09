@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Like Cogwork",
-set_name: "Conspiracy",
-story_date: datetime(day: 28, month: 05, year: 2014),
-author: "Matt Knicl",
-doc)
+    "Like Cogwork",
+    set_name: "Conspiracy",
+    story_date: datetime(day: 28, month: 05, year: 2014),
+    author: "Matt Knicl",
+    doc
+)
 
 #strong[Academy at High Paliano Board of Senior Advisors] #linebreak() Meeting called to order by Chancellor Grinaldi.
 

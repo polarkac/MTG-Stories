@@ -3,7 +3,8 @@
     "Ravnica High",
     story_date: datetime(day: 14, month: 08, year: 2013),
     author: "Jennifer Clarke Wilkes",
-doc)
+    doc
+)
 
 #figure(image("001_Ravnica High/01.jpg", width: 100%), caption: [Tablet of the Guilds | Art by Nic Klein], supplement: none, numbering: none)
 

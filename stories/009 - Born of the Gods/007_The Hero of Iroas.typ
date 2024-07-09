@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Hero of Iroas",
-set_name: "Born of the Gods",
-story_date: datetime(day: 05, month: 03, year: 2014),
-author: "Matt Knicl",
-doc)
+    "The Hero of Iroas",
+    set_name: "Born of the Gods",
+    story_date: datetime(day: 05, month: 03, year: 2014),
+    author: "Matt Knicl",
+    doc
+)
 
 In fairness, the giant had just been awakened. Still, not everyone would be able to bring down a brute twice the size of a city temple, even if it was in a stupor, so I guess I am a hero. That's not to say I'm the greatest hero or would even be remembered once I fell, but I would not turn away being called "Aesrias, the hero." I am stronger than others of my age and have always been able to easily master all manner of weapons, although for challenge I prefer to use my own fists in combat.
 

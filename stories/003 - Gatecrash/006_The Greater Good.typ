@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Greater Good",
-set_name: "Gatecrash",
-story_date: datetime(day: 06, month: 02, year: 2013),
-author: "Adam Lee",
-doc)
+    "The Greater Good",
+    set_name: "Gatecrash",
+    story_date: datetime(day: 06, month: 02, year: 2013),
+    author: "Adam Lee",
+    doc
+)
 
 When the massive doors of the war room swung open, Gideon Jura could feel energy hit him like a wave of heat from a smelting forge. It wasn't actual heat, but more like an energetic wind that pulsated through his body like a shockwave. For a second, he was taken aback by the power. He had been around many angels in his time, but her aura was an order of magnitude higher than any he had encountered.
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Walls of Akros",
-set_name: "Born of the Gods",
-story_date: datetime(day: 26, month: 02, year: 2014),
-author: "Kelly Digges",
-doc)
+    "The Walls of Akros",
+    set_name: "Born of the Gods",
+    story_date: datetime(day: 26, month: 02, year: 2014),
+    author: "Kelly Digges",
+    doc
+)
 
 #figure(image("006_The Walls of Akros/01.jpg", width: 100%), caption: [Peregrination | Art by Jonas De Ro], supplement: none, numbering: none)
 

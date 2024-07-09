@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"A Blessed Life",
-set_name: "Magic 2014",
-story_date: datetime(day: 24, month: 07, year: 2013),
-author: "Nik Davidson",
-doc)
+    "A Blessed Life",
+    set_name: "Magic 2014",
+    story_date: datetime(day: 24, month: 07, year: 2013),
+    author: "Nik Davidson",
+    doc
+)
 
 The inquisitor towered over Brenalt, her face impassive and stern. "Explain to me how you survived, Soldier." The threat hung plain and heavy in her voice. If his story did not satisfy the inquisitor, Brenalt would never rise from his hospital bed.
 

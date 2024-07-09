@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Dance of the Flitterstep",
-set_name: "Born of the Gods",
-story_date: datetime(day: 19, month: 02, year: 2014),
-author: "Jennifer Clarke Wilkes",
-doc)
+    "Dance of the Flitterstep",
+    set_name: "Born of the Gods",
+    story_date: datetime(day: 19, month: 02, year: 2014),
+    author: "Jennifer Clarke Wilkes",
+    doc
+)
 
 #emph["More children taken. This is an evil we will track without mercy."]
 

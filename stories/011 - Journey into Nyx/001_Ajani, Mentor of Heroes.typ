@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Ajani, Mentor of Heroes",
-set_name: "Journey into Nyx",
-story_date: datetime(day: 09, month: 04, year: 2014),
-author: "Kelly Digges",
-doc)
+    "Ajani, Mentor of Heroes",
+    set_name: "Journey into Nyx",
+    story_date: datetime(day: 09, month: 04, year: 2014),
+    author: "Kelly Digges",
+    doc
+)
 
 A warm breeze, touched lightly with the scent of olives and the distant sea, ruffled Ajani's fur. It whispered through short yellow grass and the bright green leaves of stout, timeworn trees.
 

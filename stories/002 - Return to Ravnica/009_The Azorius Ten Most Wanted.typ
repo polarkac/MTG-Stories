@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Azorius Ten Most Wanted",
-set_name: "Return to Ravnica",
-story_date: datetime(day: 31, month: 10, year: 2012),
-author: "Jenna Helland",
-doc)
+    "The Azorius Ten Most Wanted",
+    set_name: "Return to Ravnica",
+    story_date: datetime(day: 31, month: 10, year: 2012),
+    author: "Jenna Helland",
+    doc
+)
 
 #figure(image("009_The Azorius Ten Most Wanted/01.jpg", width: 100%), caption: [], supplement: none, numbering: none)
 

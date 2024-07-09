@@ -3,6 +3,7 @@
     "The Foes Who Make Us",
     set_name: "Kamigawa: Neon Dynasty",
     story_date: datetime(day: 09, month: 02, year: 2022),
+    author: "Abbey Mei Otis",
     doc
 )
 

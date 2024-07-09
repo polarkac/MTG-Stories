@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Poisoned Heart",
-set_name: "Dragons of Tarkir",
-story_date: datetime(day: 08, month: 04, year: 2015),
-author: "Sam Stoddard",
-doc)
+    "The Poisoned Heart",
+    set_name: "Dragons of Tarkir",
+    story_date: datetime(day: 08, month: 04, year: 2015),
+    author: "Sam Stoddard",
+    doc
+)
 
 #emph[In the heart of the Dragonlord Silumgar's fortress, the undead naga Sidisi bides her time…]
 

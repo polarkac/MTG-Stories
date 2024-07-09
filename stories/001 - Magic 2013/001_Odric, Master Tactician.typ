@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Odric, Master Tactician",
-set_name: "Magic 2013",
-story_date: datetime(day: 27, month: 06, year: 2012),
-author: "Jenna Helland",
-doc)
+    "Odric, Master Tactician",
+    set_name: "Magic 2013",
+    story_date: datetime(day: 27, month: 06, year: 2012),
+    author: "Jenna Helland",
+    doc
+)
 
 #figure(image("001_Odric, Master Tactician/01.jpg", height: 40%), caption: [], supplement: none, numbering: none)
 

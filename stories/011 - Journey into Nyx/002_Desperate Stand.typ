@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Desperate Stand",
-set_name: "Journey into Nyx",
-story_date: datetime(day: 16, month: 04, year: 2014),
-author: "Matt Knicl",
-doc)
+    "Desperate Stand",
+    set_name: "Journey into Nyx",
+    story_date: datetime(day: 16, month: 04, year: 2014),
+    author: "Matt Knicl",
+    doc
+)
 
 When I was caught stealing from the magister's study, I was given two choices. I could join the noble Akroan soldiers, or I could be executed. The magister must have been a wicked man, I thought, for he was sentencing me to death—I just got to choose the timetable.
 

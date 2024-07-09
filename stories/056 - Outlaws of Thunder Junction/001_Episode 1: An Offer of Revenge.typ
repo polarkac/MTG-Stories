@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 1: An Offer of Revenge",
-set_name: "Outlaws of Thunder Junction",
-story_date: datetime(day: 11, month: 03, year: 2024),
-author: "Akemi Dawn Bowman",
-doc)
+    "Episode 1: An Offer of Revenge",
+    set_name: "Outlaws of Thunder Junction",
+    story_date: datetime(day: 11, month: 03, year: 2024),
+    author: "Akemi Dawn Bowman",
+    doc
+)
 
 The sun set over Omenport. Bursts of amber light slipped past the triangular rooftops, casting pointed shadows across the coarse desert grass that ran through the middle of town. Clusters of cacti were dotted around the wooden buildings, and a single fountain sat in the middle of the plaza, water bubbling with magic to keep it permanently cool. The mission bells rang out as they did every evening at sundown, and still, Archie Dixon checked his pocket watch, again and again.
 

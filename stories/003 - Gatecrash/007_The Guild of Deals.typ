@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Guild of Deals",
-set_name: "Gatecrash",
-story_date: datetime(day: 12, month: 02, year: 2013),
-author: "Adam Lee",
-doc)
+    "The Guild of Deals",
+    set_name: "Gatecrash",
+    story_date: datetime(day: 12, month: 02, year: 2013),
+    author: "Adam Lee",
+    doc
+)
 
 #figure(image("007_The Guild of Deals/02.jpg", width: 100%), caption: [Orzhov Guildgate | Art by John Avon], supplement: none, numbering: none)
 

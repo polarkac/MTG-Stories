@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 9: Beauty in Destruction",
-set_name: "Murders at Karlov Manor",
-story_date: datetime(day: 17, month: 01, year: 2024),
-author: "Seanan McGuire",
-doc)
+    "Episode 9: Beauty in Destruction",
+    set_name: "Murders at Karlov Manor",
+    story_date: datetime(day: 17, month: 01, year: 2024),
+    author: "Seanan McGuire",
+    doc
+)
 
 Silence filled the room until it felt like they were collectively choking on it. Ezrim looked to Kaya. "Did you know this?" he asked, shattering the silence into something more manageable.
 

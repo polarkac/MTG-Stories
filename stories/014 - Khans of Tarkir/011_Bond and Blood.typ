@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Bond and Blood",
-set_name: "Khans of Tarkir",
-story_date: datetime(day: 03, month: 12, year: 2014),
-author: "Ari Levitch",
-doc)
+    "Bond and Blood",
+    set_name: "Khans of Tarkir",
+    story_date: datetime(day: 03, month: 12, year: 2014),
+    author: "Ari Levitch",
+    doc
+)
 
 #emph[Anafenza, khan of the Abzan Houses, takes the throne—and her vengeance.]
 

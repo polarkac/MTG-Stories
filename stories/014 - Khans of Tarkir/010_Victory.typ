@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Victory",
-set_name: "Khans of Tarkir",
-story_date: datetime(day: 26, month: 11, year: 2014),
-author: "Tom LaPille",
-doc)
+    "Victory",
+    set_name: "Khans of Tarkir",
+    story_date: datetime(day: 26, month: 11, year: 2014),
+    author: "Tom LaPille",
+    doc
+)
 
 #emph[Zurgo, khan of the Mardu, knows how to nurse a grudge. And there's no one he hates more than the Planeswalker Sarkhan Vol, a former Mardu who burned his own clanmates with dragonfire when his spark ignited.]
 

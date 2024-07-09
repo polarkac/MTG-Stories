@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Threadbare",
-set_name: "Magic 2013",
-story_date: datetime(day: 23, month: 07, year: 2012),
-author: "Jenna Helland",
-doc)
+    "Threadbare",
+    set_name: "Magic 2013",
+    story_date: datetime(day: 23, month: 07, year: 2012),
+    author: "Jenna Helland",
+    doc
+)
 
 #figure(image("005_Threadbare/01.png", height: 40%), caption: [], supplement: none, numbering: none)
 

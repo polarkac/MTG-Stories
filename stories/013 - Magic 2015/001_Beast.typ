@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Beast",
-set_name: "Magic 2015",
-story_date: datetime(day: 18, month: 06, year: 2014),
-author: "Tom LaPille",
-doc)
+    "Beast",
+    set_name: "Magic 2015",
+    story_date: datetime(day: 18, month: 06, year: 2014),
+    author: "Tom LaPille",
+    doc
+)
 
 #emph[Garruk Wildspeaker was once deeply in touch with nature, a potent beastcaller, and master of green magic...until the necromancer Liliana Vess cursed him using the dangerous artifact known as the Chain Veil. Suffused with black mana and cut off from the voice of the wild, Garruk became a feral killer with only one goal: find Liliana and make her reverse what she had done.]
 

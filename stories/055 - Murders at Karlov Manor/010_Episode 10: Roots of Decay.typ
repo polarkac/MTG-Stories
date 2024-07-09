@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 10: Roots of Decay",
-set_name: "Murders at Karlov Manor",
-story_date: datetime(day: 18, month: 01, year: 2024),
-author: "Seanan McGuire",
-doc)
+    "Episode 10: Roots of Decay",
+    set_name: "Murders at Karlov Manor",
+    story_date: datetime(day: 18, month: 01, year: 2024),
+    author: "Seanan McGuire",
+    doc
+)
 
 The vine around Kaya's ankle pulled tight enough to feel like it was grinding against the bone. Not that pain was the problem; she was an assassin and had been called on to serve as a warrior more times than she liked to ponder. Pain was an old friend at this point. Pain meant she wasn't dead yet, and as the vine whipped her toward what was sure to be a devastating impact with the ground, she knew without question that she wasn't ready to be. Death came for everyone, even Planeswalkers—and wow, did she know that was true—but she'd never seen any sign that the dead could walk between planes. When she died, she'd be staying wherever she fell.
 

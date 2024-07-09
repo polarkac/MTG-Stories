@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Unwritten",
-set_name: "Fate Reforged",
-story_date: datetime(day: 14, month: 01, year: 2015),
-author: "Kelly Digges",
-doc)
+    "Unwritten",
+    set_name: "Fate Reforged",
+    story_date: datetime(day: 14, month: 01, year: 2015),
+    author: "Kelly Digges",
+    doc
+)
 
 #emph[Sarkhan Vol has arrived in Tarkir's past, more than a thousand years before his birth.] #emph[ When he first arrived, he saw the plane's long-extinct dragons for the first time, watching them emerge from a crackling storm.]
 

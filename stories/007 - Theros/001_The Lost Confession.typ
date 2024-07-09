@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Lost Confession",
-set_name: "Theros",
-story_date: datetime(day: 11, month: 09, year: 2013),
-author: "Jenna Helland",
-doc)
+    "The Lost Confession",
+    set_name: "Theros",
+    story_date: datetime(day: 11, month: 09, year: 2013),
+    author: "Jenna Helland",
+    doc
+)
 
 Ajani,
 

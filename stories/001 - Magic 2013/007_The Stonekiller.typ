@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Stonekiller",
-set_name: "Magic 2013",
-story_date: datetime(day: 08, month: 08, year: 2012),
-author: "Jenna Helland",
-doc)
+    "The Stonekiller",
+    set_name: "Magic 2013",
+    story_date: datetime(day: 08, month: 08, year: 2012),
+    author: "Jenna Helland",
+    doc
+)
 
 #figure(image("007_The Stonekiller/01.jpg", height: 40%), caption: [], supplement: none, numbering: none)
 

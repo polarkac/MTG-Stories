@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Absolution of the Guildpact",
-set_name: "Gatecrash",
-story_date: datetime(day: 16, month: 01, year: 2013),
-author: "Adam Lee",
-doc)
+    "The Absolution of the Guildpact",
+    set_name: "Gatecrash",
+    story_date: datetime(day: 16, month: 01, year: 2013),
+    author: "Adam Lee",
+    doc
+)
 
 Gorev Hadszak leaned back in his chair and rubbed the white stubble of his chin while he watched the crowd file in and the people take their places in front of the stage. Gorev was grizzled in every sense of the word—his face, his clothing, his demeanor. He had been a Wojek, and even though he was many years into his retirement, he would tell you he was #emph[still]  a Wojek. No one knew exactly how old Gorev was, as Boros magic could sustain a Wojek's life far beyond the average person. In spite of his age, gray hair, and weathered features, Gorev still looked like he could wrestle a drunken ogre out of a bar or knock out a Rakdos spiker. His wrists were as thick as most men's calves and his arms were covered in scars. He had a face that looked like you could hit it with a wooden plank and not leave a mark... well, at least not a new mark. Besides, Gorev's face had been hit by things #emph[much]  harder than a plank.
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Salt Road",
-set_name: "Khans of Tarkir",
-story_date: datetime(day: 12, month: 11, year: 2014),
-author: "Jermiah Isgur",
-doc)
+    "The Salt Road",
+    set_name: "Khans of Tarkir",
+    story_date: datetime(day: 12, month: 11, year: 2014),
+    author: "Jermiah Isgur",
+    doc
+)
 
 "Captain." The lieutenant jogged up beside him, kicking up a spray of dusty sand that drifted sideways in the breeze sweeping across the craggy steppes that hot afternoon. "Do you see that smoke there on the horizon, to the east of Golem Rock? That could be a Mardu camp." He raised his arm to illustrate the vector and pointed with his gloved hand, each overlapping metal plate of the articulated fingers clicking into place as he straightened his index finger.
 

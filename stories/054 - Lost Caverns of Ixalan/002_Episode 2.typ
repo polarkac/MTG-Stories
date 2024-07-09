@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 2",
-set_name: "Lost Caverns of Ixalan",
-story_date: datetime(day: 20, month: 10, year: 2023),
-author: "Valerie Valdes",
-doc)
+    "Episode 2",
+    set_name: "Lost Caverns of Ixalan",
+    story_date: datetime(day: 20, month: 10, year: 2023),
+    author: "Valerie Valdes",
+    doc
+)
 
 == Wayta
 

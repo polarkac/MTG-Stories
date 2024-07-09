@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Preparation",
-set_name: "Modern Masters",
-story_date: datetime(day: 29, month: 05, year: 2013),
-author: "Nik Davidson",
-doc)
+    "Preparation",
+    set_name: "Modern Masters",
+    story_date: datetime(day: 29, month: 05, year: 2013),
+    author: "Nik Davidson",
+    doc
+)
 
 #emph["There's no such thing as a fair fight."]
 

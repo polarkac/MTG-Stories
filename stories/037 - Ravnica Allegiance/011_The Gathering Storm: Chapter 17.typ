@@ -3,6 +3,7 @@
     "The Gathering Storm: Chapter 17",
     set_name: "Ravnica Allegiance",
     story_date: datetime(day: 02, month: 10, year: 2019),
+    author: "Django Wexler",
     doc
 )
 

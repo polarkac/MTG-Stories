@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Doom of the Golden Fang",
-set_name: "Fate Reforged",
-story_date: datetime(day: 04, month: 02, year: 2015),
-author: "James Wyatt",
-doc)
+    "The Doom of the Golden Fang",
+    set_name: "Fate Reforged",
+    story_date: datetime(day: 04, month: 02, year: 2015),
+    author: "James Wyatt",
+    doc
+)
 
 Tasigur lifted a banana from the bowl at his side and turned it over in his hands. A large brown spot marred the yellow skin. Wrinkling his nose in disgust, he prodded it with his thumb, feeling the squish of the fruit inside and the gentle tear of the softened skin. He glanced around, threw the spoiled fruit at the nearest human servant he could see, and picked a bright green grape from the bowl instead.
 

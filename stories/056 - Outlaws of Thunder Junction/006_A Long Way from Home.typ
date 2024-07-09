@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"A Long Way from Home",
-set_name: "Outlaws of Thunder Junction",
-story_date: datetime(day: 19, month: 03, year: 2024),
-author: "Akemi Dawn Bowman",
-doc)
+    "A Long Way from Home",
+    set_name: "Outlaws of Thunder Junction",
+    story_date: datetime(day: 19, month: 03, year: 2024),
+    author: "Akemi Dawn Bowman",
+    doc
+)
 
 Nashi stood beneath a canopy of oversized cacti. Sunlight slipped through the mess of short prickles, making crisscrossed shadows appear over his feet. He took a step back, tucking himself farther into the shade. The cacti forest was one of the greenest places on Thunder Junction, but only the hardiest wildflowers and desert vegetation survived the dry heat.
 

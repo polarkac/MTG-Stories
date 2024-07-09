@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Drop for Drop",
-set_name: "Prologue to Battle for Zendikar",
-story_date: datetime(day: 20, month: 05, year: 2015),
-author: "Kelly Digges",
-doc)
+    "Drop for Drop",
+    set_name: "Prologue to Battle for Zendikar",
+    story_date: datetime(day: 20, month: 05, year: 2015),
+    author: "Kelly Digges",
+    doc
+)
 
 #emph[Merfolk Planeswalker Kiora came to Theros during ] the events of Theros block and the novel Godsend#emph[. She was—and is—on a quest to find the greatest denizens of the seas of many worlds. Kiora hopes to return to her native Zendikar and fight against the world-devouring creatures called the Eldrazi with the help of her summoned allies. But she will not return until she has found a weapon worthy of the fight.]
 

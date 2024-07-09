@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Betrayal",
-set_name: "Conspiracy",
-story_date: datetime(day: 14, month: 05, year: 2014),
-author: "Nik Davidson",
-doc)
+    "Betrayal",
+    set_name: "Conspiracy",
+    story_date: datetime(day: 14, month: 05, year: 2014),
+    author: "Nik Davidson",
+    doc
+)
 
 #emph[Far from Theros, on the plane of Fiora, the High City of Paliano is home to countless intrigues and plots. The high lords of the city vie for supremacy. Move is met with countermove, and trust with betrayal, all under the auspices of the immortal King Eternal. But the king was a living man, once, and a friend to the elf explorer Selvala...]
 

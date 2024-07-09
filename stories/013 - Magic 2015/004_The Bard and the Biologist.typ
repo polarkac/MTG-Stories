@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Bard and the Biologist",
-set_name: "Magic 2015",
-story_date: datetime(day: 09, month: 07, year: 2014),
-author: "Matt Knicl",
-doc)
+    "The Bard and the Biologist",
+    set_name: "Magic 2015",
+    story_date: datetime(day: 09, month: 07, year: 2014),
+    author: "Matt Knicl",
+    doc
+)
 
 On the plane of Shandalar, in the city of Lesh, a man walked the streets, rambling about evil horrors. That, in itself, was hardly remarkable.
 

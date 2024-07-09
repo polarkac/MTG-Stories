@@ -9,457 +9,231 @@
 
 #emph[Nissa Revane found herself woven into an unending stream of living light.]
 
- 
-
- 
-
 #emph[It was a place she never wanted to leave, for it embraced and cared for her. It wound around her and supported her limbs, giving her the feeling of weightlessness.]
-
- 
 
 #emph[After a timeless moment, though, the stream began to disentangle itself. How she hated to see it go.]
 
- 
-
 #emph[As it floated past her, she noticed that it was actually made up of hundreds of thousands of tiny filaments. It was a glittering river of jewels. It glided so close that she could reach out and touch it. She let her fingertips run through it, and as the tiny filaments passed, she felt each individual essence, all of them unique. Under everything, she felt a great sense of contentment. She wanted to stay like this, connected to the stream, forever.]
-
- 
 
 #emph["Ow!"]
 
- 
-
 #emph[Something hit Nissa from behind, in the back of her head. She reached to rub it.]
-
- 
 
 #emph["Ah!"]
 
- 
-
 #emph[Again. This time in her back. Hard.]
-
- 
 
 #emph[She turned.]
 
- 
-
 #emph[The stream was caught up on her, caught up because there was a knot—a large, black knot that was preventing the flow, holding the stream back.]
-
- 
 
 #emph[It slammed once, twice, and again into Nissa’s arm. It hurt.]
 
- 
-
 #emph[She tried to push it away, tried to shift its course, but it refused to be dissuaded.]
-
- 
 
 #emph[It made strange sounds, sounds like writhing and gnashing, awful sounds too close to her ear. It was darkening and growing. Soon it would be larger than her.]
 
- 
-
 #emph[Nissa tried to run, tried to swim away.]
-
- 
 
 #emph[She reached for the light, but all that was left was the darkness.]
 
- 
-
 #emph[It consumed her.]
-
- 
 
 #emph[It suffocated her.]
 
- 
-
 #emph[It would end her.]
-
- 
 
 #figure(image("005_Nissa’s Origin: Home/01.png", width: 100%), caption: [Art by Chase Stone], supplement: none, numbering: none)
 
- 
-
 Nissa awoke with a start, screaming and gasping for breath.
-
- 
 
 It took her three blinks of her eyes to realize: "Home, I’m home."
 
- 
-
 Her breathing slowed as she stared up at the familiar wooden roof, tracing the pattern of vines that lashed it together. She knew the pattern well, for this was not the first time she had awakened in her bed after a vision of darkness.
-
- 
 
 As she slipped further into this reality, her other senses came back to her as well. She could smell the aroma of her mother’s stew. It must have been warming over the fire. Had she missed dinner again?
 
- 
-
 She could feel the evening’s dampness on the air, a dampness brought on by the rain, which she could hear pattering on the roof. The sound of the rain was gentle and calming, but there was something turbulent under it: two voices, hushed and tense. She pushed herself up to sitting and pressed her long elf ear against the wall.
-
- 
 
 "Was she not just screaming again?" This was Numa, Chief of the Joraga. "Screaming of an evil darkness?"
 
- 
-
 He was talking about her vision! That meant he had heard. Nissa cursed herself for screaming so loudly; she knew the trouble it would cause.
-
- 
 
 "What do we do when it comes looking for her, for us?" Numa asked.
 
- 
-
 "Nothing is looking for anyone." This was her mother, Meroe. "It was never after anything other than random destruction."
-
- 
 
 "Random? Your people angered Zendikar and they paid the price. There is a reason that you are the last of the animists."
 
- 
-
 Nissa shivered, the dampness on her skin turning cold.
-
- 
 
 "Zendikar is not vengeful," her mother argued.
 
- 
-
 "If you believe that, you are blind. You and your daughter are putting all of us at risk. I cannot allow it."
-
- 
 
 Nissa pulled her blanket up around her. This was not the first time that she had heard her mother and Numa argue about her visions, but she had never heard Numa speak in such a hard tone.
 
- 
-
 "You understand that I must put the tribe first," he went on. "I must protect my people."
-
- 
 
 "Are you…are you sending us away?" Her mother’s tone was disbelief.
 
- 
-
 "I have no choice, Meroe. I cannot risk Zendikar’s retribution. I’m sorry. Truly, I am." Numa’s words were followed by the sound of his retreating footsteps. Her mother’s hurried footfalls followed.
-
- 
 
 Nissa clutched the corner of her blanket, rubbing the soft spot over and over again. Her mind reeled. Numa was going to kick them out of the Joraga camp. Where would they go? What would they do? More, how could he do that to her mother after all Meroe had been through? Nissa’s heart ached at the thought of her mother suffering.
 
- 
-
 She wanted to hate Numa, but she couldn’t blame him for protecting his people. He was right. She was a danger, the last of the animists and the only one remaining who still had visions.
-
- 
 
 Her mother told her the visions were a gift. She said they were Zendikar’s way of talking to Nissa. But her mother did not understand. Meroe had never seen the darkness, she had never heard the writhing and gnashing, she had never felt the suffocating pressure, so she could not know.
 
- 
-
 For many moons now, Nissa had believed that Zendikar was hunting her, and now Numa’s words confirmed her fears. Her visions were not a gift, they were a warning. Zendikar was speaking to her and its message was clear. It would have its retribution. It would finish what it had started with the animists. The dark knot was coming for Nissa, and that meant that anyone near her was in horrible danger.
-
- 
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
-
- 
 
 Nissa slipped out of the house before her mother returned.
 
- 
-
 The darkness was complete, the stars hidden by the clouds that were still sprinkling the land with rain. She packed light—her staff-sword, bow, arrows, bedroll, and a few provisions—she’d hunt on the way. The only other thing she brought with her were the bits of nature magic that she knew, which somehow seemed less impressive now as she was slinking through the darkness alone.
-
- 
 
 When her feet wanted to turn around, she reminded herself of why she was leaving; she would not lead the horror to those she loved. When it came for her, it would find only her.
 
- 
-
 Nissa didn’t stop or even slow until she saw the first hint of deep, blue light through the trees. She had kept such a pace that she would be ahead of any Joraga trackers by at least half a day, and that’s only if they could find her trail. But they wouldn’t. She had been using her nature magic to cover it, putting every last blade of grass back in its place. She glanced over her shoulder to reassure herself. Her spell had worked flawlessly; there was no sign that she had travelled here. Not even the most skilled tracker would be able to find her.
-
- 
 
 #figure(image("005_Nissa’s Origin: Home/02.jpg", width: 100%), caption: [Art by Wesley Burt], supplement: none, numbering: none)
 
- 
-
 As the reality of that thought set in, Nissa’s mouth went dry. She took a deep breath, forcing down the feeling of dread, and turned forward to press on.
-
- 
 
 "What the…?" Nissa squinted at the ground. Was it a trick of the light?
 
- 
-
 She shielded her eyes from the dim pre-dawn. It was still there. A shimmering stream extended out in front of her. Nissa gasped. It was just like the stream of light from her vision.
-
- 
 
 "No." Her stomach clenched. It was happening already—the stream would lead the dark knot right to her.
 
- 
-
 She took a step back.
-
- 
 
 It moved with her.
 
- 
-
 "Stay away from me!" Nissa kicked at the stream and took off at a run in the other direction.
-
- 
 
 But there it was in front of her again.
 
- 
-
 She somersaulted and changed course.
-
- 
 
 After two steps it was pointing to her once more.
 
- 
-
 She turned a third time and leapt over a log.
-
- 
 
 This time it was there before her first foot landed.
 
- 
-
 When the sole of her boot touched the ground, the glowing stream swirled up to meet her. Before she could turn again, before she could run, it wrapped itself around her like a cocoon.
-
- 
 
 It happened so fast that Nissa’s struggles were pointless. She went to reach for her sword, but her sword hand was bundled up in a sparkling tendril, floating weightless like her other limbs.
 
- 
-
 She tried to twist her way out, she tried to panic, but neither worked. The embrace was so comforting, so calming that she couldn’t help but soften into it. It was telling her it would not hurt her, that it was not evil. But it was; she knew it was…wasn’t it?
-
- 
 
 Her confusion turned to awe as the stream enveloped her completely.
 
- 
-
 In that moment, deep in the heart of the Joraga forest, Nissa Revane connected with Zendikar.
-
- 
 
 She understood then. The glowing stream of light and life was the land’s soul. And it was the most beautiful, most wonderful thing Nissa had ever touched.
 
- 
-
 It eased her into a vision, guiding her gently into its thoughts, its memories, and its hopes.
-
- 
 
 #figure(image("005_Nissa’s Origin: Home/03.jpg", width: 100%), caption: [Art by Chris Rahn], supplement: none, numbering: none)
 
- 
-
 #emph[The stream swirled around her, each of its jewels sparkling, but Nissa understood that they were more than just jewels; each sparkle was a living being. All the beasts, plants, and races of Zendikar were a part of the endless stream.]
-
- 
 
 #emph[What was more, the stream was not just a stream, it was the land. It was the contours and the depressions. It was every blade of grass, every pebble of dirt, every grain of sand. It was everything, and it was all connected.]
 
- 
-
 #emph[The glowing creatures frolicked around her, coming into focus as they passed by her eyes. She watched the baloth roar, the great jurworrel tree wave in the wind, the long, slender nectar snake slither across the ground, and the barutis bird soar through the sky. And then she saw an elf, an elf that looked very familiar.]
-
- 
 
 #emph[It was a perfect, crystalline version of her.]
 
- 
-
 #emph[The glowing Nissa walked along the streaming land. Each step she took sent shimmers through Zendikar’s soul. She followed the stream through the forest, picking up speed as she went, running faster, faster, leaping, and then flying. She crossed a desert, a bog, a mountain range, and then a hundred other places that flew by too quickly for Nissa to recognize.]
-
- 
 
 #emph[Finally the stream slowed and the glowing Nissa came to rest. She stood on a rocky ledge, looking up at a mountain peak.]
 
- 
-
 #emph[Inside the mountain, Nissa could hear the horrid writhing and buzzing, and she could sense the dark knot. She recoiled, fear rising up inside of her. Had this all been a trick?]
-
- 
 
 #emph[But the glowing Nissa did not seem to be scared. She held her ground. She raised her hands, her palms facing the darkness. Her lips moved, but Nissa could not hear what she uttered.]
 
- 
-
 #emph[And then, suddenly, a bright light blasted through the whole vision, consuming everything—the mountain, the knot, and the glowing Nissa.]
-
- 
 
 When Nissa woke, the cocoon was gone. She was on the ground, and she was looking up at what seemed to be a pair eyes.
 
- 
-
 "Nissa?"
-
- 
 
 And a mouth.
 
- 
-
 "Nissa?" The mouth formed her name again.
-
- 
 
 It took another moment before Nissa recognized the voice. "Mazik?" Nissa struggled to sit up.
 
- 
-
 "Are you okay?"
-
- 
 
 "Yeah, I’m all right. I…wait." Nissa blinked up at her friend. "What are you doing here? Were you following me?" She jumped to her feet, her ears flicking around for signs of approach.
 
- 
-
 "Don’t worry, no one else is here."
-
- 
 
 "Do they know you came?"
 
- 
-
 "Only your mom. I had to tell her when I saw you go."
-
- 
 
 "Mazik!"
 
- 
-
 "Don’t be mad. She was glad you went out into the forest. She thinks your visions will be clearer out here."
-
- 
 
 "She said that?"
 
- 
-
 Mazik nodded. "And she said she wants you to follow them. My dad and I do too. We believe in the animist ways. We believe your visions are important. You just had another one, didn’t you?"
-
- 
 
 "You were watching me?" Nissa flushed. "The light…did you, did you see it?"
 
- 
-
 "I did…" Mazik hurried on before Nissa could scold him. "But don’t worry, I’m not scared. I think it’s amazing." Mazik’s eyes were so hopeful that Nissa relaxed a little. "What did this one tell you?"
-
- 
 
 Nissa looked into his familiar face, a face she had thought she might never see again, and she decided to trust her friend. "Oh, Mazik, everything I thought was wrong. Zendikar isn’t after me. It’s not after any of us. It’s not evil or vengeful. It’s magnificent. But it’s in pain. Something horrid is hurting it." She shivered at the thought of the dark knot. "And I think, I think…oh never mind, I don’t know what I think."
 
- 
-
 "You think Zendikar wants your help to save it."
-
- 
 
 "How did you know that?"
 
- 
-
 Mazik pointed down to Nissa’s feet. The glowing stream of light was back. It was swirling around her legs playfully like an eager pet.
-
- 
 
 Nissa’s heart soared at seeing it again. "Hello, Zendikar," she said.
 
- 
-
 The stream trilled with excitement and shot up, whirling around her and Mazik like a funnel cloud. It blew their hair into the air and filled them with a feeling of enchantment. Before their hair even had a chance to settle, the light was tugging on their wrists, asking for them to follow.
-
- 
 
 #figure(image("005_Nissa’s Origin: Home/04.jpg", width: 100%), caption: [Art by Howard Lyon], supplement: none, numbering: none)
 
- 
-
 Nissa looked to Mazik.
-
- 
 
 The stream tugged again.
 
- 
-
 "Okay, okay, we’re coming," Mazik laughed.
-
- 
 
 Together, they followed the stream of glowing light deeper into the forest.
 
- 
-
 They agreed without having to discuss it that they would travel together. The stream of light, it seemed, wouldn’t have it any other way. Mazik could see it as long as Nissa was close by. If he wandered off to hunt or forage he reported that he lost sight of it, but as soon as he returned to her side, the path glowed for him again.
-
- 
 
 Like an excited child, it showed them all the secrets and beauty of the forest: hidden alcoves, trees that twisted so high into the sky that their tops were lost to the clouds, vines that danced, and babbling brooks that sang sweet songs. It was like they were in a new land, a land of wonder.
 
- 
-
 Nissa felt that she, too, was new. The bond she had made with the soul of Zendikar grew stronger with each step, and so did her magic. When she cast spells, even simple ones, they burst forth with flourish. The jaddi nuts she enchanted to light their way at night arranged themselves like the stars, forming the shapes of animals to guide them. When they encountered an angry tree stalker it only took a slight flick of her wrist to change its course and free them of worry. She moved the leaves of the trees to shelter them from rain, and she drew up the sweet nectar of the flowers to lift their spirits when they grew weary.
 
- 
-
 But even amid all the wonder, Nissa couldn’t entirely shake the foreboding feeling that crept into the corners of her stomach. With every step they took they were getting closer to the darkness. And when they arrived at the mountain she would have to face the knot, for that’s what the glowing Nissa had done. But how?
-
- 
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
- 
-
 After two days in the enchanted sanctuary, Nissa and Mazik reached the edge of the forest. The world beyond fell away, opening into a canyon land of red rocks, dry trees, and wind-scoured mesas. As they stepped out, it felt to Nissa like she was leaving home all over again. But this was where the stream of light was going; this was where it was leading her.
-
- 
 
 The elves were not used to the bright heat of the sun. Their delicate skin was so accustomed to the protection of the forest’s canopy that it turned hot and red within hours. They drank all but a few drops of the water they were carrying before the first nightfall, and their feet ached from walking on the hardened ground.
 
- 
-
 On the second day Nissa began to worry. She didn’t want to believe that the soul of Zendikar would lead them out here to their deaths, but if they didn’t get fresh water soon, their fates would be sealed. "Where are you taking us?" she asked the stream. "We’re thirsty."
-
- 
 
 It only shimmered in response, leading them on through the canyon.
 
- 
-
 By midday on the fourth day, Nissa was so hot and thirsty that, when they crested a hill and saw a vast marshland below, she let out a whoop of pure joy.
-
- 
 
 The elves raced down the hill to the marshland, kneeling at the edge of a brackish bog. Nissa used her magic to draw out streams of pure, cool water. They drank until their bellies were full, and then they snacked on the wild mushrooms that grew along the bank, and drank some more.
 
@@ -1357,41 +1131,20 @@ She felt the spark inside her, the one she had felt at Akoum before she had been
 
 #emph["You will regret it if you go,"]  the voice said. #emph["You will fail. Again."]
 
- 
-
 No. She would find a way. She just had to get there. Nissa charged through the pain toward the place where she could feel the world opening to let her out.
-
- 
 
 #emph["Stay here, little spark walker, stay and join me. I will make you more powerful. I will give you what you need to save your precious Zendikar."]
 
- 
-
 The void had opened. It was right in front of her, and Nissa stood at the threshold. She could see the swirling eternities on the other side. All she had to do was step through. But she hesitated.
-
- 
 
 #emph["Stay, Nissa, stay with me forever."]
 
- 
-
 That was the thing though, wasn’t it? If she stayed, she would never leave. She would be powerful, yes, but she would lose herself, and she would lose her connection to her land. If she stayed, she would lose Zendikar.
-
- 
 
 In Nissa’s moment of clarity, a thread extended before her. It was like the glowing stream of light she had come to know so well, but much brighter and thicker. It ascended to meet her.
 
- 
-
 This was her path. It was the very thing that she had been searching for all her life. She reached out with a trembling hand and took hold of it. It pulled her with great force through the tear in the fabric of Lorwyn and out into the void.
-
- 
 
 As she tumbled into the vast space, she saw her path unravel through the eternities. It would lead her many places, but for now it would lead her home.
 
- 
-
 #figure(image("005_Nissa’s Origin: Home/14.jpg", width: 100%), caption: [Art by Wesley Burt], supplement: none, numbering: none)
-
- 
-

@@ -3,6 +3,7 @@
     "The Epoch Engine",
     set_name: "Kamigawa: Neon Dynasty",
     story_date: datetime(day: 08, month: 02, year: 2022),
+    author: "Grace Chan",
     doc
 )
 

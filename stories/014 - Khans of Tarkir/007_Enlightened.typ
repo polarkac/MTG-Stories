@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Enlightened",
-set_name: "Khans of Tarkir",
-story_date: datetime(day: 22, month: 10, year: 2014),
-author: "Matt Knicl",
-doc)
+    "Enlightened",
+    set_name: "Khans of Tarkir",
+    story_date: datetime(day: 22, month: 10, year: 2014),
+    author: "Matt Knicl",
+    doc
+)
 
 #emph[Narset is the Khan of the Jeskai. Although younger than the other Jeskai Elders, she leads her people against the other clans. More about the Jeskai can be found in ] Part 1 of the Planeswalker's Guide to Khans of Tarkir#emph[.]
 

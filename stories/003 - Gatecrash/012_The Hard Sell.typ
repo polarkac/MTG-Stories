@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Hard Sell",
-set_name: "Gatecrash",
-story_date: datetime(day: 19, month: 03, year: 2013),
-author: "Kelly Digges",
-doc)
+    "The Hard Sell",
+    set_name: "Gatecrash",
+    story_date: datetime(day: 19, month: 03, year: 2013),
+    author: "Kelly Digges",
+    doc
+)
 
 Bartek heaved the last of the heavy wooden crates into the cart with a grunt. He leaned against the wall of the warehouse, breathing heavily, sweat running down his face. The sun was up, higher than he’d hoped, and it was already getting hot.
 

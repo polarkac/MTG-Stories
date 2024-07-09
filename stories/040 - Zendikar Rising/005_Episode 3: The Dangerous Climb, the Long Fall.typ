@@ -1,5 +1,4 @@
 #import "@local/mtgstory:0.2.0": conf
-#set page(margin: (top: 96pt))
 #show: doc => conf(
     "Episode 3: The Dangerous Climb, the Long Fall",
     set_name: "Zendikar Rising",

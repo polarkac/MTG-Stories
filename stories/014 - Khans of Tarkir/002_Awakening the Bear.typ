@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Awakening the Bear",
-set_name: "Khans of Tarkir",
-story_date: datetime(day: 17, month: 09, year: 2014),
-author: "Jennifer Clarke Wilkes",
-doc)
+    "Awakening the Bear",
+    set_name: "Khans of Tarkir",
+    story_date: datetime(day: 17, month: 09, year: 2014),
+    author: "Jennifer Clarke Wilkes",
+    doc
+)
 
 #emph[Perhaps you've seen Surrak Dragonclaw, the khan of the Temur clan. Perhaps you've even seen him punch a bear. But the Temur aren't all face-smashing and bear-punching. They're also a deeply spiritual people, and Surrak represents that duality of reverent respect for the wilds and utter pragmatism in dealing with them.]
 

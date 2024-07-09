@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Comin' Through!",
-set_name: "Magic 2015",
-story_date: datetime(day: 30, month: 07, year: 2014),
-author: "Kelly Digges",
-doc)
+    "Comin' Through!",
+    set_name: "Magic 2015",
+    story_date: datetime(day: 30, month: 07, year: 2014),
+    author: "Kelly Digges",
+    doc
+)
 
 Fizz poked her head out of the trench long enough to see that she didn't want to do it any longer. Orc raiders fought in tight formation, and hundreds of her fellow goblins charged ahead of them as shock troops and minesweepers. Bombs exploded, arrows flew, and goblins fell by the dozens.
 

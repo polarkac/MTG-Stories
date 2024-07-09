@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Madness of Sarkhan",
-set_name: "Khans of Tarkir",
-story_date: datetime(day: 27, month: 08, year: 2014),
-author: "Jennifer Clarke Wilkes",
-doc)
+    "The Madness of Sarkhan",
+    set_name: "Khans of Tarkir",
+    story_date: datetime(day: 27, month: 08, year: 2014),
+    author: "Jennifer Clarke Wilkes",
+    doc
+)
 
 #emph[The Planeswalker Sarkhan Vol has never had it easy. Born on a windswept, war-torn world where dragons are extinct, he became a Planeswalker as a young man and set out to find and worship the greatest dragons in the Multiverse. ]
 

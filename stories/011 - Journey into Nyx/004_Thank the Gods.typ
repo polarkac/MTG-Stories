@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Thank the Gods",
-set_name: "Journey into Nyx",
-story_date: datetime(day: 30, month: 04, year: 2014),
-author: "Clayton Kroh",
-doc)
+    "Thank the Gods",
+    set_name: "Journey into Nyx",
+    story_date: datetime(day: 30, month: 04, year: 2014),
+    author: "Clayton Kroh",
+    doc
+)
 
 "Thank the gods!" the red-faced midwife exclaimed as Raissa's son began to emerge. The baby fought Raissa savagely as she pushed. He bucked with his tiny hooves, and the nubs of his new horns dug into her tender insides. #emph[Selfish!]  Raissa thought, imagining the boy grasping the cord and trying to shimmy back up its length to hide behind her heart. As she struggled, her anger grew.
 

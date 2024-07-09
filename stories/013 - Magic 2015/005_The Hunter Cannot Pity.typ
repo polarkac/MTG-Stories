@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Hunter Cannot Pity",
-set_name: "Magic 2015",
-story_date: datetime(day: 16, month: 07, year: 2014),
-author: "Jennifer Clarke Wilkes",
-doc)
+    "The Hunter Cannot Pity",
+    set_name: "Magic 2015",
+    story_date: datetime(day: 16, month: 07, year: 2014),
+    author: "Jennifer Clarke Wilkes",
+    doc
+)
 
 Vronos, Elite Inquisitor, steadied his silver-chased crossbow and took aim. The blessed bolt snapped away and dove with a spray of gore into the heart of the accursed one. The woman dropped without a sound. Beside her wailed a child barely old enough to walk. It crawled over to the still breast of its mother, whose life blood still mingled with the village mud.
 

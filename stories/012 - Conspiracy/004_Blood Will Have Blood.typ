@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Blood Will Have Blood",
-set_name: "Conspiracy",
-story_date: datetime(day: 04, month: 06, year: 2014),
-author: "Shawn Main",
-doc)
+    "Blood Will Have Blood",
+    set_name: "Conspiracy",
+    story_date: datetime(day: 04, month: 06, year: 2014),
+    author: "Shawn Main",
+    doc
+)
 
 Some of the grubs were no bigger than a coin. Pale and fleshy, they squirmed their way along the cracks in the floor. Beetles with wiry, clicking legs scurried over them, hissing at each other as they passed. Centipedes, long as a human’s arm, curled in the dry ribcages of long-dead prisoners. For being in isolation, Selvala certainly didn’t feel alone.
 

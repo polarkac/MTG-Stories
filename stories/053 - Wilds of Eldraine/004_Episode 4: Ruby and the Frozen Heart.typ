@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 4: Ruby and the Frozen Heart",
-set_name: "Wilds of Eldrain",
-story_date: datetime(day: 11, month: 08, year: 2023),
-author: "K. Arsenault Rivera",
-doc)
+    "Episode 4: Ruby and the Frozen Heart",
+    set_name: "Wilds of Eldrain",
+    story_date: datetime(day: 11, month: 08, year: 2023),
+    author: "K. Arsenault Rivera",
+    doc
+)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))

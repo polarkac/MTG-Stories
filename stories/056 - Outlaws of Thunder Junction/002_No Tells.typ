@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"No Tells",
-set_name: "Outlaws of Thunder Junction",
-story_date: datetime(day: 12, month: 03, year: 2024),
-author: "Isaac Fellman",
-doc)
+    "No Tells",
+    set_name: "Outlaws of Thunder Junction",
+    story_date: datetime(day: 12, month: 03, year: 2024),
+    author: "Isaac Fellman",
+    doc
+)
 
 New beginnings, huh. Brutal stuff—you have my sympathies. Never saw a new beginning that didn't involve burning something down, and if that metaphor sounds cute to you, I invite you to smell the wet ashes of a day-old fire, and know that it's #emph[changed]  everything you loved, better than magic ever could. This particular new beginning, this particular bright and shiny sunrise, involved a dame walking into my bar with literal fire in her hands. You can guess how it went from there, and the place wasn't even open yet.
 

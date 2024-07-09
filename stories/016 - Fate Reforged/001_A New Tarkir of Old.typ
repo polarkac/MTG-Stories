@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"A New Tarkir of Old",
-set_name: "Fate Reforged",
-story_date: datetime(day: 31, month: 12, year: 2014),
-author: "Kimberly J. Kreines",
-doc)
+    "A New Tarkir of Old",
+    set_name: "Fate Reforged",
+    story_date: datetime(day: 31, month: 12, year: 2014),
+    author: "Kimberly J. Kreines",
+    doc
+)
 
 #emph[Sarkhan Vol has been following the voice in his head—the whispers of Ugin, the Spirit Dragon—for years now, and Ugin’s whispers finally led him to something remarkable: a flaming gate at Ugin’s grave. Although Sarkhan doesn’t know it yet, when he ] #emph[stepped through the gate, he traveled back in time 1,280 years, into Tarkir’s past.]
 

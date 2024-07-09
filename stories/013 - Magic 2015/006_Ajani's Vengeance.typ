@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Ajani's Vengeance",
-set_name: "Magic 2015",
-story_date: datetime(day: 23, month: 07, year: 2014),
-author: "Tom LaPille",
-doc)
+    "Ajani's Vengeance",
+    set_name: "Magic 2015",
+    story_date: datetime(day: 23, month: 07, year: 2014),
+    author: "Tom LaPille",
+    doc
+)
 
 #emph[Ajani Goldmane is a member of the catlike leonin race and a Planeswalker wise beyond his years. You can read more of his story here.]
 

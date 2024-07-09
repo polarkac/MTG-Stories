@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Shadows of Prahv, Part 1",
-set_name: "Return to Ravnica",
-story_date: datetime(day: 29, month: 08, year: 2012),
-author: "Jenna Helland",
-doc)
+    "The Shadows of Prahv, Part 1",
+    set_name: "Return to Ravnica",
+    story_date: datetime(day: 29, month: 08, year: 2012),
+    author: "Jenna Helland",
+    doc
+)
 
 #emph[Author's Note: Hey, it's Jenna. We'll be doing another Planeswalker's Guide next week. Today, we wanted to share flavor from the new Ravnica. A Boros officer investigates a series of murders that are linked with a Golgari riot that happened years before. The story culminates with a preview card in part 2. Thanks for reading!]
 

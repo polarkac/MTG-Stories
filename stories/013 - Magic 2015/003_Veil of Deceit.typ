@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Veil of Deceit",
-set_name: "Magic 2015",
-story_date: datetime(day: 02, month: 07, year: 2014),
-author: "James Wyatt",
-doc)
+    "Veil of Deceit",
+    set_name: "Magic 2015",
+    story_date: datetime(day: 02, month: 07, year: 2014),
+    author: "James Wyatt",
+    doc
+)
 
 #emph[The planeswalking necromancer Liliana Vess knows all too well that everybody dies, but that doesn't mean she's going to let it happen to her. She made a pact with four demons from four different planes—a contract, etched on her skin, that granted her power and agelessness, in exchange for services rendered.]
 

@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Teysa Karlov",
-set_name: "Dragon's Maze",
-story_date: datetime(day: 10, month: 04, year: 2013),
-author: "Adam Lee",
-doc)
+    "Teysa Karlov",
+    set_name: "Dragon's Maze",
+    story_date: datetime(day: 10, month: 04, year: 2013),
+    author: "Adam Lee",
+    doc
+)
 
 #emph[They've ruled for far too long.]
 

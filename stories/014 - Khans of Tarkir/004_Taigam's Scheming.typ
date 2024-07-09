@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Taigam's Scheming",
-set_name: "Khans of Tarkir",
-story_date: datetime(day: 01, month: 10, year: 2014),
-author: "Matt Knicl",
-doc)
+    "Taigam's Scheming",
+    set_name: "Khans of Tarkir",
+    story_date: datetime(day: 01, month: 10, year: 2014),
+    author: "Matt Knicl",
+    doc
+)
 
 #emph[The man called Taigam is known as Sidisi's Hand, the personal enforcer of the Sultai khan. But Taigam was not always Sultai, and his former clanmates have not forgotten him.]
 

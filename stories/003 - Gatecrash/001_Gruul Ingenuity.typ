@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Gruul Ingenuity",
-set_name: "Gatecrash",
-story_date: datetime(day: 02, month: 01, year: 2013),
-author: "Adam Lee",
-doc)
+    "Gruul Ingenuity",
+    set_name: "Gatecrash",
+    story_date: datetime(day: 02, month: 01, year: 2013),
+    author: "Adam Lee",
+    doc
+)
 
 The Izzet always had the best spells.
 

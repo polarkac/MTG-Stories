@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 5: Chains of Expectation",
-set_name: "Murders at Karlov Manor",
-story_date: datetime(day: 11, month: 01, year: 2024),
-author: "Seanan McGuire",
-doc)
+    "Episode 5: Chains of Expectation",
+    set_name: "Murders at Karlov Manor",
+    story_date: datetime(day: 11, month: 01, year: 2024),
+    author: "Seanan McGuire",
+    doc
+)
 
 The afternoon air was bright and crisp as the detective and the escaped fugitive made their way along a shadow-swamped street, flanked on either side by looming buildings that somehow managed to look more sinister than architecture could explain. Etrata moved with quick economy, her feet making no sound on the cracked cobblestones. Proft's tread was heavier.
 

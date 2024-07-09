@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Episode 4",
-set_name: "Lost Caverns of Ixalan",
-story_date: datetime(day: 20, month: 10, year: 2023),
-author: "Valerie Valdes",
-doc)
+    "Episode 4",
+    set_name: "Lost Caverns of Ixalan",
+    story_date: datetime(day: 20, month: 10, year: 2023),
+    author: "Valerie Valdes",
+    doc
+)
 
 == Quint
 

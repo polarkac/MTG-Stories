@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"The Call",
-set_name: "Dragons of Tarkir",
-story_date: datetime(day: 15, month: 04, year: 2015),
-author: "Nik Davidson",
-doc)
+    "The Call",
+    set_name: "Dragons of Tarkir",
+    story_date: datetime(day: 15, month: 04, year: 2015),
+    author: "Nik Davidson",
+    doc
+)
 
 #emph[On another Tarkir, with a different destiny, the man called Surrak was khan of his clan. Savage, swift, and ] attuned with nature#emph[, he ruled the Temur by example.]
 

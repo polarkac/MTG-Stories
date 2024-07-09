@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Khanfall",
-set_name: "Fate Reforged",
-story_date: datetime(day: 18, month: 02, year: 2015),
-author: "Kelly Digges",
-doc)
+    "Khanfall",
+    set_name: "Fate Reforged",
+    story_date: datetime(day: 18, month: 02, year: 2015),
+    author: "Kelly Digges",
+    doc
+)
 
 #emph[Several years have passed since Sarkhan Vol ] saved Ugin from death#emph[ at the hands of Nicol Bolas. More than a thousand years before Sarkhan's home era, Ugin lives, asleep in his hedron cocoon. Sarkhan Vol disappeared into the time streams, swept away to an uncertain fate.]
 

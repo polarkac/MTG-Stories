@@ -1,10 +1,11 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-"Prince Anax, Part 2",
-set_name: "Theros",
-story_date: datetime(day: 25, month: 09, year: 2013),
-author: "Tom LaPille",
-doc)
+    "Prince Anax, Part 2",
+    set_name: "Theros",
+    story_date: datetime(day: 25, month: 09, year: 2013),
+    author: "Tom LaPille",
+    doc
+)
 
 Anax approached an estate near the edge of the Kolophon. There was a small gate and a small fence, and on either side of the gate were two great stones with the name "Sinon" carved into them.
 
