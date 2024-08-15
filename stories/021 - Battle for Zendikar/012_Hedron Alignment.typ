@@ -15,7 +15,7 @@
 
 Kiora took the lighthouse stairs two at a time, climbing toward the chamber where she had learned that Gideon would be "leading a meeting of important Zendikari minds." Her lack of invitation was clearly an oversight. She marched in.
 
-#figure(image("011_Hedron Alignment/01.jpg", width: 100%), caption: [Kiora, the Crashing Wave | Art by Tyler Jacobson], supplement: none, numbering: none)
+#figure(image("012_Hedron Alignment/01.jpg", width: 100%), caption: [Kiora, the Crashing Wave | Art by Tyler Jacobson], supplement: none, numbering: none)
 
 Her entrance elicited a hush from the group inside. They were an odd bunch, even by Zendikari standards: an elf, a human, a kor, and a vampire. They stared at her, or rather glared, annoyed at the interruption.
 
@@ -91,7 +91,7 @@ Gideon hesitated just for a moment, but a moment was all Kiora needed. "Evacuati
 
 "Only the most powerful artifact on all of Zendikar—you're welcome. More powerful than the hedrons." She eyed Tazri. "Those rocks have been here forever, and I haven't seen them do anything to stop the Eldrazi. This, on the other hand, this is new. Watch." She swept the bident outward, calling the tide, and as she swept it in again, a perfectly aimed wave from the sea rose up and shot straight through the window without so much as brushing the frame. It rained down on those in the room.
 
-#figure(image("011_Hedron Alignment/02.jpg", width: 100%), caption: [Promo Bident of Thassa | Art by Ryan Yee], supplement: none, numbering: none)
+#figure(image("012_Hedron Alignment/02.jpg", width: 100%), caption: [Promo Bident of Thassa | Art by Ryan Yee], supplement: none, numbering: none)
 
 "Wow." Jori stared reverently at Kiora and the bident.
 
@@ -133,7 +133,7 @@ Maybe two.
 
 He had to think. He had to work out the best course of action. There had to be a best course of action.
 
-#figure(image("011_Hedron Alignment/03.jpg", width: 100%), caption: [Gideon, Champion of Justice | Art by David Rapoza], supplement: none, numbering: none)
+#figure(image("012_Hedron Alignment/03.jpg", width: 100%), caption: [Gideon, Champion of Justice | Art by David Rapoza], supplement: none, numbering: none)
 
 "Do we have the order to evacuate?" Tazri prompted.
 
@@ -143,7 +143,7 @@ There was grumbling behind him as Gideon turned away from them, but he ignored i
 
 Without the hedrons, they needed something else, another advantage that would tilt the scales in their favor. He thought of Kiora and the god's bident. A powerful weapon, to be sure. But one weapon and one mage—a flash behind his eyes and he was staring at the fallen Irregulars.
 
-#figure(image("011_Hedron Alignment/04.jpg", width: 100%), caption: [Tragic Arrogance | Art by Winona Nelson], supplement: none, numbering: none)
+#figure(image("012_Hedron Alignment/04.jpg", width: 100%), caption: [Tragic Arrogance | Art by Winona Nelson], supplement: none, numbering: none)
 
 He blinked, forcing the image away. He had learned that lesson long ago.
 
@@ -201,7 +201,7 @@ As the kor sentry closed the door behind him, Gideon turned back to Jace. He had
 
 Everything was so much better than Jace had imagined it would be. He had predicted he was going to have to help Gideon assemble the army, find the most advantageous location, and amass the hedrons to build the prison—the prison that he still believed could be transformed into a deadly weapon regardless of what Ugin had said. But here it was, all laid out before him: a formidable army, a workable location, and more than half the hedrons he would need, floating out there above the sea. Now he merely had to move the pieces into place...#emph[carefully] .
 
-#figure(image("011_Hedron Alignment/05.jpg", width: 100%), caption: [Hedron Archive | Art by Craig J Spearing], supplement: none, numbering: none)
+#figure(image("012_Hedron Alignment/05.jpg", width: 100%), caption: [Hedron Archive | Art by Craig J Spearing], supplement: none, numbering: none)
 
 He didn't have to read any of the minds in the small room to know that there was an excessive amount of tension. Jori was here, looking ragged and a little worse for wear, which presumably meant she had only recently arrived and thus almost certainly just delivered the news about Ulamog. So it followed that the glares and aggressive stances indicated that those in the room were not in agreement about what to do concerning the titan's approach.
 
@@ -247,7 +247,7 @@ The merfolk leaned in. "No offense, Jace is it? But your mystique and mental tri
 
 "No." Nissa pounded her staff into the ground.
 
-#figure(image("011_Hedron Alignment/06.jpg", width: 100%), caption: [Art by Cynthia Sheppard], supplement: none, numbering: none)
+#figure(image("012_Hedron Alignment/06.jpg", width: 100%), caption: [Art by Cynthia Sheppard], supplement: none, numbering: none)
 
 Oh, good. More antagonism. Jace was on a roll.
 
@@ -289,7 +289,7 @@ Both Kiora and Gideon moved so fast that Jace didn't realize what was happening 
 
 "And you don't want to do that," Kiora spat. "Ever again." The tentacle lowered out the window, taking the wild-card merfolk with it.
 
-#figure(image("011_Hedron Alignment/07.jpg", width: 100%), caption: [Kiora, Master of the Depths | Art by Jason Chan], supplement: none, numbering: none)
+#figure(image("012_Hedron Alignment/07.jpg", width: 100%), caption: [Kiora, Master of the Depths | Art by Jason Chan], supplement: none, numbering: none)
 
 "We have to stop her," Jace scrambled to his feet. "We have to—"
 
@@ -311,7 +311,7 @@ All right, so it was all business then. Jace could do that. "So I hear you can m
 
 Hours later, Nissa reached into the land, feeling out yet another buried hedron. She gently coaxed the earth down to push the rock upward. Even though she couldn't see the hedron, she knew where it was, she knew precisely what space within Zendikar it occupied. And even though she couldn't see the titan, she knew he was there. During the course of the night, while they had worked to assemble Jace's trap, Nissa had sensed Ulamog move into the bay at Sea Gate. He was coming toward them through the water. And when the sun rose, they would all be able to see him, towering over them. Just waiting to be destroyed.
 
-#figure(image("011_Hedron Alignment/08.jpg", width: 100%), caption: [Nissa's Renewal | Art by Lius Lasahido], supplement: none, numbering: none)
+#figure(image("012_Hedron Alignment/08.jpg", width: 100%), caption: [Nissa's Renewal | Art by Lius Lasahido], supplement: none, numbering: none)
 
 She looked to Ashaya, her elemental, her closest friend, and Zendikar's soul. "It's almost time."
 
@@ -331,7 +331,7 @@ Unspoken between them was a second part of that understanding: Both Nissa and Ze
 
 The land swelled with a hunger that would not be sated unless it was given the chance to confront its enemy, to fight, and to destroy it. Zendikar was more powerful than the monster that plagued it, and today the world would prove its strength.
 
-#figure(image("011_Hedron Alignment/09.jpg", width: 100%), caption: [Ashaya, the Awoken World | Art by Raymond Swanland], supplement: none, numbering: none)
+#figure(image("012_Hedron Alignment/09.jpg", width: 100%), caption: [Ashaya, the Awoken World | Art by Raymond Swanland], supplement: none, numbering: none)
 
 Nissa exhaled. "Let's finish what we started."
 
@@ -353,7 +353,7 @@ Nissa and Ashaya watched as a team of four kor and humans, who were stationed on
 
 "Careful now—that's good," Gideon paced on the bluff. Nissa could sense his disquiet; he wanted to be out there pulling, lifting, pushing—he wanted to be out there doing everything, always. She smiled; she was grateful that Gideon had come to Zendikar.
 
-#figure(image("011_Hedron Alignment/10.jpg", width: 100%), caption: [Gideon's Reproach | Art by Dan Scott], supplement: none, numbering: none)
+#figure(image("012_Hedron Alignment/10.jpg", width: 100%), caption: [Gideon's Reproach | Art by Dan Scott], supplement: none, numbering: none)
 
 "All right." Gideon signaled to a third team of kor who lined the seawall. "Gate team, pull!"
 
@@ -381,7 +381,7 @@ Jace studied his illusion for a bit longer. "Placement's good. Altitude's good. 
 
 "Eyes on! Eyes on!" The sudden outburst came from the trees ahead. Nissa started, reaching for her blade as one of the airborne sentries, an elf rider mounted on a manta, flew in.
 
-#figure(image("011_Hedron Alignment/11.jpg", width: 100%), caption: [Skyrider Elf | Art by Dan Scott], supplement: none, numbering: none)
+#figure(image("012_Hedron Alignment/11.jpg", width: 100%), caption: [Skyrider Elf | Art by Dan Scott], supplement: none, numbering: none)
 
 "Seble!" Gideon called up, his sural already drawn. "What is it?"
 
@@ -413,7 +413,7 @@ Nissa followed the elf's finger. And that's when she saw the titan.
 
 Ulamog, the bringer of destruction.
 
-#figure(image("011_Hedron Alignment/12.jpg", width: 100%), caption: [Ulamog, the Ceaseless Hunger | Art by Michael Komarck], supplement: none, numbering: none)
+#figure(image("012_Hedron Alignment/12.jpg", width: 100%), caption: [Ulamog, the Ceaseless Hunger | Art by Michael Komarck], supplement: none, numbering: none)
 
 The first hint of light had dawned over the horizon, illuminating the Eldrazi's towering form.
 
@@ -457,7 +457,7 @@ He half-heartedly doubled the size of the titan. They'd have to widen the door.
 
 Jace sighed. This was absurd. It would never happen in reality. His exercise was becoming pointless. He had run it a dozen times, more. The alternative? Looking up. But looking up meant looking at the very real and very life-size version of his illusion. Looking up meant seeing the real faces of the little glowing figures. One of the elves was Nissa. One of the merfolk was Jori En. And standing on a floating rock in front of the hedron ring would be another figure, one that Jace hadn't incorporated into his simulation because that figure had no bearing on whether or not the ring would be completed successfully. That figure was merely there to, in his own words, "stand between Sea Gate and the titan in case something goes wrong." That figure was Gideon.
 
-#figure(image("011_Hedron Alignment/13.jpg", width: 100%), caption: [Gideon, Ally of Zendikar | Art by Eric Deschamps], supplement: none, numbering: none)
+#figure(image("012_Hedron Alignment/13.jpg", width: 100%), caption: [Gideon, Ally of Zendikar | Art by Eric Deschamps], supplement: none, numbering: none)
 
 Jace looked up.
 
@@ -475,7 +475,7 @@ It was almost too easy—almost.
 
 All around the titan were masses of scions and spawn of its brood. They moved faster than their sire and had descended on Sea Gate first. But Gideon's army had been there to head them off, and the Zendikari forces were still staunchly battling now. The fortified seawall remained untouched. Jace had to admit that he was impressed by the force Gideon had assembled. And he was impressed by the Zendikari themselves. None of them had chosen to evacuate even after seeing Ulamog on the horizon, not one.
 
-#figure(image("011_Hedron Alignment/14.jpg", width: 100%), caption: [Goblin War Paint | Art by Karl Kopinski], supplement: none, numbering: none)
+#figure(image("012_Hedron Alignment/14.jpg", width: 100%), caption: [Goblin War Paint | Art by Karl Kopinski], supplement: none, numbering: none)
 
 They were a capable army, and Gideon was an adept leader. Which didn't mean that he wasn't also a fool. Nothing but a foolhardy notion could have precipitated his decision to stand there on that rock mere feet from the titan's bony faceplate.
 
@@ -621,7 +621,7 @@ Gideon stumbled forward with the momentum stored up from the force he had been e
 
 Ulamog had been pulled within the bounds of the hedron prison—and the prison was glowing, glowing a brilliant blue. The gleam flooded Sea Gate, drowning out the shadow of the great Eldrazi.
 
-#figure(image("011_Hedron Alignment/15.jpg", width: 100%), caption: [Aligned Hedron Network | Art by Richard Wright], supplement: none, numbering: none)
+#figure(image("012_Hedron Alignment/15.jpg", width: 100%), caption: [Aligned Hedron Network | Art by Richard Wright], supplement: none, numbering: none)
 
 "Ha!" Gideon thrust his sural in the air. They had done it. Ulamog was trapped.
 
@@ -641,7 +641,7 @@ Ebi swung his weapon, but the demon caught his arm in midair. "It's unfortunate,
 
 Ebi tried to call out. He had to warn the others. He was a sentry. Gideon was counting on him.
 
-#figure(image("011_Hedron Alignment/16.jpg", width: 100%), caption: [Demon's Grasp | Art by David Gaillet], supplement: none, numbering: none)
+#figure(image("012_Hedron Alignment/16.jpg", width: 100%), caption: [Demon's Grasp | Art by David Gaillet], supplement: none, numbering: none)
 
 "Shhh." The demon squeezed. Ebi could feel his life draining away. "Take what solace you can in the knowledge that you will not be here to witness Zendikar's demise."
 

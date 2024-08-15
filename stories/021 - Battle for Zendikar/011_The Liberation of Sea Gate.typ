@@ -47,7 +47,7 @@ A huge, bony hand swept a nearby kor up from the ground and raised him high into
 
 Forward . . .
 
-#figure(image("012_The Liberation of Sea Gate/01.jpg", width: 100%), caption: [Serpentine Spike | Art by Jaime Jones], supplement: none, numbering: none)
+#figure(image("011_The Liberation of Sea Gate/01.jpg", width: 100%), caption: [Serpentine Spike | Art by Jaime Jones], supplement: none, numbering: none)
 
 So many of the Zendikari were dying. So many men and women, following his lead, were running headlong to their deaths. Suddenly he was back on Theros, a brash young man hurling Heliod's spear at the god of death. And the Zendikari around him, the ragtag army he had fondly compared to his Irregulars, were now dying just as his original Irregulars had, paying for his foolish mistake, his arrogance.
 
@@ -75,7 +75,7 @@ Munda cast a glance over his shoulder at the army, at what had once been a coher
 
 Despite his misgivings, Munda moved in step with Gideon, back to back. The two of them had often ventured out from the camp to hunt Eldrazi, and they fought well together. But more and more Eldrazi pressed themselves into the gaps left by the constant motion of their whirling weapons.
 
-#figure(image("012_The Liberation of Sea Gate/02.jpg", width: 100%), caption: [Munda, Ambush Leader | Art by Johannes Voss], supplement: none, numbering: none)
+#figure(image("011_The Liberation of Sea Gate/02.jpg", width: 100%), caption: [Munda, Ambush Leader | Art by Johannes Voss], supplement: none, numbering: none)
 
 "For Zendikar!" Gideon shouted as the ragged line of soldiers parted and enfolded him. The answering cry was heartfelt, no doubt, but it was weak. "To me!" he shouted, and the soldiers began the laborious work of coming back into some semblance of a formation.
 
@@ -147,7 +147,7 @@ Gideon frowned at her. "Yes, I expect every soldier in this army to face battle 
 
 Gideon looked down at the army, at the contingents of merfolk and elves, with their harnessed sky eels and flying rays, at the vampires and goblins, at the kor kitesailers and hook-wielders, at the humans from every region of the world.
 
-#figure(image("012_The Liberation of Sea Gate/03.jpg", width: 100%), caption: [Art by Kieran Yanner], supplement: none, numbering: none)
+#figure(image("011_The Liberation of Sea Gate/03.jpg", width: 100%), caption: [Art by Kieran Yanner], supplement: none, numbering: none)
 
 "A thousand Gideons, waving their whips in the air and shouting 'For Zendikar!' as they charge headlong into the foe. Maybe it could work, if they all shared your invulnerability. Maybe they could overcome the Eldrazi, even Ulamog himself, through sheer stubborn force. But that's not the army you have, #emph[Commander-General] ."
 
@@ -193,7 +193,7 @@ One of those scouts, in the afternoon on the first day, brought an alarming repo
 
 "Allies, then," Gideon said. "At least for now."
 
-#figure(image("012_The Liberation of Sea Gate/04.jpg", width: 100%), caption: [Octopus token | Art by Craig J Spearing], supplement: none, numbering: none)
+#figure(image("011_The Liberation of Sea Gate/04.jpg", width: 100%), caption: [Octopus token | Art by Craig J Spearing], supplement: none, numbering: none)
 
 The army continued its steady advance, and the lighthouse of Sea Gate came back into view. The sight sparked an excited surge in the troops—Gideon felt the energy build like physical pressure at his back. He felt the excitement as well, but he fought the urge to break ranks and charge forward. Many hours of hard fighting still lay between the army and the walls of Sea Gate.
 
@@ -225,7 +225,7 @@ His soldiers were looking to him for orders, so he shoved his own bewilderment a
 
 "I am Kiora," the merfolk said.
 
-#figure(image("012_The Liberation of Sea Gate/05.jpg", width: 100%), caption: [Kiora, Master of the Depths | Art by Jason Chan], supplement: none, numbering: none)
+#figure(image("011_The Liberation of Sea Gate/05.jpg", width: 100%), caption: [Kiora, Master of the Depths | Art by Jason Chan], supplement: none, numbering: none)
 
 Gideon's gaze met Kiora's dark eyes. "Gideon Jura," he said. "Commander-general of this army. We #emph[have]  come to retake Sea Gate"—he quirked his mouth in a half-smile—"and are happy to accept your help."
 
@@ -251,7 +251,7 @@ Forward, ever forward—but so much more slowly. The Eldrazi were a rushing delu
 
 When another night fell, Drana's vampires filled the front ranks again and tried to maintain their position, but their numbers were too small to hold back the flood. The force of Kiora's aquatic assault seemed to ebb with the night tide as well. The vampires were forced back and back until they reached the camps behind them, and weary soldiers were awakened in the middle of the night to hold the Eldrazi off in the darkness.
 
-#figure(image("012_The Liberation of Sea Gate/06.jpg", width: 100%), caption: [Kalastria Nightwatch | Art by Jama Jurabaey], supplement: none, numbering: none)
+#figure(image("011_The Liberation of Sea Gate/06.jpg", width: 100%), caption: [Kalastria Nightwatch | Art by Jama Jurabaey], supplement: none, numbering: none)
 
 The difficult night made for even slower progress the next day. But by the time the sun finished its descent, the army had reached the outer wall of Sea Gate. Cheers went up along the front lines as soldiers touched the stone, laying their hands upon the wall in acts of familiar reverence. For many of them, Sea Gate was home, and even for the rest, the wall represented a milestone on the road to victory.
 
@@ -277,7 +277,7 @@ A merfolk on a huge eel dipped down near him. "Zendikar!" she cried. "Zendikar h
 
 Gideon couldn't understand—until he saw the first elemental lumbering past. Its shape was like a giant beast, but its head looked like an ancient oak, with a gaping maw amid the roots, and its legs were massive tangles of wood and vines. Each step shook the stone, and it swept its head back and forth as it moved, throwing Eldrazi to the side.
 
-#figure(image("012_The Liberation of Sea Gate/07.jpg", width: 100%), caption: [Woodland Wanderer | Art by Vincent Proce], supplement: none, numbering: none)
+#figure(image("011_The Liberation of Sea Gate/07.jpg", width: 100%), caption: [Woodland Wanderer | Art by Vincent Proce], supplement: none, numbering: none)
 
 More elementals came into view, looming over buildings and lumbering down wide streets. They were wood and leaf, vine and branch, boulder and bedrock. And a few streets over, standing between two arched wooden horns atop a towering elemental, he saw an exultant elf, hands and eyes glowing green. Nissa had returned. And she had indeed brought Zendikar with her.
 
@@ -293,7 +293,7 @@ While he was working with the commanders to formulate the plan for the attack, h
 
 And the Zendikari had the upper hand. They were going to win!
 
-#figure(image("012_The Liberation of Sea Gate/08.jpg", width: 100%), caption: [Outnumber | Art by Tyler Jacobson], supplement: none, numbering: none)
+#figure(image("011_The Liberation of Sea Gate/08.jpg", width: 100%), caption: [Outnumber | Art by Tyler Jacobson], supplement: none, numbering: none)
 
 At Gideon's command, the eel-rider let him down near the lighthouse. He shouted orders, and horns carried them throughout the host. Soldiers marched, kitesailers lifted into the air, scouts slipped among the buildings, and victory drew closer.
 
