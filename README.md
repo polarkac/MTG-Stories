@@ -74,6 +74,7 @@ If you want to compile all stories into one big PDF yourself, use Typst source f
 - Murders at Karlov Manor
 - Outlaws of Thunder Junction
 - Bloomburrow
+- Duskmourn: House of Horror
 
 # Typst
 
