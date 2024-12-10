@@ -15,7 +15,7 @@
         #line(length: 100%)
     ]
     let footer = [
-        #align(center)[#counter(page).display("1")]
+        #align(center)[#context counter(page).display("1")]
         #{
             set align(center)
             set text(fill: gray)

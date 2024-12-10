@@ -1,5 +1,4 @@
 #let conf(set_name, doc) = {
-    set document(title: set_name)
 
     [
         #set text(size: 24pt)
@@ -8,4 +7,5 @@
     ]
 
     doc
+    set document(title: set_name)
 }
