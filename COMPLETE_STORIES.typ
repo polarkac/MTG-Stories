@@ -1,5 +1,4 @@
-#let title = [Magic 2013 through Outlaws of Thunder Junction - The~Ultimate PDF]
-#set document(title: title)
+#let title = [Magic 2013 through Duskmourn: House of Horror - The~Ultimate PDF]
 
 #{
     set text(size: 32pt)
@@ -83,3 +82,8 @@
 #include "./stories/054_Lost Caverns of Ixalan.typ"
 #include "./stories/055_Murders at Karlov Manor.typ"
 #include "./stories/056_Outlaws of Thunder Junction.typ"
+#include "./stories/057_Bloomburrow.typ"
+#include "./stories/058_Duskmourn: House of Horror.typ"
+
+// FIX: last document set metadata for whole PDF
+#set document(title: title)
