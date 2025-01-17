@@ -75,6 +75,7 @@ If you want to compile all stories into one big PDF yourself, use Typst source f
 - Outlaws of Thunder Junction
 - Bloomburrow
 - Duskmourn: House of Horror
+- Aetherdrift
 
 # Typst
 
