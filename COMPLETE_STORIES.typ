@@ -84,6 +84,7 @@
 #include "./stories/056_Outlaws of Thunder Junction.typ"
 #include "./stories/057_Bloomburrow.typ"
 #include "./stories/058_Duskmourn: House of Horror.typ"
+#include "./stories/059_Aetherdrift.typ"
 
 // FIX: last document set metadata for whole PDF
 #set document(title: title)
