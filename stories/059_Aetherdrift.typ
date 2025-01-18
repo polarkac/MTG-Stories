@@ -7,3 +7,4 @@
 #include "059 - Aetherdrift/004_Episode 3: Go!.typ"
 #include "059 - Aetherdrift/005_Episode 4: Little-Guy Shortcuts.typ"
 #include "059 - Aetherdrift/006_Like No Other Beast.typ"
+#include "059 - Aetherdrift/007_Episode 5: First Over the Line.typ"
