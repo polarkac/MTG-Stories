@@ -1,4 +1,4 @@
-#let title = [Magic 2013 through Duskmourn: House of Horror - The~Ultimate PDF]
+#let title = [Magic 2013 through Aetherdrift - The~Ultimate PDF]
 
 #{
     set text(size: 32pt)
