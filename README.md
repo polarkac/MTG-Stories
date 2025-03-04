@@ -4,8 +4,8 @@ This is an archive of MTG stories publicly available on Wizard of the Coast webs
 
 Stories are sorted into folder `stories` by set name and in published order.
 
-Stories from Magic 2013 to Modern Masters 2015 are sorted with https://mtg.fandom.com/wiki/Magic_Story.  
-Stories from Magic Origins to March of the Machine: The Aftermath are sorted with https://mtglore.com/story-timeline-published-order/.  
+Stories from Magic 2013 to Modern Masters 2015 are sorted with https://mtg.wiki/page/Magic_Story.  
+Stories from Magic Origins to March of the Machine: The Aftermath are sorted with https://mtglore.com/chronological/.  
 Stories from Wilds of Eldraine going forward sorted with https://mtgstory.com
 
 To download and compile I wrote a small Python script, which is not part this repository.
