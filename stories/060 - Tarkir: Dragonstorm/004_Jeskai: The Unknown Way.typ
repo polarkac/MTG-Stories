@@ -9,7 +9,7 @@
 
 The piercing cry of the sparrowhawk rang out as it winged its way over the crimson peaks of Cori Mountain. Soft feathers and sharp wings carved through the sea of clouds, a confident brushstroke against the gray-white canvas. Below, blurs of brown and green streaked by, rice fields melting into villages until they shifted into the striking, vibrant oranges and reds of the Cori Mountain Monastery. Tall pagodas soared skyward, extending the reach of the already towering stone spires and mountain tops.
 
-#figure(image("004_Jeskai: The Unknown Way/01.png", width: 100%), caption: [], supplement: none, numbering: none)
+#figure(image("004_Jeskai: The Unknown Way/01.png", width: 100%), caption: [Art by: Arthur Yuan], supplement: none, numbering: none)
 
 The hawk cried out again as it flew over the monastery grounds, letting out a squawk as it dodged an ascending shrinekeeper dragon. As it continued its journey, the expansive human architecture beneath it gave way to the natural formations of the caldera beyond. Obsidian stone of cooled lava flows jutted out in magnificent arcs against the crystal blue waters of the caldera lake, shimmering reflections dancing in the afternoon light.
 
@@ -157,7 +157,7 @@ Asham sputtered and ran to give chase, but Ru took full advantage of his head st
 
 As Asham's gaze traced up along the formation, an idea came to mind. He plunged his hand into the water, expending mana to conjure a swirl of air around his open palm. The accelerating winds drew water toward him into a swirling cyclone. Asham quickly scaled up the stone outcropping above him, trailing a typhoon of water in his wake. From the top, he saw Ru standing on the surface of the water, peering ever so carefully around the edge of the pillar below him. None the wiser.
 
-#figure(image("004_Jeskai: The Unknown Way/02.png", width: 100%), caption: [], supplement: none, numbering: none)
+#figure(image("004_Jeskai: The Unknown Way/02.png", width: 100%), caption: [Art by: Nino Vecia], supplement: none, numbering: none)
 
 With a grunt, Asham pulled the zephyr strike before him, the spiraling air drawing up and dumping an entire surge of water down on Ru. "Gotcha!" Asham shouted as the deluge came crashing down.
 
@@ -327,7 +327,7 @@ Ai Wen shook her head as she resumed her walk down the stone path. No need to in
 
 A sudden rising heat behind her triggered an instinctive sidestep from Ai Wen. A gout of flame nearly singed the fine fur fringe of her traveler's cloak as she barely dodged out of the way. The Temur warrior spun around to see Asham standing, hands ablaze and held out in a talon pose. The glow from the firelight danced across Ai Wen's armor and flickered in her eyes.
 
-#figure(image("004_Jeskai: The Unknown Way/03.png", width: 100%), caption: [], supplement: none, numbering: none)
+#figure(image("004_Jeskai: The Unknown Way/03.png", width: 100%), caption: [Art by: Wayne Wu], supplement: none, numbering: none)
 
 "Interesting," she said.
 
