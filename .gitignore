@@ -2,3 +2,6 @@
 COMPLETE_STORIES.pdf
 COMPLETE_STORIES_WITHOUT_IMAGES.pdf
 stories/*.pdf
+
+# Ignore binary files
+target/
