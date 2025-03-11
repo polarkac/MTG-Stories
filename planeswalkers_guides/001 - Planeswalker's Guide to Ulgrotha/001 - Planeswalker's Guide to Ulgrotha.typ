@@ -1,4 +1,4 @@
-#import "../typst_packages/mtgguide.typ": conf
+#import "../../typst_packages/mtgguide.typ": conf
 #show: conf.with(
     "A Planeswalker's Guide to Ulgrotha",
     date: datetime(day: 01, month: 06, year: 1995),

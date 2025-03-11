@@ -1,4 +1,4 @@
-#import "../typst_packages/mtgguide.typ": conf
+#import "../../typst_packages/mtgguide.typ": conf
 #show: doc => conf(
     "A Planeswalker's Guide to Zendikar",
     date: datetime(day: 09, month: 08, year: 2009),
