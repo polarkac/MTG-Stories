@@ -11,3 +11,4 @@
 #include "058 - Duskmourn: House of Horror/008_Keep Them Alive.typ"
 #include "058 - Duskmourn: House of Horror/009_Episode 5: Don't Give In.typ"
 #include "058 - Duskmourn: House of Horror/010_Dead End.typ"
+#include "058 - Duskmourn: House of Horror/011_Episode 6: Don't Die.typ"
