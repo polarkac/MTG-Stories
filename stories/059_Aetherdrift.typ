@@ -8,3 +8,4 @@
 #include "059 - Aetherdrift/005_Episode 4: Little-Guy Shortcuts.typ"
 #include "059 - Aetherdrift/006_Like No Other Beast.typ"
 #include "059 - Aetherdrift/007_Episode 5: First Over the Line.typ"
+#include "059 - Aetherdrift/008_Episode 6: The Bloodless Revolution.typ"
