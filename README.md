@@ -77,6 +77,7 @@ If you want to compile all stories into one big PDF yourself, use Typst source f
 - Duskmourn: House of Horror
 - Aetherdrift
 - Tarkir: Dragonstorm
+- Edge of Eternities
 
 # Typst
 
