@@ -83,14 +83,25 @@ If you want to compile all stories into one big PDF yourself, use Typst source f
 
 I used [Typst](https://typst.app/) as typesetting system (modern version of LaTeX). Every story has source file `.typ` which can be used to compile your own PDF.
 
-You can use web app - though I do not know how to work with own packages in web app - or better to use CLI version of Typst which you can download from https://github.com/typst/typst
+## Compiling
 
-Folder `typst_packages` has a small package `mtgstory` under `local` namespace which is used as base setting for all the stories. If you want to use it, you have to put it in your Typst package directory:
+First you must move the directories inside `typst_packages` into package directory based on OS. If the directory does not exist, create it.
 
 Windows: `%APPDATA/typst/packages/`  
-Linux: `~/.local/share/typst/packages/`
+Linux: `~/.local/share/typst/packages/`  
+MacOS: `~/Library/Application Support/typst/packages/`
 
-More info can be found https://github.com/typst/packages#local-packages
+Download latest release of Typst https://github.com/typst/typst/releases for your OS. It is command line tool, so you will have to have some knowledge to use it. Also you might want to add Typst executable to your system PATH variable.
+
+After all that you can use `typst` command to compile the source file into PDF. Switch to a directory where `stories` directory is.
+
+`cd /home/polarkac/mtgstory`
+
+And to compile:
+
+`typst compile "stories/042 - Strixhaven: School of Mages/001_Episode 1: Class Is in Session.typ"`
+
+This will create compiled PDF beside the Typst source file with a same name.
 
 # Contribution
 
