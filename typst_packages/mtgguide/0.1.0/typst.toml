@@ -1,0 +1,7 @@
+[package]
+name = "mtgguide"
+version = "0.1.0"
+entrypoint = "mtgguide.typ"
+authors = ["Polarkac"]
+license = "MIT"
+description = "MTG Planeswalker's Guide template"
