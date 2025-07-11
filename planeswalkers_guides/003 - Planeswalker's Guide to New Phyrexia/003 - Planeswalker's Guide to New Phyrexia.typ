@@ -1,4 +1,4 @@
-#import "../../typst_packages/mtgguide.typ": conf
+#import "@local/mtgguide:0.1.0": conf
 #show: doc => conf(
     "A Planeswalker's Guide to New Phyrexia",
     date: datetime(day: 05, month: 04, year: 2011),
