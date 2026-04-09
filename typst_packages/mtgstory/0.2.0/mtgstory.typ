@@ -43,3 +43,14 @@
         #doc
     ]
 }
+
+#let letter_block(body) = {
+    block(
+       inset: (
+          top: 8pt,
+          bottom: 8pt,
+          right: 32pt,
+          left: 32pt,
+       ),
+    )[#body]
+}
