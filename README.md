@@ -78,6 +78,8 @@ If you want to compile all stories into one big PDF yourself, use Typst source f
 - Aetherdrift
 - Tarkir: Dragonstorm
 - Edge of Eternities
+- Lorwyn Eclipsed
+- Secrets of Strixhaven
 
 # Typst
 
