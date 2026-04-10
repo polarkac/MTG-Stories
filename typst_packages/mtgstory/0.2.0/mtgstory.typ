@@ -44,13 +44,27 @@
     ]
 }
 
-#let letter_block(body) = {
-    block(
-       inset: (
-          top: 8pt,
-          bottom: 8pt,
-          right: 32pt,
-          left: 32pt,
-       ),
-    )[#body]
+#let letter_block(body, border: false) = {
+    if border {
+      block(
+         width: 100%,
+         inset: (
+            top: 8pt,
+            bottom: 16pt,
+            right: 32pt,
+            left: 32pt,
+         ),
+         stroke: 1pt + black,
+      )[#body]
+    } else {
+      block(
+         width: 100%,
+         inset: (
+            top: 8pt,
+            bottom: 16pt,
+            right: 32pt,
+            left: 32pt,
+         ),
+      )[#body]
+    }
 }
