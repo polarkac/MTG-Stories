@@ -105,6 +105,10 @@ And to compile:
 
 This will create compiled PDF beside the Typst source file with a same name.
 
+To compile stories without images, use command flag `--input with_images=false`. For example:
+
+`typst compile --input with_images=false "stories/042 - Strixhaven: School of Mages/001_Episode 1: Class Is in Session.typ"`
+
 # Contribution
 
 If you find any mistake or you want to contribute, feel free to send a pull request. You can also contact me at mtg@pohlreichlukas.eu.
