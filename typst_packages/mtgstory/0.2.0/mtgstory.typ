@@ -45,26 +45,14 @@
 }
 
 #let letter_block(body, border: false) = {
-    if border {
-      block(
-         width: 100%,
-         inset: (
-            top: 8pt,
-            bottom: 16pt,
-            right: 32pt,
-            left: 32pt,
-         ),
-         stroke: 1pt + black,
-      )[#body]
-    } else {
-      block(
-         width: 100%,
-         inset: (
-            top: 8pt,
-            bottom: 16pt,
-            right: 32pt,
-            left: 32pt,
-         ),
-      )[#body]
-    }
+    block(
+       width: 100%,
+       inset: (
+          top: 8pt,
+          bottom: 16pt,
+          right: 32pt,
+          left: 32pt,
+       ),
+       stroke: if border { 1pt + black } else { none }
+    )[#body]
 }
