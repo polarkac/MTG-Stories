@@ -1,4 +1,4 @@
-#let title = [Magic 2013 through Lorwyn Eclipsed - The~Ultimate PDF]
+#let title = [Magic 2013 through Secrets of Strixhaven - The~Ultimate PDF]
 
 #{
     set text(size: 32pt)
@@ -88,6 +88,7 @@
 #include "./stories/060_Tarkir: Dragonstorm.typ"
 #include "./stories/061_Edge of Eternities.typ"
 #include "./stories/062_Lorwyn Eclipsed.typ"
+#include "./stories/063_Secrets of Strixhaven.typ"
 
 // FIX: last document set metadata for whole PDF
 #set document(title: title)
