@@ -1,58 +1,58 @@
-#let conf(
-    title,
-    set_name: "Unknown set",
-    story_date: datetime(day: 05, month: 08, year: 1993),
-    author: "Unknown author",
-    doc
-) = {
-    let header = [
-        #grid(
-            columns: (1fr, 1fr),
-            gutter: 2em,
-            [*#title\ by #author*],
-            align(right)[*#set_name*],
-        )
-        #line(length: 100%)
-    ]
-    let footer = [
-        #align(center)[#context counter(page).display("1")]
-        #{
-            set align(center)
-            set text(fill: gray)
-            [All stories at #link("github.com/polarkac/MTG-Stories")]
-        }
-    ]
-    let with_images = sys.inputs.at("with_images", default: "true")
-    show figure: it => if with_images == "true" { it }
-    set document(title: title, author: author, date: story_date)
-    set par(justify: true)
-    set page(paper: "a4", header: header, header-ascent: 15%, footer: footer, margin: (top: 3.0cm))
-    [
-        #{
-            set text(size: 2.5em)
-            set align(center)
-            heading(level: 2, title)
-            author
-        }
-        #{
-            set text(size: 1.5em)
-            set align(center)
-            [From set #emph[#set_name]\ #story_date.display("[day]. [month]. [year]")]
-        }
-        #set heading(outlined: false)
-        #doc
-    ]
-}
-
-#let letter_block(body, border: false) = {
-    block(
-       width: 100%,
-       inset: (
-          top: 8pt,
-          bottom: 16pt,
-          right: 32pt,
-          left: 32pt,
-       ),
-       stroke: if border { 1pt + black } else { none }
-    )[#body]
-}
+#let conf(
+    title,
+    set_name: "Unknown set",
+    story_date: datetime(day: 05, month: 08, year: 1993),
+    author: "Unknown author",
+    doc
+) = {
+    let header = [
+        #grid(
+            columns: (1fr, 1fr),
+            gutter: 2em,
+            [*#title\ by #author*],
+            align(right)[*#set_name*],
+        )
+        #line(length: 100%)
+    ]
+    let footer = [
+        #align(center)[#context counter(page).display("1")]
+        #{
+            set align(center)
+            set text(fill: gray)
+            [All stories at #link("github.com/polarkac/MTG-Stories")]
+        }
+    ]
+    let with_images = sys.inputs.at("with_images", default: "true")
+    show figure: it => if with_images == "true" { it }
+    set document(title: title, author: author, date: story_date)
+    set par(justify: true)
+    set page(paper: "a4", header: header, header-ascent: 15%, footer: footer, margin: (top: 3.0cm))
+    [
+        #{
+            set text(size: 2.5em)
+            set align(center)
+            heading(level: 2, title)
+            author
+        }
+        #{
+            set text(size: 1.5em)
+            set align(center)
+            [From set #emph[#set_name]\ #story_date.display("[day]. [month]. [year]")]
+        }
+        #set heading(outlined: false)
+        #doc
+    ]
+}
+
+#let letter_block(body, border: false) = {
+    block(
+       width: 100%,
+       inset: (
+          top: 8pt,
+          bottom: 16pt,
+          right: 32pt,
+          left: 32pt,
+       ),
+       stroke: if border { 1pt + black } else { none }
+    )[#body]
+}

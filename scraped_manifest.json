@@ -1,0 +1,190 @@
+{
+  "last_run": "2026-09-11T13:47:54.214162",
+  "scraped_items": {
+    "duskmourn-its-a-beautiful-day": {
+      "id": "duskmourn-its-a-beautiful-day",
+      "title": "It's a Beautiful Day",
+      "author": "Mira Grant",
+      "date": "2024-08-31",
+      "status": "scraped",
+      "output_file": "stories\\058 - Duskmourn- House of Horror\\012_It's a Beautiful Day.typ",
+      "source_url": "https://magic.wizards.com/en/news/magic-story/side-six-its-a-beautiful-day"
+    },
+    "tarkir-spirits-of-the-abzan": {
+      "id": "tarkir-spirits-of-the-abzan",
+      "title": "Spirits of the Abzan",
+      "author": "Izzy Wasserstein",
+      "date": "2026-07-06",
+      "status": "scraped",
+      "output_file": "stories\\060 - Tarkir- Dragonstorm\\013_Spirits of the Abzan.typ",
+      "source_url": "https://magic.wizards.com/en/news/magic-story/spirits-of-the-abzan"
+    },
+    "rf-episode-01": {
+      "id": "rf-episode-01",
+      "title": "Episode 1: Tam, Alive",
+      "author": "Alison Lührs",
+      "date": "2026-08-31",
+      "status": "scraped",
+      "output_file": "stories\\064 - Reality Fracture\\001_Episode 1- Tam, Alive.typ",
+      "file_name": "001_Episode 1- Tam, Alive.typ",
+      "set_folder": "064 - Reality Fracture",
+      "set_name": "Reality Fracture",
+      "source_url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-1-tam-alive"
+    },
+    "rf-episode-02": {
+      "id": "rf-episode-02",
+      "title": "Episode 2: Purge Yourself of Doubt",
+      "author": "Alison Lührs",
+      "date": "2026-09-01",
+      "status": "scraped",
+      "output_file": "stories\\064 - Reality Fracture\\002_Episode 2- Purge Yourself of Doubt.typ",
+      "file_name": "002_Episode 2- Purge Yourself of Doubt.typ",
+      "set_folder": "064 - Reality Fracture",
+      "set_name": "Reality Fracture",
+      "source_url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-2-purge-yourself-of-doubt"
+    },
+    "rf-episode-03": {
+      "id": "rf-episode-03",
+      "title": "Episode 3: I Can Be Both",
+      "author": "Alison Lührs",
+      "date": "2026-09-02",
+      "status": "scraped",
+      "output_file": "stories\\064 - Reality Fracture\\003_Episode 3- I Can Be Both.typ",
+      "file_name": "003_Episode 3- I Can Be Both.typ",
+      "set_folder": "064 - Reality Fracture",
+      "set_name": "Reality Fracture",
+      "source_url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-3-i-can-be-both"
+    },
+    "rf-episode-04": {
+      "id": "rf-episode-04",
+      "title": "Episode 4: Oh, Sweetie",
+      "author": "Alison Lührs",
+      "date": "2026-09-03",
+      "status": "scraped",
+      "output_file": "stories\\064 - Reality Fracture\\004_Episode 4- Oh, Sweetie.typ",
+      "file_name": "004_Episode 4- Oh, Sweetie.typ",
+      "set_folder": "064 - Reality Fracture",
+      "set_name": "Reality Fracture",
+      "source_url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-4-oh-sweetie"
+    },
+    "rf-episode-05": {
+      "id": "rf-episode-05",
+      "title": "Episode 5: I Don't Need to Convince You",
+      "author": "Alison Lührs",
+      "date": "2026-09-04",
+      "status": "scraped",
+      "output_file": "stories\\064 - Reality Fracture\\005_Episode 5- I Don't Need to Convince You.typ",
+      "file_name": "005_Episode 5- I Don't Need to Convince You.typ",
+      "set_folder": "064 - Reality Fracture",
+      "set_name": "Reality Fracture",
+      "source_url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-5-i-dont-need-to-convince-you"
+    },
+    "rf-episode-06": {
+      "id": "rf-episode-06",
+      "title": "Episode 6: The Man Who Kills His Own Ambition",
+      "author": "Alison Lührs",
+      "date": "2026-09-05",
+      "status": "scraped",
+      "output_file": "stories\\064 - Reality Fracture\\006_Episode 6- The Man Who Kills His Own Ambition.typ",
+      "file_name": "006_Episode 6- The Man Who Kills His Own Ambition.typ",
+      "set_folder": "064 - Reality Fracture",
+      "set_name": "Reality Fracture",
+      "source_url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-6-the-man-who-kills-his-own-ambition"
+    },
+    "rf-episode-07": {
+      "id": "rf-episode-07",
+      "title": "Episode 7: Pick Up the Pieces",
+      "author": "Alison Lührs",
+      "date": "2026-09-08",
+      "status": "scraped",
+      "output_file": "stories\\064 - Reality Fracture\\007_Episode 7- Pick Up the Pieces.typ",
+      "file_name": "007_Episode 7- Pick Up the Pieces.typ",
+      "set_folder": "064 - Reality Fracture",
+      "set_name": "Reality Fracture",
+      "source_url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-7-pick-up-the-pieces"
+    },
+    "rf-episode-08": {
+      "id": "rf-episode-08",
+      "title": "Episode 8: Keep Your Lids Open",
+      "author": "Alison Lührs",
+      "date": "2026-09-09",
+      "status": "scraped",
+      "output_file": "stories\\064 - Reality Fracture\\008_Episode 8- Keep Your Lids Open.typ",
+      "file_name": "008_Episode 8- Keep Your Lids Open.typ",
+      "set_folder": "064 - Reality Fracture",
+      "set_name": "Reality Fracture",
+      "source_url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-8-keep-your-lids-open"
+    },
+    "rf-episode-09": {
+      "id": "rf-episode-09",
+      "title": "Episode 9: Unafraid",
+      "author": "Alison Lührs",
+      "date": "2026-09-10",
+      "status": "scraped",
+      "output_file": "stories\\064 - Reality Fracture\\009_Episode 9- Unafraid.typ",
+      "file_name": "009_Episode 9- Unafraid.typ",
+      "set_folder": "064 - Reality Fracture",
+      "set_name": "Reality Fracture",
+      "source_url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-9-unafraid"
+    },
+    "rf-episode-10": {
+      "id": "rf-episode-10",
+      "title": "Episode 10: Happy Birthday",
+      "author": "Alison Lührs",
+      "date": "2026-09-11",
+      "status": "scraped",
+      "output_file": "stories\\064 - Reality Fracture\\010_Episode 10- Happy Birthday.typ",
+      "file_name": "010_Episode 10- Happy Birthday.typ",
+      "set_folder": "064 - Reality Fracture",
+      "set_name": "Reality Fracture",
+      "source_url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-10-happy-birthday"
+    }
+  },
+  "unscrapable_media": [
+    {
+      "title": "Strixhaven: Omens of Chaos",
+      "format": "Romance Comercial / Livro (Hardcover, Ebook, Audiobook)",
+      "author": "Seanan McGuire",
+      "publisher": "Random House Worlds",
+      "date": "2026-04-07",
+      "reason": "Obra literária comercial protegida por direitos autorais, sem publicação aberta em texto web.",
+      "url": "https://mtglore.com/story/strixhaven-omens-of-chaos/"
+    },
+    {
+      "title": "Magic: The Gathering: Untold Stories — Elspeth (#1 a #4)",
+      "format": "História em Quadrinhos (Minissérie em 4 edições)",
+      "author": "Vários (Dark Horse Comics)",
+      "publisher": "Dark Horse Comics",
+      "date": "2025-09-17 a 2026-06-03",
+      "reason": "Edições impressas/digitais pagas de histórias em quadrinhos canônicas.",
+      "url": "https://mtglore.com/story/untold-stories-elspeth-1/"
+    },
+    {
+      "title": "Magic: The Gathering: Untold Stories — Jace (#1 a #4)",
+      "format": "História em Quadrinhos (Minissérie em 4 edições)",
+      "author": "Vários (Dark Horse Comics)",
+      "publisher": "Dark Horse Comics",
+      "date": "2026-04-01 a 2026-09-2026",
+      "reason": "Edições impressas/digitais pagas de quadrinhos sobre as memórias de Jace.",
+      "url": "https://mtglore.com/story/untold-stories-jace-1/"
+    },
+    {
+      "title": "Reality Fracture | The Story So Far with The Magic Story Podcast",
+      "format": "Podcast / Áudio Oficial Exclusivo",
+      "author": "The Magic Story Podcast / Wizards",
+      "publisher": "Wizards of the Coast",
+      "date": "2026-07-20",
+      "reason": "Episódio narrativo de podcast com recapitulação em áudio, sem texto em prosa.",
+      "url": "https://mtglore.com/story/the-story-so-far-with-the-magic-story-podcast/"
+    },
+    {
+      "title": "The Legends of Reality Fracture",
+      "format": "Artigo Descritivo de Cards Lendários (Card Lore)",
+      "author": "Wizards of the Coast",
+      "publisher": "Wizards of the Coast",
+      "date": "2026-09-11",
+      "reason": "Artigo descritivo de lendas e cartas da coleção, não um conto em prosa.",
+      "url": "https://magic.wizards.com/en/news/magic-story/the-legends-of-reality-fracture"
+    }
+  ]
+}

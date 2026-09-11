@@ -80,6 +80,7 @@ If you want to compile all stories into one big PDF yourself, use Typst source f
 - Edge of Eternities
 - Lorwyn Eclipsed
 - Secrets of Strixhaven
+- Reality Fracture
 
 # Typst
 
