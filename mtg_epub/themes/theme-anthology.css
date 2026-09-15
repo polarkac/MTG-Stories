@@ -1,0 +1,6 @@
+/* Antologias e colecoes de historias independentes. */
+@font-face { font-family: "Crimson Text"; src: url("../fonts/CrimsonText.ttf") format("truetype"); }
+body { font-family: "Crimson Text", Georgia, serif; }
+h1, h2 { font-family: "Crimson Text", serif; color: #35424a; text-align: center; border-bottom: 1px solid #9b783f; }
+h1 + p::first-letter { color: #9b783f; }
+hr::before { content: "\2022  \2022  \2022"; color: #9b783f; }

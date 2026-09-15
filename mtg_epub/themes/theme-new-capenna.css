@@ -1,0 +1,5 @@
+/* Art deco mafioso, luxo e crime urbano. */
+@font-face { font-family: "Montserrat"; src: url("../fonts/Montserrat.ttf") format("truetype"); }
+body { background: #111827; color: #f4ead1; }
+h1, h2 { font-family: "Montserrat", Arial, sans-serif; color: #e5b95c; letter-spacing: .14em; text-align: center; border-top: 1px solid #e5b95c; border-bottom: 1px solid #e5b95c; }
+hr::before { content: "\25C6  \25C6  \25C6"; color: #e5b95c; }

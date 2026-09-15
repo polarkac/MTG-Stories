@@ -1,0 +1,7 @@
+/* Horror biomecanico, oleo e compleacao. */
+@font-face { font-family: "Space Grotesk"; src: url("../fonts/SpaceGrotesk.ttf") format("truetype"); }
+:root { --oil-black: #151515; --phyrexian-white: #d8d6c9; --phyrexian-red: #9b1717; }
+body { background: #20201d; color: var(--phyrexian-white); }
+h1, h2, h3 { font-family: "Space Grotesk", serif; color: var(--phyrexian-white); background: var(--oil-black); border-left: 5px solid var(--phyrexian-red); text-align: left; padding-left: .6em; }
+hr { width: 72%; margin-left: 0; border-top: 2px solid var(--phyrexian-red); }
+hr::before { content: "\2295  \2295"; color: var(--phyrexian-red); }

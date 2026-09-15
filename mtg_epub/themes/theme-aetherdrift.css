@@ -1,0 +1,5 @@
+/* Corrida multiversal, velocidade e metal. */
+@font-face { font-family: "Audiowide"; src: url("../fonts/Audiowide.ttf") format("truetype"); }
+body { background: #111820; color: #e8f1f2; }
+h1, h2 { font-family: "Audiowide", "Arial Narrow", sans-serif; color: #42e8d1; text-transform: uppercase; letter-spacing: .12em; border-left: 6px solid #ff5c35; padding-left: .5em; }
+hr::before { content: "//  SPEED  //"; color: #ff5c35; font-family: monospace; }

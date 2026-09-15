@@ -1,0 +1,5 @@
+/* Celebracao, comunidade e identidade multiversal. */
+@font-face { font-family: "Quicksand"; src: url("../fonts/Quicksand.ttf") format("truetype"); }
+body { background: #fffafc; }
+h1, h2 { font-family: "Quicksand", "Trebuchet MS", sans-serif; color: #a23883; text-align: center; border-bottom: 3px solid #f0a; }
+hr::before { content: "\2605  \2605  \2605"; color: #e24b9b; letter-spacing: .25em; }

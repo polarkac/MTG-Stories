@@ -1,0 +1,5 @@
+/* Western, foras da lei e fronteira. */
+@font-face { font-family: "Rye"; src: url("../fonts/Rye.ttf") format("truetype"); }
+body { background: #f3e1bd; color: #3e2418; }
+h1, h2 { font-family: "Rye", Georgia, serif; color: #6b2f20; text-align: center; border: 3px double #8b5a2b; }
+hr::before { content: "\2694  \2694  \2694"; color: #8b5a2b; }

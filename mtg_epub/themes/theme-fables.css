@@ -1,0 +1,7 @@
+/* Fabulas e folclore: Eldraine, Lorwyn e Bloomburrow. */
+@font-face { font-family: "Cormorant Garamond"; src: url("../fonts/CormorantGaramond.ttf") format("truetype"); }
+body { margin: 6% 8%; }
+h1, h2 { font-family: "Cormorant Garamond", "Palatino Linotype", serif; font-size: 2.2em; font-style: italic; text-align: center; color: #2b3a42; }
+h1 + p::first-letter { font-family: "Cormorant Garamond", serif; font-size: 3.5em; color: #4a6741; }
+hr { opacity: .7; }
+hr::before { content: "\2767  \2767  \2767"; color: #4a6741; letter-spacing: .2em; }

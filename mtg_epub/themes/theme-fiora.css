@@ -1,0 +1,4 @@
+/* Intriga de corte, assassinato e jogos politicos. */
+@font-face { font-family: "Berkshire Swash"; src: url("../fonts/BerkshireSwash.ttf") format("truetype"); }
+h1, h2 { font-family: "Berkshire Swash", serif; color: #4d1f32; text-align: center; border: 3px double #b18a43; }
+hr::before { content: "\2666  \2666  \2666"; color: #b18a43; }

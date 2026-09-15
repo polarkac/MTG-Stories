@@ -1,0 +1,5 @@
+/* Ficcao cientifica cosmica, vazio e exploracao espacial. */
+@font-face { font-family: "Orbitron"; src: url("../fonts/Orbitron.ttf") format("truetype"); }
+body { background: #0b1220; color: #dbe9f4; }
+h1, h2 { font-family: "Orbitron", "Trebuchet MS", sans-serif; color: #8fe3ff; letter-spacing: .06em; border-bottom: 1px solid #477b9e; }
+hr::before { content: "<  *  >"; color: #8fe3ff; font-family: monospace; }

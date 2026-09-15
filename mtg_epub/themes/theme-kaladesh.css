@@ -1,0 +1,5 @@
+/* Invencao, eter e revolucao industrial. */
+@font-face { font-family: "Rajdhani"; src: url("../fonts/Rajdhani.ttf") format("truetype"); }
+body { background-color: #f4fbf8; }
+h1, h2 { font-family: "Rajdhani", sans-serif; color: #087f83; border-bottom: 2px solid #e09b36; }
+hr::before { content: "\2699  \2736  \2699"; color: #e09b36; }

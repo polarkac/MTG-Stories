@@ -1,0 +1,6 @@
+/* Historia antiga, imperios e artefatos. */
+@font-face { font-family: "Abril Fatface"; src: url("../fonts/AbrilFatface.ttf") format("truetype"); }
+body { background-color: #f3eee2; }
+h1, h2 { font-family: "Abril Fatface", serif; color: #35424a; border-bottom: 2px solid #9b783f; }
+blockquote { border-left: 4px solid #9b783f; background-color: #e7dfcd; }
+hr::before { content: "\2699  \2699  \2699"; color: #9b783f; }

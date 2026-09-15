@@ -1,0 +1,5 @@
+/* Ruptura multiversal, Echoverse e realidade instavel. */
+@font-face { font-family: "IBM Plex Sans"; src: url("../fonts/IBMPlexSans.ttf") format("truetype"); }
+body { font-family: "IBM Plex Sans", Arial, sans-serif; background: #f4f4f4; }
+h1 { font-family: "IBM Plex Sans", Arial, sans-serif; color: #111; text-align: left; border-left: 8px solid #e33b48; transform: skewX(-2deg); }
+hr::before { content: "\25C7  /  \25C7"; color: #e33b48; }

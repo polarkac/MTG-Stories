@@ -1,0 +1,7 @@
+/* Panteoes e epicos: Theros, Kaldheim e Amonkhet. */
+@font-face { font-family: "Cinzel"; src: url("../fonts/Cinzel.ttf") format("truetype"); }
+:root { --theme-gold: #d4af37; --theme-stone: #2c2c2c; }
+h1, h2, h3 { font-family: "Cinzel", "Palatino Linotype", serif; color: var(--theme-stone); text-transform: uppercase; letter-spacing: .05em; border-bottom: 1px solid var(--theme-gold); padding-bottom: .3em; }
+h1 + p::first-letter { font-family: "Cinzel", serif; color: var(--theme-gold); font-size: 3.8em; }
+hr { height: 1.4em; }
+hr::before { content: "\2726  \2726  \2726"; color: var(--theme-gold); letter-spacing: .25em; }

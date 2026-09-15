@@ -22,6 +22,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--output-dir", type=Path, default=Path("epubs"))
     parser.add_argument("--stories-dir", type=Path, default=Path("stories"))
     parser.add_argument("--manifest", type=Path, default=Path("scraped_manifest.json"))
+    parser.add_argument("--fonts-dir", type=Path, default=Path("fonts"), help="Diretório opcional com arquivos ZIP/ fontes temáticas")
     parser.add_argument("--report", type=Path, help="Arquivo JSON com o resultado da execução")
     parser.add_argument("--jobs", type=int, default=1, help="Conversões simultâneas")
     parser.add_argument("--force", action="store_true", help="Ignora o cache")
@@ -72,7 +73,7 @@ def main(argv: list[str] | None = None) -> int:
         epubcheck = args.epubcheck
         if epubcheck and not epubcheck.is_absolute():
             epubcheck = (Path.cwd() / epubcheck).resolve()
-        pipeline = EpubPipeline(args.output_dir, epubcheck=epubcheck if not args.no_validate else None)
+        pipeline = EpubPipeline(args.output_dir, epubcheck=epubcheck if not args.no_validate else None, fonts_dir=args.fonts_dir)
         jobs = max(1, args.jobs)
         tasks: list[tuple[Path, Path, object, bool]] = []
         if args.file:

@@ -12,6 +12,7 @@ from zipfile import ZIP_STORED, ZipFile
 from .metadata import extract_metadata
 from .models import ConversionResult, StoryMetadata
 from .text import sanitize_typst_for_pandoc
+from .themes import DEFAULT_FONTS_DIR, load_theme_css, prepare_theme_fonts, theme_for_set
 
 try:
     from PIL import Image
@@ -38,11 +39,12 @@ figcaption { font-size: .85em; color: #555; margin-top: .5em; font-style: italic
 
 
 class EpubPipeline:
-    def __init__(self, output_dir: Path, cache_path: Path | None = None, timeout: int = 300, epubcheck: Path | None = None):
+    def __init__(self, output_dir: Path, cache_path: Path | None = None, timeout: int = 300, epubcheck: Path | None = None, fonts_dir: Path | None = DEFAULT_FONTS_DIR):
         self.output_dir = output_dir
         self.cache_path = cache_path or output_dir / ".epub-cache.json"
         self.timeout = timeout
         self.epubcheck = epubcheck
+        self.fonts_dir = fonts_dir
         self.cache = self._load_cache()
 
     def _load_cache(self) -> dict:
@@ -68,13 +70,14 @@ class EpubPipeline:
     def convert(self, input_files: list[Path], output: Path, metadata: StoryMetadata, combine: bool = False, force: bool = False) -> ConversionResult:
         started = time.perf_counter()
         source = input_files[0]
-        fingerprint = self._fingerprint(input_files, f"{EPUB_CSS}|{combine}|1.0.0")
+        theme = theme_for_set(metadata.set_name)
+        fingerprint = self._fingerprint(input_files, f"{EPUB_CSS}|{load_theme_css(theme)}|{combine}|1.1.0")
         cache_key = str(output.resolve())
         if not force and output.exists() and self.cache.get(cache_key) == fingerprint:
             return ConversionResult(source, output, True, "skipped", time.perf_counter() - started, skipped=True)
 
         try:
-            self._run_pandoc(input_files, output, metadata, combine)
+            self._run_pandoc(input_files, output, metadata, combine, theme)
             problems = validate_epub(output)
             if problems:
                 raise ValueError("; ".join(problems))
@@ -91,12 +94,13 @@ class EpubPipeline:
         except (OSError, subprocess.SubprocessError, ValueError) as error:
             return ConversionResult(source, output, False, "failed", time.perf_counter() - started, str(error))
 
-    def _run_pandoc(self, input_files: list[Path], output: Path, metadata: StoryMetadata, combine: bool) -> None:
+    def _run_pandoc(self, input_files: list[Path], output: Path, metadata: StoryMetadata, combine: bool, theme) -> None:
         output.parent.mkdir(parents=True, exist_ok=True)
         with tempfile.TemporaryDirectory(prefix="mtg-epub-") as temp_name:
             temp_dir = Path(temp_name)
             css_path = temp_dir / "styles.css"
-            css_path.write_text(EPUB_CSS, encoding="utf-8")
+            css_path.write_text(EPUB_CSS + "\n" + load_theme_css(theme), encoding="utf-8")
+            embedded_fonts = prepare_theme_fonts(theme, self.fonts_dir, temp_dir)
             metadata_path = temp_dir / "metadata.xml"
             metadata_path.write_text(_metadata_xml(metadata), encoding="utf-8")
             clean_inputs: list[Path] = []
@@ -122,6 +126,8 @@ class EpubPipeline:
             if metadata.cover_image and metadata.cover_image.exists():
                 cover = _prepare_cover(metadata.cover_image, temp_dir)
                 command.extend(["--epub-cover-image", str(cover)])
+            for font in embedded_fonts:
+                command.extend(["--epub-embed-font", str(font)])
             command.extend(str(path) for path in clean_inputs)
             subprocess.run(command, check=True, capture_output=True, text=True, timeout=self.timeout)
 

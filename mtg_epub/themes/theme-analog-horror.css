@@ -1,0 +1,7 @@
+/* Terror analogico: Duskmourn House of Horror. */
+@font-face { font-family: "VCR OSD Mono"; src: url("../fonts/VCROSDMono.ttf") format("truetype"); }
+h1, h2, h3 { font-family: "VCR OSD Mono", "Courier New", monospace; text-transform: uppercase; color: #e6e6e6; background-color: #1a1a1a; padding: 10px; text-align: left; letter-spacing: .05em; border-left: 5px solid #ff3333; }
+h1 + p::first-letter { font-family: "VCR OSD Mono", monospace; color: #ff3333; background-color: #1a1a1a; padding: 0 5px; }
+blockquote { font-family: "VCR OSD Mono", monospace; background-color: #f0f0f0; border-left: 4px solid #333; }
+hr { height: 20px; }
+hr::before { content: "[  VHS  //  STATIC  ]"; color: #ff3333; font-family: "VCR OSD Mono", monospace; letter-spacing: .08em; }

@@ -1,0 +1,6 @@
+/* Clans, dragoes e guerra tribal. */
+@font-face { font-family: "Noto Serif"; src: url("../fonts/NotoSerif.ttf") format("truetype"); }
+body { background-color: #f5eee2; }
+h1, h2 { font-family: "Noto Serif", serif; color: #743522; text-align: left; border-bottom: 3px solid #b36b32; text-decoration: underline; text-decoration-style: wavy; }
+h1 + p::first-letter { color: #8b3d24; }
+hr::before { content: "\2694  \2694"; color: #8b3d24; }

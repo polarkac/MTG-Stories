@@ -1,0 +1,6 @@
+/* Aventura e expedicoes: Zendikar e Ixalan. */
+@font-face { font-family: "Merriweather"; src: url("../fonts/Merriweather.ttf") format("truetype"); }
+body { background-color: #fdfbf7; }
+h1, h2 { font-family: "Merriweather", Georgia, serif; font-weight: 900; color: #3b2f2f; text-align: left; border-left: 6px solid #8b5a2b; padding-left: 15px; border-bottom: none; }
+h1 + p::first-letter { font-family: "Merriweather", Georgia, serif; color: #8b5a2b; }
+hr::before { content: "\25C8  \2295  \25C8"; color: #8b5a2b; letter-spacing: .2em; }

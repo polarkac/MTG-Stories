@@ -46,6 +46,8 @@ The converter writes a JSON report and an incremental cache in the output direct
 
 The implementation is split into `mtg_epub/`: metadata and manifest handling, balanced Typst sanitization, Pandoc execution, image handling, cache and EPUB validation.
 
+Collection-specific EPUB themes and the current coverage matrix are documented in [EPUB_THEMES.md](EPUB_THEMES.md). Themes are selected automatically from the collection name; use `--fonts-dir` to point to optional local font archives.
+
 # List of sets (in published order)
 
 - Magic 2013

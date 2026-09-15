@@ -1,0 +1,6 @@
+/* Biografias, memoria e despertar da centelha. */
+@font-face { font-family: "Bitter"; src: url("../fonts/Bitter.ttf") format("truetype"); }
+body { background: #f7f5ef; }
+h1, h2 { font-family: "Bitter", Georgia, serif; color: #394b59; border-bottom: 1px solid #c7a84b; }
+h1 + p::first-letter { color: #c04a32; }
+hr::before { content: "\2726  \2726  \2726"; color: #c7a84b; }

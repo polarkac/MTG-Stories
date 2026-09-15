@@ -1,0 +1,6 @@
+/* Intriga urbana: Ravnica, guildas e investigacao. */
+@font-face { font-family: "Libre Baskerville"; src: url("../fonts/LibreBaskerville.ttf") format("truetype"); }
+:root { --guild-gold: #b68b3c; --guild-stone: #30343b; --guild-ink: #17191d; }
+h1, h2, h3 { font-family: "Libre Baskerville", Garamond, serif; text-align: center; color: var(--guild-ink); border-bottom: 1px solid var(--guild-gold); letter-spacing: .08em; font-variant: small-caps; }
+h1 + p::first-letter { color: var(--guild-gold); font-variant: small-caps; }
+hr::before { content: "\2696  \2696  \2696"; color: var(--guild-gold); }

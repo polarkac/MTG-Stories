@@ -1,0 +1,5 @@
+/* Academia, faculdades e magia experimental. */
+@font-face { font-family: "EB Garamond"; src: url("../fonts/EBGaramond.ttf") format("truetype"); }
+h1, h2 { font-family: "EB Garamond", serif; color: #432d68; text-align: center; border-bottom: 1px solid #c59b42; }
+blockquote { background-color: #eee7f5; border-left: 4px solid #7651a8; }
+hr::before { content: "\2736  \2736  \2736"; color: #7651a8; }
