@@ -12,7 +12,7 @@ import sys
 import re
 import json
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 
 import requests
 from bs4 import BeautifulSoup
@@ -98,6 +98,36 @@ http_session.headers.update(HEADERS)
 def sanitize_filename(name: str) -> str:
     cleaned = re.sub(r'[\/:*?"<>|]', '-', name)
     return re.sub(r'\s+', ' ', cleaned).strip(' -')
+
+
+def load_manifest() -> dict:
+    if not MANIFEST_FILE.exists():
+        return {"last_run": None, "scraped_items": {}, "unscrapable_media": UNSCRAPABLE_MEDIA}
+    try:
+        data = json.loads(MANIFEST_FILE.read_text(encoding="utf-8"))
+        data.setdefault("scraped_items", {})
+        data.setdefault("unscrapable_media", UNSCRAPABLE_MEDIA)
+        return data
+    except (OSError, json.JSONDecodeError) as error:
+        print(f"[Aviso] Manifesto inválido; um novo será criado: {error}")
+        return {"last_run": None, "scraped_items": {}, "unscrapable_media": UNSCRAPABLE_MEDIA}
+
+
+def save_manifest(manifest: dict) -> None:
+    manifest["last_run"] = datetime.now(timezone.utc).isoformat()
+    temporary = MANIFEST_FILE.with_suffix(".tmp")
+    temporary.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    temporary.replace(MANIFEST_FILE)
+
+
+def update_manifest(manifest: dict, result: dict) -> None:
+    item_id = result.get("id")
+    if not item_id:
+        return
+    existing = manifest.setdefault("scraped_items", {}).get(item_id, {})
+    existing.update(result)
+    manifest["scraped_items"][item_id] = existing
+    save_manifest(manifest)
 
 # ==========================================
 # EXTRAÇÃO E REDE (Com Retry Automático)
@@ -323,9 +353,9 @@ def scrape_single_item(item: dict) -> dict:
                 fetched_from = resolved_url
             except Exception as e2:
                 print(f"[Erro] Falha em URL resolvida: {e2}")
-                return {"id": item_id, "status": "failed", "error": str(e2)}
+                return {"id": item_id, "status": "failed", "error": str(e2), "source_url": resolved_url}
         else:
-            return {"id": item_id, "status": "failed", "error": str(e)}
+            return {"id": item_id, "status": "failed", "error": str(e), "source_url": url}
 
     parsed = parse_article_html(html_content, default_metadata=item)
     
@@ -335,12 +365,22 @@ def scrape_single_item(item: dict) -> dict:
     target_typ = STORIES_DIR / set_folder / f"{file_basename}.typ"
     
     generate_story_typst(parsed, target_typ, file_basename)
+    try:
+        manifest_path = target_typ.relative_to(ROOT_DIR).as_posix()
+    except ValueError:
+        manifest_path = target_typ.as_posix()
 
     return {
         "id": item_id,
         "title": parsed["metadata"].get("clean_title"),
+        "author": parsed["metadata"].get("author"),
+        "date": parsed["metadata"].get("date"),
+        "set_name": parsed["metadata"].get("set_name"),
         "status": "scraped",
-        "file_name": target_typ.name
+        "file_name": target_typ.name,
+        "output_file": manifest_path,
+        "source_url": fetched_from,
+        "scraped_at": datetime.now(timezone.utc).isoformat(),
     }
 
 # ==========================================
@@ -350,16 +390,22 @@ def main():
     import argparse
     parser = argparse.ArgumentParser(description="MTG Stories Scraper")
     parser.add_argument("--all", action="store_true")
+    parser.add_argument("--rf", action="store_true", help="Scrapea somente Reality Fracture")
     args = parser.parse_args()
 
-    targets = CATALOG_MISSING
+    targets = [item for item in CATALOG_MISSING if not args.rf or item.get("set_name") == "Reality Fracture"]
+    manifest = load_manifest()
     results = []
     
     for item in targets:
         if item.get("type") == "story":
-            results.append(scrape_single_item(item))
+            result = scrape_single_item(item)
+            results.append(result)
+            update_manifest(manifest, result)
 
-    print("\n[Concluído] Processamento finalizado. Arquivos Typst gerados no diretório.")
+    print(f"\n[Concluído] {len(results)} item(ns) processado(s). Manifesto atualizado: {MANIFEST_FILE}")
+    if any(result.get("status") == "failed" for result in results):
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()

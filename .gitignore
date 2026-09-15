@@ -5,3 +5,11 @@ stories/*.pdf
 
 # Ignore binary files
 target/
+__pycache__/
+
+# EPUB conversion reports and local cache
+epubs/.epub-cache.json
+epubs/conversion-report.json
+
+# Local EpubCheck installation
+tools/

@@ -1,17 +1,50 @@
 # MTG Stories
 
-This is an archive of MTG stories publicly available on Wizard of the Coast website and compiled into PDF version. Images are also available either in PDF or as a separate files.
+This is an archive of MTG stories publicly available on the Wizards of the Coast website, compiled into PDF and EPUB versions. Images are available either embedded in the documents or as separate files.
 
-Stories are sorted into folder `stories` by set name and in published order.
+Stories are sorted into the `stories` folder by set name and in published order.
 
-Stories from Magic 2013 to Modern Masters 2015 are sorted with https://mtg.wiki/page/Magic_Story.  
-Stories from Magic Origins to March of the Machine: The Aftermath are sorted with https://mtglore.com/chronological/.  
-Stories from Wilds of Eldraine going forward sorted with https://mtgstory.com
+* Stories from Magic 2013 to Modern Masters 2015 are sorted with [MTG Wiki](https://mtg.wiki/page/Magic_Story).
+* Stories from Magic Origins to March of the Machine: The Aftermath are sorted with [MTGLore](https://mtglore.com/chronological/).
+* Stories from Wilds of Eldraine going forward are sorted with [MTG Story](https://mtgstory.com).
 
-To download and compile I wrote a small Python script, which is not part this repository.
+If you want to download all the PDFs/EPUBs or complete stories in one big file (with or without images), check the [Releases](https://github.com/polarkac/MTG-Stories/releases) page.
 
-If you want to download all the PDFs or complete stories in one big file (with or without images), use https://github.com/polarkac/MTG-Stories/releases  
-If you want to compile all stories into one big PDF yourself, use Typst source file `COMPLETE_STORIES.typ`.
+---
+
+## Python Tools (Scraper & EPUB Converter)
+
+This repository includes Python scripts to automate downloading new stories and converting Typst files into standard EPUB3 ebooks.
+
+### Requirements & Installation
+
+1. **Python 3.10+**
+2. **Pandoc** (Required for EPUB conversion): Download and install from [pandoc.org](https://pandoc.org/). Ensure it is added to your system's PATH.
+3. **Python Dependencies:** Install the required libraries via `pip`:
+
+```bash
+pip install requests beautifulsoup4 tenacity python-dateutil Pillow
+```
+
+The EPUB converter also requires Pandoc and Java in the system `PATH`.
+
+EpubCheck 5.4.0 is installed locally under `tools/epubcheck-5.4.0/`. To install it again on another machine, download the official archive from the [W3C EpubCheck releases](https://github.com/w3c/epubcheck/releases) and extract it into that directory.
+
+### EPUB conversion
+
+The historical command remains supported:
+
+```bash
+python typ2epub.py --file "stories/057 - Bloomburrow/001_Episode 1- Calamity Comes to Valley.typ"
+python typ2epub.py --set Bloomburrow --combine
+python typ2epub.py --all --jobs 2
+python typ2epub.py --set Bloomburrow --epubcheck
+python typ2epub.py --validate "epubs/Bloomburrow.epub"
+```
+
+The converter writes a JSON report and an incremental cache in the output directory. Failed conversions are reported at the end and return exit code `1`. EPUBs also receive structural validation for the `mimetype`, container, OPF, navigation and absolute paths.
+
+The implementation is split into `mtg_epub/`: metadata and manifest handling, balanced Typst sanitization, Pandoc execution, image handling, cache and EPUB validation.
 
 # List of sets (in published order)
 
