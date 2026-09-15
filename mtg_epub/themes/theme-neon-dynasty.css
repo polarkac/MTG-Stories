@@ -3,7 +3,7 @@
 @font-face { font-family: "Stranger Back in the Night"; src: url("../fonts/StrangerBackInTheNight.ttf") format("truetype"); }
 :root { --neon-pink: #ff00e6; --neon-cyan: #00e5ff; }
 body { background-color: #0d0d1a; color: #e0e0e0; }
-h1 { font-family: "Planet Kosmos", "Trebuchet MS", sans-serif; color: #fff; text-shadow: 0 0 5px var(--neon-pink), 0 0 10px var(--neon-pink); letter-spacing: .1em; text-align: left; border-bottom: 1px solid var(--neon-cyan); }
-h2 { font-family: "Stranger Back in the Night", cursive; color: var(--neon-cyan); font-size: 1.8em; border-bottom: none; text-align: right; }
-hr { border-top: 1px solid var(--neon-cyan); }
-hr::before { content: "\25C7  \002F  \25C7"; color: var(--neon-cyan); text-shadow: 0 0 4px var(--neon-cyan); letter-spacing: .2em; }
+h1 { font-family: "Planet Kosmos", "Trebuchet MS", sans-serif; color: #fff; text-shadow: 0 0 5px #ff00e6, 0 0 10px #ff00e6; text-shadow: 0 0 5px var(--neon-pink), 0 0 10px var(--neon-pink); letter-spacing: .1em; text-align: left; border-bottom: 1px solid #00e5ff; border-bottom-color: var(--neon-cyan); }
+h2 { font-family: "Stranger Back in the Night", cursive; color: #00e5ff; color: var(--neon-cyan); font-size: 1.8em; border-bottom: none; text-align: right; }
+hr { border-top: 1px solid #00e5ff; border-top-color: var(--neon-cyan); }
+hr::before { content: "\25C7  \002F  \25C7"; color: #00e5ff; color: var(--neon-cyan); text-shadow: 0 0 4px #00e5ff; text-shadow: 0 0 4px var(--neon-cyan); letter-spacing: .2em; }

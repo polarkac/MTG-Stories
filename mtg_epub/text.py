@@ -52,8 +52,9 @@ def sanitize_typst_for_pandoc(content: str, base_dir: Path) -> str:
     clean = remove_conf_block(content)
     clean = _replace_balanced_call(clean, "#line", "---")
     clean = _remove_balanced_call(clean, "#v")
-    clean = _replace_bracket_call(clean, "#emph", "", "")
-    clean = _replace_bracket_call(clean, "#strong", "", "")
+    clean = _replace_standalone_strong(clean)
+    clean = _replace_emphasis_call(clean)
+    clean = _replace_bracket_call(clean, "#strong", "**", "**")
 
     import re
 
@@ -84,6 +85,37 @@ def _replace_balanced_call(content: str, name: str, replacement: str) -> str:
 
 def _remove_balanced_call(content: str, name: str) -> str:
     return _replace_balanced_call(content, name, "")
+
+
+def _replace_emphasis_call(content: str) -> str:
+    """Preserve emphasis while flattening Typst emphasis that spans paragraphs."""
+    import re
+
+    result: list[str] = []
+    cursor = 0
+    name = "#emph"
+    while True:
+        start = content.find(name + "[", cursor)
+        if start < 0:
+            result.append(content[cursor:])
+            return "".join(result)
+        result.append(content[cursor:start])
+        opening = start + len(name)
+        closing = _matching_close_bracket(content, opening)
+        if closing < 0:
+            raise ValueError("Unclosed Typst call: #emph")
+        body = content[opening + 1:closing]
+        if "\n" in body:
+            body = re.sub(r"\s+", " ", body).strip()
+        result.extend(("_", body, "_"))
+        cursor = closing + 1
+
+
+def _replace_standalone_strong(content: str) -> str:
+    """Turn standalone Typst strong markers into semantic EPUB headings."""
+    import re
+
+    return re.sub(r"(?m)^[ \t]*#strong\[([^\]\n]+)\][ \t]*$", r"== \1", content)
 
 
 def _matching_close_bracket(text: str, opening: int) -> int:

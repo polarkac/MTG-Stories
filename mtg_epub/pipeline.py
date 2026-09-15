@@ -24,17 +24,22 @@ EPUB_CSS = """
 @charset "utf-8";
 body { font-family: "Palatino Linotype", Palatino, Georgia, serif; font-size: 1.05em; line-height: 1.5; margin: 4% 5%; color: #1a1a1a; background-color: #fafafa; text-align: justify; -webkit-hyphens: auto; hyphens: auto; }
 p { margin-top: 0; margin-bottom: 0; text-indent: 1.5em; widows: 2; orphans: 2; }
-h1 { page-break-before: always; page-break-after: avoid; font-size: 1.9em; line-height: 1.25; margin: 1.5em 0 .8em; text-align: center; font-weight: bold; }
+h1 { page-break-before: always; break-before: page; page-break-after: avoid; break-after: avoid; page-break-inside: avoid; break-inside: avoid; font-size: 1.9em; line-height: 1.25; margin: 1.5em 0 .8em; text-align: center; font-weight: bold; }
 h2, h3 { page-break-after: avoid; }
-h1 + p::first-letter { font-size: 3.2em; font-weight: bold; float: left; margin: .05em .1em 0 0; line-height: .8; }
+h2 { margin: 2em 0 1em; padding: .45em 0; text-align: center; font-size: 1.35em; font-variant: small-caps; letter-spacing: .12em; border-top: 1px solid #555; border-bottom: 1px solid #555; }
+h1 + p::first-letter { font-size: 2.8em; font-weight: bold; float: left; margin: .05em .12em 0 0; line-height: .85; }
 p.first-p, h1 + p, h2 + p, h3 + p, hr + p, blockquote + p { text-indent: 0; margin-top: 1em; }
+em { font-style: italic; }
+.epigraph { margin: 1.5em 8%; padding: .8em 1em; border-left: .25em solid #666; background: #f0f0f0; font-size: .9em; }
+.epigraph p { text-indent: 0; }
+.web-navigation, .story-navigation, nav[epub|type="landmarks"] { display: none; }
 blockquote { margin: 1.2em 1em; padding: .5em 1em; border-left: 4px solid #555; background-color: #f7f7f7; font-style: italic; }
 blockquote p { text-indent: 0; margin-bottom: .5em; }
 hr { border: none; text-align: center; margin: 2em 0; height: 1.5em; }
 hr:before { content: "*  *  *"; color: #555; font-size: 1.2em; letter-spacing: .5em; }
 figure { margin: 1.5em 0; text-align: center; page-break-inside: avoid; }
 figure img { max-width: 100%; height: auto; border-radius: 4px; }
-figcaption { font-size: .85em; color: #555; margin-top: .5em; font-style: italic; }
+figcaption { font-family: Georgia, serif; font-size: .85em; color: #555; margin: .5em 0 0 auto; max-width: 92%; text-align: right; font-style: italic; }
 """
 
 

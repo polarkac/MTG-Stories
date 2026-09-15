@@ -3,5 +3,5 @@
 @font-face { font-family: "Crimson Text"; src: url("../fonts/CrimsonText.ttf") format("truetype"); }
 @font-face { font-family: "UnifrakturMaguntia"; src: url("../fonts/UnifrakturMaguntia.ttf") format("truetype"); }
 h1, h2 { font-family: "Old English Text MT", "UnifrakturMaguntia", "Crimson Text", Georgia, serif; font-size: 2.2em; color: #111; text-align: center; border-bottom: 3px double #8a0303; padding-bottom: .2em; }
-h1 + p::first-letter { font-family: "Old English Text MT", "UnifrakturMaguntia", "Crimson Text", Georgia, serif; font-size: 4em; color: #8a0303; line-height: .7; }
+h1 + p::first-letter { font-family: "Old English Text MT", "UnifrakturMaguntia", "Crimson Text", Georgia, serif; font-size: 2.8em; color: #8a0303; line-height: .85; }
 hr::before { content: "\2629  \2629  \2629"; color: #8a0303; letter-spacing: .2em; }

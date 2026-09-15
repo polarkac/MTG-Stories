@@ -22,7 +22,7 @@ The story starts here.'''
     assert "The story starts here." in result
 
 
-def test_sanitize_resolves_images_and_removes_typst_emphasis():
+def test_sanitize_resolves_images_and_preserves_semantic_emphasis():
     result = sanitize_typst_for_pandoc(
         '#show: doc => conf("Story", doc)\n#emph[Run!] #strong[Now!]\n#figure(image("images/01.jpg"))',
         Path("C:/stories/set"),
@@ -30,4 +30,21 @@ def test_sanitize_resolves_images_and_removes_typst_emphasis():
 
     assert "#emph" not in result
     assert "#strong" not in result
+    assert "_Run!_" in result
+    assert "**Now!**" in result
     assert "C:/stories/set/images/01.jpg" in result
+
+
+def test_standalone_strong_becomes_pov_heading():
+    result = sanitize_typst_for_pandoc("#strong[Helga]\n\nThe scene starts.", Path("C:/stories/set"))
+
+    assert "== Helga" in result
+
+
+def test_multiline_emphasis_is_flattened_for_pandoc():
+    result = sanitize_typst_for_pandoc(
+        "#emph[The villagers were\n\ncombing through rubble.]",
+        Path("C:/stories/set"),
+    )
+
+    assert result == "_The villagers were combing through rubble._"
