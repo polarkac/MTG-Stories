@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import re
 import subprocess
 import tempfile
 import time
@@ -11,14 +12,15 @@ from zipfile import ZIP_STORED, ZipFile
 
 from .metadata import extract_metadata
 from .models import ConversionResult, StoryMetadata
-from .text import sanitize_typst_for_pandoc
 from .themes import DEFAULT_FONTS_DIR, load_theme_css, prepare_theme_fonts, theme_for_set
+from .epubBuilder import build_epub, BookMetadata, ChapterSource
+
+from .epubBuilder import build_epub, BookMetadata, ChapterSource
 
 try:
     from PIL import Image
 except ImportError:
     Image = None
-
 
 EPUB_CSS = """
 @charset "utf-8";
@@ -41,7 +43,7 @@ figure { margin: 1.5em 0; text-align: center; page-break-inside: avoid; }
 figure img { max-width: 100%; height: auto; border-radius: 4px; }
 figcaption { font-family: Georgia, serif; font-size: .85em; color: #555; margin: .5em 0 0 auto; max-width: 92%; text-align: right; font-style: italic; }
 """
-
+"""Monta um EPUB3 a partir de capítulos HTML já compilados pelo Typst real."""
 
 class EpubPipeline:
     def __init__(self, output_dir: Path, cache_path: Path | None = None, timeout: int = 300, epubcheck: Path | None = None, fonts_dir: Path | None = DEFAULT_FONTS_DIR):
@@ -72,17 +74,62 @@ class EpubPipeline:
             digest.update(path.read_bytes())
         return digest.hexdigest()
 
-    def convert(self, input_files: list[Path], output: Path, metadata: StoryMetadata, combine: bool = False, force: bool = False) -> ConversionResult:
+    def convert(
+        self,
+        input_files: list[Path],
+        output: Path,
+        metadata: StoryMetadata,
+        force: bool = False,
+        chapter_titles: list[str] | None = None,
+    ) -> ConversionResult:
         started = time.perf_counter()
         source = input_files[0]
+
         theme = theme_for_set(metadata.set_name)
-        fingerprint = self._fingerprint(input_files, f"{EPUB_CSS}|{load_theme_css(theme)}|{combine}|1.1.0")
+        css_content = EPUB_CSS + "\n" + load_theme_css(theme)
+
+        fingerprint = self._fingerprint(input_files, f"typst-html|{theme}|1.3.1")
         cache_key = str(output.resolve())
         if not force and output.exists() and self.cache.get(cache_key) == fingerprint:
             return ConversionResult(source, output, True, "skipped", time.perf_counter() - started, skipped=True)
 
         try:
-            self._run_pandoc(input_files, output, metadata, combine, theme)
+            with tempfile.TemporaryDirectory(prefix="mtg-epub-") as temp_name:
+                temp_dir = Path(temp_name)
+                embedded_fonts = prepare_theme_fonts(theme, self.fonts_dir, temp_dir)
+
+                chapters: list[ChapterSource] = []
+                for index, typ_path in enumerate(input_files):
+                    title = chapter_titles[index] if chapter_titles else extract_metadata(typ_path).title
+                    chapters.append(ChapterSource(typ_path=typ_path, chapter_title=title))
+
+                cover_path = metadata.cover_image
+                if cover_path and cover_path.exists():
+                    cover_path = _prepare_cover(cover_path, temp_dir)
+
+                # Identificador estável por slug (#20)
+                from .sluggyfy import slugify
+                slug = slugify(metadata.set_name) or "unknown"
+                identifier = metadata.story_id or f"mtg-{metadata.series_index}-{slug}"
+
+                book_meta = BookMetadata(
+                    identifier=identifier,
+                    title=metadata.title,
+                    author=metadata.author,
+                    cover_image_path=cover_path,
+                )
+
+                root_dir = Path.cwd()
+                build_epub(
+                    metadata=book_meta,
+                    chapters=chapters,
+                    root=root_dir,
+                    output_path=output,
+                    css_content=css_content,
+                    fonts=embedded_fonts,
+                )
+            
+
             problems = validate_epub(output)
             if problems:
                 raise ValueError("; ".join(problems))
@@ -90,53 +137,15 @@ class EpubPipeline:
                 problems = run_epubcheck(output, self.epubcheck, self.timeout)
                 if problems:
                     raise ValueError("; ".join(problems))
+                    
             self.cache[cache_key] = fingerprint
             self._save_cache()
             return ConversionResult(source, output, True, "generated", time.perf_counter() - started)
-        except subprocess.CalledProcessError as error:
-            detail = error.stderr.strip() if error.stderr else str(error)
-            return ConversionResult(source, output, False, "failed", time.perf_counter() - started, detail)
-        except (OSError, subprocess.SubprocessError, ValueError) as error:
+            
+        except Exception as error:
             return ConversionResult(source, output, False, "failed", time.perf_counter() - started, str(error))
-
-    def _run_pandoc(self, input_files: list[Path], output: Path, metadata: StoryMetadata, combine: bool, theme) -> None:
-        output.parent.mkdir(parents=True, exist_ok=True)
-        with tempfile.TemporaryDirectory(prefix="mtg-epub-") as temp_name:
-            temp_dir = Path(temp_name)
-            css_path = temp_dir / "styles.css"
-            css_path.write_text(EPUB_CSS + "\n" + load_theme_css(theme), encoding="utf-8")
-            embedded_fonts = prepare_theme_fonts(theme, self.fonts_dir, temp_dir)
-            metadata_path = temp_dir / "metadata.xml"
-            metadata_path.write_text(_metadata_xml(metadata), encoding="utf-8")
-            clean_inputs: list[Path] = []
-            for index, source in enumerate(input_files):
-                clean = sanitize_typst_for_pandoc(source.read_text(encoding="utf-8", errors="replace"), source.parent)
-                if combine:
-                    chapter = extract_metadata(source).title
-                    clean = f"= {chapter}\n\n{clean.lstrip()}"
-                clean_path = temp_dir / f"chapter-{index:04d}.typ"
-                clean_path.write_text(clean, encoding="utf-8")
-                clean_inputs.append(clean_path)
-
-            command = [
-                "pandoc", "-f", "typst", "-t", "epub3", "-o", str(output),
-                "--css", str(css_path), "--epub-metadata", str(metadata_path),
-                "--toc", "--toc-depth=2", "--split-level=1",
-                "--metadata", f"title={metadata.title}",
-                "--metadata", f"creator={metadata.author}",
-                "--metadata", f"date={metadata.date}",
-                "--metadata", "publisher=Wizards of the Coast",
-                "--metadata", "lang=en-US",
-            ]
-            if metadata.cover_image and metadata.cover_image.exists():
-                cover = _prepare_cover(metadata.cover_image, temp_dir)
-                command.extend(["--epub-cover-image", str(cover)])
-            for font in embedded_fonts:
-                command.extend(["--epub-embed-font", str(font)])
-            command.extend(str(path) for path in clean_inputs)
-            subprocess.run(command, check=True, capture_output=True, text=True, timeout=self.timeout)
-
-
+        
+# Mantemos a conversão de WebP para evitar erros de validação no EpubCheck
 def _prepare_cover(path: Path, temp_dir: Path) -> Path:
     if path.suffix.lower() != ".webp" or Image is None:
         return path
@@ -144,20 +153,6 @@ def _prepare_cover(path: Path, temp_dir: Path) -> Path:
     with Image.open(path) as image:
         image.convert("RGB").save(target, "JPEG", quality=92)
     return target
-
-
-def _metadata_xml(metadata: StoryMetadata) -> str:
-    series = xml_escape(metadata.series)
-    return f'''<?xml version="1.0" encoding="utf-8"?>
-<package-metadata>
-<meta name="calibre:series" content="{series}"/>
-<meta name="calibre:series_index" content="{metadata.series_index}"/>
-<meta property="belongs-to-collection" id="c01">{series}</meta>
-<meta refines="#c01" property="collection-type">series</meta>
-<meta refines="#c01" property="group-position">{metadata.series_index}</meta>
-</package-metadata>
-'''
-
 
 def validate_epub(path: Path) -> list[str]:
     problems: list[str] = []
@@ -208,7 +203,10 @@ def run_epubcheck(path: Path, epubcheck_jar: Path, timeout: int = 300) -> list[s
 
 
 def collect_typst_files(set_folder: Path) -> list[Path]:
-    return sorted(path for path in set_folder.glob("*.typ") if path.name[:3].isdigit() and path.name[3:4] == "_")
+    return sorted(
+        path for path in set_folder.glob("*.typ")
+        if re.match(r"^\d+[-_]", path.name)
+    )
 
 
 def copy_report(path: Path, results: list[ConversionResult]) -> None:

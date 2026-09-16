@@ -6,7 +6,6 @@ from pathlib import Path
 from mtg_epub.cli import main
 from mtg_epub.metadata import extract_metadata as extract_metadata_from_typ
 from mtg_epub.pipeline import EpubPipeline
-from mtg_epub.text import sanitize_typst_for_pandoc
 
 ROOT_DIR = Path(__file__).resolve().parent
 STORIES_DIR = ROOT_DIR / "stories"

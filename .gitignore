@@ -13,3 +13,7 @@ epubs/conversion-report.json
 
 # Local EpubCheck installation
 tools/
+epubs/
+stories/
+card_lore/
+planeswalkers-guides/
