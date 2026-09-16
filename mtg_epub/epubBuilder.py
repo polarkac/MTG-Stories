@@ -22,6 +22,9 @@ class BookMetadata:
     author: str = "Wizards of the Coast"
     language: str = "en"
     cover_image_path: Path | None = None
+    series: str | None = None
+    series_index: int | float | None = None
+    date: str | None = None
 
 
 @dataclass
@@ -52,6 +55,20 @@ def build_epub(
     book.set_title(metadata.title)
     book.set_language(metadata.language)
     book.add_author(metadata.author)
+
+    if metadata.date:
+        book.add_metadata("DC", "date", metadata.date)
+
+    if metadata.series:
+        # Metadados Calibre (e-readers populares)
+        book.add_metadata(None, "meta", metadata.series, {"name": "calibre:series"})
+        if metadata.series_index is not None:
+            book.add_metadata(None, "meta", str(metadata.series_index), {"name": "calibre:series_index"})
+        # Metadados EPUB3 padrão W3C
+        book.add_metadata(None, "meta", metadata.series, {"property": "belongs-to-collection", "id": "c01"})
+        book.add_metadata(None, "meta", "series", {"refines": "#c01", "property": "collection-type"})
+        if metadata.series_index is not None:
+            book.add_metadata(None, "meta", str(metadata.series_index), {"refines": "#c01", "property": "group-position"})
 
     if metadata.cover_image_path is not None:
         book.set_cover(

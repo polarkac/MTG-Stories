@@ -117,6 +117,9 @@ class EpubPipeline:
                     title=metadata.title,
                     author=metadata.author,
                     cover_image_path=cover_path,
+                    series=metadata.series,
+                    series_index=metadata.series_index,
+                    date=metadata.date if metadata.date else None,
                 )
 
                 root_dir = Path.cwd()

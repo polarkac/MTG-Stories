@@ -44,17 +44,23 @@ def _collection_key(value: str) -> str:
 
 def _appendix_target(folder_name: str, story_slugs: list[str]) -> str | None:
     """
-    Recebe o nome bruto da pasta do guide/card_lore (já slugificado) e a
-    lista de slugs de sets. Devolve o slug do set alvo, ou None.
+    Recebe o nome da pasta do guide/card_lore e a lista de slugs de sets.
+    Devolve o slug do set alvo, ou None (caso de Ulgrotha e livros autônomos).
     """
-    # Remove prefixo "planeswalkers-guide-to-"
+    # 1. Remove número inicial (ex.: "057 - ", "001 - ")
+    no_num = re.sub(r"^\d+[-_\s]*", "", folder_name).strip()
+    # 2. Remove prefixo de guias de planeswalker (com ou sem 's, hífen ou espaço)
     cleaned = re.sub(
-        r"^planeswalkers?-guide-to-",
+        r"^planeswalkers?(?:['’]s)?[\s\-_]*(?:guides?[\s\-_]*(?:to)?[\s\-_]*)?",
         "",
-        slugify(folder_name),
+        no_num,
         flags=re.IGNORECASE,
-    )
+    ).strip()
     key = _collection_key(cleaned)
+
+    # Ulgrotha vira livro autônomo (não anexado a nenhum set existente)
+    if "ulgrotha" in key:
+        return None
 
     direct = {_collection_key(s): s for s in story_slugs}
     if key in direct:
@@ -78,6 +84,7 @@ def build_parser() -> argparse.ArgumentParser:
     source.add_argument("--set", dest="set_name", help="Nome exato ou parcial da coleção")
     source.add_argument("--all", action="store_true", help="Converte todas as coleções")
     source.add_argument("--collection", action="store_true", help="Gera a coleção Magic Stories, um EPUB por set")
+    parser.add_argument("--compress-images", action="store_true", help="Comprime imagens do acervo com Pillow para otimizar tamanho em e-readers")
     parser.add_argument("--combine", action="store_true", help="Gera também um EPUB omnibus")
     parser.add_argument("--output-dir", type=Path, default=Path("epubs"))
     parser.add_argument("--stories-dir", type=Path, default=Path("stories"))
@@ -126,7 +133,7 @@ def _collection_tasks(
 ) -> list[tuple[list[Path], Path, StoryMetadata, list[str]]]:
     def _sort_key(path: Path) -> int:
         m = re.match(r"^(\d+)", path.name)
-        return int(m.group(1)) if m else 10000
+        return int(m.group(1)) if m else 999
 
     story_folders = sorted(
         (p for p in stories_dir.iterdir() if p.is_dir()),
@@ -258,8 +265,19 @@ def main(argv: list[str] | None = None) -> int:
         print(f"[OK] EPUB válido: {args.validate}")
         return 0
 
+    if args.compress_images and not (args.file or args.set_name or args.all or args.collection):
+        from .image_compressor import batch_compress_directories
+        print("[Otimização] Iniciando compressão de imagens do acervo...")
+        batch_compress_directories([args.stories_dir, Path("planeswalkers_guides"), Path("card_lore")])
+        return 0
+
     if not (args.file or args.set_name or args.all or args.collection):
-        build_parser().error("forneça --file, --set, --all ou --collection")
+        build_parser().error("forneça --file, --set, --all, --collection ou --compress-images")
+
+    if args.compress_images:
+        from .image_compressor import batch_compress_directories
+        print("[Otimização] Iniciando compressão de imagens do acervo...")
+        batch_compress_directories([args.stories_dir, Path("planeswalkers_guides"), Path("card_lore")])
 
     try:
         manifest = load_manifest(args.manifest)
@@ -330,7 +348,10 @@ def main(argv: list[str] | None = None) -> int:
             worker_bars.append(b)
 
         def execute_task(task_info):
-            sources, output, metadata, combine, chapter_titles = task_info
+            if len(task_info) == 4:
+                sources, output, metadata, chapter_titles = task_info
+            else:
+                sources, output, metadata, _, chapter_titles = task_info
             name = output.stem
             
             # O worker pega uma linha disponível
@@ -341,7 +362,7 @@ def main(argv: list[str] | None = None) -> int:
             worker_bars[slot].set_description_str(f"Worker {slot+1}: ⚙️ {display_name}".ljust(70))
             
             # Compila
-            result = pipeline.convert(sources, output, metadata, combine=combine, force=args.force, chapter_titles=chapter_titles)
+            result = pipeline.convert(sources, output, metadata, force=args.force, chapter_titles=chapter_titles)
             
             # Atualiza o total, devolve a linha e volta pro estado aguardando
             worker_bars[slot].set_description_str(f"Worker {slot+1}: ⏳ Aguardando...".ljust(70))

@@ -35,7 +35,7 @@ def combine_set_to_single_epub(set_folder: Path, output_epub_path: Path) -> bool
         source_file=sources[0],
         cover_image=first.cover_image,
     )
-    result = EpubPipeline(output_epub_path.parent).convert(sources, output_epub_path, metadata, combine=True)
+    result = EpubPipeline(output_epub_path.parent).convert(sources, output_epub_path, metadata)
     return result.success
 
 
