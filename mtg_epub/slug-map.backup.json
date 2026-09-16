@@ -1,9 +1,0 @@
-{
-  "version": 1,
-  "roots": [
-    "stories",
-    "planeswalkers_guides",
-    "card_lore"
-  ],
-  "renames": {}
-}
