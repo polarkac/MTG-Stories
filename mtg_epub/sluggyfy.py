@@ -50,27 +50,25 @@ PRESERVED_SUFFIXES: frozenset[str] = frozenset()
 
 def slugify(name: str) -> str:
     """
-    Converte para [a-z0-9]+ separado por '-', sem '-' nas pontas.
+    Converte para [a-z0-9]+ separado por '-', sem '-' nas pontas, usando python-slugify.
 
     IMPORTANTE: se 'name' é um arquivo com extensão, preserva a extensão.
       '058 - Duskmourn- House of Horror.typ' -> '058-duskmourn-house-of-horror.typ'
       '01.jpg'                                -> '01.jpg'
       '058 - Duskmourn- House of Horror'     -> '058-duskmourn-house-of-horror'  (pasta)
     """
+    from slugify import slugify as py_slugify
     p = Path(name)
     stem = p.stem
     suffix = p.suffix  # inclui o '.'; vazio se não houver extensão
 
-    slug_stem = re.sub(r"[^a-z0-9]+", "-", stem.casefold()).strip("-")
+    clean_stem = stem.replace("'", "").replace("’", "").replace('"', "")
+    slug_stem = py_slugify(clean_stem, separator="-", lowercase=True)
     if not slug_stem:
         # Fallback: nome original em minúsculas (evita slug vazio)
         slug_stem = stem.casefold().strip()
 
-    if suffix and suffix.casefold() in PRESERVED_SUFFIXES:
-        # (Reservado para uso futuro — hoje PRESERVED_SUFFIXES é vazio)
-        return slug_stem + suffix
-
-    return slug_stem + suffix
+    return f"{slug_stem}{suffix.lower()}" if suffix else slug_stem
 
 
 def _readable_from_raw(folder_name: str) -> str:

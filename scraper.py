@@ -96,8 +96,10 @@ http_session = requests.Session()
 http_session.headers.update(HEADERS)
 
 def sanitize_filename(name: str) -> str:
-    cleaned = re.sub(r'[\/:*?"<>|]', '-', name)
-    return re.sub(r'\s+', ' ', cleaned).strip(' -')
+    from slugify import slugify as py_slugify
+    p = Path(name)
+    stem_slug = py_slugify(p.stem, separator="-", lowercase=True)
+    return f"{stem_slug}{p.suffix.lower()}" if p.suffix else stem_slug
 
 
 def load_manifest() -> dict:
@@ -152,6 +154,11 @@ def download_image(url: str, dest_path: Path) -> bool:
     with open(dest_path, "wb") as f:
         for chunk in response.iter_content(chunk_size=8192):
             f.write(chunk)
+    try:
+        from mtg_epub.image_compressor import compress_image
+        compress_image(dest_path)
+    except Exception as e:
+        print(f"[Aviso] Otimização de imagem ignorada para {dest_path.name}: {e}")
     return True
 
 def resolve_wizards_url_from_mtglore(mtglore_url: str) -> str:
@@ -361,7 +368,7 @@ def scrape_single_item(item: dict) -> dict:
     
     set_folder = sanitize_filename(item.get("set_folder", f"Unknown - {item.get('set_name', 'Unknown')}"))
     story_num = item.get("story_number", "001")
-    file_basename = f"{story_num}_{sanitize_filename(parsed['metadata'].get('clean_title', 'Story'))}"
+    file_basename = f"{story_num}-{sanitize_filename(parsed['metadata'].get('clean_title', 'Story'))}"
     target_typ = STORIES_DIR / set_folder / f"{file_basename}.typ"
     
     generate_story_typst(parsed, target_typ, file_basename)

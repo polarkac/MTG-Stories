@@ -21,32 +21,56 @@ PRESERVE_FILES = {
     "scraped_manifest.json"
 }
 
+def sanitize_segment(segment: str) -> str:
+    from slugify import slugify as py_slugify
+    p = Path(segment)
+    clean_stem = p.stem.replace("'", "").replace("’", "").replace('"', "")
+    if p.suffix:
+        stem = py_slugify(clean_stem, separator="-", lowercase=True)
+        return f"{stem}{p.suffix.lower()}"
+    return py_slugify(clean_stem, separator="-", lowercase=True)
+
 def sanitize_path_string(path_str: str) -> str:
-    """Substitui dois-pontos proibidos no Windows por hífen em cada segmento do caminho."""
+    """Normaliza cada segmento do caminho com python-slugify, separando palavras por hífen."""
+    prefix = ""
+    if path_str.startswith("./"):
+        prefix = "./"
+        path_str = path_str[2:]
+    elif path_str.startswith("../"):
+        prefix = "../"
+        path_str = path_str[3:]
+
     parts = path_str.split("/")
     sanitized_parts = []
     for part in parts:
-        clean = part.replace(":", "-")
-        # Evitar pontos ou espaços no fim de nomes de pasta/arquivo no Windows
-        if clean not in (".", ".."):
-            clean = clean.strip()
-        sanitized_parts.append(clean)
-    return "/".join(sanitized_parts)
+        if part in (".", "..", ""):
+            sanitized_parts.append(part)
+        else:
+            sanitized_parts.append(sanitize_segment(part))
+    return prefix + "/".join(sanitized_parts)
 
 def update_typst_includes_and_images(content: str) -> str:
-    """Atualiza referências a caminhos com ':' dentro de arquivos .typ para '-'."""
-    def fix_include(m):
+    """Atualiza referências a caminhos em #include e image(...) para caminhos normalizados."""
+    def fix_image(m):
         prefix = m.group(1)
-        path = m.group(2)
-        fixed_path = path.replace(":", "-")
+        raw_path = m.group(2)
+        clean_path = raw_path.strip("\"'").replace('"', '').replace("'", "").replace("’", "")
+        fixed_path = sanitize_path_string(clean_path)
         return f'{prefix}"{fixed_path}"'
 
-    # Corrige #include "..."
-    content = re.sub(r'(#include\s+)(["\'][^"\']+["\'])', lambda m: f'{m.group(1)}"{m.group(2)[1:-1].replace(":", "-")}"', content)
-    
-    # Corrige image("...")
-    content = re.sub(r'(image\s*\(\s*)(["\'][^"\']+["\'])', lambda m: f'{m.group(1)}"{m.group(2)[1:-1].replace(":", "-")}"', content)
-    
+    def fix_include(m):
+        prefix = m.group(1)
+        raw_path = m.group(2)
+        clean_path = raw_path.strip("\"'").replace('"', '').replace("'", "").replace("’", "")
+        fixed_path = sanitize_path_string(clean_path)
+        return f'{prefix}"{fixed_path}"'
+
+    # Corrige image("...") mesmo com aspas quebradas no meio do caminho
+    content = re.sub(r'(image\s*\(\s*)(["\'].*?\.(?:jpg|jpeg|png|webp)["\'])', fix_image, content, flags=re.IGNORECASE)
+
+    # Corrige #include "..." mesmo com aspas quebradas no meio do caminho
+    content = re.sub(r'(#include\s+)(["\'].*?\.typ["\'])', fix_include, content, flags=re.IGNORECASE)
+
     return content
 
 def extract_all():
