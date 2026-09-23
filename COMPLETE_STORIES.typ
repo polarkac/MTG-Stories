@@ -35,7 +35,7 @@
 #include "./stories/007_Theros.typ"
 #include "./stories/008_Commander (2013 Edition).typ"
 #include "./stories/009_Born of the Gods.typ"
-#include "./stories/010_Duel Decks: Jace vs. Vraska.typ"
+#include "./stories/010_Duel Decks: Jace vs Vraska.typ"
 #include "./stories/011_Journey into Nyx.typ"
 #include "./stories/012_Conspiracy.typ"
 #include "./stories/013_Magic 2015.typ"
