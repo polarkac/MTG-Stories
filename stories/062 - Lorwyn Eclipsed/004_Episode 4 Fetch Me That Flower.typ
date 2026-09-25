@@ -87,7 +87,7 @@ There was another, shorter pause before the door swung open, revealing a perfect
 
 Kirol took several steps into the chamber without intending it, eyes fixed on the woman. She was tall and beautifully rounded, with a symmetrical build that they could have admired all day. Her hooves were larger and sharper than Lluwen's, polished and gilded in gold, and her horns were breathtaking, so large that it seemed they must be too much for her long, elegant neck to support, their tips bending out and then spiraling inward, like the emulation of a crown. They, too, were tipped in gold, and as the sunlight through the window struck her, she #emph[gleamed] .
 
-#figure(image("004_Episode 4: Fetch Me That Flower/01.jpg", width: 100%), caption: [Art by: Victor Adame Minguez], supplement: none, numbering: none)
+#figure(image("004_Episode 4 Fetch Me That Flower/01.jpg", width: 100%), caption: [Art by: Victor Adame Minguez], supplement: none, numbering: none)
 
 There was no other word for it, and the only possible word for her explained the title Lluwen had given her: she was perfect, so of course she would be the high perfect, as she was without flaw and with no room for improvement.
 
@@ -129,7 +129,7 @@ In the doorway, Lluwen made a small sound of dismay that was something like a ga
 
 "Oh, no," said Morcant, and she smiled a terrible, perfect smile. "We need you. You're not going anywhere."
 
-#figure(image("004_Episode 4: Fetch Me That Flower/02.jpg", width: 100%), caption: [Art by: Heather Hudson], supplement: none, numbering: none)
+#figure(image("004_Episode 4 Fetch Me That Flower/02.jpg", width: 100%), caption: [Art by: Heather Hudson], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -203,7 +203,7 @@ Abigale blinked, then signed a careful #emph[yes.]  The stranger swam closer, si
 
 #emph[We have something you must see] , signed the fish-man. #emph[Will you come with us? No harm will come to you, if you agree.]
 
-#figure(image("004_Episode 4: Fetch Me That Flower/03.jpg", width: 100%), caption: [Art by: Gustavo Pelissari], supplement: none, numbering: none)
+#figure(image("004_Episode 4 Fetch Me That Flower/03.jpg", width: 100%), caption: [Art by: Gustavo Pelissari], supplement: none, numbering: none)
 
 Abigale considered her answer for a moment then nodded and signed, #emph[Yes] . The man swam forward to offer her his arm, and one of the women did the same, getting her situated solidly between them. With this accomplished, they began to swim toward the Wanderwine proper, towing Abigale along with them. It was so fast that it was almost like flying, and Abigale hooted laughter as she allowed herself to be taken into the distant depths.
 

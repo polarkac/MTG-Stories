@@ -145,7 +145,7 @@ The strange little creature that had originally caught Sanar's attention flitted
 
 The four students tumbled through a tunnel of gleaming prismatic light that formed and reformed into impossible geometric shapes, fractals and spirals bleeding off into infinity.
 
-#figure(image("001_Episode 1: Out of This Wood/01.jpg", width: 100%), caption: [Art by: Alayna Danner], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Out of This Wood/01.jpg", width: 100%), caption: [Art by: Alayna Danner], supplement: none, numbering: none)
 
 The fall took a matter of seconds. They barely had time to catch their breath before tumbling out of the hole and into the middle of an unfamiliar meadow, the grass growing lush and green, patterned with strange patches of wildflowers that looked almost dull in comparison to the colors of their fall. The flowers grew in spirals that appeared natural, despite their precision, and large, smooth stones patterned with similar spirals dotted the landscape around them. Some of the stones floated a few feet above the ground, seeming to hum with the magic that kept them aloft.
 
@@ -235,7 +235,7 @@ Even Abigale cringed away as the chilling fear washed over her, feathers bristli
 
 Kirol darted forward, grabbing Sanar by the elbow, and yanked the smaller student away from the beast. Sanar, who had frozen in his fear, shot Kirol a grateful look and turned to run alongside them, fleeing from the creature that was even then lumbering to its feet. It continued to roar, swinging its head back and forth in a menacing fashion. It reared up—just a little—and stomped its two front feet, sending a wave of near-solid darkness flowing out from the impact.
 
-#figure(image("001_Episode 1: Out of This Wood/02.jpg", width: 100%), caption: [Art by: Lucas Graciano], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Out of This Wood/02.jpg", width: 100%), caption: [Art by: Lucas Graciano], supplement: none, numbering: none)
 
 The shadows washed over the students and rushed past them, filling the tunnel and snuffing out the glowing lichen in the same instant. Virtually solid, that darkness flowed onward, out of the tunnel, and began to pool in the sunlit meadow, which was sunlit no longer.
 

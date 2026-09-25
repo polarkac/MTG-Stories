@@ -79,7 +79,7 @@ He moved closer, easing one hand under the motionless Maralen's head, and uncapp
 
 "What a cruel world, to force one such as I to play the hero," Oko said and brought the vial to her lips, tilting it with the utmost care so that only a few drops fell into her mouth.
 
-#figure(image("007_Episode 7: The Charm Dissolves Apace/01.jpg", width: 100%), caption: [Art by: Quintin Gleim], supplement: none, numbering: none)
+#figure(image("007_Episode 7 The Charm Dissolves Apace/01.jpg", width: 100%), caption: [Art by: Quintin Gleim], supplement: none, numbering: none)
 
 Maralen was past swallowing, but the liquid rolled down her tongue to drop into her throat, trickling onward until she coughed, the sound small and weak and audible only because she had been so silent until that point; when set against her previous silence, it was the loudest thing in the world.
 
@@ -155,7 +155,7 @@ Eirdu approached, and Isilu rose, tail flicking. The night elemental didn't move
 
 Then Isilu returned the bow and pounced. The two elementals began to wrestle, moving away from the smaller bipeds, play-fighting with exquisite care. Maralen, pulling herself unsteadily to her feet, gasped.
 
-#figure(image("007_Episode 7: The Charm Dissolves Apace/02.jpg", width: 100%), caption: [Art by: Justin Gerard], supplement: none, numbering: none)
+#figure(image("007_Episode 7 The Charm Dissolves Apace/02.jpg", width: 100%), caption: [Art by: Justin Gerard], supplement: none, numbering: none)
 
 "The balance is here," she said.
 
@@ -241,7 +241,7 @@ Rhys looked at it, then leaned up onto the tips of his hooves, closing his eyes 
 
 "Thank you, Eirdu, for your warmth and your light," he said. "Thank you, Maralen, for your friendship and your hand. And thank you, all of you, for saving her." He opened his eyes as he turned away from the elemental.
 
-#figure(image("007_Episode 7: The Charm Dissolves Apace/03.jpg", width: 100%), caption: [Art by: Kai Carpenter], supplement: none, numbering: none)
+#figure(image("007_Episode 7 The Charm Dissolves Apace/03.jpg", width: 100%), caption: [Art by: Kai Carpenter], supplement: none, numbering: none)
 
 "I'll be going now," he said, and the wind began to blow him away. His body came apart in flower petals, dawnglove and moonglove and apple blossom, each one leaving him a little paler and more faded than the last, until he was gone and Eirdu sat alone.
 

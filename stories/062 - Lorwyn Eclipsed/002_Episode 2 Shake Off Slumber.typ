@@ -43,7 +43,7 @@ A larger streak of daylight beckoned, and the students ran again, fleeing the im
 
 This patch of daylight was large enough to contain them all, and they clustered together, looking anxiously around. The great moon-headed beast was gone, but the impossible night lingered, edges still shifting and spreading, like ink dripped onto blotter paper.
 
-#figure(image("002_Episode 2: Shake Off Slumber/01.jpg", width: 100%), caption: [Art by: Mark Poole], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Shake Off Slumber/01.jpg", width: 100%), caption: [Art by: Mark Poole], supplement: none, numbering: none)
 
 Tam stiffened, pointing toward a tall standing stone in the daylit distance. A stout humanoid in archer's leathers crouched there, waving frantically for them to join her. Kirol and Abigale exchanged a glance, then nodded and took off toward her, Sanar and Tam close behind.
 
@@ -77,7 +77,7 @@ The woman nodded. "That's what the boggarts call it."
 
 "Who are you?" asked Tam.
 
-#figure(image("002_Episode 2: Shake Off Slumber/02.jpg", width: 100%), caption: [Art by: Zoltan Boros], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Shake Off Slumber/02.jpg", width: 100%), caption: [Art by: Zoltan Boros], supplement: none, numbering: none)
 
 "My name is Brigid Baeli, hero of Kinsbaile, and I'm pleased to welcome you to Lorwyn. You're a lucky lot. Most who run afoul of Isilu don't make it back to the daylit side of the world any time soon."
 
@@ -115,7 +115,7 @@ At the brook's source, high in the glen, a single massive flower rose toward the
 
 Its petals were silver, gold, ivory, recreating the three kinds of light. They formed a scalloped cup, their tips reaching higher than the tops of the trees. Where the stamen and pistil should have been, there was a palace, timelessly elegant in its simplicity, built from bricks of molded bramble instead of stone, but large as any palace had ever been. It had ramparts and towers, even a courtyard large enough to host jousts or outdoor feasts. It was impossible, and in its impossibility, it was infinitely magical, a monument to every capability of the faerie court. Patches of night and day dappled the walls and grounds, beautiful in their chaos.
 
-#figure(image("002_Episode 2: Shake Off Slumber/03.jpg", width: 100%), caption: [Art by: Yohann Schepacz], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Shake Off Slumber/03.jpg", width: 100%), caption: [Art by: Yohann Schepacz], supplement: none, numbering: none)
 
 This was Glen Elendra, the stronghold of the faerie queen, once protectorate of Great Mother Oona, now home and holding of Queen Maralen of the fae. Faeries danced through the interlaced branches and flitted through the palace halls, light glinting off their carapaces until they shone like jewels. Much like the wildflowers, they came in every possible color, and their silhouettes cut an endless kaleidoscope of shapes and angles as they flew. They flew to keep themselves in either shadow or sun, not allowing the transition between the two to distract them from their tasks.
 
@@ -203,7 +203,7 @@ To be beloved of Eirdu was to be beloved of the sun in all its impossible vastne
 
 "Hello, old friend," said Maralen, coming closer. The beast brought its head lower, until she could press one hand flat against its muzzle, marveling as always at how the elemental made her seem as small as one of her own faeries. She pressed her palm flat against its skin and closed her eyes, just standing there for several minutes. The beast snorted lightly, and she stepped back, opening her eyes and smiling. It rose like the morning sun, shaking itself before ambling toward the courtyard's edge.
 
-#figure(image("002_Episode 2: Shake Off Slumber/04.jpg", width: 100%), caption: [Art by: Lucas Graciano], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Shake Off Slumber/04.jpg", width: 100%), caption: [Art by: Lucas Graciano], supplement: none, numbering: none)
 
 "I suppose I'll see you later," said Maralen before turning to return to her room as the glorious beast left the courtyard and walked away, still radiant, still warm.
 

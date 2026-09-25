@@ -99,7 +99,7 @@ Before Tam could explain how this was in poor taste, a new sound introduced itse
 
 Ashling was laughing. She kept laughing as she helped them out of the coracle and led all three of them away from the water and into the tangled shadows of the Stinkdrinker Warren.
 
-#figure(image("005_Episode 5: If We Shadows/01.jpg", width: 100%), caption: [Art by: Ilse Gort], supplement: none, numbering: none)
+#figure(image("005_Episode 5 If We Shadows/01.jpg", width: 100%), caption: [Art by: Ilse Gort], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -135,7 +135,7 @@ Finally, with a flick of its wings, it rose and flew away, vanishing quickly int
 
 Near the dolmen gate, a flare of light split the darkness, then became the muscled, white-furred form of Ajani Goldmane. The unbroken night hung heavy in the air around him, day glimmering in the distance beyond veils of shimmering aurora created where the night and day collided. He took a look around, turning a careful circle. There was no sign of the four missing students.
 
-#figure(image("005_Episode 5: If We Shadows/02.jpg", width: 100%), caption: [Art by: Greg Staples], supplement: none, numbering: none)
+#figure(image("005_Episode 5 If We Shadows/02.jpg", width: 100%), caption: [Art by: Greg Staples], supplement: none, numbering: none)
 
 Ajani frowned, then started toward the dolmen gate. As he moved, a creature like a serpent with the tiny, jointed legs of a millipede loomed up behind him, mouth gaping to show venom-coated fangs. It struck, and he blocked it with the head of his axe, hard-won reflexes allowing him to stop the assault before it could happen. It was not a battle that could ever have lasted for long. The serpent was a beast, huge and terrible but acting entirely on instinct; Ajani was a great warrior, a survivor of a hundred battles against greater enemies than this. He did his best to repel without wounding, batting the snake aside with his axe, trying to leave it alive, but the serpent struck again and again, until he finally had no choice but to strike it down.
 
@@ -213,7 +213,7 @@ Maralen and Ashling turned to look, then gasped.
 
 The river just ahead was slashed through with a hard line of night, auroras sparking along its edge, and on the other side was only darkness. Shadowmoor had taken the Wanderwine.
 
-#figure(image("005_Episode 5: If We Shadows/03.jpg", width: 100%), caption: [Art by: Adam Paquette], supplement: none, numbering: none)
+#figure(image("005_Episode 5 If We Shadows/03.jpg", width: 100%), caption: [Art by: Adam Paquette], supplement: none, numbering: none)
 
 "This boat stops here," said the boggart.
 
@@ -271,7 +271,7 @@ The dawnglove flowers grew in small patches, glowing pink, purple, and blueish w
 
 A branch snapped behind them. Kirol tensed, and their vampirically sharp ears heard the crackle of distant, hard-banked fires creeping closer. They turned and saw dark outlines, humanoid shapes crackling with barely contained heat, like banked charcoals. It was easy to miss them in the dark, their presence betrayed only by the dim embers in their eyes. Leaping back to their feet, they ran, and the cinders gave chase.
 
-#figure(image("005_Episode 5: If We Shadows/04.jpg", width: 100%), caption: [Art by: Evyn Fong], supplement: none, numbering: none)
+#figure(image("005_Episode 5 If We Shadows/04.jpg", width: 100%), caption: [Art by: Evyn Fong], supplement: none, numbering: none)
 
 Several times, Kirol felt the heat of their bodies against their skin. But they were faster—even in the wrong shoes—than the cinders were on the uneven ground, and they burst through the veil of rainbows with the dawnglove in their hand, dropping to their knees in the loam.
 

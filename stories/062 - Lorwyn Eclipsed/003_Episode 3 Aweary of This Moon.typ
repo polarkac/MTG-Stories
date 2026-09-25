@@ -125,7 +125,7 @@ Its dominion only lasted a few seconds before the alarm bells began ringing outs
 
 In the meadow outside the city walls, Isilu was walking. The great beast took long, intentional steps, legs moving with an elegant grace which would have been easier to appreciate if not for the darkness that poured off of it in never-ending waves. Where the darkness fell, the night descended. The students rushed to the window to join her and watched as the sudden night began to overtake the city.
 
-#figure(image("003_Episode 3: Aweary of This Moon/01.jpg", width: 100%), caption: [Art by: Ralph Horsley], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Aweary of This Moon/01.jpg", width: 100%), caption: [Art by: Ralph Horsley], supplement: none, numbering: none)
 
 Everywhere the darkness touched, the city was transformed. The wall grew higher, topped with long spikes pointing both inward and outward. The ladders vanished, making the territory impassable. The buildings nearest the wall remained the same shape but sprouted spikes and bars along their windows, the spirals worked into their architecture growing more tangled and defensive. Even the doors grew narrower, making it easier to shut them against the world.
 
@@ -157,7 +157,7 @@ The humanoids who fought from sunlight were like Brigid, and that appeared to be
 
 The students ran, and as they forced their way out the gate to the fields beyond, Abigale looked back, still clutching Sanar close. Together, they bore witness as Brigid fired into the dark, aiming to wound, not kill, trying to stop figures who were being far less considerate with their own attacks. A tendril of misplaced night slithered along the wall to her back, unseen, and bright-eyed figures followed it, pressed to the stone to avoid the narrow strip of sunlight where Brigid stood.
 
-#figure(image("003_Episode 3: Aweary of This Moon/02.jpg", width: 100%), caption: [Art by: Zoltan Boros], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Aweary of This Moon/02.jpg", width: 100%), caption: [Art by: Zoltan Boros], supplement: none, numbering: none)
 
 Once they were solidly behind her, they reached out and grabbed her shoulders, pulling her into the darkness. She struggled and wailed, then stilled, and when she opened her eyes again, they were full moon-bright, filled with a light that had nothing to do with the day.
 
@@ -207,7 +207,7 @@ Abigale lifted her ear tufts in amusement, signing, #emph[You were the one who t
 
 Abigale continued silently to the other side of the river, where she landed to set them on their feet and signed, deadpan, #emph[It certainly is.]
 
-#figure(image("003_Episode 3: Aweary of This Moon/03.jpg", width: 100%), caption: [Art by: Mark Zug], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Aweary of This Moon/03.jpg", width: 100%), caption: [Art by: Mark Zug], supplement: none, numbering: none)
 
 She jumped back into the air and flew back to the others, leaving Kirol alone. They looked around thoughtfully. It was obvious that this side of the river played host to a large forest somewhere nearby: Kirol was in the Introduction to Magibotanical Environments, not due to a secret interest in Witherbloom but due to a not-at-all-secret interest in everything an environment could tell you about what was nearby. The grass on this side of the river was coarser, and the flowers had the flat, smooth leaves they associated with growing in shade. It was still a beautiful environment. It just spoke to more nearby trees than the ones that stood outside Goldmeadow.
 

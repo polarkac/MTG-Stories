@@ -9,7 +9,7 @@
 
 Inevitable as the dawn, Isilu and the circling faerie Maralen insisted was her brother drew closer, while the elves matched their advance, marching along the line of the horizon like an omen of apocalypse. The night-touched kithkin continued to ready their weapons and adjust their positions, forming a tight-linked wall of bristling arrows and readied knives.
 
-#figure(image("006_Episode 6: Full of Hateful Fantasies/01.jpg", width: 100%), caption: [Art by: Ron Spencer], supplement: none, numbering: none)
+#figure(image("006_Episode 6 Full of Hateful Fantasies/01.jpg", width: 100%), caption: [Art by: Ron Spencer], supplement: none, numbering: none)
 
 "See how they stand?" asked Ashling, voice low and aimed toward Tam. "On the lee side of the night, fear of the unusual serves them well. They move as one, because they treat the outside world as a single enemy. Kithkin are always community-oriented but never so well-united by day."
 
@@ -63,7 +63,7 @@ The elves seemed to draw back for a long moment like a held breath, their spears
 
 The elves struck as individuals, and the kithkin moved as one. Those who carried bows pulled back their bowstrings, drawing them tight, and loosed arrows on the arms and shoulders of the elves who carried the captive-sunlight reliquaries. Not every missile struck home, but enough did, causing their targets to flinch, recoil, and drop what they were holding. The falling reliquaries didn't ignite the grass around them: Instead, the captive figures in their flames uncurled and sprang into the air, laughing. They bowed to Isilu in obvious deference, then shot off toward the demarcation between day and night, returning themselves to the sunlit lands.
 
-#figure(image("006_Episode 6: Full of Hateful Fantasies/02.jpg", width: 100%), caption: [Art by: Jabari Weathers], supplement: none, numbering: none)
+#figure(image("006_Episode 6 Full of Hateful Fantasies/02.jpg", width: 100%), caption: [Art by: Jabari Weathers], supplement: none, numbering: none)
 
 The elves who had been separated from their reliquaries gasped and changed, flesh and bone melting smoothly into their Shadowmoor selves. They straightened, horns grown longer and covered in tiny thorns, looking in horror at the battle around them. Some turned to flee, only to find their former allies turning against them.
 
@@ -109,7 +109,7 @@ He didn't cut deeply—just a narrow slice across her arm—but that was enough.
 
 His height would have made him imposing even without his broad shoulders and sharp features. His ears were pointed, and at first he seemed to be an elf, though the horns atop his head were in fact some sort of twisted antler-crown. Perhaps most striking of all, his forearms were the blue of a frozen winter lake, as was the top half of his face.
 
-#figure(image("006_Episode 6: Full of Hateful Fantasies/03.jpg", width: 100%), caption: [Art by: Kai Carpenter], supplement: none, numbering: none)
+#figure(image("006_Episode 6 Full of Hateful Fantasies/03.jpg", width: 100%), caption: [Art by: Kai Carpenter], supplement: none, numbering: none)
 
 His clothing was almost tattered, leaving his chest and arms bared, but the remains of fur and velvet covered his legs and back, making him look more like a prince in exile than a stranger who had been a faerie only a moment before. He looked down at the motionless Maralen, watching her long enough to see that she was still breathing, even if her breath was strained, before he began advancing on the horrified Rhys.
 
