@@ -13,7 +13,7 @@ They were on the coast of Bogardan in a cove with a wide stretch of beach, prote
 
 All that was left was the skyship's Thran metal skeleton, nearly two hundred feet long, and the bulky coils of its engines. The rest of its hull and interior had decayed away or been destroyed in the battle that had sent it to the bottom of the sea. Jhoira's mechanical owl flew over it, giving her an overhead view of the wreck through its eyes. #emph[It looks worse than it is] , Jhoira thought. She touched the locket around her neck, reminding herself that she had options, if the ship's core was more damaged than she hoped.
 
-#figure(image("003_Return to Dominaria: Episode 3/01.jpg", width: 100%), caption: [Art by Kev Walker], supplement: none, numbering: none)
+#figure(image("003_Return to Dominaria Episode 3/01.jpg", width: 100%), caption: [Art by Kev Walker], supplement: none, numbering: none)
 
 Between the merfolk and her human salvage crew, they had wrestled the remnant to the surface. The Tolarian supply vessel where Jhoira's diving ship was now stored had pulled the #emph[Weatherlight]  into this sheltered cove, and then they had winched and levered the wreck up onto the flat ground where the restoration work could begin. The supply ship was anchored off the beach now and the salvage crew was putting up a camp near the #emph[Weatherlight] . They could start the work as early as this afternoon. The other ship anchored in the cove was Jhoira's private barque, and though much smaller and shaped like an ordinary sailing vessel, it was as much of a mechanical marvel as her diving ship.
 
@@ -49,7 +49,7 @@ Hadi and the other salvagers joined Jhoira and Tiana in the Thran skeleton that 
 
 But the first, most important component sat nestled in its metal cradle in the depths of the engine. It was the Powerstone.
 
-#figure(image("003_Return to Dominaria: Episode 3/02.jpg", width: 100%), caption: [Worn Powerstone | Art by Henry G. Higginbotham], supplement: none, numbering: none)
+#figure(image("003_Return to Dominaria Episode 3/02.jpg", width: 100%), caption: [Worn Powerstone | Art by Henry G. Higginbotham], supplement: none, numbering: none)
 
 "Well, it's still here," Hadi said dubiously.
 
@@ -123,7 +123,7 @@ She dispatched another cultist with a thrust to the chest and the cleric flung a
 
 The owl's gaze focused in, and as the cleric cast another death burst, Jhoira spotted the faint gold light that shone around the woman as the spell struck her. #emph[Not a shield] , she thought, starting to smile. It was an immunity to magic, and she had seen it before.
 
-#figure(image("003_Return to Dominaria: Episode 3/03.jpg", width: 100%), caption: [Art by Magali Villeneuve], supplement: none, numbering: none)
+#figure(image("003_Return to Dominaria Episode 3/03.jpg", width: 100%), caption: [Art by Magali Villeneuve], supplement: none, numbering: none)
 
 Jhoira had found her quarry. She called her owl back and started for the stairway.
 
@@ -179,7 +179,7 @@ They were sitting in the garden of the Capashen townhouse, and it was late morni
 
 Danitha didn't resemble Gerrard, except in her warrior bearing. Her hair was pulled back, the sides shaved to better fit under a helmet, and her face was tanned and weathered. Jhoira had known she was a knight of Benalia, but she had thought Danitha would want to follow in the steps of her famous predecessor.
 
-#figure(image("003_Return to Dominaria: Episode 3/04.jpg", width: 100%), caption: [Art by Chris Rallis], supplement: none, numbering: none)
+#figure(image("003_Return to Dominaria Episode 3/04.jpg", width: 100%), caption: [Art by Chris Rallis], supplement: none, numbering: none)
 
 "Then why?" Shanna asked. She gestured to the big stone house. Danitha had come in from the stables to meet them, and her sword and shield rested just inside the double doors that were open to the main hall. "Obviously you're not afraid of a fight."
 
@@ -227,7 +227,7 @@ Raff was lucky she realized it was an illusion, not an attack. The garden had va
 
 "I can tell it's there, but I can see the house and the garden through it." Shanna gave Raff a thoughtful glance. "So is he any good?"
 
-#figure(image("003_Return to Dominaria: Episode 3/05.jpg", width: 100%), caption: [Art by John Stanko], supplement: none, numbering: none)
+#figure(image("003_Return to Dominaria Episode 3/05.jpg", width: 100%), caption: [Art by John Stanko], supplement: none, numbering: none)
 
 Jhoira sighed and made herself evaluate Raff's skill more objectively. "He's not bad." She turned to Raff. "You've been very annoying today."
 
@@ -287,4 +287,4 @@ With a rush of wind and golden light, Ajani Goldmane appeared on the shore. He g
 
 "—a friend to arrive." Jhoira smiled. "#emph[Now]  we are ready."
 
-#figure(image("003_Return to Dominaria: Episode 3/06.jpg", width: 100%), caption: [Ajani, Valiant Protector | Art by Anna Steinbauer], supplement: none, numbering: none)
+#figure(image("003_Return to Dominaria Episode 3/06.jpg", width: 100%), caption: [Ajani, Valiant Protector | Art by Anna Steinbauer], supplement: none, numbering: none)

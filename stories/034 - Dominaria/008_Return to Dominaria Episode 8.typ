@@ -9,7 +9,7 @@
 
 Chandra walked across the planes to Regatha. She stepped through a storm of fire into existence again on the rocky ground below the broad stone steps of Keral Keep. The sun was setting over the mountains, the smoke from the nearest volcano turning the sky a brilliant red streaked with orange. The heat of the day sank into her bones, a comfort after the dank cold of the Dominarian swamp. She took a deep breath of warm air tinged with a crackling energy like the aftermath of a lightning strike and felt all her tense muscles relax.
 
-#figure(image("008_Return to Dominaria: Episode 8/01.jpg", width: 100%), caption: [Mountain | Art by Sam Burley], supplement: none, numbering: none)
+#figure(image("008_Return to Dominaria Episode 8/01.jpg", width: 100%), caption: [Mountain | Art by Sam Burley], supplement: none, numbering: none)
 
 She sighed and scrubbed at her face. #emph[I know it didn't look like it, Gideon,]  #emph[but I have a plan] . She wasn't running away.
 
@@ -31,7 +31,7 @@ Once past the court she was in the lesser-used area of the keep and it was easy 
 
 This was where the monastery kept its sacred relics, but there was only one thing here Chandra was interested in. She crossed the room to the plinth where Jaya's goggles sat. The light gold metal was just a little discolored, but the leather strap and buckle showed obvious wear. #emph[She'll want these back] , Chandra thought, #emph[and they'll prove I come from Keral Keep] . The gift would get Jaya to listen to her long enough for Chandra to explain how important the fight against Nicol Bolas was. And it wasn't stealing when you were giving something back to the person who had originally owned it.
 
-#figure(image("008_Return to Dominaria: Episode 8/02.jpg", width: 100%), caption: [Pyromancer's Goggles | Art by James Paick], supplement: none, numbering: none)
+#figure(image("008_Return to Dominaria Episode 8/02.jpg", width: 100%), caption: [Pyromancer's Goggles | Art by James Paick], supplement: none, numbering: none)
 
 As she reached for the goggles, a voice behind her said, "Chandra, what are you doing?"
 
@@ -75,7 +75,7 @@ Fortunately, the crowd wasn't panicked and parted around Chandra and the woman l
 
 She said, "Oh, it's the kobolds of the Kher Ridges again, and that horrible god-dragon of theirs, Prossh. They're going to attack the city, but Steward Baird's got a troop of soldiers and a powerful pyromancer to settle them. Hopefully this time it'll be permanent."
 
-#figure(image("008_Return to Dominaria: Episode 8/03.jpg", width: 100%), caption: [Prossh, Skyraider of Kher | Art by Todd Lockwood], supplement: none, numbering: none)
+#figure(image("008_Return to Dominaria Episode 8/03.jpg", width: 100%), caption: [Prossh, Skyraider of Kher | Art by Todd Lockwood], supplement: none, numbering: none)
 
 "A powerful pyromancer?" That sounded promising. "Do you know who it is?"
 
@@ -111,7 +111,7 @@ Someone or something had just pushed the trunk of a fallen tree across the road 
 
 There wasn't a lot of brush between the towering trees, but she still couldn't see who was up there moving around. She finally found a vantage point by climbing up among the trees at the top of a low hill. From there, she saw the kobolds.
 
-#figure(image("008_Return to Dominaria: Episode 8/04.jpg", width: 100%), caption: [Kobolds of Kher Keep Token | Art by Paolo Parente], supplement: none, numbering: none)
+#figure(image("008_Return to Dominaria Episode 8/04.jpg", width: 100%), caption: [Kobolds of Kher Keep Token | Art by Paolo Parente], supplement: none, numbering: none)
 
 At least a dozen worked on each side of the road, short gaunt figures dressed in a variety of metal and leather armor and helmets, heavily armed with axes, spears, and swords. They were building a barricade across the road, probably meant to halt the Argivian troop and give the kobolds a chance to attack. The one Chandra guessed was the leader stood on a boulder, waving a sword and exhorting the others, "We will kill the Argivians for the glory of Prossh!"
 
@@ -135,7 +135,7 @@ Crossbow bolts landed in the ground near her feet. She spun and spotted three ko
 
 Chandra drew on her power and held out her hands toward the makeshift barrier. One clean blast down the middle, she told herself, focused and controlled. And she thought wryly, #emph[Just like Mother Luti always tells you and you never listen.]
 
-#figure(image("008_Return to Dominaria: Episode 8/05.jpg", width: 100%), caption: [Chandra, Bold Pyromancer | Art by Zack Stella], supplement: none, numbering: none)
+#figure(image("008_Return to Dominaria Episode 8/05.jpg", width: 100%), caption: [Chandra, Bold Pyromancer | Art by Zack Stella], supplement: none, numbering: none)
 
 She sent the burst of fire streaking toward the logs. It hit dead center and slammed through all three trunks. Through smoke and burning fragments, Chandra got a glimpse of the road past the barricade, but she couldn't spot anyone approaching. She needed to make the opening bigger, to make sure the Argivians wouldn't be trapped. She sent another burst of fire, but then a lot of screaming kobolds charged her.
 
@@ -155,7 +155,7 @@ A young woman hurried up to her and said, "Steward Baird would like to thank you
 
 But when the soldier led her to where the steward stood beside his horse, there was no one who looked like Jaya. Chandra managed to contain herself and accept Baird's formal thanks without looking too impatient, but at the first opportunity she said, "I was looking for the pyromancer who's supposed to be traveling with you. Is her name Jaya Ballard?"
 
-#figure(image("008_Return to Dominaria: Episode 8/06.jpg", width: 100%), caption: [Baird, Steward of Argive | Art by Christine Choi], supplement: none, numbering: none)
+#figure(image("008_Return to Dominaria Episode 8/06.jpg", width: 100%), caption: [Baird, Steward of Argive | Art by Christine Choi], supplement: none, numbering: none)
 
 Baird said, "Yes, that is her, but she left our force in the ridges."
 
@@ -183,7 +183,7 @@ Chandra traveled for five days, out of the forest and past the end of the road, 
 
 Going up what her map assured her was the last ridge, the trail became harder to see, and Chandra found herself climbing more than walking. Finally, she reached the top and stopped, breathing hard. The sea spread out below from a beach at the bottom of the ridge, the water serene under blue sky and white clouds. Directly across from her, maybe only a mile or two away, was another coast, so thickly covered with trees that the shore looked like a nearly solid wall of intense green. This had to be Yavimaya.
 
-#figure(image("008_Return to Dominaria: Episode 8/07.jpg", width: 100%), caption: [Forest | Art by Jonas De Ro], supplement: none, numbering: none)
+#figure(image("008_Return to Dominaria Episode 8/07.jpg", width: 100%), caption: [Forest | Art by Jonas De Ro], supplement: none, numbering: none)
 
 Mist floated around shapes that might be small mountains or hills, but from her high vantage point on the ridge she couldn't see any sign that anyone lived there. No indication of paths or roads along its shore, no mark of civilization at all. Frustrated, she said aloud, "How am I going to find—"
 
@@ -207,7 +207,7 @@ Chandra hesitated, but they couldn't be after her; they were facing the wrong wa
 
 The leaves and branches tossed like a harsh wind had passed through them. Creatures that looked like animate trees walked out of the shadows into the valley. #emph[No, wait, those ] are#emph[ animate trees] , Chandra thought, impressed.
 
-#figure(image("008_Return to Dominaria: Episode 8/08.jpg", width: 100%), caption: [Verdant Force | Art by Viktor Titov], supplement: none, numbering: none)
+#figure(image("008_Return to Dominaria Episode 8/08.jpg", width: 100%), caption: [Verdant Force | Art by Viktor Titov], supplement: none, numbering: none)
 
 They dragged themselves along, clots of dirt falling from their root bundles. Some were big, with trunks divided almost like legs, but others were smaller and crept out of the underbrush, moving their lower branches in a way that was far too giant-spider-like for Chandra's comfort.
 
@@ -225,7 +225,7 @@ The automaton braced to meet the charge. "They're animated trees, created and se
 
 Then the automaton lunged past her. Chandra whipped around and saw a tree had crept up and was just about to slam its branches down on them. The automaton punched it in the trunk, over and over again, and splintered the heavy wood into fragments.
 
-#figure(image("008_Return to Dominaria: Episode 8/09.jpg", width: 100%), caption: [Fiery Intervention | Art by Adam Paquette], supplement: none, numbering: none)
+#figure(image("008_Return to Dominaria Episode 8/09.jpg", width: 100%), caption: [Fiery Intervention | Art by Adam Paquette], supplement: none, numbering: none)
 
 More trees slammed into the line of larger automatons and Chandra sprinted forward to get behind them. Two trees turned away from the automatons to rush her and Chandra blasted them out of her way. She reached a spot of higher ground where she had a better angle and sent a stream of fire down the whole row of trees. They didn't seem to realize they were on fire, and blindly shoved past each other to get to the automatons, spreading the blaze.
 
@@ -247,4 +247,4 @@ Chandra spun around. Mother Luti stood there, wearing a leather and metal jerkin
 
 Mother Luti lifted a brow, and pointed to Jaya's goggles hanging from Chandra's belt. She said, "I believe those are mine."
 
-#figure(image("008_Return to Dominaria: Episode 8/10.jpg", width: 100%), caption: [Jaya Ballard | Art by Magali Villeneuve], supplement: none, numbering: none)
+#figure(image("008_Return to Dominaria Episode 8/10.jpg", width: 100%), caption: [Jaya Ballard | Art by Magali Villeneuve], supplement: none, numbering: none)

@@ -7,7 +7,7 @@
     doc
 )
 
-#figure(image("001_Return to Dominaria: Episode 1/01.jpg", width: 100%), caption: [], supplement: none, numbering: none)
+#figure(image("001_Return to Dominaria Episode 1/01.jpg", width: 100%), caption: [], supplement: none, numbering: none)
 
 #align(center)[i.]
 
@@ -31,7 +31,7 @@ In a murmuring chorus, the group of disciples repeated obediently, "It was Belze
 
 Needle added, "This is #emph[his]  sword. Belzenlok, King of Urborg, Demonlord. I return it to him."
 
-#figure(image("001_Return to Dominaria: Episode 1/02.jpg", width: 100%), caption: [Art by Chris Rahn], supplement: none, numbering: none)
+#figure(image("001_Return to Dominaria Episode 1/02.jpg", width: 100%), caption: [Art by Chris Rahn], supplement: none, numbering: none)
 
 "Very good." Sadage took the sword from Needle's hand. The contact made his skin burn, even through his gloves. "You have earned your reward."
 
@@ -47,7 +47,7 @@ Outside the ports, silvery fish flickered away through the sandy water, confused
 
 Jhoira adjusted the wheel more carefully and pointed, her finger almost touching the curved glass. "There, you see?" It seemed obvious to her; the long spine half-buried in the muck and waterweeds was too straight for any natural formation, at least in this bay. But then she knew that shape so well, it was like greeting an old friend.
 
-#figure(image("001_Return to Dominaria: Episode 1/03.jpg", width: 100%), caption: [Art by Brad Rigney], supplement: none, numbering: none)
+#figure(image("001_Return to Dominaria Episode 1/03.jpg", width: 100%), caption: [Art by Brad Rigney], supplement: none, numbering: none)
 
 "You've got sharp eyes," Hadi said, and pulled down the speaking tube for her. "I thought there would be more left of it."
 
@@ -143,7 +143,7 @@ Gideon scrambled for a persuasive argument, but pain scattered his thoughts. "Ni
 
 Chandra shouted, "Nissa!"
 
-#figure(image("001_Return to Dominaria: Episode 1/04.jpg", width: 100%), caption: [Art by Ryan Yee], supplement: none, numbering: none)
+#figure(image("001_Return to Dominaria Episode 1/04.jpg", width: 100%), caption: [Art by Ryan Yee], supplement: none, numbering: none)
 
 But Nissa was already stepping out of the plane. For a heartbeat her form glowed with green light, the air around her filled with the shadows of vines and leaves. Then she vanished, leaving behind the fading scent of green foliage and flowers.
 
@@ -197,7 +197,7 @@ At least the town wasn't as deserted as it had first seemed. Some of the stone b
 
 Ahead over the rooftops, the stone curve of an ancient Thran ruin loomed out of the mist, the smooth sides dark with moss. It was shaped like an ax blade, as if a giant had driven it into the earth and left it there. That at least was a familiar sight, something that hadn't changed in all the decades she had been gone.
 
-#figure(image("001_Return to Dominaria: Episode 1/05.jpg", width: 100%), caption: [Art by Titus Lunter], supplement: none, numbering: none)
+#figure(image("001_Return to Dominaria Episode 1/05.jpg", width: 100%), caption: [Art by Titus Lunter], supplement: none, numbering: none)
 
 Around the next turn was a broad plaza surrounded by tall houses, all in disrepair but some with stained glass still glinting in the narrow windows of the upper floors. To one side was a fountain and a few wooden market stalls. Near the market stood a tall rambling building that must be an inn. Smoke issued from the chimneys and the doors stood open. The people gathered in front stared curiously at Liliana and Gideon. All were well-armed, but made no hostile moves. Gideon nodded a greeting to them, then ruined the effect by gasping and grimacing in pain.
 
@@ -247,7 +247,7 @@ Flicking through the packets, on impulse Liliana asked her, "Does anyone here re
 
 The girl paused to consider. "There's ghost stories about the old ruined manor in the morass, about the undead son and the evil daughter who fled—"
 
-#figure(image("001_Return to Dominaria: Episode 1/06.jpg", width: 100%), caption: [Dark Dabbling | Art by Bastien L. Deharme], supplement: none, numbering: none)
+#figure(image("001_Return to Dominaria Episode 1/06.jpg", width: 100%), caption: [Dark Dabbling | Art by Bastien L. Deharme], supplement: none, numbering: none)
 
 "No, no." Liliana held up a restraining hand. It was unsurprising the events of that day had become a local legend, but she had no interest in hearing it. "That part I know. I mean the true history of the family, what happened to them afterward."
 
@@ -313,7 +313,7 @@ The attackers wore black armor with spikes and sharp points, as unlike the Benal
 
 Gideon suddenly tumbled out of the shadows near the inn. He rolled to his feet then staggered, still clearly weakened by his wounds. He wore no armor and blood stained his bandages and clothing, but he swung a borrowed sword as a knight on horseback bore down on him. The knight wore heavy black armor studded with sharp spikes and was mounted atop a large armored horse. No, as the creature tossed its head Liliana spotted the rotting flesh and white bone through the gaps in its armor, the pits of darkness where its eyes should be. The knight wore no helmet and his head was covered with pale shrunken flesh, his hair a rotting white mane.
 
-#figure(image("001_Return to Dominaria: Episode 1/07.jpg", width: 100%), caption: [Art by Even Amundsen], supplement: none, numbering: none)
+#figure(image("001_Return to Dominaria Episode 1/07.jpg", width: 100%), caption: [Art by Even Amundsen], supplement: none, numbering: none)
 
 Screams erupted from the inn as the doors burst open. Another undead knight dragged two struggling figures outside. Liliana recognized the young woman and the boy who had helped attend their room. Gideon flung himself toward them and the knight on horseback drove his mount forward to ride him down.
 
@@ -331,7 +331,7 @@ Liliana froze, her heart pounding. Then her lips curled in contempt. It was a tr
 
 An image of the lich's face burned before her. The face was Josu's.
 
-#figure(image("001_Return to Dominaria: Episode 1/08.jpg", width: 100%), caption: [Art by Tyler Jacobson], supplement: none, numbering: none)
+#figure(image("001_Return to Dominaria Episode 1/08.jpg", width: 100%), caption: [Art by Tyler Jacobson], supplement: none, numbering: none)
 
 #emph[No.]  Liliana's heart seized in her chest. #emph[It can't be] . "No!" she shouted.
 

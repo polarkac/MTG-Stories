@@ -25,7 +25,7 @@ Gideon sighed, and she glared at him.
 
 As the #emph[Weatherlight]  flew inland, the light gradually failed. The sky was dark with ash clouds from the volcanoes, and Jhoira turned the ship's running lights down to bare sparks. Gideon managed to spot the heavy shapes of monolithic Thran structures, but most of the ruins had the spiky organic look of Phyrexian remnants.
 
-#figure(image("011_Return to Dominaria: Episode 11/01.jpg", width: 100%), caption: [Swamp | Art by Titus Lunter], supplement: none, numbering: none)
+#figure(image("011_Return to Dominaria Episode 11/01.jpg", width: 100%), caption: [Swamp | Art by Titus Lunter], supplement: none, numbering: none)
 
 Some rose above the trees in great circular shapes, others had sharp lines left barely discernible under the vegetation. The broken walls and an occasional tower marked the sites of more recent cities and towns, destroyed and reclaimed by the plant growth. But for all the ruins, Urborg was far from uninhabited. Lights of all sizes gleamed under the trees and vines, flitting rapidly or moving with slow deliberation. Every clump of vegetation seemed to be a home for creatures constantly in motion.
 
@@ -47,7 +47,7 @@ Jhoira lifted a brow, but was clearly too used to Liliana by now to take offense
 
 Jhoira's ironic expression showed she knew that wasn't a joke. She added, "Most don't care for the Cabal any more than we do, and they have to defend themselves against the nightmares created by the Cabal's dementia magic—and other threats." She leaned forward, peering into the mist and darkness. "My owl's coming back." Her expression went still as she communicated with her familiar. "And the resistance has agreed to meet with us."
 
-#figure(image("011_Return to Dominaria: Episode 11/02.jpg", width: 100%), caption: [Jhoira's Familiar | Art by Kev Walker], supplement: none, numbering: none)
+#figure(image("011_Return to Dominaria Episode 11/02.jpg", width: 100%), caption: [Jhoira's Familiar | Art by Kev Walker], supplement: none, numbering: none)
 
 "Good," Gideon said. He was ready to have this over and done with, and leave this strange land behind.
 
@@ -71,7 +71,7 @@ Sayrah tilted her head, and said with a touch of irony, "When we heard that Jhoi
 
 Jhoira didn't waste time. "We've come here to attack the Stronghold."
 
-#figure(image("011_Return to Dominaria: Episode 11/03.jpg", width: 100%), caption: [Cabal Stronghold | Art by Dimitar Marinski], supplement: none, numbering: none)
+#figure(image("011_Return to Dominaria Episode 11/03.jpg", width: 100%), caption: [Cabal Stronghold | Art by Dimitar Marinski], supplement: none, numbering: none)
 
 Startled, Sayrah lifted one broad clawed hand. "If you're here for warriors, there are too few of us to help you."
 
@@ -109,7 +109,7 @@ Iyrgth said, #emph[There is Yavimaya here, woven into the ground, from long ago.
 
 #emph[The demon, the demon] , the voices whispered to each other, passing the word along. #emph[Fight the demon] .
 
-#figure(image("011_Return to Dominaria: Episode 11/04.jpg", width: 100%), caption: [Fungal Plots | Art by Even Amundsen], supplement: none, numbering: none)
+#figure(image("011_Return to Dominaria Episode 11/04.jpg", width: 100%), caption: [Fungal Plots | Art by Even Amundsen], supplement: none, numbering: none)
 
 Slimefoot settled in against the railing to talk to its new friends. It was good to be understood like this.
 
@@ -153,7 +153,7 @@ Liliana's expression was ironic. "One way or another."
 
 They climbed the stairs to the open deck, and a view of Urborg by dawn light.
 
-#figure(image("011_Return to Dominaria: Episode 11/05.jpg", width: 100%), caption: [Swamp | Art by Jonas De Ro], supplement: none, numbering: none)
+#figure(image("011_Return to Dominaria Episode 11/05.jpg", width: 100%), caption: [Swamp | Art by Jonas De Ro], supplement: none, numbering: none)
 
 The sky was still clouded with ash and it made the morning light dim and gray. The misty copse of swampy forest beneath the #emph[Weatherlight]  seemed uninhabited, except for a half-buried ring-shaped Phyrexian structure. Gideon stepped to the railing where Karn stood beside Teferi, who watched something with a spyglass. Teferi lowered the glass and jerked his chin. "There it is."
 
@@ -195,7 +195,7 @@ As they wove their way through scattered ruins, Gideon thought the landscape see
 
 After they had been walking some time, the ground dipped into a grotto and they spotted several of the spirit creatures gathered there, apparently having a meeting. With a gesture Teferi slowed time around the spirits, holding the group all but frozen until Gideon and the others were through the grotto and out of sight again. Jhoira had said the spirits didn't support the Cabal, but they had decided not to take chances. Little, glowing, flitting things, bigger than insects, followed them for a time, but nothing attacked.
 
-#figure(image("011_Return to Dominaria: Episode 11/06.jpg", width: 100%), caption: [Swamp | Art by Dimitar Marinski], supplement: none, numbering: none)
+#figure(image("011_Return to Dominaria Episode 11/06.jpg", width: 100%), caption: [Swamp | Art by Dimitar Marinski], supplement: none, numbering: none)
 
 They encountered an old tumbled-down stone wall and had to climb over it. As Gideon reached the top he spotted the outline of something that looked like a single great claw, buried in vines and roots, a remnant of whatever Phyrexian weapon had destroyed the stone structure.
 
@@ -241,7 +241,7 @@ Karn was silent for a time, as he made a path for them through some thick brush.
 
 Chandra wiped sweat off her forehead. "He did terrible things on Amonkhet. I don't want to see that happen again anywhere. We've got to stop him."
 
-#figure(image("011_Return to Dominaria: Episode 11/07.jpg", width: 100%), caption: [Damnation | Art by Zack Stella], supplement: none, numbering: none)
+#figure(image("011_Return to Dominaria Episode 11/07.jpg", width: 100%), caption: [Damnation | Art by Zack Stella], supplement: none, numbering: none)
 
 Gideon agreed. "I'm not sure what his plans are, but I know we're running out of time. And I know our next encounter with him has to be decisive."
 
@@ -289,7 +289,7 @@ Gideon wasn't sure what would happen if they tried to push it open. Better not t
 
 Careful to stay close together, they climbed the gate, the broad crosspieces making a good ladder. It was awkward, but Gideon reminded himself it would have been much harder with the Cabal grimnants shooting poison-tipped arrows at them. On the far side, they edged around the still forms of the guards and a scatter of floating dark orbs, the manifestation of a spell to trap intruders. "This could take longer than we thought," Chandra said grimly, as they carefully picked their way across two trapdoors covered with metal spikes. "I hope Teferi gave us enough time. Ugh, I didn't mean to make a pun."
 
-#figure(image("011_Return to Dominaria: Episode 11/08.jpg", width: 100%), caption: [Stronghold Confessor | Art by Igor Kieryluk], supplement: none, numbering: none)
+#figure(image("011_Return to Dominaria Episode 11/08.jpg", width: 100%), caption: [Stronghold Confessor | Art by Igor Kieryluk], supplement: none, numbering: none)
 
 "I know," Gideon said. "Just keep moving."
 
@@ -325,7 +325,7 @@ As they finally walked through the open doors to the first hall, Chandra said in
 
 "I wish I'd thought of it quicker," Chandra admitted as they stopped to get their bearings. The hall was huge and shadowy, the pillars supporting the ceiling curved inward so it was like walking into a giant's ribcage. Red banners had been hung from the ceiling and Cabal cultists slumped on the floor in huddled groups. A haze of smoke from incense burners hung unmoving in the air with the floating torches that inadequately lit the space. It was still easy to tell this huge chamber was alien, something created by the Phyrexians and repurposed by the Cabal. Chandra added, "We'd better get out of sight. Teferi's spell can't last for much longer."
 
-#figure(image("011_Return to Dominaria: Episode 11/09.jpg", width: 100%), caption: [Cabal Ritual | Art by Kieran Yanner], supplement: none, numbering: none)
+#figure(image("011_Return to Dominaria Episode 11/09.jpg", width: 100%), caption: [Cabal Ritual | Art by Kieran Yanner], supplement: none, numbering: none)
 
 "Let's try to get further down, toward the fighting pit." Gideon led the way toward one of the openings at the side of the chamber, between two of the curving pillars. From questioning the Cabal agent, they knew roughly that the pit should be a few levels below this hall, and that the treasure vaults were near it. With Chandra disguised as a Cabal hunter and Gideon as her prisoner, brought to fight in the pit for the glory of Belzenlok and the entertainment of the cultists, they should be able to move relatively easily around the area. Once Liliana and the others arrived with their undead army, most of the Cabal forces would leave the Stronghold to fight, and Gideon and Chandra would have a chance to find the Blackblade and get to Belzenlok.
 
@@ -381,7 +381,7 @@ The panther liches had leaned down to whisper to Liliana again. She translated, 
 
 Liliana grimaced. "No. It's what killed all of them."
 
-#figure(image("011_Return to Dominaria: Episode 11/10.jpg", width: 100%), caption: [Yargle, Glutton of Urborg | Art by Jehan Choo], supplement: none, numbering: none)
+#figure(image("011_Return to Dominaria Episode 11/10.jpg", width: 100%), caption: [Yargle, Glutton of Urborg | Art by Jehan Choo], supplement: none, numbering: none)
 
 Jhoira set her jaw. "This thing is not going to stop us." But it was going to delay them. Gideon and Chandra would be trapped in the Stronghold expecting the #emph[Weatherlight]  to arrive at any moment.
 
@@ -409,7 +409,7 @@ A red-robed cleric swept in as the crowd parted for her. Cultists dropped to the
 
 Gideon swore under his breath. The chanting intensified and huge doors rumbled at the far end of the arena. The torches flared, and out of the shadows appeared a massive demonic shape. Belzenlok. He spread his wings and basked in the chants and screams of the cultists, the firelight glinting off his pale skin. His body was strong and muscular, his head heavy with curving horns. He strode forward and sat on the throne-like stone structure at the end of the arena. He gestured and Whisper bowed deeply to him. As she straightened up, she shouted, "Into the pit, for the glory of Belzenlok!"
 
-#figure(image("011_Return to Dominaria: Episode 11/11.jpg", width: 100%), caption: [Whisper, Blood Liturgist | Art by Kieran Yanner], supplement: none, numbering: none)
+#figure(image("011_Return to Dominaria Episode 11/11.jpg", width: 100%), caption: [Whisper, Blood Liturgist | Art by Kieran Yanner], supplement: none, numbering: none)
 
 All around the arena, hunters and cultists shoved captives over the edge into the pit. As Whisper turned, her gaze fell on Gideon and Chandra. "You, send him in! Unless you want to die here with him?"
 

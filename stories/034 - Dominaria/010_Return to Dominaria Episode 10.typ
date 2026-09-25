@@ -17,7 +17,7 @@ Slimefoot didn't think a whack would be good at all. Then the roar of fire came 
 
 The sound and scent of fire was alarming enough to boost Slimefoot right into the next stage of its development. It popped its partially grown stalks out of their casing and then hesitated. It wasn't developed enough to see for more than a short distance around and it couldn't tell where the fire and shouting was coming from. But this warm hull had been Slimefoot's whole life and it was afraid to leave. Instead, it started the laborious climb upward.
 
-#figure(image("010_Return to Dominaria: Episode 10/01.jpg", width: 100%), caption: [Saproling | Art by Steve Prescott], supplement: none, numbering: none)
+#figure(image("010_Return to Dominaria Episode 10/01.jpg", width: 100%), caption: [Saproling | Art by Steve Prescott], supplement: none, numbering: none)
 
 Its stalks were weak and undeveloped, and it trembled with the effort of the climb. The waves of heat in the air dried its skin and made it harder and harder to hold on. Nearly limp with exhaustion, it reached the edge of the deck and wiggled under the lowest bar of the railing.
 
@@ -59,7 +59,7 @@ Then a voice said, "The #emph[Weatherlight]  is so much the same, and so differe
 
 #emph[Karn] , the white star whispered. Slimefoot felt the Thran structure hum in response.
 
-#figure(image("010_Return to Dominaria: Episode 10/02.jpg", width: 100%), caption: [Karn, Scion of Urza | Art by Chase Stone], supplement: none, numbering: none)
+#figure(image("010_Return to Dominaria Episode 10/02.jpg", width: 100%), caption: [Karn, Scion of Urza | Art by Chase Stone], supplement: none, numbering: none)
 
 "Is it strange to be on board again?" That was Shanna, who had patterns in her blood that were the same as those woven through the ship's bones. "After all that happened to you?"
 
@@ -95,7 +95,7 @@ Slimefoot heard Gideon murmur, "Her capacity to lie to herself is #emph[almost] 
 
 Slimefoot began to seriously consider whether it should leave its safe haven. The sprouts had reached their incipient stalk phase and Slimefoot had sent the chemical signal telling them it was time to complete their transition. They uprooted their stalks and practiced walking around the chamber and climbing its walls. Slimefoot needed to use its own stalks before it slid back into a dormant phase. It was considering the problem when the door opened.
 
-#figure(image("010_Return to Dominaria: Episode 10/03.jpg", width: 100%), caption: [Slimefoot, the Stowaway | Art by Alex Konstad], supplement: none, numbering: none)
+#figure(image("010_Return to Dominaria Episode 10/03.jpg", width: 100%), caption: [Slimefoot, the Stowaway | Art by Alex Konstad], supplement: none, numbering: none)
 
 A figure stood there. It had been a long time since Slimefoot had seen another living being and it was more curious than startled. After a long moment, the figure said, "Tiana, I think I found where that smell is coming from."
 
@@ -167,7 +167,7 @@ Arvad said, "It's followed us. With the babies."
 
 "I see that." Tiana stared at Slimefoot and Slimefoot stared back.
 
-#figure(image("010_Return to Dominaria: Episode 10/04.jpg", width: 100%), caption: [Slimefoot, the Stowaway | Art by Alex Konstad], supplement: none, numbering: none)
+#figure(image("010_Return to Dominaria Episode 10/04.jpg", width: 100%), caption: [Slimefoot, the Stowaway | Art by Alex Konstad], supplement: none, numbering: none)
 
 Liliana strode in, stopped, and demanded, "What's this?"
 
@@ -217,7 +217,7 @@ Slimefoot explored for a while. The winding paths of the corridors and rounded s
 
 It found an opening to a chamber and looked inside. Teferi sat on one side of the room reading a book, and on the other Gideon was sharpening a weapon. Gideon looked up at Slimefoot. Slimefoot waved a greeting. Gideon said, "Teferi."
 
-#figure(image("010_Return to Dominaria: Episode 10/05.jpg", width: 100%), caption: [Slimefoot, the Stowaway | Art by Alex Konstad], supplement: none, numbering: none)
+#figure(image("010_Return to Dominaria Episode 10/05.jpg", width: 100%), caption: [Slimefoot, the Stowaway | Art by Alex Konstad], supplement: none, numbering: none)
 
 Teferi looked up briefly. "Ah, thallids. Yes, Tiana said they found some living in the engine compartment."
 
@@ -281,7 +281,7 @@ Slimefoot thought it was a terrible idea.
 
 Arvad seemed resigned. "No, not really, but they both say Chandra needs to find her true self, and that seems to involve a lot of fire."
 
-#figure(image("010_Return to Dominaria: Episode 10/06.jpg", width: 100%), caption: [Fight with Fire | Art by Yongjae Choi], supplement: none, numbering: none)
+#figure(image("010_Return to Dominaria Episode 10/06.jpg", width: 100%), caption: [Fight with Fire | Art by Yongjae Choi], supplement: none, numbering: none)
 
 "Karn is keeping an eye on them." Jhoira adjusted her eyepiece and picked up another tool.
 
@@ -337,7 +337,7 @@ Chandra grinned. "Is that why you didn't give up on me?"
 
 Jaya sighed. "Let's say I don't like unfinished business." She shrugged a little. "You don't know yourself yet, so you don't think things through. The way you helped Multani showed me that you just might have some idea of how to get in touch with your true self." She looked down at Chandra again, her face serious. "If you know what you really want, you don't make mistakes."
 
-#figure(image("010_Return to Dominaria: Episode 10/07.jpg", width: 100%), caption: [Deadlock Trap | Art by Jason Rainville], supplement: none, numbering: none)
+#figure(image("010_Return to Dominaria Episode 10/07.jpg", width: 100%), caption: [Deadlock Trap | Art by Jason Rainville], supplement: none, numbering: none)
 
 Chandra let the words sink in, thinking about what she thought she wanted, the mistakes she had made. How she really felt. One of the fireballs on the far end flared a little and Chandra steadied it. "My friend Nissa left us when we first got here. She didn't trust Liliana, and didn't think we should kill Belzenlok, and . . . I know she needed to get back to her own plane, after everything that happened there. But it just felt really . . . "
 

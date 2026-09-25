@@ -31,7 +31,7 @@ Jaya laughed. "Oh, don't look like that." She sighed and her expression turned s
 
 Chandra let her breath out. She was still mad, but this was starting to sound almost reasonable. She wasn't sure what she would have done in Jaya's place. #emph[I wouldn't have lied about who I was for years] , she thought sourly. She was pretty sure she wouldn't. Though being worshipped like a god was sure to get old fast, considering how long Chandra had lasted just as abbot.
 
-#figure(image("009_Return to Dominaria: Episode 9/01.jpg", width: 100%), caption: [Abbot of Keral Keep | Art by Deruchenko Alexander], supplement: none, numbering: none)
+#figure(image("009_Return to Dominaria Episode 9/01.jpg", width: 100%), caption: [Abbot of Keral Keep | Art by Deruchenko Alexander], supplement: none, numbering: none)
 
 But maybe it didn't matter. Her plan was still intact. She'd found Jaya, and now she could get the help she needed. "All right, so . . . I understand why you did it, mostly. I forgive you." She held out Jaya's goggles, though the gesture was mostly symbolic now. It wasn't like Jaya couldn't have gotten them any time she wanted over the past years. "And now I'll let you tell me what I need to know to be a more powerful pyromancer."
 
@@ -67,7 +67,7 @@ Chandra looked toward where Jaya stood on the mound of dirt, keeping watch. "And
 
 "Yes, to help protect the excavation from Multani's attacks. In his semiconscious state, he senses that the Sylex is being uncovered, brought closer to the surface, and he fears it. For good reason; it caused great damage to him." Karn looked off toward the forest, where the morning wind stirred the tree canopies. "He does not want Dominaria harmed again. When he wakes, he'll understand that I'm taking it away to end the Phyrexian threat."
 
-#figure(image("009_Return to Dominaria: Episode 9/02.jpg", width: 100%), caption: [Nature's Spiral | Art by Florian de Gesincourt], supplement: none, numbering: none)
+#figure(image("009_Return to Dominaria Episode 9/02.jpg", width: 100%), caption: [Nature's Spiral | Art by Florian de Gesincourt], supplement: none, numbering: none)
 
 That sounded important, and Chandra didn't want to interrupt. "I'm going to talk to Jaya again."
 
@@ -117,7 +117,7 @@ She blasted the first line of trees, then flung fireballs over their burning can
 
 Except more trees came, and more, and more. They were desperate to get to Karn and the Sylex. If they reached him, they'd tear him apart. Chandra kept up the fire streams, digging deep for her power and yelling until her throat was dry and hoarse. The valley filled with smoke and fire.
 
-#figure(image("009_Return to Dominaria: Episode 9/03.jpg", width: 100%), caption: [Chandra's Outburst | Art by Yongjae Choi], supplement: none, numbering: none)
+#figure(image("009_Return to Dominaria Episode 9/03.jpg", width: 100%), caption: [Chandra's Outburst | Art by Yongjae Choi], supplement: none, numbering: none)
 
 Finally there were no trees charging at her and Chandra staggered to a stop, wiping sweat off her forehead.
 
@@ -135,7 +135,7 @@ A pile of smoldering wood near the crater tumbled over as Karn pushed his way fr
 
 Multani pushed forward out of the forest and stepped onto the bare scorched earth. He kicked the mounds of broken and burning trees aside as he strode toward them. All around the valley, more animate trees burst out of the forest to gather for a charge. Chandra braced herself. "We can hold them off!"
 
-#figure(image("009_Return to Dominaria: Episode 9/04.jpg", width: 100%), caption: [Ancient Animus | Art by Titus Lunter], supplement: none, numbering: none)
+#figure(image("009_Return to Dominaria Episode 9/04.jpg", width: 100%), caption: [Ancient Animus | Art by Titus Lunter], supplement: none, numbering: none)
 
 "We'll have to." Jaya's gaze was determined. "Get ready."
 
@@ -173,7 +173,7 @@ Time seemed to slow, and Chandra drifted on it like a light herself. After argui
 
 The ashy bark of his skin turned darker and richer, and green plants sprouted along the tops of his hands and arms, running up to his back, up to soften the wooden crown of his head. Flowers in a whole riot of colors appeared in the green, their petals unfurling. The angry gold light from his eyes and mouth faded to a deep blue, and she was sure she saw awareness there. All around him, the roots of the animate trees sank into the disturbed earth.
 
-#figure(image("009_Return to Dominaria: Episode 9/05.jpg", width: 100%), caption: [Multani, Yavimaya's Avatar | Art by Ryan Yee], supplement: none, numbering: none)
+#figure(image("009_Return to Dominaria Episode 9/05.jpg", width: 100%), caption: [Multani, Yavimaya's Avatar | Art by Ryan Yee], supplement: none, numbering: none)
 
 Chandra backed away, just in case she was wrong, and then called over her shoulder. "Let him go!"
 
@@ -205,7 +205,7 @@ Chandra turned toward her. "Really? You mean—"
 
 Jaya clapped her on the shoulder. "Yes, really. You're not there yet, but what you did with Multani shows me you have potential. Now come on, let's get out of here."
 
-#figure(image("009_Return to Dominaria: Episode 9/06.jpg", width: 100%), caption: [Forest | Art by Titus Lunter], supplement: none, numbering: none)
+#figure(image("009_Return to Dominaria Episode 9/06.jpg", width: 100%), caption: [Forest | Art by Titus Lunter], supplement: none, numbering: none)
 
 As Karn and the two pyromancers climbed the ladders to the deck, Jhoira told Tiana, "Take the wheel. I've got to convince two very stubborn people of something and it may take some time."
 
@@ -231,7 +231,7 @@ Karn regarded her in silence. "I regret . . . I would not have chosen for him
 
 Karn looked from Jhoira to Teferi, hesitating. "So we are back aboard the #emph[Weatherlight] . What is our purpose here?"
 
-#figure(image("009_Return to Dominaria: Episode 9/07.jpg", width: 100%), caption: [Weight of Memory | Art by Eric Deschamps], supplement: none, numbering: none)
+#figure(image("009_Return to Dominaria Episode 9/07.jpg", width: 100%), caption: [Weight of Memory | Art by Eric Deschamps], supplement: none, numbering: none)
 
 "First to destroy Belzenlok, then to defeat the Cabal," Jhoira told him. "That's why I had the #emph[Weatherlight]  reconstructed and recruited a crew. But I had something else in mind for you two."
 
@@ -267,7 +267,7 @@ As the #emph[Weatherlight]  sailed over Yavimaya, Gideon told Chandra about thei
 
 Chandra looked at Gideon, who said pointedly, "It's also a soul-drinker."
 
-#figure(image("009_Return to Dominaria: Episode 9/08.jpg", width: 100%), caption: [Blackblade Reforged | Art by Chris Rahn], supplement: none, numbering: none)
+#figure(image("009_Return to Dominaria Episode 9/08.jpg", width: 100%), caption: [Blackblade Reforged | Art by Chris Rahn], supplement: none, numbering: none)
 
 Chandra winced, but said, "He is a demon, Gideon. We've seen what a demon can do to a plane."
 
@@ -321,7 +321,7 @@ Jace said, "I agree Belzenlok has to be killed, but there's no time. You can com
 
 "Jace, that won't work," Liliana said wearily. "With my powers weakened, I can't help you. Not fully. We'll end up routed again, or worse. Just like on Amonkhet, at Bolas's mercy."
 
-#figure(image("009_Return to Dominaria: Episode 9/09.jpg", width: 100%), caption: [Liliana's Defeat | Art by Kieran Yanner], supplement: none, numbering: none)
+#figure(image("009_Return to Dominaria Episode 9/09.jpg", width: 100%), caption: [Liliana's Defeat | Art by Kieran Yanner], supplement: none, numbering: none)
 
 Jace ignored her. He said to Gideon, "You must know she's lying, Gideon. Or at least manipulating you, not telling you the full story. I need your help."
 
@@ -363,4 +363,4 @@ He looked at the sinking sun, where the distant sea was turning golden in the li
 
 Jhoira smiled faintly. "I don't know what the future holds, and this might be a moment we both regret later. But this is a weapon you should have." She pulled the pendant off her neck and dropped it into Teferi's waiting palm. "Welcome back."
 
-#figure(image("009_Return to Dominaria: Episode 9/10.jpg", width: 100%), caption: [Opt | Art by Tyler Jacobson], supplement: none, numbering: none)
+#figure(image("009_Return to Dominaria Episode 9/10.jpg", width: 100%), caption: [Opt | Art by Tyler Jacobson], supplement: none, numbering: none)

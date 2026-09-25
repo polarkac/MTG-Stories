@@ -25,7 +25,7 @@ Jhoira had only met Ajani once before, and briefly, when he had told her he was 
 
 Ajani let out a breath. "Venser gave up his spark to Karn, to rescue him. Venser did not survive."#linebreak  
 
-#figure(image("005_Return to Dominaria: Episode 5/01.jpg", width: 100%), caption: [Distant Memories | Art by Karl Kopinski], supplement: none, numbering: none)
+#figure(image("005_Return to Dominaria Episode 5/01.jpg", width: 100%), caption: [Distant Memories | Art by Karl Kopinski], supplement: none, numbering: none)
 
 Jhoira paced away toward the compass stand, running a hand through her hair. She didn't want to believe it, but it was exactly the kind of thing Venser would do. After her relief for Karn, this was a crushing sadness. Venser had been barely older than Raff when she had known him, and she had loved him as a friend, though he had felt more for her. Her back to Ajani, she asked, "Is this why Karn hasn't come to find me?"
 
@@ -45,7 +45,7 @@ Ajani nodded, his expression gentle, obviously recognizing the hollowness of her
 
 The gates to Benalia City were impressive, constructed of the magical Benalish stained glass, gleaming in the bright morning sun. They were well over four stories high, set in soaring gray stone walls topped with narrow towers and arches. Gideon would have appreciated the sight more if the passage inside hadn't been blocked at the moment. A dozen battle angels had planted themselves across the roadway, stopping not only their party but all the market wagons and other travelers trying to get in around them.#linebreak  
 
-#figure(image("005_Return to Dominaria: Episode 5/02.jpg", width: 100%), caption: [Art by Jonas De Ro], supplement: none, numbering: none)
+#figure(image("005_Return to Dominaria Episode 5/02.jpg", width: 100%), caption: [Art by Jonas De Ro], supplement: none, numbering: none)
 
 Gideon was on horseback, and didn't bother to dismount. Behind him were Liliana and a small troop of Rael's men-at-arms. Not bothering to keep the ironic tone out of his voice, he asked the angels, "Is there a problem?"
 
@@ -91,7 +91,7 @@ Thiago said, "That, I can help with."
 
 White banners flew everywhere, and they passed through a plaza with statues of Benalish heroes in gold-plated armor. After the Morass, it was good to ride through a living city, bustling and energetic, with so many humans and aven in civilian clothing going about their business. There were still soldiers and knights, and even some of the giant winged horses being led through the streets, but while Benalia City was obviously well guarded, it wasn't under siege. #emph[Not yet] , Gideon thought. He would hate to see this place, and the prosperous towns and countryside around it, in the same state as Caligo.#linebreak  
 
-#figure(image("005_Return to Dominaria: Episode 5/03.jpg", width: 100%), caption: [Art by James Paick], supplement: none, numbering: none)
+#figure(image("005_Return to Dominaria Episode 5/03.jpg", width: 100%), caption: [Art by James Paick], supplement: none, numbering: none)
 
 Thiago arranged for them to be allowed to wait at the top of one of the Benalish garrison's signal towers, which also had a landing platform for the convenience of angels and aven. Gideon had told him only that they were waiting for a friend, but, accustomed to the comings and goings of winged warriors, Thiago didn't seem to find this unusual. Gideon thanked him and he said, "It's the least I can do, after what you did for Caligo. Both of you. Good luck."
 
@@ -107,7 +107,7 @@ They waited long enough for Liliana to drift off to sleep. Then Gideon spotted s
 
 "And so is that," Gideon said, as the giant skyship dropped down toward them.#linebreak  
 
-#figure(image("005_Return to Dominaria: Episode 5/04.jpg", width: 100%), caption: [Art by Tyler Jacobson], supplement: none, numbering: none)
+#figure(image("005_Return to Dominaria Episode 5/04.jpg", width: 100%), caption: [Art by Tyler Jacobson], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -139,7 +139,7 @@ Ajani persisted. "You need to listen to me, and not waste your time here."
 
 "You didn't see what he did to Caligo!" she burst out. "Everything I knew, destroyed, turned to mud and rot. We have to stop—we have to—" She realized abruptly she had said more than she meant to, that she had exposed herself terribly. The new people were staring at her sympathetically; Shanna in particular was nodding as if she understood perfectly, and it was all horrible. Liliana folded her arms and lifted her chin, determined to brazen it out. "I need to be free of my pact before I can fight your battles for you, Ajani, it's just that simple."#linebreak  
 
-#figure(image("005_Return to Dominaria: Episode 5/05.jpg", width: 100%), caption: [Demonic Pact | Art by Aleksi Briclot], supplement: none, numbering: none)
+#figure(image("005_Return to Dominaria Episode 5/05.jpg", width: 100%), caption: [Demonic Pact | Art by Aleksi Briclot], supplement: none, numbering: none)
 
 Ajani didn't answer, merely studying her with his one good eye. Gideon said, "We intend to continue the fight, Ajani. But we must destroy Belzenlok first."
 
@@ -181,7 +181,7 @@ Wearily, Liliana told him, "Even if she's still on Dominaria, her power isn't en
 
 "We need information." Jhoira steepled her fingers. "I've been watching the Stronghold for years, and one thing I've learned is that its defenses are constantly changing, and the ways in and out are rebuilt on Belzenlok's whim."#linebreak  
 
-#figure(image("005_Return to Dominaria: Episode 5/06.jpg", width: 100%), caption: [Art by Jonas De Ro], supplement: none, numbering: none)
+#figure(image("005_Return to Dominaria Episode 5/06.jpg", width: 100%), caption: [Art by Jonas De Ro], supplement: none, numbering: none)
 
 Liliana grimaced. The situation was even worse than she had expected.
 
@@ -207,7 +207,7 @@ Barely half the day later they were approaching Tolaria West, and Liliana went o
 
 They had been traveling over an astonishingly blue sea, and now they were coming up on a series of low wooded islands surrounded by reefs and sand bars. On the shore of the largest stood the Tolarian mage academy, a complex of white stone buildings and towers with steeply pitched red tile roofs. One high tower had a giant instrument built into it that looked very like an astrolabe but probably wasn't. It was obviously the same sort of magic that had produced the mechanical wonders of the #emph[Weatherlight] , Jhoira's owl, and the artificer's devices Raff carried.#linebreak  
 
-#figure(image("005_Return to Dominaria: Episode 5/07.jpg", width: 100%), caption: [Art by Jonas De Ro], supplement: none, numbering: none)
+#figure(image("005_Return to Dominaria Episode 5/07.jpg", width: 100%), caption: [Art by Jonas De Ro], supplement: none, numbering: none)
 
 By the time the #emph[Weatherlight]  arrived at the tallest tower, important-looking people were waiting for them on a broad balcony. The good thing about arriving in the #emph[Weatherlight] , Liliana supposed, was that you didn't have to kill anybody to get the attention of the authorities you needed to speak to.
 
@@ -227,7 +227,7 @@ Gideon, who she hadn't realized was in earshot, said, "I'm sure that's not what 
 
 They left Tiana and Arvad on the deck to guard the #emph[Weatherlight] , Tiana leaning on an enormous spear and Arvad's fangs gleaming in the fading sunlight. It was a precaution Gideon approved. Any Cabal agent who tried to steal aboard would find they had come to the wrong skyship. As Gideon climbed down the ladder, the others stood on the broad stone balcony. A group of blue-robed Tolarian academicians waited for them, the strong sea wind pulling at their robes. In the lead were an older man with hard features and a deceptively young-looking mage with a mane of brown hair. Gideon didn't have any trouble guessing which one was Jhoira's former lover.
 
-#figure(image("005_Return to Dominaria: Episode 5/08.jpg", width: 100%), caption: [Art by Yongjae Choi], supplement: none, numbering: none)
+#figure(image("005_Return to Dominaria Episode 5/08.jpg", width: 100%), caption: [Art by Yongjae Choi], supplement: none, numbering: none)
 
 The young mage stepped forward. Composed and cool, he said, "Jhoira."
 
@@ -259,7 +259,7 @@ Gideon stood with his arms folded, watching as Liliana took a seat on the next p
 
 They were in one of the academy's risk laboratories, a place where dangerous magical experiments were performed and strange magical objects examined. It took up the whole top of one of the larger towers, but so far they had only seen this main room, a wide, high, barrel-vaulted space, with narrow windows barred with metal and warded by magic. The light from the windows had dimmed as sunset approached, and glowing crystal globes, floating on little platforms constructed by artificers, hovered in the air. Lying on the floor were nine corpses, students and staff of the academy. It made a grim sight; most of them were young, and from the expressions on their rigid features, they had died in torment.#linebreak  
 
-#figure(image("005_Return to Dominaria: Episode 5/09.jpg", width: 100%), caption: [Art by Josu Hernaiz], supplement: none, numbering: none)
+#figure(image("005_Return to Dominaria Episode 5/09.jpg", width: 100%), caption: [Art by Josu Hernaiz], supplement: none, numbering: none)
 
 Raff was over at a table, examining the magical devices the murdered people had carried. Jodah stood with Jhoira and Shanna a few steps away, quietly answering their questions. He was saying, "The stairwell they were found in leads to the archives and three different laboratory towers. We have no idea which one the intruder was trying to reach."
 
@@ -307,7 +307,7 @@ Jhoira smiled. "Oh, that's clever. Raff, guard that door."
 
 Gideon drew his sword. "We need to search." It was a relief that their quarry might be nearby, trapped in this secure tower somewhere, but they had to be careful. This Cabal agent had nothing to lose now.#linebreak  
 
-#figure(image("005_Return to Dominaria: Episode 5/10.jpg", width: 100%), caption: [Art by Seb McKinnon], supplement: none, numbering: none)
+#figure(image("005_Return to Dominaria Episode 5/10.jpg", width: 100%), caption: [Art by Seb McKinnon], supplement: none, numbering: none)
 
 Raff hurried to the main entrance to put his back against the heavy carved doors. "Uh, what exactly did we figure out?"
 
@@ -355,7 +355,7 @@ The young man seemed so innocent that he made Raff looked like a jaded rake. Gid
 
 Jodah appeared unconvinced. Jhoira watched Thom like a hawk about to pounce. She said, "And what do you have in your hand, Thom? It's an artificer's device, isn't it?"#linebreak  
 
-#figure(image("005_Return to Dominaria: Episode 5/11.jpg", width: 100%), caption: [Art by Matt Stewart], supplement: none, numbering: none)
+#figure(image("005_Return to Dominaria Episode 5/11.jpg", width: 100%), caption: [Art by Matt Stewart], supplement: none, numbering: none)
 
 Thom's expression turned serious. "Yes, I found this lying on the floor where the others were killed." He started forward, lifting the device up. "I meant to tell the healers but—" A dark globe of death magic appeared in the air and shot across the room toward Jodah.
 
@@ -399,7 +399,7 @@ As they stared each other down, Raff stepped up. "Captain Jhoira, I have a spell
 
 Naban strode across the room. "That spell is forbidden for good reason. It's dangerous, something only master mages should even know exists."#linebreak  
 
-#figure(image("005_Return to Dominaria: Episode 5/12.jpg", width: 100%), caption: [Art by Ryan Alexander Lee], supplement: none, numbering: none)
+#figure(image("005_Return to Dominaria Episode 5/12.jpg", width: 100%), caption: [Art by Ryan Alexander Lee], supplement: none, numbering: none)
 
 Jodah's brows drew together. "Where did you learn it?"
 
@@ -447,7 +447,7 @@ Shanna inclined her head. "Exactly."
 
 Liliana tugged the page away from him to read over it. "So this Blackblade would kill Belzenlok."#linebreak  
 
-#figure(image("005_Return to Dominaria: Episode 5/13.jpg", width: 100%), caption: [Art by Chris Rahn], supplement: none, numbering: none)
+#figure(image("005_Return to Dominaria Episode 5/13.jpg", width: 100%), caption: [Art by Chris Rahn], supplement: none, numbering: none)
 
 "Easily," Jhoira said. "But it's a soul-drinker, created with death magic, and steals the life-energy of everyone it kills."
 

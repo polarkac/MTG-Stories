@@ -13,7 +13,7 @@ Then everything started to go downhill.
 
 Lyra Dawnbringer stepped forward, as beautiful as the sunrise, her dark bronze skin glowing in the light and her mane of dark hair flowing over the icy perfection of her wings. She said, "You are Tiana, and you have been born in answer to the prayers of mortals, for a purpose."#linebreak  
 
-#figure(image("004_Return to Dominaria: Episode 4/01.jpg", width: 100%), caption: [Art by Chris Rahn], supplement: none, numbering: none)
+#figure(image("004_Return to Dominaria Episode 4/01.jpg", width: 100%), caption: [Art by Chris Rahn], supplement: none, numbering: none)
 
 "For battle," Tiana said. "To destroy the forces of darkness." That had to be her purpose. Surely nothing except war could burn in her like this.
 
@@ -37,7 +37,7 @@ Lyra's smile warmed her, and the other angels raised their weapons in approval. 
 
 The other angels took Tiana out of the cathedral, and they flew up into an achingly blue sky dotted with white clouds. Buildings floated in midair, all with round turreted roofs and elegant high arches, the brilliant colors of the window glass glowing in the sunlight. Below were rolling green hills and stands of tall trees, and Tiana heard distant birdsong. The wind was cool and sweet. Tiana knew not all the world was beautiful, but on this first morning of her life it seemed as if it were.#linebreak  
 
-#figure(image("004_Return to Dominaria: Episode 4/02.jpg", width: 100%), caption: [Art by Dimitar], supplement: none, numbering: none)
+#figure(image("004_Return to Dominaria Episode 4/02.jpg", width: 100%), caption: [Art by Dimitar], supplement: none, numbering: none)
 
 They took her into a floating building and left her in a sunny room, where human clerics helped her dress in white and gray clothing while the aven flew off to bring armor and weapons for her to choose. "It's a very good thing you're finally here," her new friend the cleric Afra told her. "I've heard these people have been praying hard, for some time. The commander was very pleased to learn you were finally coming into being."
 
@@ -87,7 +87,7 @@ So the forces of darkness had come to the place Tiana had been born to watch ove
 
 Tiana had to fold her wings in tightly to climb out from under the engine shield. "Tell Tien she wasn't wrong. It was a bad connector with a blockage in one of the mana flow controllers."#linebreak  
 
-#figure(image("004_Return to Dominaria: Episode 4/03.jpg", width: 100%), caption: [Art by Eric Deschamps], supplement: none, numbering: none)
+#figure(image("004_Return to Dominaria Episode 4/03.jpg", width: 100%), caption: [Art by Eric Deschamps], supplement: none, numbering: none)
 
 Hadi gave her a hand up. Despite the protective leather aprons they wore over their clothes, they were both covered in grease and the remnants of the sea-bottom mud they were still cleaning out of the #emph[Weatherlight] 's mechanical systems. Hadi said, "That's a relief to hear. I'd hate to have to redo all that piping."
 
@@ -161,7 +161,7 @@ Arvad had to pause to think. "It was on the night of the full moon, two months a
 
 That was confirmation for Tiana's theory. That had been the day Jhoira had brought the #emph[Weatherlight]  up, the day her prayer had stirred its Powerstone back to life. "I think I have an idea of what might be causing that."#linebreak  
 
-#figure(image("004_Return to Dominaria: Episode 4/04.jpg", width: 100%), caption: [Worn Powerstone | Art by Henry G. Higginbotham], supplement: none, numbering: none)
+#figure(image("004_Return to Dominaria Episode 4/04.jpg", width: 100%), caption: [Worn Powerstone | Art by Henry G. Higginbotham], supplement: none, numbering: none)
 
 His voice went rough with hope. "Something nearby. Do you think it would cure me?"
 
@@ -207,7 +207,7 @@ Tiana nodded, and went to tell Arvad.
 
 He seemed surprised not to be told to leave immediately. He said, "That's very generous. I agree."#linebreak  
 
-#figure(image("004_Return to Dominaria: Episode 4/05.jpg", width: 100%), caption: [Art by Lius Lasahido], supplement: none, numbering: none)
+#figure(image("004_Return to Dominaria Episode 4/05.jpg", width: 100%), caption: [Art by Lius Lasahido], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -271,7 +271,7 @@ Then one afternoon she was up on deck with Hadi talking about the final engine t
 
 "No. No, it's worse." Tiana raised her voice and sang the alarm. "Everyone, run! Take cover in the rocks!"#linebreak  
 
-#figure(image("004_Return to Dominaria: Episode 4/06.jpg", width: 100%), caption: [Art by Daarken], supplement: none, numbering: none)
+#figure(image("004_Return to Dominaria Episode 4/06.jpg", width: 100%), caption: [Art by Daarken], supplement: none, numbering: none)
 
 Streaking toward them from the mountains was a phoenix. A huge raptor, its wingspan several times the size of Tiana's, its entire body engulfed in flames. #emph[It's going to burn the Weatherlight] , Tiana thought, and a rage filled her, as pure and burning as Serra's holy light. #emph[Never, never.]  Not while there was breath left in her body. She leapt into the air, barely conscious of Hadi swinging down the scaffold, of the work crew scrambling out of their tents and calling out in alarm.
 

@@ -35,7 +35,7 @@ As Jhoira tumbled across the deck, Liliana made a wild grab and caught her jacke
 
 Liliana ordered her undead to break off, just before a blue light flashed and Yargle's enraged shriek deafened her. The #emph[Weatherlight]  shook like a child's toy, rattling her teeth. Her eyes were dazzled and she blinked hard, unable to make anything out. Then her vision cleared.
 
-#figure(image("012_Return to Dominaria: Episode 12/01.jpg", width: 100%), caption: [Yargle, Glutton of Urborg | Art by Jehan Choo], supplement: none, numbering: none)
+#figure(image("012_Return to Dominaria Episode 12/01.jpg", width: 100%), caption: [Yargle, Glutton of Urborg | Art by Jehan Choo], supplement: none, numbering: none)
 
 Yargle still gripped the bow, and now its gigantic maw was opening. Jhoira swore bitterly and added, "I should have used all the burners."
 
@@ -51,7 +51,7 @@ That was all he had time for as he was rushed by a swarm of desperate fighters. 
 
 Wary his eternal aegis shield spell would give him away, he blocked wild sword thrusts and dodged a blow from a broken mace. He shouted, "Why are you fighting for the Cabal's amusement? Just stop!"
 
-#figure(image("012_Return to Dominaria: Episode 12/02.jpg", width: 100%), caption: [Gideon's Reproach | Art by Izzy], supplement: none, numbering: none)
+#figure(image("012_Return to Dominaria Episode 12/02.jpg", width: 100%), caption: [Gideon's Reproach | Art by Izzy], supplement: none, numbering: none)
 
 That was when he realized everyone attacking him was wild-eyed with dementia magic. They had no idea where they were—they were trapped in their own nightmares. One flung himself forward like a berserker and Gideon stabbed him through the chest. As he freed his sword and backed away, the others leapt on the fallen man to tear at his weapons and armor.
 
@@ -67,7 +67,7 @@ The leader was a tall, muscular warrior with dark hair and blue-gray skin, dress
 
 She drove back another attacker with a flurry of sword strokes. "No, my companions were killed. We all met in the cells."
 
-#figure(image("012_Return to Dominaria: Episode 12/03.jpg", width: 100%), caption: [Run Amok | Art by Svetlin Velinov], supplement: none, numbering: none)
+#figure(image("012_Return to Dominaria Episode 12/03.jpg", width: 100%), caption: [Run Amok | Art by Svetlin Velinov], supplement: none, numbering: none)
 
 If there were others trapped in the Stronghold who weren't infected with dementia magic, then they could free them. If the #emph[Weatherlight]  ever arrived. "I'm Gideon."
 
@@ -113,7 +113,7 @@ A shape rose up behind Yargle. It was larger, suffused with green light and wrap
 
 The #emph[Weatherlight]  slewed sideways in Yargle's grip and Jhoira slammed into the railing again. Jaya slid across the deck on her back and shouted, "It's Muldrotha, a corrupted elemental!"
 
-#figure(image("012_Return to Dominaria: Episode 12/04.jpg", width: 100%), caption: [Muldrotha, the Gravetide | Art by Jason Rainville], supplement: none, numbering: none)
+#figure(image("012_Return to Dominaria Episode 12/04.jpg", width: 100%), caption: [Muldrotha, the Gravetide | Art by Jason Rainville], supplement: none, numbering: none)
 
 Muldrotha extruded a limb made of rotting wood and corpses into Yargle's clamped jaw and pried it open. With a strangled gasp of acid, Yargle released the #emph[Weatherlight] .
 
@@ -123,7 +123,7 @@ Liliana slid down the rail to the deck and Jhoira staggered forward to see the b
 
 It waved at her.
 
-#figure(image("012_Return to Dominaria: Episode 12/05.jpg", width: 100%), caption: [Slimefoot, the Stowaway | Art by Alex Konstad], supplement: none, numbering: none)
+#figure(image("012_Return to Dominaria Episode 12/05.jpg", width: 100%), caption: [Slimefoot, the Stowaway | Art by Alex Konstad], supplement: none, numbering: none)
 
 Raff dragged himself up on the rail. "I'd feel sorry for Yargle, if it hadn't tried to eat our ship," he gasped.
 
@@ -163,7 +163,7 @@ Chandra didn't need to brace herself or draw in a breath. She shot a dozen fireb
 
 The cultists she set on fire ran, rammed into each other, fell over the side of the pit. Whisper leapt down from the block to duck behind the grimnants. Chandra raked the whole group with fire. It immolated most of them and sent the survivors fleeing for the doorways. Chandra shoved to her feet and fought the urge to just blast the whole arena; she knew she needed to conserve her strength if they were going to get through this alive. But all that effort keeping multiple fireballs afloat and contained while having emotional conversations with Jaya had come in handy.
 
-#figure(image("012_Return to Dominaria: Episode 12/06.jpg", width: 100%), caption: [Exquisite Firecraft | Art by Chase Stone], supplement: none, numbering: none)
+#figure(image("012_Return to Dominaria Episode 12/06.jpg", width: 100%), caption: [Exquisite Firecraft | Art by Chase Stone], supplement: none, numbering: none)
 
 Chandra ran back to the stair mechanism, burned through the chain lock, and threw the lever. The stairs unfolded down the side of the pit with a wheezing clank. The grimnants nearby were either charred heaps, on fire, or gone, and she couldn't see any others in the dimness of the arena's upper reaches. Down in the pit knots of prisoners still fought, surrounded by the bodies of the fallen. She couldn't see Gideon or the other fighters with him and stepped to the edge of the pit to look down the stairs. The group was climbing up, Gideon nearly at the top.
 
@@ -183,7 +183,7 @@ The woman slung herself up. "It doesn't bode well that it took three of us to ta
 
 More fighters climbed out of the pit. "Radha, you'll lead us out?" one asked.
 
-#figure(image("012_Return to Dominaria: Episode 12/07.jpg", width: 100%), caption: [Art by Anna Steinbauer], supplement: none, numbering: none)
+#figure(image("012_Return to Dominaria Episode 12/07.jpg", width: 100%), caption: [Art by Anna Steinbauer], supplement: none, numbering: none)
 
 Radha hesitated, then turned to Gideon and Chandra. "You have an escape route planned?"
 
@@ -237,7 +237,7 @@ Gideon led the way out of the arena through the nearest archway. The shadowy cor
 
 "It should be down here." Gideon spotted the opening just beyond the next archway. From the flickering light of the nearest torch, it was a tunnel of Phyrexian construction, a curving gullet that led down into darkness. "Probably." Raff had extracted the information at Tolaria West from the Cabal agent's fractured thoughts, and they just had to hope he had interpreted it correctly.
 
-#figure(image("012_Return to Dominaria: Episode 12/08.jpg", width: 100%), caption: [Memorial to Genius | Art by James Paick], supplement: none, numbering: none)
+#figure(image("012_Return to Dominaria Episode 12/08.jpg", width: 100%), caption: [Memorial to Genius | Art by James Paick], supplement: none, numbering: none)
 
 The corridor curved around and finally opened into a large, mostly unlit chamber with more of the curving riblike supports. There were half a dozen sets of doors in the walls, all sealed with heavy chains. A miasma of dark spells floated in front of each one like a gray veil. Gideon stopped and felt that sinking sensation that usually accompanied the moments when he realized his plan had just encountered a possibly catastrophic obstacle.
 
@@ -279,7 +279,7 @@ Urgoros and its beast slammed into the deck through a haze of blue spell light a
 
 Shanna walked forward and her resistance to magic deflected Urgoros's spells in flares of gold light. Karn crouched behind her, using Shanna's immunity to get close enough to attack. Liliana cast her own spell, hoping all the distraction would let her kill Urgoros before it could shield itself.
 
-#figure(image("012_Return to Dominaria: Episode 12/09.jpg", width: 100%), caption: [Urgoros, the Empty One | Art by Daarken], supplement: none, numbering: none)
+#figure(image("012_Return to Dominaria Episode 12/09.jpg", width: 100%), caption: [Urgoros, the Empty One | Art by Daarken], supplement: none, numbering: none)
 
 The purple light struck Urgoros but washed over it, lighting up the joints in its armor. #emph[Oh, that didn't work] , Liliana had time to think before the beast's tail slammed her sideways.
 
@@ -315,7 +315,7 @@ Gideon ran across the shadowy chaos of the Stronghold's hall with Chandra and Ra
 
 "Stay focused," Gideon told her. He carried the Blackblade, still in its scabbard. They had found the weapon inside the fourth treasury vault, mounted on a stone plinth like a trophy. He could feel the dark power of it burning through the leather into his hand, and he didn't want to use it on anyone except Belzenlok.
 
-#figure(image("012_Return to Dominaria: Episode 12/10.jpg", width: 100%), caption: [Blackblade Reforged | Art by Chris Rahn], supplement: none, numbering: none)
+#figure(image("012_Return to Dominaria Episode 12/10.jpg", width: 100%), caption: [Blackblade Reforged | Art by Chris Rahn], supplement: none, numbering: none)
 
 They reached the outer foyer of the hall. A cleric stood in the open doors, holding a circle of panther warriors back with a dark haze of spells. She saw them, snarled, and cast something that took the form of a net expanding in the air. Gideon turned instinctively to use his shield spell, but Chandra shot a bolt of fire that neatly missed the undead warriors and struck the cleric square in the chest. The cleric staggered back and the panthers overwhelmed her, her spell dissolving in midair.
 
@@ -337,7 +337,7 @@ Gideon hesitated, but he knew the grimnants would break when he killed Belzenlok
 
 Belzenlok swung around at Gideon's approach, then tilted his horned head in recognition at the sight of the Blackblade. "That sword is mine! I forged it to kill an elder dragon." Belzenlok sneered, his teeth sharp against his pale lips. "You think you can wield my own sword against me? Your death will be excruciating."
 
-#figure(image("012_Return to Dominaria: Episode 12/11.jpg", width: 100%), caption: [Demonlord Belzenlok | Art by Tyler Jacobson], supplement: none, numbering: none)
+#figure(image("012_Return to Dominaria Episode 12/11.jpg", width: 100%), caption: [Demonlord Belzenlok | Art by Tyler Jacobson], supplement: none, numbering: none)
 
 "Out of curiosity, do you actually believe these lies you spout to your deluded cultists?" Gideon said and circled to the side. Belzenlok pivoted to follow him. The Blackblade made Gideon's hands ache, as if the dark power was weakening his bones. He knew he only had to get close enough to pierce Belzenlok's flesh with the sword. But the demon was taller and bulkier than him, with a longer reach.
 
@@ -385,7 +385,7 @@ Oblivious with victory, his mouth split with glee, Belzenlok lifted his sword to
 
 She gasped as the dark energy jolted through her, using her body to pull the demon's life force into the blade. Belzenlok froze, trapped by the Blade's power, held immobile, his fanged mouth open in a rictal grin.
 
-#figure(image("012_Return to Dominaria: Episode 12/12.jpg", width: 100%), caption: [Settle the Score | Art by Yongjae Choi], supplement: none, numbering: none)
+#figure(image("012_Return to Dominaria Episode 12/12.jpg", width: 100%), caption: [Settle the Score | Art by Yongjae Choi], supplement: none, numbering: none)
 
 Liliana gazed up at him in triumph and her skin coursed with sparks of violet light as the Blade drained Belzenlok's life. It was almost too much, the power stored within the Blackblade nearly overwhelming her body, her mind. She set her jaw and braced herself, riding the flow of dark energy as Belzenlok's body shrank and shriveled under the Blade. It had been a pleasure to kill all her demons, but destroying Belzenlok in this way was a particular delight. She managed, "You should have left Josu alone."
 
@@ -407,7 +407,7 @@ Urgoros had vanished when Belzenlok died, and Jhoira had no idea if it had been 
 
 All day, more spirits and the human resistance fighters had continued to appear out of the surrounding countryside, drawn by the news of the Stronghold's defeat. Gideon, Shanna, and Radha had organized a group to search the prison, releasing any captives still trapped within and helping the injured. The grimnants, cultists, and clerics were all dead or had fled into the swamps.
 
-#figure(image("012_Return to Dominaria: Episode 12/13.jpg", width: 100%), caption: [Grand Warlord Radha | Art by Anna Steinbauer], supplement: none, numbering: none)
+#figure(image("012_Return to Dominaria Episode 12/13.jpg", width: 100%), caption: [Grand Warlord Radha | Art by Anna Steinbauer], supplement: none, numbering: none)
 
 Teferi had been shocked to see that Radha had been a prisoner of the Cabal, but at least she was free now. The #emph[Weatherlight]  would take her back to Keld, and drop off the other former prisoners who wanted to leave Urborg, and then take Slimefoot and its children to Yavimaya. They would be traveling without Teferi, Karn, and Jaya, who had decided to accompany the other Planeswalkers in their effort to destroy Nicol Bolas.
 
@@ -431,7 +431,7 @@ It was late in the day when Jhoira stood on the court with Liliana. The spirits 
 
 In front of the Stronghold's broken doors, Gideon was giving Teferi the Gatewatch oath while Chandra stood by. Karn and Jaya had agreed to join the fight against Bolas, but hadn't agreed to take the oath. Karn because he meant to leave soon to continue his effort to destroy New Phyrexia, and Jaya because, as she had said, "I'm not a joiner."
 
-#figure(image("012_Return to Dominaria: Episode 12/14.jpg", width: 100%), caption: [Oath of Teferi | Art by Wesley Burt], supplement: none, numbering: none)
+#figure(image("012_Return to Dominaria Episode 12/14.jpg", width: 100%), caption: [Oath of Teferi | Art by Wesley Burt], supplement: none, numbering: none)
 
 Liliana shook her head slightly and said, "Gideon and his oath. I don't know how Teferi keeps from laughing."
 
@@ -471,7 +471,7 @@ Gideon left first, vanishing in a storm of gold light. Chandra and Jaya went nex
 
 And Liliana still stood on the pavement in the deserted court, the smoke-tinged breeze stirring her hair. She stared down at herself, baffled. She had meant to follow Gideon.
 
-#figure(image("012_Return to Dominaria: Episode 12/15.jpg", width: 100%), caption: [Swamp | Art by Titus Lunter], supplement: none, numbering: none)
+#figure(image("012_Return to Dominaria Episode 12/15.jpg", width: 100%), caption: [Swamp | Art by Titus Lunter], supplement: none, numbering: none)
 
 She tried to step out of the plane again, but again, nothing happened. "What~How~" she began in dawning horror, afraid she had somehow lost her spark without realizing it. Had it been the Blackblade? Too many uses of the Chain Veil?
 
@@ -495,7 +495,7 @@ Bolas watched her with complacent satisfaction, confident his trap had made her 
 
 Sick at heart, bound like a prisoner to a new incarnation of a fate she had schemed so long to cheat, Liliana followed in his wake.
 
-#figure(image("012_Return to Dominaria: Episode 12/16.jpg", width: 100%), caption: [In Bolas's Clutches | Art by Zack Stella], supplement: none, numbering: none)
+#figure(image("012_Return to Dominaria Episode 12/16.jpg", width: 100%), caption: [In Bolas's Clutches | Art by Zack Stella], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))

@@ -11,7 +11,7 @@ Teferi walked out to the beach before dawn, to where he could see Zhalfir reflec
 
 If you stood in the right place on the shoreline, if the weather was just the right balance between overcast and bright sunlight, the ghost of Zhalfir's coastline was visible. The translucent gleaming towers and domes floated as if on clouds above the sea.
 
-#figure(image("007_Return to Dominaria: Episode 7/01.jpg", width: 100%), caption: [Zhalfirin Void | Art by Chase Stone], supplement: none, numbering: none)
+#figure(image("007_Return to Dominaria Episode 7/01.jpg", width: 100%), caption: [Zhalfirin Void | Art by Chase Stone], supplement: none, numbering: none)
 
 It was a pilgrimage still made here by many inhabitants of Femeref and other parts of Jamuraa. Some came to honor ancestors lost when the rift occurred, some came out of historical curiosity. This morning several groups stood on the beach, solemn and silent or talking animatedly as their children played in the surf. Others stood alone, like Teferi. He kept his distance, though the chances of him being recognized lessened with every century that passed. His own aging was now a slow process, but he had already long outlived his mortal enemies.
 
@@ -29,7 +29,7 @@ Teferi wasn't sure why Zhalfir had been so much on his mind since he'd given up 
 
 #emph[It's not as if you can do anything about it] , he told himself, weary with this internal argument. His Planeswalker spark had been needed to repair Shiv's time rift to prevent devastating destruction, and he had no power now to return Zhalfir.
 
-#figure(image("007_Return to Dominaria: Episode 7/02.jpg", width: 100%), caption: [Teferi, Mage of Zhalfir | Art by D. Alexander Gregory & Jeremy Jarvis], supplement: none, numbering: none)
+#figure(image("007_Return to Dominaria Episode 7/02.jpg", width: 100%), caption: [Teferi, Mage of Zhalfir | Art by D. Alexander Gregory & Jeremy Jarvis], supplement: none, numbering: none)
 
 He found his way through the maze of streets, the high stone walls of houses to either side, passing the gates that led into their lush garden courts. As he entered the public fountain plaza, he saw two figures sitting on the low stone wall near the door of his hostel. Teferi kept walking, kept his face and body language neutral.
 
@@ -93,7 +93,7 @@ Subira said, "Not well. This was the first time he traveled on my caravan." She 
 
 Kwende shook his head a little. "We had traveled together for a time, before we joined up with the caravan to come here."
 
-#figure(image("007_Return to Dominaria: Episode 7/03.jpg", width: 100%), caption: [Excavation Elephant | Art by Viktor Titov], supplement: none, numbering: none)
+#figure(image("007_Return to Dominaria Episode 7/03.jpg", width: 100%), caption: [Excavation Elephant | Art by Viktor Titov], supplement: none, numbering: none)
 
 Teferi had assumed Kwende and Subira owned the caravan together, and felt a jolt of relief that they were apparently recent acquaintances. Then he shook his head at himself.#emph[Idiot] , he thought. He had no business thinking of potential romantic attachments, not now. And perhaps not for years yet, until people forgot he had ever existed. And that was a depressing thought, even for someone on his way to look at a dead man. He sighed deeply, and Subira threw him a quizzical look.
 
@@ -159,7 +159,7 @@ They eyed each other for a long moment. Subira didn't seem appalled by the idea 
 
 Subira's brow furrowed. "But would they send only one assassin? I think you're far more dangerous than that."
 
-#figure(image("007_Return to Dominaria: Episode 7/04.jpg", width: 100%), caption: [Teferi, Timebender | Art by Zack Stella], supplement: none, numbering: none)
+#figure(image("007_Return to Dominaria Episode 7/04.jpg", width: 100%), caption: [Teferi, Timebender | Art by Zack Stella], supplement: none, numbering: none)
 
 Teferi kept his smile light. As much as he wanted to see it as flirting, he knew she was too straightforward for that and was simply speaking her mind. "Your confidence in me is gratifying."
 
@@ -201,7 +201,7 @@ It was too large, too diffuse. "No, I'm going to have to think of something else
 
 He strode forward away from the others, to the edge of the shelf of rock. He lifted his staff to give himself an anchor and hoped he had estimated the distance correctly.
 
-#figure(image("007_Return to Dominaria: Episode 7/05.jpg", width: 100%), caption: [Syncopate | Art by Tommy Arnold], supplement: none, numbering: none)
+#figure(image("007_Return to Dominaria Episode 7/05.jpg", width: 100%), caption: [Syncopate | Art by Tommy Arnold], supplement: none, numbering: none)
 
 He cast the spell to stop time for a bubble of air ten feet in front of him. Inside the bubble, drifting dust motes froze in place. Gathering every scrap of power he still had, Teferi stretched the bubble and made it longer, wider, higher, extending it seaward toward the bluffs that formed a natural windbreak for the town and outward to shield the caravan grounds, then up as high as he could stretch it. He made sure to keep it at an angle, using the sharp edges of the rock shelves as a guide. Logic said this should work; Teferi just hoped logic was right.
 
@@ -215,7 +215,7 @@ Subira leaned over him and shook his shoulder. "Are you all right?"
 
 Teferi took a breath to answer and choked on sand. Subira hauled him into a sitting position and pounded him on the back until he could breathe. He wiped watering eyes and lifted his head to see the caravan grounds still intact, though tents, wagons, and agitated animals were covered with a layer of dust. People staggered around coughing and flailing, and those who had fled slowly returned, clearly amazed at their survival. The town looked in better shape, where confused inhabitants gathered on the rooftops and in the windows and doorways of the houses built back against the cliffs.
 
-#figure(image("007_Return to Dominaria: Episode 7/06.jpg", width: 100%), caption: [Sulfur Falls | Art by Cliff Childs], supplement: none, numbering: none)
+#figure(image("007_Return to Dominaria Episode 7/06.jpg", width: 100%), caption: [Sulfur Falls | Art by Cliff Childs], supplement: none, numbering: none)
 
 As Subira helped Teferi to his feet, her drover Akime ran to help. As they reached the tent, another drover ran up and said, "They're coming from the town, a crowd of magistrates. They say someone here brought the storm."
 
@@ -249,7 +249,7 @@ The sword swing came out of nowhere and Teferi flung himself sideways. He hit th
 
 Kwende recovered and drew two long knives, their blades gleaming with crystal. Teferi held his staff out like a man about to cast a devastating time spell, but he knew he had maybe one or two minor efforts left in him before he collapsed entirely. "Why are you doing this?" he demanded.
 
-#figure(image("007_Return to Dominaria: Episode 7/07.jpg", width: 100%), caption: [Kwende, Pride of Femeref | Art by Daarken], supplement: none, numbering: none)
+#figure(image("007_Return to Dominaria Episode 7/07.jpg", width: 100%), caption: [Kwende, Pride of Femeref | Art by Daarken], supplement: none, numbering: none)
 
 "It was the only way to get to you," Kwende said, his face hard with fury. "Traitor, destroyer!" He surged forward.
 
@@ -315,7 +315,7 @@ Teferi slumped back against the seat, giving the thought serious consideration. 
 
 A few years ago, Subira had found someone else to run her caravan, and she had settled down with Teferi in this town near one of their old routes, long enough to have Niambi. She had gone back to her caravan now, visiting regularly as Teferi raised their daughter.
 
-#figure(image("007_Return to Dominaria: Episode 7/08.jpg", width: 100%), caption: [Adventurous Impulse | Art by Titus Lunter], supplement: none, numbering: none)
+#figure(image("007_Return to Dominaria Episode 7/08.jpg", width: 100%), caption: [Adventurous Impulse | Art by Titus Lunter], supplement: none, numbering: none)
 
 Niambi bolted for the fountain but her sandal caught on a loose stone and she started to fall. Teferi cast the spell out of pure instinct and Niambi froze in mid-air.
 

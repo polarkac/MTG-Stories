@@ -13,7 +13,7 @@ Assuming an expression of pretend inquiry, his daughter Niambi said, "What's the
 
 Teferi laughed. "That's only if you don't have a method to your madness, and I always have a method."
 
-#figure(image("006_Return to Dominaria: Episode 6/01.jpg", width: 100%), caption: [Teferi, Hero of Dominaria | Art by Chris Rallis], supplement: none, numbering: none)
+#figure(image("006_Return to Dominaria Episode 6/01.jpg", width: 100%), caption: [Teferi, Hero of Dominaria | Art by Chris Rallis], supplement: none, numbering: none)
 
 "Oh, if we only knew what that method was," Niambi countered with a grin.
 
@@ -49,7 +49,7 @@ Niambi stepped closer to the automaton to study it. She frowned. "I recognize th
 
 "Oh, lovely." She grimaced and stepped back.
 
-#figure(image("006_Return to Dominaria: Episode 6/02.jpg", width: 100%), caption: [Mishra's Self-Replicator | Art by Joseph Meehan], supplement: none, numbering: none)
+#figure(image("006_Return to Dominaria Episode 6/02.jpg", width: 100%), caption: [Mishra's Self-Replicator | Art by Joseph Meehan], supplement: none, numbering: none)
 
 Of the three corridors, two were always traps, but which two changed every time. Teferi read the floating, shifting glyphs that revealed the right passage, then triggered and disarmed the death light from the giant eye around the first bend. With that done, he and Niambi were able to proceed to the chamber of poisoned needles.
 
@@ -107,7 +107,7 @@ Teferi shook his head. "Urza didn't have friends, not like you and I have friend
 
 A shadow fell over the sand. Teferi's instinct said "dragon," and even as he looked up he was ready to cast a spell. But the thing above them was shaped like a boat, and it was strangely familiar . . . It couldn't be what he thought it was.
 
-#figure(image("006_Return to Dominaria: Episode 6/03.jpg", width: 100%), caption: [Weatherlight | Art by Jaime Jones], supplement: none, numbering: none)
+#figure(image("006_Return to Dominaria Episode 6/03.jpg", width: 100%), caption: [Weatherlight | Art by Jaime Jones], supplement: none, numbering: none)
 
 "A skyship?" Niambi said. She stared at Teferi. "Is it here for you?"
 
@@ -121,7 +121,7 @@ Gideon climbed down the ladder from the #emph[Weatherlight] , dropping the last 
 
 He had arrived just in time for the introductions. Like Shanna Sisay, both the people they had come to meet were dark-skinned Jamuraans, a tall well-built older man with short graying hair and a lovely woman about the same age, with strands of gray threaded through her long braids.
 
-#figure(image("006_Return to Dominaria: Episode 6/04.jpg", width: 100%), caption: [Niambi, Faithful Healer | Art by Greg Opalinski], supplement: none, numbering: none)
+#figure(image("006_Return to Dominaria Episode 6/04.jpg", width: 100%), caption: [Niambi, Faithful Healer | Art by Greg Opalinski], supplement: none, numbering: none)
 
 Jhoira explained, "Gideon and Liliana are Planeswalkers."
 
@@ -173,7 +173,7 @@ Teferi explained, "At the time of the invasion, Zhalfir was the most advanced na
 
 He looked out over the dark desert, where the wind blew drifts off the tops of the dunes, the crystalline sand catching the last of the light. "I wanted to spare my people and my homeland from a war I knew would destroy them. So I created a time rift and phased Zhalfir partially out of this plane. The Phyrexians couldn't reach it, but Zhalfirins couldn't reach the rest of Dominaria, either. They still can't."
 
-#figure(image("006_Return to Dominaria: Episode 6/05.jpg", width: 100%), caption: [Teferi's Protection | Art by Chase Stone], supplement: none, numbering: none)
+#figure(image("006_Return to Dominaria Episode 6/05.jpg", width: 100%), caption: [Teferi's Protection | Art by Chase Stone], supplement: none, numbering: none)
 
 Into the silence, Shanna said gravely, "There were many Zhalfirins in Femeref and Suq'Ata and other places, who could never return, who lost all or part of their families, who lost their homes."
 
@@ -229,7 +229,7 @@ Liliana said in exasperation, "He hasn't agreed to help us—stop telling him th
 
 Then Jhoira and Niambi pushed to their feet, still talking. Shanna, who had been listening to their conversation, stood and dusted the sand off her pants. She said, "We're going back to the monument for another try. Jhoira thinks Niambi has it right, but there's some factor she couldn't take into account."
 
-#figure(image("006_Return to Dominaria: Episode 6/06.jpg", width: 100%), caption: [Construct | Art by Victor Adame Minguez], supplement: none, numbering: none)
+#figure(image("006_Return to Dominaria Episode 6/06.jpg", width: 100%), caption: [Construct | Art by Victor Adame Minguez], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -267,7 +267,7 @@ Raff nodded and pushed to his feet. "I'm getting some of that too, though not as
 
 The floating blocks drifted into view as usual and Jhoira counted them aloud for Niambi. Then Liliana said, "Aha, there are spirits here."
 
-#figure(image("006_Return to Dominaria: Episode 6/07.jpg", width: 100%), caption: [Lingering Phantom | Art by YW Tang], supplement: none, numbering: none)
+#figure(image("006_Return to Dominaria Episode 6/07.jpg", width: 100%), caption: [Lingering Phantom | Art by YW Tang], supplement: none, numbering: none)
 
 "How many? What direction?" Niambi asked, excitement in her voice.
 
@@ -309,7 +309,7 @@ Then two ladders dropped from above and Teferi realized the shadow blotting out 
 
 A Serran angel dropped to land in the rising sand before them. Teferi pushed Niambi toward her and said, "Take my daughter!"
 
-#figure(image("006_Return to Dominaria: Episode 6/08.jpg", width: 100%), caption: [Mountain | Art by Titus Lunter], supplement: none, numbering: none)
+#figure(image("006_Return to Dominaria Episode 6/08.jpg", width: 100%), caption: [Mountain | Art by Titus Lunter], supplement: none, numbering: none)
 
 "Hey!" Niambi objected, but the angel caught her around the waist and leapt upward into the air. The hard flap of her wings blew the sand back enough for Gideon to wade forward and catch a dangling ladder. He held it steady for Liliana. Shanna gave the shorter Jhoira a boost up to the other ladder, and Jhoira swung to one side so Shanna could scramble up with her. Gideon grabbed Raff by the collar and shoved him up after Liliana, then hooked an arm through the lowest rung. Waist deep in sand now, Teferi grabbed the end of the other ladder, and the skyship lifted, pulling them upward.
 

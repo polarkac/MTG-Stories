@@ -19,7 +19,7 @@ She had to find the Raven Man. She had to find answers.
 
 Above the trees ahead, ravens wheeled in the air, then dove to spiral into a dark whirlwind just above the ground. The rapid flap of their wings coalesced into a black mass, as if they had all joined together into one creature. Out of that mass stepped the Raven Man.
 
-#figure(image("002_Return to Dominaria: Episode 2/01.jpg", width: 100%), caption: [Art by Chris Rahn], supplement: none, numbering: none)
+#figure(image("002_Return to Dominaria Episode 2/01.jpg", width: 100%), caption: [Art by Chris Rahn], supplement: none, numbering: none)
 
 He looked the same as the last time she had seen him, a tall pale figure dressed in black with hair white as bone and eyes of piercing gold. He had followed her across planes, making a pretense of wanting to help her, though she had no idea what his real motive was. She demanded, "Did you do this? Did you tell Belzenlok how my brother died? How did Belzenlok raise him again?"
 
@@ -43,7 +43,7 @@ She paced hard, sending snakes and the foul little creatures of the Morass fleei
 
 How could she help Josu? It wasn't just Belzenlok using her brother as a servant that rankled every bone in her body. It was her own healing work that went so terribly wrong all those years ago. The Raven Man had manipulated her, tricked her into performing the work, yes, but she was the one who had done it, the one who had turned Josu into a mindless undead remnant. And somehow it left his remains vulnerable to Belzenlok's magic, allowing Belzenlok to raise Josu from the grave once more, enslaving him, but with his wits and military knowledge intact.
 
-#figure(image("002_Return to Dominaria: Episode 2/02.jpg", width: 100%), caption: [Art by Daarken], supplement: none, numbering: none)
+#figure(image("002_Return to Dominaria Episode 2/02.jpg", width: 100%), caption: [Art by Daarken], supplement: none, numbering: none)
 
 #emph[I could use the Chain Veil] , she thought suddenly. Now that Josu was transformed into a lich, it would lay him to rest just as it would destroy a demon . . . She swore under her breath in realization. #emph[Oh, so that's it] .
 
@@ -133,7 +133,7 @@ Rael hesitated, and in her expression hope warred with resignation. Gideon watch
 
 While Liliana prepared for her spell, Gideon spent the rest of their day with Rael, gathering the Benalish forces left in Caligo. When the next day dawned, they were at the high ground around Vess Manor with a small force of Benalish soldiers, knights, and aven scouts.
 
-#figure(image("002_Return to Dominaria: Episode 2/03.jpg", width: 100%), caption: [Art by Mark Zug], supplement: none, numbering: none)
+#figure(image("002_Return to Dominaria Episode 2/03.jpg", width: 100%), caption: [Art by Mark Zug], supplement: none, numbering: none)
 
 The sky was heavy with clouds, threatening rain, as Gideon and Liliana met with Rael and her lieutenants in the overgrown remnants of the house's walled garden. Looking around at them all, Gideon knew he would need a good defensive strategy. Too many of the soldiers and knights were walking wounded, too many were disheartened by the deaths of their companions and the devastation the Cabal had caused in Caligo. He had no intention of letting them bear the brunt of the attack.
 
@@ -219,7 +219,7 @@ It was the Cabal force, a legion of the undead. Shambling corpses, the revenants
 
 It stood easily twice Gideon's height, a gray figure naked to the waist, its body like a muscular, desiccated corpse. Its chest had been ripped open collar to waist, revealing an empty cavity that glowed with spectral light, below a pointed face with a wide fanged jaw.
 
-#figure(image("002_Return to Dominaria: Episode 2/04.jpg", width: 100%), caption: [Art by G-host Lee], supplement: none, numbering: none)
+#figure(image("002_Return to Dominaria Episode 2/04.jpg", width: 100%), caption: [Art by G-host Lee], supplement: none, numbering: none)
 
 Gideon took a deep breath and started forward, lifting his hands.
 
@@ -305,7 +305,7 @@ She shook her head. He must be confused, his memory affected by Belzenlok's spel
 
 And he was gone.
 
-#figure(image("002_Return to Dominaria: Episode 2/05.jpg", width: 100%), caption: [Art by Eric Deschamps], supplement: none, numbering: none)
+#figure(image("002_Return to Dominaria Episode 2/05.jpg", width: 100%), caption: [Art by Eric Deschamps], supplement: none, numbering: none)
 
 Liliana staggered under the weight of his words. He had been undead all this time, all these years. Cold shock washed over her. It was horrifying. And worse still, her family, all dead trying to end the evil she had created. #emph[It was an accident] , she told herself. #emph[I was tricked] . But that didn't matter. The outcome had been the same as if she had deliberately set out to destroy her family.
 
