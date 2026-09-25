@@ -7,7 +7,7 @@
     doc
 )
 
-#figure(image("003_Episode 3: The Locked Tower/01.jpg", width: 100%), caption: [Art by:  Bryan Sola], supplement: none, numbering: none)
+#figure(image("003_Episode 3 The Locked Tower/01.jpg", width: 100%), caption: [Art by:  Bryan Sola], supplement: none, numbering: none)
 
 Karn wished to be alone. He wished to be working on research—if only he could lose himself in a mathematical formula's crispness, if only he could forget how it felt to have oil and blood drying on his body. But he could not escape. He was locked into New Argive's watchtower, in a small circular upper room ringed in steel-shuttered windows. The dim yellow glow of the powerstone overhead illuminated a pedestal with a control panel beneath it. Only he had the key that would end the tower's lockdown, and he would not use it, not until they'd captured the Phyrexian, and not until he knew for certain his companions—Jodah and Jaya, Teferi and Stenn—were free from New Phyrexia's influence.
 
@@ -115,7 +115,7 @@ Karn located Jodah and Jaya on the fourth floor in a small office located off th
 
 Jaya parted her hands, dividing her flame, to pursue each half. The creature split again, this time into four small chittering beasts with dozens of legs growing from central gobs of flesh twined around with cables. The creatures scattered, each going in a differing direction.
 
-#figure(image("003_Episode 3: The Locked Tower/02.jpg", width: 100%), caption: [Art by:  Justyna Dura], supplement: none, numbering: none)
+#figure(image("003_Episode 3 The Locked Tower/02.jpg", width: 100%), caption: [Art by:  Justyna Dura], supplement: none, numbering: none)
 
 Karn stomped on one that attempted to squeak past him out the door.
 
@@ -171,7 +171,7 @@ A haze filled the amulet's crystalline surface. Karn frowned. Ajani—where was 
 
 He sought the sea caves by Tolaria West. No Phyrexians searched the coast; the area seemed serene. If Teferi was a spy, he had not yet reported to Sheoldred. Karn frowned.
 
-#figure(image("003_Episode 3: The Locked Tower/03.jpg", width: 100%), caption: [Art by:  Donato Giancola], supplement: none, numbering: none)
+#figure(image("003_Episode 3 The Locked Tower/03.jpg", width: 100%), caption: [Art by:  Donato Giancola], supplement: none, numbering: none)
 
 "Karn, I—" Jaya stopped. Frustration clouded her face. "What's that?"
 

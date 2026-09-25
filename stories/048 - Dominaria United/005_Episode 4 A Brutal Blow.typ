@@ -61,7 +61,7 @@ She snorted at herself. #emph[Not like you're ever going to retire! ]
 
 "Jaya!" Ajani strode from the trees' deep shadows, his white fur glinting in the light and his cloak rippling behind him. "Danitha told me you arrived. I have been seeking deer to feed the camp. There is good hunting here."
 
-#figure(image("005_Episode 4: A Brutal Blow/01.jpg", width: 100%), caption: [Art by:  Matt Stewart], supplement: none, numbering: none)
+#figure(image("005_Episode 4 A Brutal Blow/01.jpg", width: 100%), caption: [Art by:  Matt Stewart], supplement: none, numbering: none)
 
 "Any luck?" Jaya asked.
 
@@ -105,7 +105,7 @@ He did not recognize the voice. A cerulean butterfly lit upon his shoulder. He m
 
 An elf stared at him, her light skin dappled with gold around her bright, intelligent eyes. Even though Jodah could not have said why, she seemed young. She wore a warrior's leather armor; scarlet, ochre, and orange, yet unlike the armor he'd seen on other Yavimayan elves, she'd integrated repurposed Thran technology.
 
-#figure(image("005_Episode 4: A Brutal Blow/02.jpg", width: 100%), caption: [Art by:  Aurore Folny], supplement: none, numbering: none)
+#figure(image("005_Episode 4 A Brutal Blow/02.jpg", width: 100%), caption: [Art by:  Aurore Folny], supplement: none, numbering: none)
 
 "You're Jodah the Eternal?" she said. "The Archmage Jodah?"
 
@@ -165,7 +165,7 @@ The Benalish were being overwhelmed.
 
 Ajani led his Llanowar scouts into the fray, cleaving the Phyrexian monstrosities with his double-headed axe. The Phyrexian advance halted, stymied.
 
-#figure(image("005_Episode 4: A Brutal Blow/03.jpg", width: 100%), caption: [Art by:  Manuel Castañón], supplement: none, numbering: none)
+#figure(image("005_Episode 4 A Brutal Blow/03.jpg", width: 100%), caption: [Art by:  Manuel Castañón], supplement: none, numbering: none)
 
 Jaya thought, for one hopeful moment, that the leonin had turned the battle in their favor, until a new Phyrexian emerged from the cave, more monstrosities at his heels. He was human-form, broad and muscular, with pale armor merging into his torso. Metal spikes curved through his pale blond hair like horns and his orange-irised eyes wept black oil across his ice-white cheeks. He held up his double set of arms, which merged at the biceps, in ironic welcome. "And here I was hoping some of my old crew might be in the rescue party. Shame—I was so looking forward to catching up."
 
@@ -389,7 +389,7 @@ A sweet breeze cleared the battlefield's stink. It brought with it the clean sce
 
 An immense but sleek golden ship tore through the mountains' rubble, rocks kicking up in the wake behind it. The shimmering vessel swooped in a circle around the Phyrexian dreadnought. Hundreds of Keldon warriors leapt from the ship, landing on the dreadnought's wide scaley back, and they drove their blades and cleated boots into the creature's hide to secure themselves.
 
-#figure(image("005_Episode 4: A Brutal Blow/04.jpg", width: 100%), caption: [Art by:  Daniel Ljunggren], supplement: none, numbering: none)
+#figure(image("005_Episode 4 A Brutal Blow/04.jpg", width: 100%), caption: [Art by:  Daniel Ljunggren], supplement: none, numbering: none)
 
 The #emph[Golden Argosy] ! Jaya had thought it had been lost to legend. Radha had mentioned that she'd found an artifact during the negotiations in Oyster Bay, but Jaya had never guessed Radha had rediscovered that ancient ship.
 
@@ -411,7 +411,7 @@ Ertai bellowed, "Sheoldred will hear of this!"
 
 The creature crumpled, one joint at a time relaxing into death. The Keldons on its back let out a cheer and then flattened themselves, bracing to ride out its fall. The Benalish knights who'd been fighting underneath the dreadnought scattered. Jaya and Ajani both stared up at the nearing bulk of the dreadnought's underbelly, how it blotted the sky. Jaya scrambled out from underneath the dreadnought, squeaking past its final crash into the earth. The sound resounded in the mountains. Then, after that, the roar of avalanches and tumbling stone, until that, too, trickled into silence.
 
-#figure(image("005_Episode 4: A Brutal Blow/05.jpg", width: 100%), caption: [Art by:  Aurore Folny], supplement: none, numbering: none)
+#figure(image("005_Episode 4 A Brutal Blow/05.jpg", width: 100%), caption: [Art by:  Aurore Folny], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))

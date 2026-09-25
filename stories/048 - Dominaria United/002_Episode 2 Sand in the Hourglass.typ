@@ -7,7 +7,7 @@
     doc
 )
 
-#figure(image("002_Episode 2: Sand in the Hourglass/01.jpg", width: 100%), caption: [Art by:  Julian Kok Joon Wen], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Sand in the Hourglass/01.jpg", width: 100%), caption: [Art by:  Julian Kok Joon Wen], supplement: none, numbering: none)
 
 Time trickled away more slowly than the grains of sand settling between the rocks. The fine particles sifted into Karn's joints. He didn't know how long he had lain there, pinned in the dark. Was it days or weeks that had passed? What if months had flown away, like a small and startled bird? What if it was longer? Years, decades, eons—
 
@@ -175,7 +175,7 @@ Aron Capashen stood and paced. He seemed agitated. "The Phyrexians are ancient h
 
 "Have I not been warning you of this?" The young nobleman from New Argive stood. Based on his gold-embroidered and fur-lined finery, he had to be an important official. "Phyrexian sleeper agents will permeate every layer of society if we do not act now. For all we know, they already have!"
 
-#figure(image("002_Episode 2: Sand in the Hourglass/02.jpg", width: 100%), caption: [Art by:  Mila Pesic], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Sand in the Hourglass/02.jpg", width: 100%), caption: [Art by:  Mila Pesic], supplement: none, numbering: none)
 
 "Stenn, your alarmist tendencies are not helping," Jodah said. "Karn, where are the Phyrexians now?"
 
@@ -257,7 +257,7 @@ If Karn could draw the Phyrexians out, he would not need to find them. He'd know
 
 Karn stared at the varied thrush, so still, so attentive. "Perhaps."
 
-#figure(image("002_Episode 2: Sand in the Hourglass/03.jpg", width: 100%), caption: [Art by:  Allen Williams], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Sand in the Hourglass/03.jpg", width: 100%), caption: [Art by:  Allen Williams], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -361,7 +361,7 @@ Now a sufficient distance to avoid tweaking Jaya and Jodah's senses, Karn steppe
 
 Karn located a supply closet. He stowed the sylex and its case on the lowest shelf behind lengths of pipe whose dust promised that Jhoira had not needed them recently. He generated two devices: one alarm that would register if the pipes moved, and another weight-sensitive alarm that would notify him if anyone moved the box itself. There. The sylex was safe. Or as safe as it could be. Karn stepped back into the Blind Eternities.
 
-#figure(image("002_Episode 2: Sand in the Hourglass/04.jpg", width: 100%), caption: [Art by:  Adam Paquette], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Sand in the Hourglass/04.jpg", width: 100%), caption: [Art by:  Adam Paquette], supplement: none, numbering: none)
 
 Back on the forest hill, Karn wound his way downhill toward Oyster Bay. A light glimmered between the pale slender-trunked birch trees. A silhouetted person held aloft a lamp. Karn paused, but the lamp had glinted from his body. He had been seen. The figure moved closer. Stenn, the New Argivian noble from the negotiation table.
 
@@ -479,7 +479,7 @@ Its comrade seized Aron with its writhing tentacles, bundling him up like a spid
 
 Karn strode forward, Teferi and Ajani flanking him. Jaya held up her hands, summoning fire into her palms. Jodah gathered energy, distorting the air around him with ribbons of color, and then solidified it into a forcefield to protect the unchanged Benalish soldiers from the Phyrexians.
 
-#figure(image("002_Episode 2: Sand in the Hourglass/05.jpg", width: 100%), caption: [Art by:  Dominik Mayer], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Sand in the Hourglass/05.jpg", width: 100%), caption: [Art by:  Dominik Mayer], supplement: none, numbering: none)
 
 "For Gerrard," one woman bellowed, lifting her sword. She dodged past Jodah's barrier to charge her ex-comrades. The Phyrexian knight avoided her blow by splitting itself in two: it slid apart into two meaty pieces, legs sprouting from what had once been glistening internal organs. Both halves attacked.
 

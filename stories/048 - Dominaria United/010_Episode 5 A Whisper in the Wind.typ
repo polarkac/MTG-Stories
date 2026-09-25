@@ -53,7 +53,7 @@ Jhoira emerged from the lower decks, two human technologists at her heels. She r
 
 Jhoira waved. "Fire!"
 
-#figure(image("010_Episode 5: A Whisper in the Wind/01.jpg", width: 100%), caption: [Art by:  Sidharth Chaturvedi], supplement: none, numbering: none)
+#figure(image("010_Episode 5 A Whisper in the Wind/01.jpg", width: 100%), caption: [Art by:  Sidharth Chaturvedi], supplement: none, numbering: none)
 
 The cannons released a crackling blast that slammed into the Phyrexian's thorax, charring the metal and rocking it back into its own army. Blue energy burned between its armor plates. Jhoira waved again, and the cannons blasted the dreadnought a second time, ripping through its weakened armor. It collapsed onto its own troops, crushing them.
 
@@ -63,7 +63,7 @@ A shadow passed along the Mana Rig's decks. The #emph[Weatherlight]  soared abov
 
 "Oh no," he muttered. Now, looking closer, he could see that the coils and tendrils that had previously served as camouflage were no longer dead and inert. Even its cockpit was crusted over, blood and gore dried into a leathery coating over what had once been shining glass. The Phyrexians had compleated the #emph[Weatherlight] .
 
-#figure(image("010_Episode 5: A Whisper in the Wind/02.jpg", width: 100%), caption: [Art by:  Adam Paquette], supplement: none, numbering: none)
+#figure(image("010_Episode 5 A Whisper in the Wind/02.jpg", width: 100%), caption: [Art by:  Adam Paquette], supplement: none, numbering: none)
 
 The ship swooped low, dropping twisted horrors from its decks—some small as cats, others lumbering and bear-like in their bulk, interspersed with the compleated humans. Sheoldred must be hoping to overwhelm them, Karn thought, before Jhoira finished installing the self-destruct mechanism on the Mana Rig. If these Phyrexians attacked Teferi and the viashino from the back, the cannons would be left undefended.
 
@@ -125,7 +125,7 @@ With a savage growl in reply, Ajani turned and laid into the Phyrexians.
 
 Grappling hooks launched from the #emph[Golden Argosy ] as it drew in close to the Mana Rig. The Phyrexians still climbing the sides were crushed as the #emph[Golden Argosy ] ground into position alongside the Mana Rig's stern section. The crew from the #emph[Argosy ] threw planks across to bridge the gap, and Jaya led the charge, followed by Danitha Capashen in her house's colors and Radha with her people's battle cry on her lips. Keldon warriors and Benalish knights poured from the #emph[Argosy]  onto the Mana Rig's decks. They laid into the Phyrexians with their massive blades, cleaving the creatures into spare parts.
 
-#figure(image("010_Episode 5: A Whisper in the Wind/03.jpg", width: 100%), caption: [Art by:  Zoltan Boros], supplement: none, numbering: none)
+#figure(image("010_Episode 5 A Whisper in the Wind/03.jpg", width: 100%), caption: [Art by:  Zoltan Boros], supplement: none, numbering: none)
 
 Jaya raised a curtain of flame and drew it along the decks, herding the Phyrexians toward the #emph[Argosy ] and her troops. "Karn! How do you like your interplanar nightmares cooked?"
 
@@ -195,7 +195,7 @@ Jaya made a noise of disbelief. Teferi stepped forward. No—Ajani couldn't be�
 
 Ajani's good eye widened with horror. He shook his head in denial and mouthed #emph[no, no, no ] gripping his own arms as if he could restrain the Phyrexian fibers beneath his skin and prevent them from emerging. But they engorged, ripping open muscle and fur, to reveal a sleek, dense Phyrexian musculature that had been installed beneath his own.
 
-#figure(image("010_Episode 5: A Whisper in the Wind/04.jpg", width: 100%), caption: [Art by:  Victor Adame Minguez], supplement: none, numbering: none)
+#figure(image("010_Episode 5 A Whisper in the Wind/04.jpg", width: 100%), caption: [Art by:  Victor Adame Minguez], supplement: none, numbering: none)
 
 Ajani had been compleated. #emph[He]  was the spy, the traitor. He'd betrayed them to Sheoldred.
 
@@ -211,7 +211,7 @@ Teferi raised his hands, his magic slowing Ajani's attack. Karn rushed the leoni
 
 Jaya coughed. "Maybe. But not alone." Fire poured outward from Jaya's body, a white and scarlet conflagration; Ajani snarled and leaned back, his fur burning away to reveal blackened wires and cables below the skin, the air filling with the reek of charred oil. With a thrust of his ruined hand, he hurled Jaya over the edge of the Mana Rig.
 
-#figure(image("010_Episode 5: A Whisper in the Wind/05.jpg", width: 100%), caption: [Art by:  Ekaterina Burmak], supplement: none, numbering: none)
+#figure(image("010_Episode 5 A Whisper in the Wind/05.jpg", width: 100%), caption: [Art by:  Ekaterina Burmak], supplement: none, numbering: none)
 
 Teferi gasped. Jodah raised a frail cry.
 

@@ -7,7 +7,7 @@
     doc
 )
 
-#figure(image("001_Episode 1: Echoes In The Dark/01.jpg", width: 100%), caption: [Art by: Chris Rahn], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Echoes In The Dark/01.jpg", width: 100%), caption: [Art by: Chris Rahn], supplement: none, numbering: none)
 
 Even from three caverns away, the shriek of breaking metal echoed against the stone. Yet another broken excavator. If Karn had been an organic being, he would have sighed. Instead, he only paused and listened to the excavator's lingering rattles. He pitied his machines: no single setting could accommodate the eccentric geology of the Caves of Koilos, where olivine rock was as likely to back into sandstone as cinnabar, but he had no alternative. Here, he'd find the secret to operating the sylex.
 
@@ -63,7 +63,7 @@ Karn had sited his basecamp some distance from the excavators, where the caves h
 
 With the tents lit from within, coming back to camp almost felt like coming home. Karn ducked into the largest tent, stepping around the large, golden Thran artifact he'd left in front of the entrance. Inside, he shimmied past a broken piece of metal he had collected days ago, intending to reshape it back to usefulness. He stepped over a pile of powerstone shards and sat at his work desk; it, like the rest of his tent, was too cluttered—he had no space for his newest find. Atop the papers and small artifacts, he saw Jhoira's letters, scattered, opened but unanswered. #emph[Karn, it's been months] , one letter began. #emph[Don't you think you should examine why you're doing this? ] Another letter ended. #emph[Mirrodin ] #emph[wasn't your fault] , she wrote in another. #emph[Please come back. Venser would have . . .]
 
-#figure(image("001_Episode 1: Echoes In The Dark/02.jpg", width: 100%), caption: [Art by:  Jarel Threat], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Echoes In The Dark/02.jpg", width: 100%), caption: [Art by:  Jarel Threat], supplement: none, numbering: none)
 
 Karn shifted the artifact onto one palm and used the other hand to shove Jhoira's letters to one side. He slid the artifact onto the worktop then ducked under the table. He'd concealed the sylex in a small titanium chest, its lock only accessible to someone like him, someone who both knew the order in which the tumblers and pins needed to be lifted and could manipulate inorganic materials. His lock had no key.
 
@@ -133,7 +133,7 @@ He followed the tunnel until it opened into a junction. Here, the walls had been
 
 In the frieze, a Phyrexian demon grasped a young human woman. The demon's elongated skull, bared teeth, and small eyes were depicted with loving detail. Each node of machinery and every exposed muscle fiber was polished until it gleamed. Small diamonds had been inset as highlights so that the demon seemed to move and glitter under Karn's gaze. In contrast, the human's profile, cut into the stone, was rough, her features drawn down into torment, revulsion, and fear. She held hands with another figure whose visage had been carved then intentionally defaced.
 
-#figure(image("001_Episode 1: Echoes In The Dark/03.jpg", width: 100%), caption: [Art by:  Volkan Baga], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Echoes In The Dark/03.jpg", width: 100%), caption: [Art by:  Volkan Baga], supplement: none, numbering: none)
 
 A whisper of cloth brushing stone drew Karn's attention. He turned, hand still pressed to the mural.
 
@@ -175,7 +175,7 @@ The tunnel opened into a vast cavern, which echoed with the cacophony of human m
 
 Sheoldred hung suspended in this morass. She was still. Tubes fed reddish and milky substances into her black segmented body. The mandibles that extended down from her thorax lay open, relaxed. Her humanoid torso, welded to the thorax's top, lay nested in a thick network of writhing inky lines. A horned mask obscured her face. Beneath her, worshippers clung together and raised their voices in an ecstatic paean.
 
-#figure(image("001_Episode 1: Echoes In The Dark/04.jpg", width: 100%), caption: [Art by:  Igor Kieryluk], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Echoes In The Dark/04.jpg", width: 100%), caption: [Art by:  Igor Kieryluk], supplement: none, numbering: none)
 
 The defunct Phyrexian portal ship and Sheoldred's sleeping form dominated the cavern. Acolytes in the gray robes of the Society of Mishra attended surgical machines that converted struggling people into Phyrexian abominations. Compleated monstrosities dotted the cavern's floor like grotesque artworks, skittering on too many limbs. More acolytes stacked weapons beside a Phyrexian skyship. Teams of splicers scaled a dragon engine to repair it, so small that their welding torches seemed like white stars against the engine's metal skeleton.
 
@@ -201,7 +201,7 @@ Karn dropped flat to the rock just as a bolt of electricity flew overhead. He pr
 
 The Tolarian who aided Sheoldred leveled a glaive at him. She had replaced her eye with a miniaturized ray cannon, and its red beam hit Karn. Karn rolled to the side. A crackle exploded the rock beside him. Smoke wisped up from where he'd once lain.
 
-#figure(image("001_Episode 1: Echoes In The Dark/05.jpg", width: 100%), caption: [Art by:  Ryan Alexander Lee], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Echoes In The Dark/05.jpg", width: 100%), caption: [Art by:  Ryan Alexander Lee], supplement: none, numbering: none)
 
 Compleated Phyrexians swarmed toward him, and the Tolarian smiled. She placed a hand on Sheoldred's limp claw. Sheoldred remained limp, inert—as if she were under sedation while the young woman worked to restore her—and vulnerable.
 
