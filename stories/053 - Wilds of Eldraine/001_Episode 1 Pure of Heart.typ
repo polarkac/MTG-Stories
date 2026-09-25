@@ -71,7 +71,7 @@ Her brother takes his place.
 
 A bugler sounds the horn.
 
-#figure(image("001_Episode 1: Pure of Heart/01.jpg", width: 100%), caption: [Art by: Chris Rahn], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Pure of Heart/01.jpg", width: 100%), caption: [Art by: Chris Rahn], supplement: none, numbering: none)
 
 Long have knights tilted at one another on fields of battle and fields of glory. So many of her memories see her bouncing on her father's lap as she watched them, asking questions about everything she saw, asserting with perfect confidence that she'd number among them one day. Her father always assured her that she was right. When at last she tilted for the first time, her joy sparked in the hearts of all her family and thus, like kindling to flame, grew stronger.
 
@@ -105,7 +105,7 @@ To name what leaves her fingertips a bolt of lightning is to name a cauldron a t
 
 Only when the dust settles does she realize what she's done.
 
-#figure(image("001_Episode 1: Pure of Heart/02.jpg", width: 100%), caption: [Art by: Alexandr Leskinen], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Pure of Heart/02.jpg", width: 100%), caption: [Art by: Alexandr Leskinen], supplement: none, numbering: none)
 
 Generations from now they will call this Stormcutter Mountain. With lightning her blade, Rowan's cut a massive rift into the side of the nearest peak. Giants could not hope to match it, not for all their trying.
 
@@ -333,7 +333,7 @@ The moment Kellan has the thought, his hand is on the strange doorknob. Hex bark
 
 Kellan passes through the archway. A hero never hesitates. An unseen gust of wind throws him the rest of the way through and he lands on a cool, mossy floor. Only when he props himself up does he realize that the grass here is all silver; the twisting trees overhead bear jeweled fruit. In the distance he sees thatch-roof houses large as mountains, while all around him there are miniature castles populated by moving miniature knights. 
 
-#figure(image("001_Episode 1: Pure of Heart/03.jpg", width: 100%), caption: [Art by: Anna Steinbaurer], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Pure of Heart/03.jpg", width: 100%), caption: [Art by: Anna Steinbaurer], supplement: none, numbering: none)
 
 When he sets his eyes—a little afraid, now—on the horizon once more, he spots the staircase, and at its top the throne. There is a figure upon it.
 

@@ -65,7 +65,7 @@ For when it is over, she will do as her father asked of her.
 
 She will go to Castle Ardenvale.
 
-#figure(image("002_Episode 2: Wandering Knight, Budding Hero/01.jpg", width: 100%), caption: [Art by: Aurore Folny], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Wandering Knight, Budding Hero/01.jpg", width: 100%), caption: [Art by: Aurore Folny], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -245,7 +245,7 @@ They didn't bite him. Not even a nibble. He laughs in earnest. He did it! He rea
 
  Ruby offers Kellan a hand up and he takes it, looking back the way they came. The Wolf Knight's stepped into the clearing.
 
-#figure(image("002_Episode 2: Wandering Knight, Budding Hero/02.jpg", width: 100%), caption: [Art by: Pascal Quidault], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Wandering Knight, Budding Hero/02.jpg", width: 100%), caption: [Art by: Pascal Quidault], supplement: none, numbering: none)
 
 "Come on, come on ..." whispers Ruby. "He's got to be magical!"
 
@@ -335,7 +335,7 @@ Whatever's in that bag she dumps in makes Kellan want to vomit, but he keeps it 
 
 "You're the one that's cooked!" Kellan answers.
 
-#figure(image("002_Episode 2: Wandering Knight, Budding Hero/03.jpg", width: 100%), caption: [Art by: Marta Nael], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Wandering Knight, Budding Hero/03.jpg", width: 100%), caption: [Art by: Marta Nael], supplement: none, numbering: none)
 
 He hears the witch howl when he slams into her, and he hears her scream as she falls into the cauldron, but he tries not to think about the implications of any of it. A puff of black smoke rises, the smell so acrid it brings tears to his eyes. Kellan runs toward the knight. There'll be time to think about what he's done later—right now, he needs to make sure Ruby's safe. And the best way to do that is to free this woman.
 

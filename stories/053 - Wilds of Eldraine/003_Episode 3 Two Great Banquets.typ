@@ -41,7 +41,7 @@ As she nears the castle she sees more and more of the Wicked Slumber's violet sw
 
 Yet Rowan does not take great care.
 
-#figure(image("003_Episode 3: Two Great Banquets/01.jpg", width: 100%), caption: [Art by: Magali Villeneuve], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Two Great Banquets/01.jpg", width: 100%), caption: [Art by: Magali Villeneuve], supplement: none, numbering: none)
 
 A blast of lightning widens a hole in the great oaken gates. She steps through, the scent of burning wood clinging to her cloak, and climbs the violet-cloaked stairs.
 
@@ -81,7 +81,7 @@ And there she finds more knights waiting. Beneath foreign banners they stand, we
 
 Gripping her sword, Rowan advances. Sparks crackle in her hand and along her blade's edge. Should anyone come near—well, isn't it better to finish fights as fast as you can? Isn't that the merciful thing to do?
 
-#figure(image("003_Episode 3: Two Great Banquets/02.jpg", width: 100%), caption: [Art by: Nestor Ossandon Leal], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Two Great Banquets/02.jpg", width: 100%), caption: [Art by: Nestor Ossandon Leal], supplement: none, numbering: none)
 
 She expects the knights to attack her as they did along the stair. They do, though not so directly. Instead of charging at her outright they waltz toward her, some holding partners in their free hands. Even the terrible dancers move with uncanny grace through the ruins of Castle Ardenvale. Couples part only long enough to slice at her before returning to their strange dance.
 
@@ -209,7 +209,7 @@ As Rowan lays her head on Eriette's shoulder, as she allows herself to relax for
 
 Just how long has it been since anyone understood her like this?
 
-#figure(image("003_Episode 3: Two Great Banquets/03.jpg", width: 100%), caption: [Art by: Mila Pesic], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Two Great Banquets/03.jpg", width: 100%), caption: [Art by: Mila Pesic], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -231,7 +231,7 @@ That guide, Troyan, is way up ahead of them. He stands on a leaf the size of a p
 
 Troyan sighs. "All right, all right, you've got a point," he says. He sits down on the edge of the leaf, then moves his heavy pack to his lap. From it he pulls two glass vials full of oily, slick liquid. The stopper's covered in bulbous warts. "I was saving these for a tough time. They're hard to come by around here, you know. But since you're paying me so well ..."
 
-#figure(image("003_Episode 3: Two Great Banquets/04.jpg", width: 100%), caption: [Art by: Lucas Graciano], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Two Great Banquets/04.jpg", width: 100%), caption: [Art by: Lucas Graciano], supplement: none, numbering: none)
 
 "Don't sound so smug about it," Ruby chides.
 

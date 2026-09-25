@@ -57,7 +57,7 @@ Yet he wears it proudly at night, when Peter tells them he has a surprise for th
 
 In the flickering candlelight, Kellan thinks he sees Ruby tear up. But she wipes them away the second he spots her, and the two of them say no more of this sacred moment.
 
-#figure(image("004_Episode 4: Ruby and the Frozen Heart/01.jpg", width: 100%), caption: [Art by: Julie Dillon], supplement: none, numbering: none)
+#figure(image("004_Episode 4 Ruby and the Frozen Heart/01.jpg", width: 100%), caption: [Art by: Julie Dillon], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -153,7 +153,7 @@ The warrior readies a blow.
 
 "Dad, #emph[please] ," Kellan whimpers. He reaches one last time for the basket hilts ... and gold light cuts through the gray. Something in Kellan feels bright as spring no matter the surroundings, something that pours into the hilts and changes them. Acting on instinct he lashes out—
 
-#figure(image("004_Episode 4: Ruby and the Frozen Heart/02.jpg", width: 100%), caption: [Art by: Fajareka Setiwan], supplement: none, numbering: none)
+#figure(image("004_Episode 4 Ruby and the Frozen Heart/02.jpg", width: 100%), caption: [Art by: Fajareka Setiwan], supplement: none, numbering: none)
 
 —and his newfound sword cuts straight through the frost warrior's arm.
 
@@ -179,7 +179,7 @@ Kellan falls.
 
 This time, Ruby is the one to catch him.
 
-#figure(image("004_Episode 4: Ruby and the Frozen Heart/03.jpg", width: 100%), caption: [Art by: Leanna Crossan], supplement: none, numbering: none)
+#figure(image("004_Episode 4 Ruby and the Frozen Heart/03.jpg", width: 100%), caption: [Art by: Leanna Crossan], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -285,7 +285,7 @@ Slowly, the weather around them clears until only the gentle snowfall remains.
 
 It is in this perfect silence that that witch leans over Kellan. "Sweet children, who have borne so much trouble ..." She presses a kiss to each of their foreheads. "Be welcome in Winter's Home."
 
-#figure(image("004_Episode 4: Ruby and the Frozen Heart/04.jpg", width: 100%), caption: [Art by: Miranda Meeks], supplement: none, numbering: none)
+#figure(image("004_Episode 4 Ruby and the Frozen Heart/04.jpg", width: 100%), caption: [Art by: Miranda Meeks], supplement: none, numbering: none)
 
 Magic tingles along Ruby's skin as she starts to lose focus. "What are you doing?" she mumbles.
 
