@@ -7,7 +7,7 @@
     doc
 )
 
-#figure(image("005_Episode 3: The Dangerous Climb, the Long Fall/01.jpg", width: 100%), caption: [Sea of Clouds | Art by: Sam Burley], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Dangerous Climb, the Long Fall/01.jpg", width: 100%), caption: [Sea of Clouds | Art by: Sam Burley], supplement: none, numbering: none)
 
 As Nahiri climbed, she smiled. The Murasa Skyclave loomed above her, growing closer with each step. Soon, all the hurts of this plane would be healed. With the Lithoform Core, she would erase the Roil and make Zendikar as beautiful and tranquil as it was millennia ago.
 
@@ -97,7 +97,7 @@ Moments later, the party found themselves standing before a grand cavern.
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("005_Episode 3: The Dangerous Climb, the Long Fall/02.jpg", width: 100%), caption: [Lithoform Engine | Art by: Colin Boyer], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Dangerous Climb, the Long Fall/02.jpg", width: 100%), caption: [Lithoform Engine | Art by: Colin Boyer], supplement: none, numbering: none)
 
 Akiri had Orah and Kaza stand guard at the back of the cavern, near the exit. She knew they had been extremely lucky so far during this venture. But Akiri was too much of a seasoned climber and adventurer to expect that luck to last.
 
@@ -143,7 +143,7 @@ Years of line-slinging had taught Akiri when to push forward. And when to hold b
 
 With her breath caught in her throat, Akiri watched as Nahiri raised a palm under the Lithoform Core, curled her fingers around it, and slowly pulled it toward her.
 
-#figure(image("005_Episode 3: The Dangerous Climb, the Long Fall/03.jpg", width: 100%), caption: [], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Dangerous Climb, the Long Fall/03.jpg", width: 100%), caption: [], supplement: none, numbering: none)
 
 For a moment, there was only silence. Just long enough for Akiri to release her breath. Just long enough for her to hope.
 
@@ -189,7 +189,7 @@ Because all they could do now was try to get out of the Skyclave alive.
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("005_Episode 3: The Dangerous Climb, the Long Fall/04.jpg", width: 100%), caption: [Akiri, Fearless Voyager | Art by: Ekaterina Burmak], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Dangerous Climb, the Long Fall/04.jpg", width: 100%), caption: [Akiri, Fearless Voyager | Art by: Ekaterina Burmak], supplement: none, numbering: none)
 
 Nahiri ran, fighting to hold together the ruins with her lithomancy just long enough for them to cross the precarious stone bridges. The temptation to planeswalk away to safety flashed through her mind. But no, she was done with abandoning Zendikar in its time of need. The Murasa Skyclave offered her a challenge, and she would rise to meet it.
 
@@ -205,7 +205,7 @@ So, she ran behind Akiri and Zareth, anger coiling inside her.
 
 They hit a dead end. Before them, islands of tree-covered ruins floated with nothing between but empty sky and a few hedrons. With a masterful throw, Akiri flung her rope and latched onto a drifting ledge.
 
-#figure(image("005_Episode 3: The Dangerous Climb, the Long Fall/05.jpg", width: 100%), caption: [], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Dangerous Climb, the Long Fall/05.jpg", width: 100%), caption: [], supplement: none, numbering: none)
 
 "Quick!" she said, before swinging over to the massive tilted platform below them. Zareth threw another rope, and Nahiri readied hers, but a huge swirling vortex of winds in the distance caught her attention.
 
@@ -241,7 +241,7 @@ It sprang up without warning in a space through the floor of the floating ruin. 
 
 Nahiri turned, and with legs braced, arms outstretched, she grimaced and faced the vortex.
 
-#figure(image("005_Episode 3: The Dangerous Climb, the Long Fall/06.jpg", width: 100%), caption: [], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Dangerous Climb, the Long Fall/06.jpg", width: 100%), caption: [], supplement: none, numbering: none)
 
 #emph[I will bend you to my will] , she thought. Like she did to the Roil in Akoum, like she did with Sorin and so many other enemies in the past. She stretched out her fingers and let her rage and her guilt pour out of her with her magic.
 
@@ -273,7 +273,7 @@ The Core in her satchel was whispering again, but Nahiri wasn't listening. She w
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("005_Episode 3: The Dangerous Climb, the Long Fall/07.jpg", width: 100%), caption: [Cinderclasm | Art by: Campbell White], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Dangerous Climb, the Long Fall/07.jpg", width: 100%), caption: [Cinderclasm | Art by: Campbell White], supplement: none, numbering: none)
 
 Nahiri landed on a wide stretch of the Murasa Skyclave that was still unbroken, followed closely by Zareth and Akiri. It was the first place they reached that wasn't crumbling or shaking. It took a moment for Nahiri to realize what was wrong.
 
@@ -313,7 +313,7 @@ She heard Akiri cry out from a distance, and Nahiri shifted her glance toward th
 
 In the same instant, the elemental growled at Nahiri and lunged.
 
-#figure(image("005_Episode 3: The Dangerous Climb, the Long Fall/08.jpg", width: 100%), caption: [], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Dangerous Climb, the Long Fall/08.jpg", width: 100%), caption: [], supplement: none, numbering: none)
 
 That was when Nahiri decided.
 
@@ -335,7 +335,7 @@ Akiri's agonized voice broke the silence. "Zareth!"
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("005_Episode 3: The Dangerous Climb, the Long Fall/09.jpg", width: 100%), caption: [Wasteland | Art by: Adam Paquette], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Dangerous Climb, the Long Fall/09.jpg", width: 100%), caption: [Wasteland | Art by: Adam Paquette], supplement: none, numbering: none)
 
 Akiri was on her knees, holding the cold, stiff body of the person she loved. She blinked, blinked again, wanting this to be a mistake, a cruel trick. It had to be.
 
@@ -373,7 +373,7 @@ The hedron sparked and dark energy reached out from it, coursing through her, an
 
 And closer.
 
-#figure(image("005_Episode 3: The Dangerous Climb, the Long Fall/10.jpg", width: 100%), caption: [], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Dangerous Climb, the Long Fall/10.jpg", width: 100%), caption: [], supplement: none, numbering: none)
 
 Calmly, Nahiri took the Lithoform Core from her nerveless hand.
 
@@ -391,5 +391,5 @@ The last thing Akiri saw was Nahiri standing, with a cold, calculated look in he
 
 Then there was only sky. Endless and cruel.
 
-#figure(image("005_Episode 3: The Dangerous Climb, the Long Fall/11.jpg", width: 100%), caption: [], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Dangerous Climb, the Long Fall/11.jpg", width: 100%), caption: [], supplement: none, numbering: none)
 

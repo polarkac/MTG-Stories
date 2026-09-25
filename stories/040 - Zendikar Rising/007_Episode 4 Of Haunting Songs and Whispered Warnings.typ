@@ -7,7 +7,7 @@
     doc
 )
 
-#figure(image("007_Episode 4: Of Haunting Songs and Whispered Warnings/01.jpg", width: 100%), caption: [], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Of Haunting Songs and Whispered Warnings/01.jpg", width: 100%), caption: [], supplement: none, numbering: none)
 
 Akiri knew the sensation of falling as intimately as the strength of her own hands. She didn't fear the rush of air on her face or the way her stomach leapt to her throat. She was the best line-slinger on Zendikar, and she learned long ago that sometimes, in order to climb, you had to fall.
 
@@ -39,7 +39,7 @@ Akiri looked up again, squinting from the sun, and above her, she could just mak
 
 "What?" she whispered again.
 
-#figure(image("007_Episode 4: Of Haunting Songs and Whispered Warnings/02.jpg", width: 100%), caption: [Forest | Art by: Tianhua X], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Of Haunting Songs and Whispered Warnings/02.jpg", width: 100%), caption: [Forest | Art by: Tianhua X], supplement: none, numbering: none)
 
 Akiri felt herself rising and realized that there was a bramble branch curled tightly around her chest.
 
@@ -321,7 +321,7 @@ He struggled to focus, grabbed onto the thought. #emph[Not. Go. Mad.]
 
 It was risky, untried, but Jace was desperate. He let go of his ears and attempted a spell, one that he'd been meaning to test out, but hadn't yet. A spell that was delicate and dangerous. A spell that blocked out any sound entering his ears.
 
-#figure(image("007_Episode 4: Of Haunting Songs and Whispered Warnings/03.jpg", width: 100%), caption: [Maddening Cacophony | Art by: Magali Villeneuve], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Of Haunting Songs and Whispered Warnings/03.jpg", width: 100%), caption: [Maddening Cacophony | Art by: Magali Villeneuve], supplement: none, numbering: none)
 
 The singing reached an impossible crescendo. Every fiber of his body spasmed, his mind screamed for relief, beginning to slip away.
 
@@ -425,7 +425,7 @@ Something was wrong. The feeling grew the closer they came to the ruined buildin
 
 "I don't #emph[make ] them do anything," Nissa replied. "I help them, and they help me. I'm Zendikar's guardian, and they are the living embodiments of this plane." Behind her, a giant elemental appeared. Its limbs were formed of roots and leaves, and its head had massive antlers that looked like swept-back wings. "Isn't that right, Ashaya?"
 
-#figure(image("007_Episode 4: Of Haunting Songs and Whispered Warnings/04.jpg", width: 100%), caption: [Ashaya, Soul of the Wild | Art by: Chase Stone], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Of Haunting Songs and Whispered Warnings/04.jpg", width: 100%), caption: [Ashaya, Soul of the Wild | Art by: Chase Stone], supplement: none, numbering: none)
 
 Nahiri scowled, but the appearance of such a formidable elemental made her pause. Both she and Jace stepped back.
 

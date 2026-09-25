@@ -11,7 +11,7 @@ Nahiri studied the rising Skyclave before her where it floated vast, imposing, a
 
 She stood on one of the impossible precipices of Akoum, a jutting of rock extended like a long, gravity-defying finger. A lava field was spread out before her feet, and the hot air carried the scent of molten metal. Ancient kor strongholds like this one had begun appearing all over Zendikar in the aftermath of the war with the Eldrazi. Suddenly, these grand, crumbling structures were revealing themselves after being lost for centuries. As they rose, so did the secrets they carried within.
 
-#figure(image("001_Episode 1: In the Heart of the Skyclave/01.jpg", width: 100%), caption: [Mountain | Art by: Chase Stone], supplement: none, numbering: none)
+#figure(image("001_Episode 1 In the Heart of the Skyclave/01.jpg", width: 100%), caption: [Mountain | Art by: Chase Stone], supplement: none, numbering: none)
 
 Nahiri smiled. With those secrets, she was going to change the world.
 
@@ -109,7 +109,7 @@ They climbed in silence with Nahiri swallowing down her growing guilt with every
 
 She had neglected her home for too long.
 
-#figure(image("001_Episode 1: In the Heart of the Skyclave/02.jpg", width: 100%), caption: [Nissa of Shadowed Boughs | Art by: Yongjae Choi], supplement: none, numbering: none)
+#figure(image("001_Episode 1 In the Heart of the Skyclave/02.jpg", width: 100%), caption: [Nissa of Shadowed Boughs | Art by: Yongjae Choi], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -329,7 +329,7 @@ Nissa smiled. Maybe they#emph[ were]  going to heal this plane. Together. "True.
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("001_Episode 1: In the Heart of the Skyclave/03.jpg", width: 100%), caption: [Inscription of Insight | Art by: Zoltan Boros], supplement: none, numbering: none)
+#figure(image("001_Episode 1 In the Heart of the Skyclave/03.jpg", width: 100%), caption: [Inscription of Insight | Art by: Zoltan Boros], supplement: none, numbering: none)
 
 The heart of the Skyclave was aglow. Ancient runes covered every surface, every inch of the stone walls, floors, and ceiling. The runes shone with a golden light that pulsed with their footfalls as the two planeswalkers entered the room. Nissa's fern elemental—or fern monstrosity as far as Nahiri was concerned—trailed behind them.
 
@@ -443,7 +443,7 @@ So, Nissa planeswalked away.
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("001_Episode 1: In the Heart of the Skyclave/04.jpg", width: 100%), caption: [Jace, Mirror Mage | Art by: Tyler Jacobson], supplement: none, numbering: none)
+#figure(image("001_Episode 1 In the Heart of the Skyclave/04.jpg", width: 100%), caption: [Jace, Mirror Mage | Art by: Tyler Jacobson], supplement: none, numbering: none)
 
 Ravnica, the plane of cities. Or rather, one large, world-spanning city. Nissa could see the beauty in it: the elegant floating towers and marble-paved streets, the autumn trees contrasting with the gray skies. She could admire the beauty and still remember its war-ravaged streets.
 

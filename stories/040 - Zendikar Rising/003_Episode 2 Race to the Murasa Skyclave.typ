@@ -41,7 +41,7 @@ Nahiri smiled.
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("003_Episode 2: Race to the Murasa Skyclave/01.jpg", width: 100%), caption: [Nahiri, Heir of the Ancients | Art by: Anna Steinbauer], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Race to the Murasa Skyclave/01.jpg", width: 100%), caption: [Nahiri, Heir of the Ancients | Art by: Anna Steinbauer], supplement: none, numbering: none)
 
 Four adventurers sat before Nahiri in the private meeting room of the Expeditionary House. Akiri, a kor woman who was renowned throughout Zendikar for her line-slinging. A small human wizard with a large carved staff named Kaza, who was rumored to adore fire and had a mischievous twinkle in her eye. Orah, a kor cleric with a long white beard and a library's worth of knowledge within his head. And Zareth, a merfolk with shock-red hair and a braided beard. Of the four, he was the only one not sitting at the table. Instead, he leaned against the back wall, arms crossed, watching her with an air of mistrust, and Nahiri knew instantly she would have to be cautious around him.
 
@@ -173,7 +173,7 @@ Nahiri stood. She won, but for some reason, the victory didn't taste sweet. She 
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("003_Episode 2: Race to the Murasa Skyclave/02.jpg", width: 100%), caption: [Zareth San, the Trickster | Art by: Zack Stella], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Race to the Murasa Skyclave/02.jpg", width: 100%), caption: [Zareth San, the Trickster | Art by: Zack Stella], supplement: none, numbering: none)
 
 Zareth cursed himself for returning the key to Nahiri. The others teased him for losing so spectacularly to the strange kor woman, but they let up when he didn't answer back with his usual sarcasm.
 
@@ -215,7 +215,7 @@ For now.
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("003_Episode 2: Race to the Murasa Skyclave/03.jpg", width: 100%), caption: [Forest | Art by: Sam Burley], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Race to the Murasa Skyclave/03.jpg", width: 100%), caption: [Forest | Art by: Sam Burley], supplement: none, numbering: none)
 
 When they finally arrived at Sunder Bay on Murasa, Akiri was the first to dismount her griffin and put her feet on the ground. The formidable cliffs of the island rose above them, and a forest of giant harabaz trees surrounded them. But Akiri's focus was fixed on the Murasa Skyclave which loomed high above the harabaz trees' intricate tangle of branches. The ancient floating ruin was massive, covered in greenery and small trees where waterfalls streamed down. Its pieces shifted in the air currents, and even from the limited viewpoint of the ground, Akiri could tell it was going to be a dangerous climb.
 
@@ -407,7 +407,7 @@ On it was the address for Scholar and Sea Inn. But scrawled on the bottom of the
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("003_Episode 2: Race to the Murasa Skyclave/04.jpg", width: 100%), caption: [Swarm Shambler | Art by: Nicholas Gregory], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Race to the Murasa Skyclave/04.jpg", width: 100%), caption: [Swarm Shambler | Art by: Nicholas Gregory], supplement: none, numbering: none)
 
 Jace had traveled to many planes and many places, but Murasa was different from any island he'd ever been to before. He wasn't sure he liked it.
 
