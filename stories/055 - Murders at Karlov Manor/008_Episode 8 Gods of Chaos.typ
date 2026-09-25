@@ -19,7 +19,7 @@ Kaya didn't rise to the bait. "The request was for the head of the guild to come
 
 "Yes, well, His Viciousness is somewhat too preoccupied preparing for war against the rest of Ravnica to attend your little soiree," said Judith, waving Kaya's words away. "Although it seems fitting that this little drama should begin #emph[and]  end with an Orzhov attempt at entertainment. Who are you going to kill to keep us all amused today?"
 
-#figure(image("008_Episode 8: Gods of Chaos/01.png.jpg", width: 100%), caption: [Art by: Aldo Dominguez], supplement: none, numbering: none)
+#figure(image("008_Episode 8 Gods of Chaos/01.png.jpg", width: 100%), caption: [Art by: Aldo Dominguez], supplement: none, numbering: none)
 
 "No one, unless you keep testing me," said Kaya, keeping her tone pleasant. "Aurelia and Lavinia are already inside, if you'd like to go join them."
 
@@ -87,7 +87,7 @@ Kaya fixed Krenko with a stern look. "You know, it's only because you sound unha
 
 "I doubt there's any place on Ravnica safer than right here," Kaya said and opened the door to Trostani's sanctum, which had been turned into their makeshift gathering place for today's salon. It was large enough, but even so, with every chair occupied and every corner filled with unhappy murmurs, it certainly seemed to be at capacity. Even Trostani herself looked displeased, her arms twined together and complementary, if not identical, frowns on all three of her faces.
 
-#figure(image("008_Episode 8: Gods of Chaos/02.png.jpg", width: 100%), caption: [Art by: Evyn Fong], supplement: none, numbering: none)
+#figure(image("008_Episode 8 Gods of Chaos/02.png.jpg", width: 100%), caption: [Art by: Evyn Fong], supplement: none, numbering: none)
 
 Everyone turned toward Kaya and Krenko as the door closed behind them. Aurelia was the first to move, rising with a flurry of feathers from the leather armchair she'd been occupying and demanding, "What is the #emph[meaning]  of this?" The chain connecting her to Massacre Girl—the captive who she had insisted on bringing, presumably to throw in the faces of the others there—jerked the assassin an inch forward.
 
@@ -209,7 +209,7 @@ Utterly baffled, Kaya followed him back into the hall. "Were you planning to tel
 
 "I'm planning to tell #emph[everyone]  what that was all about. Who committed these terrible crimes, why Etrata and any others accused are innocent under Ravnican law, and how we can bring this terrible chapter in our city's history to a conclusion." He flashed her a tight smile. "You wouldn't rob a hard-working detective of his opportunity to gloat, now would you?"
 
-#figure(image("008_Episode 8: Gods of Chaos/03.png.jpg", width: 100%), caption: [Art by: Quintin Gleim], supplement: none, numbering: none)
+#figure(image("008_Episode 8 Gods of Chaos/03.png.jpg", width: 100%), caption: [Art by: Quintin Gleim], supplement: none, numbering: none)
 
 "As long as you're going to explain."
 
@@ -255,7 +255,7 @@ Proft turned back to Ezrim. "After Etrata explained her lack of memory to me, I 
 
 "This flower is #emph[not]  Phyrexian in origin. It shares none of the attributes of their terrible creations, and while I believe it to have unnatural origins, now that it exists, it is a fully natural thing, one which may well plague us for years if it successfully takes root and spreads. I knew that if I came here and declared that I was on the cusp of unraveling the mystery I would make a target of myself, and our killer would have no choice but to attempt to eliminate me at once. They depend on secrecy to continue their terrible work. Announcing my intent to interview you all was a ruse. By selecting a famous interplanar assassin as my first interview, I presented the perfect opportunity to strike. Who better to kill me and flee the scene, only to be so ashamed of her actions that she could never return to Ravnica?"
 
-#figure(image("008_Episode 8: Gods of Chaos/04.png.jpg", width: 100%), caption: [Art by: Justyna Dura], supplement: none, numbering: none)
+#figure(image("008_Episode 8 Gods of Chaos/04.png.jpg", width: 100%), caption: [Art by: Justyna Dura], supplement: none, numbering: none)
 
 He paused to take a breath, allowing the moment to lengthen dramatically before he continued: "We know, through simple logic, that the substance has limitations. It can only be used to subvert the will of an individual once. Otherwise, our killer would surely have seized Etrata again. She's a known assassin, already implicated in the case, and for her to be found crouching over my body—"
 

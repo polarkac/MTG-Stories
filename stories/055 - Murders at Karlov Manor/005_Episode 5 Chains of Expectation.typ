@@ -109,7 +109,7 @@ Disappear into a city that thought she was a murderer, that would stop at nothin
 
 It wasn't a "fight" so much as an assault: Proft was on the ground, a figure dressed in red and black crouching over him, a knife in either hand. He had his arms up to protect his face and throat, and he was already bleeding from several shallow cuts by the time Etrata barreled into the figure and knocked them away, sending them several feet down the dimly lit hall.
 
-#figure(image("005_Episode 5: Chains of Expectation/01.png.jpg", width: 100%), caption: [Art by: Lie Setiawan], supplement: none, numbering: none)
+#figure(image("005_Episode 5 Chains of Expectation/01.png.jpg", width: 100%), caption: [Art by: Lie Setiawan], supplement: none, numbering: none)
 
 The attacker recovered quickly, refocusing on Etrata. Etrata matched them move for move, careful to keep herself between the figure and the fallen Proft.
 
@@ -275,7 +275,7 @@ He stopped next to the wolf, setting a hand on Voja's shoulder.
 
 Kaya bowed her head respectfully. "Tolsimir," she said.
 
-#figure(image("005_Episode 5: Chains of Expectation/02.png.jpg", width: 100%), caption: [Art by: Uriah Voth], supplement: none, numbering: none)
+#figure(image("005_Episode 5 Chains of Expectation/02.png.jpg", width: 100%), caption: [Art by: Uriah Voth], supplement: none, numbering: none)
 
 "We weren't expecting visitors today," he said.
 
@@ -319,7 +319,7 @@ That seemed to be their dismissal: without another word, Tolsimir turned to leav
 
 "She's still adjusting to the new shape of Vitu-Ghazi," said Tolsimir. "The wind is different so low to the ground. There's much to get used to. Do you only need the original Guildpact?"
 
-#figure(image("005_Episode 5: Chains of Expectation/03.png.jpg", width: 100%), caption: [Art by: Ben Hill], supplement: none, numbering: none)
+#figure(image("005_Episode 5 Chains of Expectation/03.png.jpg", width: 100%), caption: [Art by: Ben Hill], supplement: none, numbering: none)
 
 "That was all we were told to look for," said Kaya. "We may ask to see more, if it sends us in a new direction."
 

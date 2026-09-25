@@ -49,7 +49,7 @@ This tree, once part of Vitu-Ghazi and controlled by the furiously enraged Oba, 
 
 A series of roots ripped through what was left of the floor and wrapped around her ankles. When she tried to step through them, she once again hit the resistance of the Ravnican Worldsoul, refusing to allow her to phase, refusing to let her go. #emph[So much for stepping between the raindrops] , she thought.
 
-#figure(image("010_Episode 10: Roots of Decay/01.png.jpg", width: 100%), caption: [Art by: Jeremy Wilson], supplement: none, numbering: none)
+#figure(image("010_Episode 10 Roots of Decay/01.png.jpg", width: 100%), caption: [Art by: Jeremy Wilson], supplement: none, numbering: none)
 
 Well, Kaito wasn't the only person she'd had the opportunity to learn from. Koth was nothing if he wasn't a lesson in working with your environment, understanding and caring for the world that made you regardless of how difficult it became. She was a daughter of Tolvada, not Ravnica, but she had been here often enough and long enough that there was little chance the plane didn't know who she was. Ravnica understood her, possibly better than her homeworld, and even if she didn't want to haunt this plane when she died, she had to admit it was likely.
 
@@ -87,7 +87,7 @@ The bindings were still stretched taut, like two people had hold of them. Once a
 
 They pulled until Oba's struggles stopped, until she was wound up in the barrier ward and the ghost Kaya had stolen from Vitu-Ghazi, as captive as a fly in the center of a spider's web.
 
-#figure(image("010_Episode 10: Roots of Decay/02.png.jpg", width: 100%), caption: [Art by: Matt Stewart], supplement: none, numbering: none)
+#figure(image("010_Episode 10 Roots of Decay/02.png.jpg", width: 100%), caption: [Art by: Matt Stewart], supplement: none, numbering: none)
 
 The room stopped moving.
 
@@ -229,7 +229,7 @@ Teysa was next to her, only the faint transparency of her form betraying the fac
 
 "Consider it repaid in full, if it ever existed," said Teysa. "Honestly, it's better this way. No more hunger, no more distracting bodily needs, just me and the ledgers and the assets of the guild, the way it's meant to be. Why would a little thing like death stop me from running the Syndicate? I'm going to be here for a long, long time."
 
-#figure(image("010_Episode 10: Roots of Decay/03.png.jpg", width: 100%), caption: [Art by: Julia Metzger], supplement: none, numbering: none)
+#figure(image("010_Episode 10 Roots of Decay/03.png.jpg", width: 100%), caption: [Art by: Julia Metzger], supplement: none, numbering: none)
 
 "Was that you in the fight at Vitu-Ghazi?"
 

@@ -111,7 +111,7 @@ Kellan looked confused but didn't resist her pulling him away. The other investi
 
 "Detective Proft went to speak with the prisoner in Azorius custody. When he got there, she was gone. They can't tell us where she went. A few of them have even gone so far as to imply that Proft may have had something to do with her disappearance." Kellan sounded personally offended by this challenge to his colleague's honor. Then he paused, frowning. "Did you need something?"
 
-#figure(image("004_Episode 4: Justice Before Mercy/01.png.jpg", width: 100%), caption: [Art by: Andreas Zafiratos], supplement: none, numbering: none)
+#figure(image("004_Episode 4 Justice Before Mercy/01.png.jpg", width: 100%), caption: [Art by: Andreas Zafiratos], supplement: none, numbering: none)
 
 "Yes," said Kaya. "I need you to get me in to see Ezrim."
 
@@ -249,7 +249,7 @@ Kaya inclined her head respectfully toward him. "Master Kos," she said. "To what
 
 "I didn't realize you'd joined the Agency," said the ghostly figure. "Planning to start a cross-planar franchise?"
 
-#figure(image("004_Episode 4: Justice Before Mercy/02.png.jpg", width: 100%), caption: [Art by: Jason A. Engle], supplement: none, numbering: none)
+#figure(image("004_Episode 4 Justice Before Mercy/02.png.jpg", width: 100%), caption: [Art by: Jason A. Engle], supplement: none, numbering: none)
 
 "I'm helping with the investigation into Zegana's murder," said Kaya. "I'm neutral enough in the eyes of the guilds that it seemed like a good use of available resources."
 
@@ -361,7 +361,7 @@ Judith's lips stretched in a long, thin smile. She waited to reply, clearly savo
 
 Judith raised a hand. "No. That's quite enough. You can go now. I've seen you."
 
-#figure(image("004_Episode 4: Justice Before Mercy/03.png.jpg", width: 100%), caption: [Art by: Jodie Muir], supplement: none, numbering: none)
+#figure(image("004_Episode 4 Justice Before Mercy/03.png.jpg", width: 100%), caption: [Art by: Jodie Muir], supplement: none, numbering: none)
 
 Recognizing a dismissal, Kaya turned away, Kellan following as she made for the door. She paused before exiting, looking back over her shoulder. Judith was still at center stage, watching them go. For some reason, she looked smug, like everything was following her script once again.
 

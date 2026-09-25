@@ -27,7 +27,7 @@ Kellan stood a little straighter, clearly pleased by her praise, and touched the
 
 "I don't think Rakdos is behind this," said Kaya. "It feels like Judith #emph[wants]  us looking at her parun for some reason—and I can come up with half a dozen reasons she'd want us to do that—but this isn't his style. Yes, killing Teysa and Zegana causes a lot of chaos and instability." She paused, swallowing. She knew she was right. Dismissing Teysa's death so casually still burned. "But it won't throw the city into freefall. It won't cause riots in the streets. Rakdos would want to see the bodies clogging the gutters, if he'd stirred himself for something like this."
 
-#figure(image("007_Episode 7: Rot before Recovery/01.png.jpg", width: 100%), caption: [Art by: Gaboleps], supplement: none, numbering: none)
+#figure(image("007_Episode 7 Rot before Recovery/01.png.jpg", width: 100%), caption: [Art by: Gaboleps], supplement: none, numbering: none)
 
 "So who do you think is behind this?"
 
@@ -107,7 +107,7 @@ Kellan nodded and bolted for the ruined evidence cage, jumping over several chun
 
 "A new ceiling would be nice," he said peevishly before screeching at the approaching mole in a distinctly avian tone, mount snapping its wings shut and open again in sharp challenge. Kaya knew now that Ezrim and his mount were technically individual beings, but watching the mighty archon brace for a fight, it was impossible not to see them as a single unit. Anzrag seemed to view them the same way. He moved like he was approaching a large predator, not a man on some sort of massive taloned beast.
 
-#figure(image("007_Episode 7: Rot before Recovery/02.png.jpg", width: 100%), caption: [Art by: Lucas Graciano], supplement: none, numbering: none)
+#figure(image("007_Episode 7 Rot before Recovery/02.png.jpg", width: 100%), caption: [Art by: Lucas Graciano], supplement: none, numbering: none)
 
 Kellan ran up next to her, a containment capsule in his hands. He eyed Anzrag warily as he passed it over.
 
@@ -195,7 +195,7 @@ Izoni stepped closer and took the vial, shaking it to knock the grains off the s
 
 "Immunity," she said, as if reading Etrata's mind. "Poisons, drugs, natural or unnatural—it doesn't matter. Nothing does me harm." She shook the powder carefully back into the jar before grabbing a piece of dangling cobweb and scouring her hand clean. Looking at Proft, she said, "This #emph[is]  natural. Biological, at the very least. It's not from any plant or fungus I've ever seen, and I know everything that grows on Ravnica."
 
-#figure(image("007_Episode 7: Rot before Recovery/03.png.jpg", width: 100%), caption: [Art by: Anna Christenson], supplement: none, numbering: none)
+#figure(image("007_Episode 7 Rot before Recovery/03.png.jpg", width: 100%), caption: [Art by: Anna Christenson], supplement: none, numbering: none)
 
 She looked around herself, taking note of the ruins around her. "But the Swarm hides our face now because of something #emph[not]  of Ravnica."
 
@@ -231,7 +231,7 @@ Rakdos couldn't be the answer.
 
 Agrus began to turn away, intending to leave the same way he had entered, and stopped as smoke snaked out of nowhere, wrapping around his wrists and ankles, holding him down. A sudden searing pain swept over him. He fell to his knees, fighting to look up and see what had attacked him, but collapsed as the pain grew more intense.
 
-#figure(image("007_Episode 7: Rot before Recovery/04.png.jpg", width: 100%), caption: [Art by: Domenico Cava], supplement: none, numbering: none)
+#figure(image("007_Episode 7 Rot before Recovery/04.png.jpg", width: 100%), caption: [Art by: Domenico Cava], supplement: none, numbering: none)
 
 Then, with a flash of reddened light, he vanished, and Judith stepped out of the shadows, a crystal skull in her hands, smirking at the place where he had been. "Now, now, darling," she said, caressing the skull. "Can't have you spoiling all my fun when I'm so close to getting what I really want."
 
@@ -259,7 +259,7 @@ Proft cleared his throat. "Excuse me, but I don't remember inviting any guests. 
 
 He tucked the folder into his cloak, turning as if to go.
 
-#figure(image("007_Episode 7: Rot before Recovery/05.png.jpg", width: 100%), caption: [Art by: Magali Villeneuve], supplement: none, numbering: none)
+#figure(image("007_Episode 7 Rot before Recovery/05.png.jpg", width: 100%), caption: [Art by: Magali Villeneuve], supplement: none, numbering: none)
 
 Proft began to protest this blatant theft of his intellectual property, only for the mind palace to shatter as his eyes opened and he woke for the second time, cheek stinging and hot with pain. Again, he touched the side of his head and winced at the already blooming bruise.
 

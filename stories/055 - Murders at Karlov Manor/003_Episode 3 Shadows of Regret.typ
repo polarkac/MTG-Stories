@@ -69,7 +69,7 @@ Three days slipped steadily by. Kaya returned to her rented room, refusing Teysa
 
 Rumors swirled in the streets, bitter, writhing things with teeth that snap and bite. There had been a theft at the Orzhov party, they said; some guild member had lost a precious heirloom and was going to be furious until it could be reclaimed. There had been a betrayal. An affair had been uncovered. All manner of crimes had apparently happened on the grounds of Karlov Manor, and because both the Agency and the Azorius had been present, both groups were being spoken of with uncommon disdain.
 
-#figure(image("003_Episode 3: Shadows of Regret/01.png.jpg", width: 100%), caption: [Art by: Tony Foti], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Shadows of Regret/01.png.jpg", width: 100%), caption: [Art by: Tony Foti], supplement: none, numbering: none)
 
 Anyone known to have been in attendance moved at the center of a hurricane of flattery and sweet-tongued requests for more information. Most people, lacking true gossip to share, invented more and more outlandish stories, knowing that there was no one who could contradict them. Kaya listened to them all, frowned to herself, and said nothing. The less attention she attracted now, the better.
 
@@ -211,7 +211,7 @@ Etrata stared at him, apparently bewildered by his sudden change of directions. 
 
 "My point would be, the people who know about you speak #emph[very]  highly of your skills. You're supposedly one of the best that House Dimir has to offer, the cream of their crop, as it were. Please, for the sake of my unsettled thoughts, will you tell me why you chose to kill such a prominent target in such a public way? Not to mention the theatrics surrounding the body. You had plenty of time to commit the murder and make your escape, but you remained on the grounds even before the wards were raised to prevent your exit. That isn't the work of a professional. Why commit such a grievous crime in such a manner and not make your escape while you could?"
 
-#figure(image("003_Episode 3: Shadows of Regret/02.png.jpg", width: 100%), caption: [Art by: Anastasia Ovchinnikova], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Shadows of Regret/02.png.jpg", width: 100%), caption: [Art by: Anastasia Ovchinnikova], supplement: none, numbering: none)
 
 Etrata looked at him, unblinking. "That's not what you really want to know, is it?" Her tone was mild; her words acid-tipped and unforgiving. "Ask the real question, #emph[Detective] ." Somehow, she turned his title into an insult.
 
@@ -287,7 +287,7 @@ Teysa was there, sprawled on the floor next to the desk where she received visit
 
 Teysa was gone. Knees threatening to buckle and drop her to the floor, Kaya staggered into the room, heading for the body of her friend. Death wasn't the end, not for the Orzhov, but Teysa, for all her entanglements with the dead, had always been one of the most vitally #emph[alive]  people Kaya knew. And all that was over now. Another friend gone. Another body to bury.
 
-#figure(image("003_Episode 3: Shadows of Regret/03.png.jpg", width: 100%), caption: [Art by: Jodie Muir], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Shadows of Regret/03.png.jpg", width: 100%), caption: [Art by: Jodie Muir], supplement: none, numbering: none)
 
 Something crunched under Kaya's foot, stopping her. She looked down. One of the elegant maiden statues Teysa kept on display in the parlor had been knocked over in whatever altercation happened here and lay in pieces. That felt like a desecration of Teysa's space to accompany the desecration of her body, and looking at it seemed easier than looking at her friend's body. Kaya knelt, beginning to collect the ceramic shards.
 

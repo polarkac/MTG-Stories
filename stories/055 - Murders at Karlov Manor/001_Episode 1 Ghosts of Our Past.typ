@@ -17,7 +17,7 @@ Teysa slanted her a sidelong glance, eyes raking along the length of the barely 
 
 "You should have a drink," said Teysa. "You make me look like a miserly host when you walk with empty hands."
 
-#figure(image("001_Episode 1: Ghosts of Our Past/01.png.jpg", width: 100%), caption: [Art by: Chris Rallis], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Ghosts of Our Past/01.png.jpg", width: 100%), caption: [Art by: Chris Rallis], supplement: none, numbering: none)
 
 "But you #emph[are]  a miserly host," Kaya protested without rancor. "Or at least a calculated one. Every zib you spend on this gala will come back to you a golden zino, or you're not the person who outmaneuvered me and seized the reins while my back was turned."
 
@@ -93,7 +93,7 @@ As Teysa approached, Tolsimir was saying sharply to Aurelia, "It's naive to thin
 
 A vast topiary panther lumbered by, its leafy tail swishing over their heads as it continued on its vegetable way. Judith laughed.
 
-#figure(image("001_Episode 1: Ghosts of Our Past/02.png.jpg", width: 100%), caption: [Art by: Xabi Gaztelua], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Ghosts of Our Past/02.png.jpg", width: 100%), caption: [Art by: Xabi Gaztelua], supplement: none, numbering: none)
 
 "Yes, the risk of bankruptcy is plainly #emph[very]  near indeed." She flicked a hand in a dismissive gesture, brushing the topic aside as she inserted herself into the discussion. "But I see you've brought your trophy of the evening. Hello, Kaya. How have you been? Started any invasions recently? Were you aware that whenever you're in the city, all the guilds activate our crisis management divisions?"
 
@@ -183,7 +183,7 @@ The crowd applauded again as a slim, dark-haired man in a blue tunic and coat st
 
 "Thank you." She turned on her heel and slipped into the natural gaps the crowd formed as it eddied. Halfway down the stairs, she passed Kellan, now smiling uncertainly at Zegana and Vannifar as they fixed him with too-sharp eyes, taking his measure. They looked ruffled and unhappy, as if he had interrupted something by coming too close to them.
 
-#figure(image("001_Episode 1: Ghosts of Our Past/03.png.jpg", width: 100%), caption: [Art by: Uriah Voth], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Ghosts of Our Past/03.png.jpg", width: 100%), caption: [Art by: Uriah Voth], supplement: none, numbering: none)
 
 Kaya knew the pair had been on poor terms since Vannifar unseated her predecessor. Seeing them here together was odd.
 

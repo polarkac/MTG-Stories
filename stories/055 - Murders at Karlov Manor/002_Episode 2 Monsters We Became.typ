@@ -77,7 +77,7 @@ Teysa stepped up next to her and froze, hand tightening on the handle of her can
 
 Zegana of the Simic Combine was artfully arranged at the center of the pile. While there were signs of a struggle around the edges, there were none around her body; she was posed as prettily as a doll, her left hand raised to the level of her face, which was turned slightly to the side. If not for the fact that she so clearly wasn't breathing, it would have looked like she was posing for a portrait of herself in repose, fins and hair arranged to their best possible advantage.
 
-#figure(image("002_Episode 2: Monsters We Became/01.png.jpg", width: 100%), caption: [Art by: Isis], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Monsters We Became/01.png.jpg", width: 100%), caption: [Art by: Isis], supplement: none, numbering: none)
 
 "She's dead," said Teysa needlessly, and Kaya nodded in silent agreement. There were no visible wounds or signs of foul play, but they were of the Orzhov; they knew death when it was presented to them.
 
@@ -139,7 +139,7 @@ The ballroom was largely deserted when Kaya arrived, save for a few servers stil
 
 The grand balcony where the guests of honor had been acknowledged ran all the way along one wall of the ballroom, tall glass doors standing open. The sky outside no longer lit up with colored fire, and the sounds drifting from below were very different from the unfettered celebration that had been going on when first she went inside. Walking to the edge, she looked down to see the partygoers standing in long, looping lines, each one ending at a member of the Senate and a glowing verity circle. They had cast their spells with admirable speed, making Kaya wonder if they hadn't been preparing for something to go wrong tonight. Boros legionnaires stood near the casting mages, protecting them from interference.
 
-#figure(image("002_Episode 2: Monsters We Became/02.png.jpg", width: 100%), caption: [Art by: Borja Pindado], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Monsters We Became/02.png.jpg", width: 100%), caption: [Art by: Borja Pindado], supplement: none, numbering: none)
 
 It would be just like the Azorius and the Boros to come to a party intended to honor the Agency prepared to step in and prevent, as Aurelia put it, "amateur detective work." She didn't believe the Senate would have started a problem if one hadn't presented itself, but now that they had the chance, they were eager to prove that they were still the law on Ravnica. Nothing ever really changed. The whole plane could have fallen, and the guilds were still desperate to hold onto their authority.
 
@@ -211,7 +211,7 @@ Before Aurelia could answer, someone behind the pair cleared their throat. Both 
 
 "Ah. Yes. I see how that might sound." He stepped into the room, studying Zegana's remains. "Fear not. I have already allowed myself to be interviewed via verity circle. I'm not your killer. I may, however, be your savior."
 
-#figure(image("002_Episode 2: Monsters We Became/03.png.jpg", width: 100%), caption: [Art by: Lie Setiawan], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Monsters We Became/03.png.jpg", width: 100%), caption: [Art by: Lie Setiawan], supplement: none, numbering: none)
 
 "#emph[He]  didn't have an invitation," said the Azorius mage who had been casting the verity circles, her tone tight and unhappy. "I would have noticed his name on the list."
 
@@ -271,7 +271,7 @@ No reason, save for the lack of any guild logo visible on her person. It was a j
 
 "Miss Etrata," said Proft, taking a step toward the woman. "I'm afraid we need to speak with you. Please come with me now."
 
-#figure(image("002_Episode 2: Monsters We Became/04.png.jpg", width: 100%), caption: [Art by: Ryan Valle], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Monsters We Became/04.png.jpg", width: 100%), caption: [Art by: Ryan Valle], supplement: none, numbering: none)
 
 The woman whipped around, lips drawing back in a hiss which revealed her impressive vampiric incisors. Her entire demeanor changed in that instant, going from bored socialite to cornered predator. Casting a glance at Kaya, she clearly marked the Planeswalker as the greater threat. Charging straight for Proft, she knocked the investigator to the ground and began to cut a straight line through the crowd, heading for the hedge maze.
 
@@ -285,7 +285,7 @@ Still, Etrata was going to beat her to the maze, no question—at least until th
 
 The magic, wherever it was coming from, didn't feel malicious or like an elaborate attempt to trick her. In fact, based on the way Etrata was slowing and looking frantically around, scanning the surrounding buildings for a way out, this was helping Kaya more than anything else. She put on another burst of speed, pushing herself to her physical limits. In the sudden silence, her footsteps echoed like rocks dropped into still water. Etrata glanced backward over her shoulder before making an abrupt left turn into what Kaya knew was a dead-end alley.
 
-#figure(image("002_Episode 2: Monsters We Became/05.png.jpg", width: 100%), caption: [Art by: Diego Gisbert], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Monsters We Became/05.png.jpg", width: 100%), caption: [Art by: Diego Gisbert], supplement: none, numbering: none)
 
 She was within ten feet of the vampire when the white landscape collapsed around them and Etrata plowed directly into Kellan. The young Agency investigator looked surprised, even with clasped arms around the runaway Dimir. She struggled and snarled, but he shook his head, not letting go. He was still holding her when Kaya ran up to the pair of them.
 

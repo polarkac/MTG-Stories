@@ -39,7 +39,7 @@ Oba was silent, and remained silent as her sisters turned, with terrible slownes
 
 "Why—?" asked Ses.
 
-#figure(image("009_Episode 9: Beauty in Destruction/01.png.jpg", width: 100%), caption: [Art by: Evyn Fong], supplement: none, numbering: none)
+#figure(image("009_Episode 9 Beauty in Destruction/01.png.jpg", width: 100%), caption: [Art by: Evyn Fong], supplement: none, numbering: none)
 
 "Because they #emph[deserved]  it," snapped Oba, facade of calm finally shattering.
 
@@ -145,7 +145,7 @@ In answer, the room began to rock, Vitu-Ghazi responding to the commands of the 
 
 "I am Vitu-Ghazi!" bellowed Oba, the branch that was her body pulling away from the bough where her sisters dangled, silent and stunned. Farther and farther from them she pulled herself, until she was, while still attached to the tree itself, an entirely independent entity, Trostani no longer. For the first time since they had been chosen by Mat'Selesnya, she was Oba, one and alone. "I am Mat'Selesnya! I am #emph[Ravnica] !"
 
-#figure(image("009_Episode 9: Beauty in Destruction/02.png.jpg", width: 100%), caption: [Art by: Lius Lasahido], supplement: none, numbering: none)
+#figure(image("009_Episode 9 Beauty in Destruction/02.png.jpg", width: 100%), caption: [Art by: Lius Lasahido], supplement: none, numbering: none)
 
 Thorny vines burst through the walls, grabbing for the assembled Ravnican leadership. Kaya phased through the loop that tried to entangle her, spinning her daggers in her hand as she rushed to cut first Kellan and then Ral free.
 
@@ -223,7 +223,7 @@ Of course, if he hit the ground, the damage she did to him would be the last thi
 
 Kellan tried to twist in the air, hoping he might slow his descent, and succeeded only in going into a sort of spin that left him dizzy in addition to weightless. He screwed his eyes shut, not wanting to see himself hit the ground, and felt his spin stop as his fall slowed to something almost pleasant. Cracking one eye open, he glanced over his shoulder and saw that pure, gold-rimmed fae magic of the same kind his hilts produced now enveloped him.
 
-#figure(image("009_Episode 9: Beauty in Destruction/03.png.jpg", width: 100%), caption: [Art by: Durion], supplement: none, numbering: none)
+#figure(image("009_Episode 9 Beauty in Destruction/03.png.jpg", width: 100%), caption: [Art by: Durion], supplement: none, numbering: none)
 
 He opened both eyes, blinking at the unexpected sight. "Hey! I'm okay!" he said, waving his arms to control his position in the air without much success.
 

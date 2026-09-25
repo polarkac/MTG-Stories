@@ -71,7 +71,7 @@ Proft moved to the center of the room, not saying a word. The crunch of glass un
 
 Thin blue lines spread outward from his feet, racing across the room to crawl up the walls and across the ceiling. They met there, knotting together in an elaborate network of delicate tangles. The space between them lit up blue-white, until the entire room was bathed in a magical glow, Proft at the center.
 
-#figure(image("006_Episode 6: Explosions of Genius/01.png.jpg", width: 100%), caption: [Art by: Daarken], supplement: none, numbering: none)
+#figure(image("006_Episode 6 Explosions of Genius/01.png.jpg", width: 100%), caption: [Art by: Daarken], supplement: none, numbering: none)
 
 "Hmm," he said, lowering his hands. "This isn't correct."
 
@@ -207,7 +207,7 @@ The nearest robed figure lunged. Kaya danced back and kept moving as the other f
 
 Not in unison, but not in the convenient one-by-one pattern so many groups seemed to use, either. Three grabbed for Kaya, the other three lunging for Kellan. Kaya turned partially insubstantial, letting the first attacker charge right through her, his own momentum carrying him into the nearby wall. He impacted with a sickening crunch.
 
-#figure(image("006_Episode 6: Explosions of Genius/02.png.jpg", width: 100%), caption: [Art by: Durion], supplement: none, numbering: none)
+#figure(image("006_Episode 6 Explosions of Genius/02.png.jpg", width: 100%), caption: [Art by: Durion], supplement: none, numbering: none)
 
 Drawing her daggers, Kaya focused on the others who had decided she was the better target, shifting her weight to her rear foot while she waited for them to come at her. They were both substantially larger than she was, making speed her best asset in this fight. Speed, and the ability to turn insubstantial. It was almost exhilarating, having something as straightforward as a simple alley brawl to worry about. She spun and wove, letting them reach for her, striking when they got too close. She dropped the first almost before the fight had been joined in earnest.
 
@@ -305,7 +305,7 @@ Aurelia frowned at him. "#emph[You]  would advise #emph[me] ?"
 
 Aurelia closed her wings, still frowning. "Twenty-four hours, no more, and the assassin stays with us," she said. "If another prisoner is lost, heads will roll."
 
-#figure(image("006_Episode 6: Explosions of Genius/03.png.jpg", width: 100%), caption: [Art by: Justyna Dura], supplement: none, numbering: none)
+#figure(image("006_Episode 6 Explosions of Genius/03.png.jpg", width: 100%), caption: [Art by: Justyna Dura], supplement: none, numbering: none)
 
 "That's all we'll need," said Kaya with evident relief.
 
@@ -351,7 +351,7 @@ Etrata moved to start untying Kylox, while Proft focused on Krenko. "What," he a
 
 Proft didn't have time to respond before the window smashed in and a bulky man in laborer's clothes crashed into the room. He charged for Krenko, swinging a dagger—and ran into Kylox first. There was a strangled gasp as the viashino fell out of the way and slid, motionless, to the floor. Proft moved to his friend while Etrata slashed at the curled grip of the attacker, knocking the dagger loose. She jumped onto his back, then, and wrapped an arm around his throat.
 
-#figure(image("006_Episode 6: Explosions of Genius/04.png.jpg", width: 100%), caption: [Art by: Jason A. Engle], supplement: none, numbering: none)
+#figure(image("006_Episode 6 Explosions of Genius/04.png.jpg", width: 100%), caption: [Art by: Jason A. Engle], supplement: none, numbering: none)
 
 "Krenko, you useless pile, the chains!" she shouted.
 
