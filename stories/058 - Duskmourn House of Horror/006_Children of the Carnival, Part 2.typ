@@ -1,6 +1,6 @@
 #import "@local/mtgstory:0.2.0": conf
 #show: doc => conf(
-    "Children of the Carnival, Part 2 ",
+    "Children of the Carnival, Part 2",
     set_name: "Duskmourn: House of Horror",
     story_date: datetime(day: 23, month: 08, year: 2024),
     author: "Mira Grant",
@@ -65,7 +65,7 @@ No one was breathing either.
 
 There was a certain quality to the absolute silence that descended on a room whose occupants had been killed. Dawn backed away from the door, getting her shoulders up against the wall, and tried to think what she might have that she could use to defend herself. A few half-finished ghost traps, some snares, and her shock wand. That was all. Not nearly enough against something that could take out an entire encampment in one strike.
 
-#figure(image("006_Children of the Carnival, Part 2 /01.jpg", width: 100%), caption: [], supplement: none, numbering: none)
+#figure(image("006_Children of the Carnival, Part 2/01.jpg", width: 100%), caption: [], supplement: none, numbering: none)
 
 For a long while, the only sound was the pounding of her heart, the blood rushing in her ears, her breath rasping in her throat. Then, from the other side of the door, she heard footsteps.
 
