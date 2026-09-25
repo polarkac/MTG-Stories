@@ -11,7 +11,7 @@
 
 Ten miles from the golden domes of Tomakul, Farid sat on the fire step of an old trench and used his knife to chip apart his frozen stew. Stoked with shattered arrow shafts and small wads of packing paper, the coals under the stewpot—his own brass cap, its liner removed—soon had the frozen slurry thawed and simmering. Without reverence, Farid shook the last of his salt out of a small tin into the broth, stirred, and felt his stomach twist with hunger at the thin scent of wild garlic and onions. The smell drew the rats out of their holes as well, but the cold made them sluggish. Farid watched one creep toward his rag-wrapped boots and stop to sniff him. It was fat, large as the golden cats that lounged in Tomakul's temple district streets, and carried itself with the same languid, waddling confidence. The rats owned the trench; the humans huddling in it were just temporary occupants, and food if they died. Farid kicked it away.
 
-#figure(image("005_Episode 4: The Ink of Empires/01.jpg", width: 100%), caption: [Art by: Thomas Stoop], supplement: none, numbering: none)
+#figure(image("005_Episode 4 The Ink of Empires/01.jpg", width: 100%), caption: [Art by: Thomas Stoop], supplement: none, numbering: none)
 
 Their trench neared two decades old, a relic of the early war expanded into something resembling the great earthworks Farid had seen during the retreat out of the trans-Mardun territories of Yotia. Down where the Mardun river bordered Kroog, they had trench lines reinforced with squat stone towers. Bunkers that hid heavy bolt-throwers, subterranean hospitals and mess halls, weather-sealed bunks that were lit and warmed by smokeless powerstones. But all that was a year and miles behind him, abandoned after the Argivians and their allies began their counterattack. Life on the Mardun front was cold and boring until it wasn't.
 
@@ -23,7 +23,7 @@ A month of cold work and thin living followed. Talk burbled through the trench o
 
 So, Farid cleaned his spear, kept his boots patched, rotated his socks, and cooked. This morning it was a stew. When it was ready, Farid poured a portion into Karrak's cup first, then the rest into his own. Farid nudged his friend, who sat wrapped in two cloaks, staring at the opposite wall of the muddy, frost-webbed trench.
 
-#figure(image("005_Episode 4: The Ink of Empires/02.jpg", width: 100%), caption: [Art by: Bruno Biazotto], supplement: none, numbering: none)
+#figure(image("005_Episode 4 The Ink of Empires/02.jpg", width: 100%), caption: [Art by: Bruno Biazotto], supplement: none, numbering: none)
 
 "Food," Farid said. He had to shove Karrak again before he noticed. Karrak looked over, coughed, took the stew, and ate.
 
@@ -315,7 +315,7 @@ War had ruined Farid's faith, but he still regarded the world above the trench a
 
 No-man's-land then was the opposite, a crucible into which people were fed and ghosts emerged. It was a hell of the body, the soul, dreams, and the land. It was colder up here than in the trenches: Every surface was exposed to the bitter valley wind and watching eyes of soldiers on both sides. Nothing remained of the forest that once filled this valley. The trees that hadn't been harvested before this valley became a battlefield were now cinder-blackened stumps. The river that once coursed here had been dammed somewhere near Tomakul to deny the Argivians any of its bounty. Of the towns that once dotted the valley, only a single low, ragged stone wall remained. It was a landmark to the soldiers: how far from the wall has one moved in a year? How close to it?
 
-#figure(image("005_Episode 4: The Ink of Empires/03.jpg", width: 100%), caption: [Art by: Sergey Glushakov], supplement: none, numbering: none)
+#figure(image("005_Episode 4 The Ink of Empires/03.jpg", width: 100%), caption: [Art by: Sergey Glushakov], supplement: none, numbering: none)
 
 Farid led his small group across this alien landscape, moving as quickly and quietly as he could while scurrying, belly low to the ground, guiding his party around the worst of the dead and the craters flooded with sour water. One crossed this hellscape by scrambling between craters and along old and decaying plank walkways, laid by advancing forces in long-forgotten attacks. One plankway had its builders' corpses rotting alongside, festooned with order chits dropped upon them by soldiers from both sides, grateful for their sacrifice in making this place more navigable.
 
@@ -453,7 +453,7 @@ The first wave had already gone over the top, only a handful from Farid's sectio
 
 A sound like thunder rumbled overhead, constant and bone-rattling. Heavy bomb-lobbers, catapulting shells overhead from somewhere well behind the line. Farid had seen those machines before: they looked to him like beetles with smokestacks bristling from their backs—cannons, the engineers and artificers called them. They had been firing for the better part of an hour now, pounding the Argivian line with explosions and shrapnel. Acrid smoke drifted back. Though he could not see from inside the trench, Farid could smell the raging, terrible fire. They would continue that bombardment until the first wave was nearly upon the Argivian lines.
 
-#figure(image("005_Episode 4: The Ink of Empires/04.jpg", width: 100%), caption: [Art by: Campbell White], supplement: none, numbering: none)
+#figure(image("005_Episode 4 The Ink of Empires/04.jpg", width: 100%), caption: [Art by: Campbell White], supplement: none, numbering: none)
 
 An officer stood directly behind Farid, sword drawn, and bellowed about glory and honor and driving the Argivian dogs back to the Mardun. He promised the first soldier of his company to reach the Argivian trench a sack of gold coins, a commendation to any who captured an Argivian flag. If any cowards remained behind, he promised to have them taste Tomakul steel.
 
@@ -481,7 +481,7 @@ Farid, thankfully, was not under one of the bridges. He hazarded a look over to 
 
 Farid tugged his cloth mask tighter and set his eyes straight to the ladder in front of him. When the whistle blew, he climbed, pushed along by those behind him. Near the top of the ladder, he reached up and took Karrak's hand, pulling himself up over the lip of the trench. He turned and helped Ehsan up, and then left the officer behind to fend for himself.
 
-#figure(image("005_Episode 4: The Ink of Empires/05.jpg", width: 100%), caption: [Art by: Daarken], supplement: none, numbering: none)
+#figure(image("005_Episode 4 The Ink of Empires/05.jpg", width: 100%), caption: [Art by: Daarken], supplement: none, numbering: none)
 
 The charge was slow despite the screaming of the officers' whistles and hoarse cry from the third wave. Smoke drifted over everything, shrinking their world down to a hazy ring a dozen yards in diameter. Farid, Aiman, Karrak, and Ehsan moved slowly forward, spears level, spaced only a few feet apart, marching rather than running toward the Argivian line. A dozen or so spearmen walked in rank alongside them, vanishing into the smoke on either side. An officer walked behind them, sword drawn.
 
@@ -539,7 +539,7 @@ And the scavengers.
 
 Teferi didn't see them when he first arrived, but he saw them now. Lone figures stalked across the field, bending every now and then to examine a body. Alone or in small groups, they dragged bodies behind them, stacking them on carts that others wheeled off into the night. Some collected the ruined parts of fallen automatons, prying powerstones from sockets and working joints from shattered bodies.
 
-#figure(image("005_Episode 4: The Ink of Empires/06.jpg", width: 100%), caption: [Art by: Peter Polach], supplement: none, numbering: none)
+#figure(image("005_Episode 4 The Ink of Empires/06.jpg", width: 100%), caption: [Art by: Peter Polach], supplement: none, numbering: none)
 
 "Who are you?"
 

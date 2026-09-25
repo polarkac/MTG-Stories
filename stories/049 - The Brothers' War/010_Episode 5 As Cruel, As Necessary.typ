@@ -41,7 +41,7 @@ He never got used to this part. He hated this moment, this tearing of his spark 
 
 "Go."
 
-#figure(image("010_Episode 5: As Cruel, As Necessary/01.jpg", width: 100%), caption: [Art by: Kekai Kotaki], supplement: none, numbering: none)
+#figure(image("010_Episode 5 As Cruel, As Necessary/01.jpg", width: 100%), caption: [Art by: Kekai Kotaki], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -85,7 +85,7 @@ Saheeli said nothing. She arched an eyebrow and watched the time mage throw valu
 
 "Good enough." Saheeli nodded. "I'll get to work."
 
-#figure(image("010_Episode 5: As Cruel, As Necessary/02.jpg", width: 100%), caption: [Art by: Kekai Kotaki], supplement: none, numbering: none)
+#figure(image("010_Episode 5 As Cruel, As Necessary/02.jpg", width: 100%), caption: [Art by: Kekai Kotaki], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -237,7 +237,7 @@ Teferi walked through a charnel valley somewhere southeast of Tomakul. This was 
 
 Long, deep trenches striated the land. If Teferi could fly above it, he would look down on a world rippling with muddy scars. Machine and human corpses were thick as crops in a farmer's field, draped over trench and wire, twisted and broken. Between them marched columns of soldiers laden with packs under rain-slicked coats. These were armies of men more dead than alive, as spectral in soul as Teferi was in body.
 
-#figure(image("010_Episode 5: As Cruel, As Necessary/03.jpg", width: 100%), caption: [Art by: Sam Burley], supplement: none, numbering: none)
+#figure(image("010_Episode 5 As Cruel, As Necessary/03.jpg", width: 100%), caption: [Art by: Sam Burley], supplement: none, numbering: none)
 
 Once the armies passed, ghouls stalked the fields of the dead, harvesting the bodies they found useful. Teferi watched as black-clad and shuddering figures loaded crude, wheeled carts with human and machine corpses, hauling them away toward Tomakul, until one of them saw him.
 
@@ -303,7 +303,7 @@ In the present day, Kaya whispered her dialogue with Teferi, relaying everything
 
 #emph[The Mishra machine had recovered from the avalanche and was now charging up the hill, its dragon head screaming. Urza looked up and saw his brother's face, half-torn from the metallic skull beneath, and wept for him.]
 
-#figure(image("010_Episode 5: As Cruel, As Necessary/04.jpg", width: 100%), caption: [Art by: Chris Rahn], supplement: none, numbering: none)
+#figure(image("010_Episode 5 As Cruel, As Necessary/04.jpg", width: 100%), caption: [Art by: Chris Rahn], supplement: none, numbering: none)
 
 "His brother is close to him. It could be triggered by a kind of sympathetic resonance between the two. Maybe it takes more than one person focused, some heightened emotional state—or could it be the proximity of Phyrexian technology," Kaya said.
 
@@ -381,7 +381,7 @@ A black sky. A rain-lashed beach. Ticking and twitching metal ruins, still dragg
 
 Argoth. The Last Battle. Moments before the end of the world, again.
 
-#figure(image("010_Episode 5: As Cruel, As Necessary/05.jpg", width: 100%), caption: [Art by: Chris Cold], supplement: none, numbering: none)
+#figure(image("010_Episode 5 As Cruel, As Necessary/05.jpg", width: 100%), caption: [Art by: Chris Cold], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -415,7 +415,7 @@ The Multiverse tore open.
 
 Everything came after.
 
-#figure(image("010_Episode 5: As Cruel, As Necessary/06.jpg", width: 100%), caption: [Art by: Joseph Meehan], supplement: none, numbering: none)
+#figure(image("010_Episode 5 As Cruel, As Necessary/06.jpg", width: 100%), caption: [Art by: Joseph Meehan], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -567,7 +567,7 @@ The void broke.
 
 The dark rushed in.
 
-#figure(image("010_Episode 5: As Cruel, As Necessary/07.jpg", width: 100%), caption: [Art by: Liiga Smilshkalne], supplement: none, numbering: none)
+#figure(image("010_Episode 5 As Cruel, As Necessary/07.jpg", width: 100%), caption: [Art by: Liiga Smilshkalne], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -589,7 +589,7 @@ Among the wreckage was a large metal box, seven feet in length, three feet in wi
 
 Urza stood alongside the box and pressed his hand against the lid.
 
-#figure(image("010_Episode 5: As Cruel, As Necessary/08.jpg", width: 100%), caption: [Art by: Slawomir Maniak], supplement: none, numbering: none)
+#figure(image("010_Episode 5 As Cruel, As Necessary/08.jpg", width: 100%), caption: [Art by: Slawomir Maniak], supplement: none, numbering: none)
 
 The box's top slid along its casters, revealing the slumbering form of his former apprentice. Tawnos took a breath, then sat bolt upright, gasping for air. His face was pale, and he was covered with dead skin that had flaked off but had nowhere to go within his confinement.
 
@@ -633,7 +633,7 @@ He turned back to Tawnos, and the Master Scholar saw Urza's eyes. They were no l
 
 Mightstone and Weakstone, reunited at last, within the surviving brother.
 
-#figure(image("010_Episode 5: As Cruel, As Necessary/09.jpg", width: 100%), caption: [Art by: Ryan Pancoast], supplement: none, numbering: none)
+#figure(image("010_Episode 5 As Cruel, As Necessary/09.jpg", width: 100%), caption: [Art by: Ryan Pancoast], supplement: none, numbering: none)
 
 The image was only for an instant; then Urza's eyes were normal again. Urza smiled. "I must go away," he repeated.
 

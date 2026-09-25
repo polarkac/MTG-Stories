@@ -89,7 +89,7 @@ Before he could say anything more, Elspeth raised her hand to stop him. She cros
 
 Everyone who had gathered in Kaya's makeshift war room, save Elspeth, huddled around a glowing sphere of ghostly light that hovered over a pool in the room's center. At the head of the crowd was the other freshly arrived Planeswalker, Vivien Reid, who Teferi had met on Ravnica during their struggle against Nicol Bolas.
 
-#figure(image("004_Chapter 1: Stronghold/01.jpg", width: 100%), caption: [Art by: Peter Polach], supplement: none, numbering: none)
+#figure(image("004_Chapter 1 Stronghold/01.jpg", width: 100%), caption: [Art by: Peter Polach], supplement: none, numbering: none)
 
 "The New Coalition continues to marshal defenses against further attacks on Dominaria," Kaya explained. "But the Phyrexians are relentless, as we found out on Shiv."
 

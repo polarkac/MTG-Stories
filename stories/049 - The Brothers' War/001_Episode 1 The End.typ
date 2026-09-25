@@ -15,7 +15,7 @@ Five years after the war that ended the world concluded, the survivors found tha
 
 Everyone who witnessed the cataclysm—that is, everyone in Terisiare—knew the world had ended on that day. Then they woke up the next morning and found that life went on, only it never really seemed to change for the better. The best that people could hope for was that things did not continue to get worse.
 
-#figure(image("001_Episode 1: The End/01.jpg", width: 100%), caption: [Art by: Lucas Staniec], supplement: none, numbering: none)
+#figure(image("001_Episode 1 The End/01.jpg", width: 100%), caption: [Art by: Lucas Staniec], supplement: none, numbering: none)
 
 Five years after the blast, Kayla bin-Kroog sat alone in the council chambers of Penregon's government house, listening to the warm crackling of the room's dying fire. With the day's agenda complete but for one last private meeting, her councilors and committee members had all filed out to trudge through the snow back to their homes. They left her alone with Penregon's latest ledgers, census figures, and expedition debriefings—a coterie of nightmares scratched out in watered-down ink on scrubbed paper. Jarsyl had been seen to, sent away for evening study with his tutors.
 
@@ -175,7 +175,7 @@ Kayla paced along the top of Penregon's new inland wall with Tawnos at her side,
 
 A detachment of long-range scouts had returned to the city in the early hours of the morning. Kayla, expecting their arrival, met them at the wall to hear their report. Tawnos had been closing out the late shift at his factory and had hurried to answer her summons. The small group atop the earthworks were a motley collection: Kayla in trousers and a padded coat against the cold, Tawnos in his foundry apron, and Scout Captain Myrel in their muddy uniform under a dark poncho. Myrel had returned from the field this morning and still wore a cloth-wrapped cuirass and sword.
 
-#figure(image("001_Episode 1: The End/02.jpg", width: 100%), caption: [Art by: Nicholas Elias], supplement: none, numbering: none)
+#figure(image("001_Episode 1 The End/02.jpg", width: 100%), caption: [Art by: Nicholas Elias], supplement: none, numbering: none)
 
 "How many?" Kayla asked her captain.
 
@@ -293,7 +293,7 @@ Raddic grinned, understanding her diplomatic language well. He clicked his tongu
 
 Kayla, escorted by her own retinue, walked back through the gates into the safety of Penregon. The crowds on the wall talked a rainfall chorus of excitement, curiosity, bravado, and fear. It was the sound following a decision before its outcome was decided. Kayla only hoped that she had made the correct one, and that the days to come would not prove her charity wrong.
 
-#figure(image("001_Episode 1: The End/03.jpg", width: 100%), caption: [Art by: Dominik Mayer], supplement: none, numbering: none)
+#figure(image("001_Episode 1 The End/03.jpg", width: 100%), caption: [Art by: Dominik Mayer], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -389,7 +389,7 @@ Tawnos looked up from his journal. He was jotting notes on the steps necessary t
 
 It took a moment, but Tawnos realized that Kayla was joking with him. He smiled, and Kayla laughed. Short and sharp. Nervous, but genuine. With a parting nod, Tawnos hurried to work.
 
-#figure(image("001_Episode 1: The End/04.jpg", width: 100%), caption: [Art by: Francisco Miyara], supplement: none, numbering: none)
+#figure(image("001_Episode 1 The End/04.jpg", width: 100%), caption: [Art by: Francisco Miyara], supplement: none, numbering: none)
 
 "You harbor machine demons," Raddic said, barking at Kayla as she emerged from the portcullis. Slouched over his saddle horn, mouth never quite closed, the sun setting over his shoulder, Raddic struck an animalistic silhouette. His posture reminded Kayla of the languid way some predatory cats carried themselves—relaxed and deadly. His voice was cold as a dagger's blade, and this time, ten riders in black armor flanked him.
 

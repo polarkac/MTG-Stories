@@ -13,7 +13,7 @@ Kroog died on a crimson morning.
 
 To Sanwell, it sounded like a festival day, only the crowds cheered in a minor key, and the booms and reports were not fireworks exploding, and the smoke rising over the city stank of burning industry and steaming bricks.
 
-#figure(image("003_Episode 3: Sword One/01.jpg", width: 100%), caption: [Art by: Steve Prescott], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Sword One/01.jpg", width: 100%), caption: [Art by: Steve Prescott], supplement: none, numbering: none)
 
 The orniary's main yard was abuzz with activity. Technicians and artificers sprinted back and forth hauling anti-armor bolts, powerstones, and avenger swords. Stompers and other autonomous units waited in ready ranks, crowding the plaza. Piles of ammunition, spare parts, and other material stood in hasty stacks. The five student pilots and their instructor stood in front of the canvas-covered supplies, facing a rank of old, refurbished avengers.
 
@@ -161,7 +161,7 @@ A shout from Llora. Sanwell was falling behind.
 
 "With me, One," Sanwell said to his avenger. Together, the two of them hurried to catch up with the rest of the pilots as they moved down into the city.
 
-#figure(image("003_Episode 3: Sword One/02.jpg", width: 100%), caption: [Art by: Josu Hernaiz], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Sword One/02.jpg", width: 100%), caption: [Art by: Josu Hernaiz], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -187,7 +187,7 @@ Sanwell overheard the lieutenant say that this had been a second-line medical po
 
 "Pilot Sanwell," Llora called, waving him over. "Sanwell, this is Lieutenant Markos—" Llora's introduction was drowned out by a roar loud enough to send everyone in the plaza diving for cover. A long, buzzing series of explosions followed moments later, reports echoing out over the city.
 
-#figure(image("003_Episode 3: Sword One/03.jpg", width: 100%), caption: [Art by: Fariba Khamseh], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Sword One/03.jpg", width: 100%), caption: [Art by: Fariba Khamseh], supplement: none, numbering: none)
 
 The bells nearby fell silent. Sanwell and the rest of the pilots, Llora included, stayed prone, their avengers watching over them. Some of the soldiers pushed themselves to their feet, gathering up their spears and adjusting their sword belts, peering over the barricade, crawling back to their posts.
 
@@ -217,7 +217,7 @@ A roar like the sky splitting open, a rippling crescendo of explosions. The boil
 
 Sanwell, Rica, and Carlo turned, looking on in horror as the crimson blast swept across their narrow view of the plaza. Llora and the other pilots, Lieutenant Markos and their soldiers—gone in a breath.
 
-#figure(image("003_Episode 3: Sword One/04.jpg", width: 100%), caption: [Art by: David Auden Nash], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Sword One/04.jpg", width: 100%), caption: [Art by: David Auden Nash], supplement: none, numbering: none)
 
 The smoke lingered, not moving despite the stinking, howling furnace-blast wind. The air itself sizzled, writhed in pain, crackled with heat-tortured bolts of lightning.
 
@@ -271,7 +271,7 @@ A sudden clatter and a shout sounded from northern entrance to the crossroads—
 
 Sanwell and Rica looked over to see a rank of Fallaji brasscaps approaching the crossroads. Behind them, Sanwell could see what looked like a forest of pikes under which shone the polished brass helms of a whole marching column of soldiers.
 
-#figure(image("003_Episode 3: Sword One/05.jpg", width: 100%), caption: [Art by: Joshua Cairos], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Sword One/05.jpg", width: 100%), caption: [Art by: Joshua Cairos], supplement: none, numbering: none)
 
 "Sanwell," Rica said, standing. He wasn't calling Sanwell's attention, only uttering. A reflexive gasp, spoken in disbelief at what he saw: the Fallaji army, unimpeded, marching toward them.
 
@@ -317,7 +317,7 @@ Distant, screams.
 
 Distant, the roar of dragon engines.
 
-#figure(image("003_Episode 3: Sword One/06.jpg", width: 100%), caption: [Art by: Svetlin Velinov], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Sword One/06.jpg", width: 100%), caption: [Art by: Svetlin Velinov], supplement: none, numbering: none)
 
 Sanwell's world was a haze of cloudy, gray smoke under an ochre sky. The sun above was a dying marigold, fat and close, threatening to slip from the sky, an egg's yolk sloughed from its white. Everything stank of burning wood, burning oil, burning flesh. Ash fell like snow.
 
@@ -359,7 +359,7 @@ Together, the two boys ran.
 
 Kroog died on a crimson morning; the war began at sunrise.
 
-#figure(image("003_Episode 3: Sword One/07.jpg", width: 100%), caption: [Art by: Kamila Szutenberg], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Sword One/07.jpg", width: 100%), caption: [Art by: Kamila Szutenberg], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))

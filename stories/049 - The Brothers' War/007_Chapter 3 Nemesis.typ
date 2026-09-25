@@ -293,7 +293,7 @@ That's when Karn finally spoke: "Jhoira~ Jhoira is my friend~ my best friend. We
 
 With a growl, Tezzeret turned and walked away.
 
-#figure(image("007_Chapter 3: Nemesis/01.jpg", width: 100%), caption: [Art by: Camille Alquier], supplement: none, numbering: none)
+#figure(image("007_Chapter 3 Nemesis/01.jpg", width: 100%), caption: [Art by: Camille Alquier], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))

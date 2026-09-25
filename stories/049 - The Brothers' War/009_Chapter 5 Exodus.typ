@@ -155,7 +155,7 @@ With soul-destroying despair.
 
 Nissa unsheathed the thin, tapered sword hidden in her staff and raised it into the air. "Forward!" she ordered. The mechanical soldiers, followed by lumbering clay statues, led the way down the rampart and onto the field. "Stand your ground! Defend the tower!"
 
-#figure(image("009_Chapter 5: Exodus/01.jpg", width: 100%), caption: [Art by: Chris Cold], supplement: none, numbering: none)
+#figure(image("009_Chapter 5 Exodus/01.jpg", width: 100%), caption: [Art by: Chris Cold], supplement: none, numbering: none)
 
 The constructs assembled into a siege line into which the Phyrexians charged. The armies collided with sharp staccato thunderclaps. Metallic edges on both sides clanged against armor, searching for weak spots to bite, rip, and tear apart the enemy. The constructs, of course, did not feel fear, but the Phyrexians—their faces either obscured by helmets or replaced by smooth, featureless bone—did not relent, either. Worse, unlike the black-armored forces that had attacked earlier in the night, this white-armored legion showed a semblance of battle tactics. Gone were the berserker charges that left the enemy overextended. These Phyrexians were organized into squads of four or five, working together to pin down the machine warriors and attack from positions of strength.
 
@@ -357,7 +357,7 @@ Jace announced that the time had come to leave, and everyone going to New Phyrex
 
 "For the life of every plane," she whispered, "We will all keep watch."
 
-#figure(image("009_Chapter 5: Exodus/02.jpg", width: 100%), caption: [Art by: Rovina Cai], supplement: none, numbering: none)
+#figure(image("009_Chapter 5 Exodus/02.jpg", width: 100%), caption: [Art by: Rovina Cai], supplement: none, numbering: none)
 
 == Epilogue
 

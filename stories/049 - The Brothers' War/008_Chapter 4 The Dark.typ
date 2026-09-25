@@ -275,7 +275,7 @@ They mounted up and armed themselves with powerstone lances, also prepared by Sa
 
 "March!" The soldiers advanced and fanned out, descending the central steps and stopping at the far end of the main pathway. The clay statues stayed behind in the courtyard to absorb any enemies that got past the front line. Everything was set.
 
-#figure(image("008_Chapter 4: The Dark/01.jpg", width: 100%), caption: [Art by: Carlos Palma Cruchaga], supplement: none, numbering: none)
+#figure(image("008_Chapter 4 The Dark/01.jpg", width: 100%), caption: [Art by: Carlos Palma Cruchaga], supplement: none, numbering: none)
 
 "Now we have to hurry," she said to Jodah. The two rode double-time around the southern side of the tower, keeping close to the wall until they reached a predetermined vantage point from which to monitor the siege line. Elspeth gripped her lance, her heart racing.
 
