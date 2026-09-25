@@ -107,7 +107,7 @@ She took another step forward. Her foot landed on ground that felt … brighter
 
 A spear of luminous silver light pierced the great empty eye of the titan. Here, within the sun-bleached cranium of the forgotten giant, they could once more glimpse the moon. So, too, could the giant archaic. It lay huddled in a heap against a mossy wall of bone. Its bubbling wounds carved deep shadows from the light. Jadzi kneeled in its palm, still, working a complex healing spell across its flesh. The being's chest rose and fell with shaky breath; its fingers twitched this way and that.
 
-#figure(image("005_Episode 5: Breaking Point/01.jpg", width: 100%), caption: [Oracle's Restoration | Art by: Elliot Lang], supplement: none, numbering: none)
+#figure(image("005_Episode 5 Breaking Point/01.jpg", width: 100%), caption: [Oracle's Restoration | Art by: Elliot Lang], supplement: none, numbering: none)
 
 Across from Jadzi and the archaic was a snarl. Or something that looked an awful lot like a snarl. But there were no such things as snarls in Titan's Grave—all of Chandra's students had been clear about that. Whatever this swirl of unstable energy was, it couldn't be anything good. The tendrils of magic coming off of it frayed at the edges or went jagged. There were some that flickered like Kamigawan lights and others that shone with something like Theran essences. Like a loom being unwoven and rewoven, there was something of creation and destruction alike to it.
 
@@ -163,7 +163,7 @@ Jadzi rolled her eyes. With a stretch she began to pace the chamber, talking as 
 
 "Our new friend here is an archaic. Most people from Arcavios know what those are inherently, but since you're visitors, and I don't recall seeing either of you in Professor Vess's offices, I'll elaborate. Archaics are oracles, like I am. When we die, we don't get to visit any of the places theorized by other worlds or religions; we're flung back in time to relive all of history. Something about the process transforms us into those things. Got that to look forward to."
 
-#figure(image("005_Episode 5: Breaking Point/02.jpg", width: 100%), caption: [Art by: Nathaniel Himawan], supplement: none, numbering: none)
+#figure(image("005_Episode 5 Breaking Point/02.jpg", width: 100%), caption: [Art by: Nathaniel Himawan], supplement: none, numbering: none)
 
 The giant archaic rumbled.
 

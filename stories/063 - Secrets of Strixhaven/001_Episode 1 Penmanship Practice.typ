@@ -8,7 +8,7 @@
 )
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/silverquill.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/silverquill.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Friends,
 
@@ -18,14 +18,14 @@
 ]
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/lorehold.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/lorehold.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     KIROL HERE. This is pretty cool. I think I saw some of my seniors using these things? Hey, if I draw something, can you see it on your end? Like … tell me if you see …
 ]
 
 #pagebreak()
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/silverquill.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/silverquill.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Abigale here again. Yes, I do see the drawing. You are lifting an entire building overhead. I had no idea you nearly went for Prismari instead of Lorehold. With that being said, it'll be easier for everyone to follow if we keep things to whole, complete letters.
 
@@ -48,10 +48,10 @@
     Abigale
 ]
 
-#figure(image("001_Episode 1: Penmanship Practice/01.jpg", width: 100%), caption: [Art by: Olivier Bernard], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Penmanship Practice/01.jpg", width: 100%), caption: [Art by: Olivier Bernard], supplement: none, numbering: none)
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/prismari.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/prismari.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Comrades, compatriots, cohorts,
 
@@ -67,7 +67,7 @@
 (Twenty-six pages of extremely technical but nonetheless stirring description follow. Sanar visibly changes ink no less than five times.)
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/prismari.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/prismari.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     At this rate, they're going to have to name a hall after some of the things I've gotten up to! But … Hmm … Looking at this stack of paper, I may have … lost track of time, a bit.
 
@@ -78,10 +78,10 @@
     It reminds me of—
 ]
 
-#figure(image("001_Episode 1: Penmanship Practice/02.jpg", width: 100%), caption: [Art by: Justin Gerard], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Penmanship Practice/02.jpg", width: 100%), caption: [Art by: Justin Gerard], supplement: none, numbering: none)
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/quandrix.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/quandrix.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Hi, Sanar. It's Tam.
 
@@ -96,10 +96,10 @@
     Tam
 ]
 
-#figure(image("001_Episode 1: Penmanship Practice/03.jpg", width: 100%), caption: [Art by: Jodie Muir], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Penmanship Practice/03.jpg", width: 100%), caption: [Art by: Jodie Muir], supplement: none, numbering: none)
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/prismari.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/prismari.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Tam,
 
@@ -109,7 +109,7 @@
 ]
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/lorehold.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/lorehold.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Heyyy, everybody!
 
@@ -164,10 +164,10 @@
     Kirol
 ]
 
-#figure(image("001_Episode 1: Penmanship Practice/04.jpg", width: 100%), caption: [Art by: Bryan Sola], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Penmanship Practice/04.jpg", width: 100%), caption: [Art by: Bryan Sola], supplement: none, numbering: none)
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/witherbloom.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/witherbloom.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Hi, everyone.
 
@@ -190,16 +190,16 @@
     Lluwen
 ]
 
-#figure(image("001_Episode 1: Penmanship Practice/05.jpg", width: 100%), caption: [Art by: Alix Branwyn], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Penmanship Practice/05.jpg", width: 100%), caption: [Art by: Alix Branwyn], supplement: none, numbering: none)
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/prismari.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/prismari.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Lluwen, my friend, if I could make a suggestion? The man in charge of the expedition to Titan's Grave is Professor Fel. Now, I heard it from a friend who heard it from his brother's girlfriend who heard from her doctoral advisor that he's the surliest guy in Strixhaven. And that's saying something with Dean Embrose around. Maybe … reconsider? Also—I can't help but notice that #emph[Kirol]  got more than one page and no one said anything about that. Curious.
 ]
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/silverquill.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/silverquill.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Sanar, please sign your letters.
 
@@ -235,7 +235,7 @@
 ]
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/lorehold.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/lorehold.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Lulu, my pal,
 
@@ -255,7 +255,7 @@
 ]
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/quandrix.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/quandrix.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Everyone,
 
@@ -287,7 +287,7 @@
 ]
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/witherbloom.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/witherbloom.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Tam,
 
@@ -315,7 +315,7 @@
 ]
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/lorehold.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/lorehold.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     KIROL HERE.
 
@@ -387,7 +387,7 @@
 ]
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/witherbloom.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/witherbloom.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Hey, everybody! It's Lluwen.
 
@@ -425,13 +425,13 @@
 ]
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/quandrix.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/quandrix.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     (I would like to say, for the record, that I #emph[respect ] Professor Fel.)
 ]
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/witherbloom.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/witherbloom.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     After checking in, our classmates scattered like dandelion seeds on the wind. Jadzi had been right. There were shops for just about everything you could want there. Miniatures of the titan, of course, along with "artisanal seed blends" that cost five times their value. But there were other things, too. Chocolates in the shape of various fungi, stuff like that. Tam and I only checked out a couple of the shops. Something about them felt …
 
@@ -463,7 +463,7 @@
 ]
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/witherbloom.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/witherbloom.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Lluwen again.
 
@@ -492,10 +492,10 @@
     Eight toadstools in, I finally saw the reason for all this: The creature had friends. Huddled around the base of a particularly stout oak, beneath a shelf of lion's mane, were a good two dozen more lumarets. When they spotted this one, all of them jumped up and waved their hands in the air.
 ]
 
-#figure(image("001_Episode 1: Penmanship Practice/06.jpg", width: 100%), caption: [Bogwater Lumaret | Art by: Lie Setiawan], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Penmanship Practice/06.jpg", width: 100%), caption: [Bogwater Lumaret | Art by: Lie Setiawan], supplement: none, numbering: none)
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/witherbloom.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/witherbloom.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Imagine that. Hold it in your head for a second. Whoever heard of something so cute? And it spoke to a society, too. They had mapmaking, communications, maybe even … I couldn't help but think of tour groups.
 
@@ -519,7 +519,7 @@
 ]
 
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/lorehold.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/lorehold.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Hey, Lulu.
 
@@ -544,11 +544,11 @@
     He slashed the spear in two, and in the same motion brought the flat of his axe down on the spirit's head. Suddenly, the spirit was just … gone. Energy all dissipated, I guess. I didn't know if he would ever reform.
 ]
 
-#figure(image("001_Episode 1: Penmanship Practice/07.jpg", width: 100%), caption: [Art by: April Prime], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Penmanship Practice/07.jpg", width: 100%), caption: [Art by: April Prime], supplement: none, numbering: none)
 
 #pagebreak()
 #letter_block(border: true)[
-    #figure(image("001_Episode 1: Penmanship Practice/lorehold.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("001_Episode 1 Penmanship Practice/lorehold.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     It all happened so fast. One second he was standing at my side talking with me about leonin cultures, and the next …
 

@@ -17,7 +17,7 @@ Abigale couldn't hear what was going on around her, but she had a pretty good fe
 
 They weren't exaggerating about the chaos. Just ahead, past the landing bay, the dig site was in total disarray. Students stood in groups arguing with one another. Kirol spotted an elf holding an owlin up by the scruff as they argued over who had the rights to their particular site. Delivery drivers stood next to wagons full of supplies in search of someone to accept them. No one in sight was taking charge of anything at all—and without any idea what was going on or why, the newcomers were being met with vitriol. All it would take was one misplaced bolt of magic, and this whole place would go up in a mass of paranoid flame.
 
-#figure(image("003_Episode 3: Asunder/01.jpg", width: 100%), caption: [Art by: Leon Tukker], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Asunder/01.jpg", width: 100%), caption: [Art by: Leon Tukker], supplement: none, numbering: none)
 
 Kirol dodged a jug flung through the air, then caught it and took a sip from what remained as they handed Abigale a commemorative Titan's Grave shirt. It matched the one they were wearing. "Lluwen's in there somewhere, but I wanted to wait until all of us were here before I ran in."
 
@@ -69,7 +69,7 @@ Following in Ajani's wake made moving through the camp easy enough to do. Whoeve
 
 All of that stopped mid-discussion when Kirol spotted Dina with a bubbling cauldron set up in front of her, trying her damnedest to calm the surrounding students.
 
-#figure(image("003_Episode 3: Asunder/02.jpg", width: 100%), caption: [Pull from the Grave | Art by: Pauline Voss], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Asunder/02.jpg", width: 100%), caption: [Pull from the Grave | Art by: Pauline Voss], supplement: none, numbering: none)
 
 "I know it's terrifying right now, and I know Professor Fel is #emph[really]  hard to deal with, but that's no reason to descend into chaos! Please, you're Strixhaven students! Think of the example you're setting!"
 
@@ -155,7 +155,7 @@ The Oriq? Ajani's breath left him. He couldn't summon so much as a question for 
 
 Chandra made no move to stop him, but she did glare at Lluwen. So, too, did all of her companions. "The Shattered aren't Oriq anymore. Their masks should tell you as much."
 
-#figure(image("003_Episode 3: Asunder/03.jpg", width: 100%), caption: [Shattered Acolyte | Art by: Ashly Lovett], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Asunder/03.jpg", width: 100%), caption: [Shattered Acolyte | Art by: Ashly Lovett], supplement: none, numbering: none)
 
 "You believe them because of a fashion statement?" Ajani said. Though he felt a stone of sorrow crushing his sternum, he continued. "They tried to kill everyone at the university. How could you ally yourself with such people?"
 
@@ -255,7 +255,7 @@ Neither of them spoke about it, but both knew, in that instant, the only thing i
 
 Towering overhead like a testament to the grandeur of the universe was the archaic—the #emph[giant]  one. Arches around it seemed to swell and pulse and swirl in time with the breathing from its massive chest. Each exhalation was a wind upon the encampment. Though it had no eyes, Ajani could feel in his teeth, in his bones, that it was staring at them.
 
-#figure(image("003_Episode 3: Asunder/04.jpg", width: 100%), caption: [Art by: Josu Solano], supplement: none, numbering: none)
+#figure(image("003_Episode 3 Asunder/04.jpg", width: 100%), caption: [Art by: Josu Solano], supplement: none, numbering: none)
 
 Had it heard? The archaic's footfalls were the source of the shaking they'd all felt. It was coming closer and closer by the second, a shambling inevitability, a colossal unanswered question.
 

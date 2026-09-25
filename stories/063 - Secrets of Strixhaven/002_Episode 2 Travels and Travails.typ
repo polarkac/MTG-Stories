@@ -31,7 +31,7 @@ Another student answered—an owlin. "Um … I hear some creatures, I think? I 
 
 Lluwen's throat went tight. #emph[I want to give the right answer] , he thought. Somehow. Even with the sight of Fel's displeasure burned onto the back of his eyelids, he wanted it. Maybe then, people would respect him.
 
-#figure(image("002_Episode 2: Travels and Travails/01.jpg", width: 100%), caption: [Art by: Piotr Dura], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Travels and Travails/01.jpg", width: 100%), caption: [Art by: Piotr Dura], supplement: none, numbering: none)
 
 #emph[All right] , he told himself. #emph[I won't focus on the talking.]
 
@@ -115,7 +115,7 @@ The call of a bird outside saved him—a scissor through the fabric he'd stumble
 
 The sight before him was only a little less unbelievable than what he'd heard. Within the great hollow of the titan's bones, six enormous figures, each with too many limbs undulating in time, sat gathered around a thick snarl of magic—archaics. The walls of this place (could he call them walls?) flickered with light. Thirty-two hands moved in intricate patterns that threatened to overwhelm him as much as the sounds. None of the archaics moved alone; each one's movements were coordinated with the next, interlinked and overlapping but never intersecting.
 
-#figure(image("002_Episode 2: Travels and Travails/02.jpg", width: 100%), caption: [Arcane Omens | Art by: Antonio José Manzanedo], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Travels and Travails/02.jpg", width: 100%), caption: [Arcane Omens | Art by: Antonio José Manzanedo], supplement: none, numbering: none)
 
 With a small grunt of effort, Lluwen pushed himself up off the heap of vines and leaves and wood.
 
@@ -178,7 +178,7 @@ Lluwen nodded. "Yeah. That's what it's like with Professor Fel."
 Tam touched a finger to her lips as she considered their options. Behind them, words began to appear on the scribing board. From the precise strokes, Lluwen guessed it must be Abigale. He stood to get a look at the words while Tam had her think.
 
 #letter_block(border: true)[
-    #figure(image("002_Episode 2: Travels and Travails/03.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("002_Episode 2 Travels and Travails/03.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Friends and companions,
 
@@ -205,7 +205,7 @@ Tam shrugged. "From certain points of view, she already is. Water, ice, and vapo
 
 He tried to picture Jadzi's warm face becoming like those gray, unknowable creatures, and he decided very quickly that he no longer wanted to try.
 
-#figure(image("002_Episode 2: Travels and Travails/04.jpg", width: 100%), caption: [Art by: Martina Fačková], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Travels and Travails/04.jpg", width: 100%), caption: [Art by: Martina Fačková], supplement: none, numbering: none)
 
 "Honestly, the existence of archaics on Arcavios has always been something that fascinated me. Can you imagine? Living your whole life out and then being flung back in time …"
 
@@ -231,7 +231,7 @@ But Lluwen's luck was both better and worse than he expected: as he left his roo
 
 "Who are you to tell me what I can and cannot do?" said Fel.
 
-#figure(image("002_Episode 2: Travels and Travails/05.jpg", width: 100%), caption: [Art by: Lie Setiawan], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Travels and Travails/05.jpg", width: 100%), caption: [Art by: Lie Setiawan], supplement: none, numbering: none)
 
 "Let's not waste time answering that one. You already know who I am, #emph[and]  you already know how wrong it is to use students for your little scheme."
 
@@ -385,7 +385,7 @@ Tam bit into her tongue, hard. She needed to force herself to get moving somehow
 
 Words failed her. Impossible. Words didn't fail her. Thoughts didn't fail her. She could solve any problem she could turn around within the confines of her mind; her teacher had made that point clear.
 
-#figure(image("002_Episode 2: Travels and Travails/06.jpg", width: 100%), caption: [Archaic's Agony | Art by: Joshua Raphael], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Travels and Travails/06.jpg", width: 100%), caption: [Archaic's Agony | Art by: Joshua Raphael], supplement: none, numbering: none)
 
 But she couldn't think of words for this. How was she supposed to …
 
@@ -412,7 +412,7 @@ That was the moment Tam remembered the old saying about plans. Sooner or later, 
 #v(0.35em)
 
 #letter_block(border: true)[
-    #figure(image("002_Episode 2: Travels and Travails/07.png", height: 64pt), caption: [], supplement: none, numbering: none)
+    #figure(image("002_Episode 2 Travels and Travails/07.png", height: 64pt), caption: [], supplement: none, numbering: none)
 
     Code Oona. I repeat, Code Oona.
 ]

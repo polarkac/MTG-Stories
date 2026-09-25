@@ -13,7 +13,7 @@ A fireball soared at him. It was all he could do to raise the flat of his axe in
 
 In the hazy wake of the fire, he looked at Chandra. She could have sent another fireball at him while he was still preoccupied with the first. It would have been easy for her to do. Overwhelming the enemy was one of the simplest tactics you could deploy, and she was more than strong enough to do it.
 
-#figure(image("006_Episode 6: Two, Three, Five, Seven/01.jpg", width: 100%), caption: [Heated Arguement | Art by: Aleksi Briclot], supplement: none, numbering: none)
+#figure(image("006_Episode 6 Two, Three, Five, Seven/01.jpg", width: 100%), caption: [Heated Arguement | Art by: Aleksi Briclot], supplement: none, numbering: none)
 
 But she didn't.
 
@@ -245,7 +245,7 @@ Two lives. Three jokes Sanar had told her. Five times Kirol had encouraged her w
 
 She pushed Jadzi into the churning pit of magic.
 
-#figure(image("006_Episode 6: Two, Three, Five, Seven/02.jpg", width: 100%), caption: [Banishing Betrayal | Art by: Craig Elliott], supplement: none, numbering: none)
+#figure(image("006_Episode 6 Two, Three, Five, Seven/02.jpg", width: 100%), caption: [Banishing Betrayal | Art by: Craig Elliott], supplement: none, numbering: none)
 
 It was so easy. She'd thought it would be harder, wished that it had been harder. Something this painful should be more difficult. Shouldn't it be hard to attack an oracle like this? Shouldn't it be a struggle?
 
@@ -321,7 +321,7 @@ The shockwave sent Lluwen scrambling. He used that momentum to leap across eye-s
 
 "Everyone! We have to finish the spell!" he said. How was it that she'd been moving her hands? He'd been so intent on it. Bend the knuckle here, angle the wrist this way … "Try to follow what I'm doing!"
 
-#figure(image("006_Episode 6: Two, Three, Five, Seven/03.jpg", width: 100%), caption: [Together as One | Art by: Néstor Ossandón Leal], supplement: none, numbering: none)
+#figure(image("006_Episode 6 Two, Three, Five, Seven/03.jpg", width: 100%), caption: [Together as One | Art by: Néstor Ossandón Leal], supplement: none, numbering: none)
 
 "We can't do that—we're not as strong!" said Kirol. The pain in their voice twisted Lluwen's heart. "Jadzi was an oracle, and we're just …"
 

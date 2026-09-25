@@ -123,7 +123,7 @@ There were six of them by Lluwen's count, all balanced along a bramble behind Ki
 
 As Lluwen walked past his friend toward the gathered forest creatures, he did not notice the slight slump of Kirol's shoulders.
 
-#figure(image("004_Episode 4: Something to Offer/01.jpg", width: 100%), caption: [Art by: Olivier Bernard], supplement: none, numbering: none)
+#figure(image("004_Episode 4 Something to Offer/01.jpg", width: 100%), caption: [Art by: Olivier Bernard], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -257,7 +257,7 @@ Kirol stood at Lluwen's side, Sanar next to them. Soon the group was gathering i
 
 "Daemogoths," said Suki.
 
-#figure(image("004_Episode 4: Something to Offer/02.jpg", width: 100%), caption: [Art by: Raph Lomotan], supplement: none, numbering: none)
+#figure(image("004_Episode 4 Something to Offer/02.jpg", width: 100%), caption: [Art by: Raph Lomotan], supplement: none, numbering: none)
 
 An awful laugh echoed through the tunnel. A pair of sickly green eyes burned in the dark. "I thought I'd have longer for you to ripen."
 
@@ -305,7 +305,7 @@ Lluwen watched as the flowers filling the pit crawled up and into the demon itse
 
 The daemogoth screamed in the moment before glorious life sprang from its head, bursting its skull.
 
-#figure(image("004_Episode 4: Something to Offer/03.jpg", width: 100%), caption: [Grapple with Death | Art by: Nereida], supplement: none, numbering: none)
+#figure(image("004_Episode 4 Something to Offer/03.jpg", width: 100%), caption: [Grapple with Death | Art by: Nereida], supplement: none, numbering: none)
 
 Lluwen's breath caught in his throat. Professor Fel had done … all that? Was that what Planeswalkers were really capable of? Well, he'd heard stories about Professor Vess, too, but …
 
