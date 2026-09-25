@@ -47,7 +47,7 @@ That earned the archangel an odd look. The woman flashed her an uncertain smile 
 
 Their voices died into the background chatter. The pearly light emitting from Elspeth was chillier in hue than the glow from the trails of lanterns suspended in the air. They bobbed with the wind, untethered to anything. Finally alone, Elspeth stood and studied the skyship. It might have been a temple once or even a series of them—at least before disaster struck. Whatever had happened wasn't enough to deter the Jeskai from making use of the ruins. Roofed structures—the curved eaves sky-blue and ornamented with gold, striated in places with cracks or signs of repair—were carefully stacked along the bow of the massive vessel. At their summit hung a massive beacon the color of cinnabar. There were monks everywhere, some laden with scrolls, others traversing the topsails, attending to the rigging, swabbing the deck; they moved with a practiced acrobatic efficiency and even as she was now, displaced from mortal concerns, Elspeth found them a pleasure to witness.
 
-#figure(image("003_Episode 2: Omens/01.png", width: 100%), caption: [Art by: Leon Tukker], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Omens/01.png", width: 100%), caption: [Art by: Leon Tukker], supplement: none, numbering: none)
 
 "Elspeth Tirel," came a voice from behind her. "We have never met, but I know you by reputation, just as you know me by the same. It is a pleasure to finally meet you. We've shared many friends in common."
 
@@ -103,7 +103,7 @@ Narset pointed to three spots on the map, each heavily circled in ink.
 
 "No, no, nothing is coming alive." Narset thought on this for a moment. "#emph[Yet] . Although according to reports, there are now oxen with reptilian eyes and cats growing wings. I don't know how much of this is apocryphal, but one thing is for certain: there are primordial forces in play here. Something as powerful as Ugin."
 
-#figure(image("003_Episode 2: Omens/02.png", width: 100%), caption: [Art by: Leon Tukker], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Omens/02.png", width: 100%), caption: [Art by: Leon Tukker], supplement: none, numbering: none)
 
 "Except Ugin is gone," said Elspeth.
 
@@ -157,7 +157,7 @@ Narset crushed the rest of the thought down. No point in speculation, no reason 
 
 Behind her, Elspeth's light splashed the corridor in pale shadows, the angel keeping abreast as Narset ran. Around them, monks were either herding frightened children and civilians away from danger or charging down to the attacker themselves. Narset couldn't help the frisson of pride that ran through her. They were good people, humble in peace, exquisite in crisis; Narset had known many who were the reverse, who would brag unceasingly and then falter at the first sign of adversity. Not the monks of Storm Crane, though. They had proved their mettle before and were proving it again.
 
-#figure(image("003_Episode 2: Omens/03.png", width: 100%), caption: [Art by: Marco Gorlei], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Omens/03.png", width: 100%), caption: [Art by: Marco Gorlei], supplement: none, numbering: none)
 
 Narset and Elspeth turned another corner. The school laid in the belly of the ship like a seed dreaming of a better future. There'd been months of heated argument preceding its construction: some had voted for it to be in the topmost levels of the towers where the students would have an unrestricted view of the world around them, while others tartly insisted that was suicide, suggesting instead they best hide the school where there'd be layers of defenses and a hundred exit routes. Narset was eternally grateful the latter won, especially now as the ship bucked and heaved with the continued onslaught. More monks streamed past, the wounded cradled in their arms, debris slicking them with gray dust. Narset brushed her fingers along each of them, instilling them with a little more speed, a little more endurance: hardly the most impressive work of magic, but there was no time for anything else.
 
@@ -221,7 +221,7 @@ That was enough for the creature. It began to writhe back, struggling to escape 
 
 Narset could still feel her pulse hammering in her throat as she stared at the archangel. Elspeth was a red effigy, her hair matted with blood. Even the glow of her wings was transformed, no longer that brilliant gold but a ruddy light. What could be seen of her expression remained eerily tranquil.
 
-#figure(image("003_Episode 2: Omens/04.png", width: 100%), caption: [Art by: David Astruga], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Omens/04.png", width: 100%), caption: [Art by: David Astruga], supplement: none, numbering: none)
 
 "Then let us pursue," said Narset, and they returned to the stairs. With her adrenaline starting to run low, she felt each pump of her legs and was both grateful and envious that Elspeth simply glided ahead of her. They emerged into the whipping winds of the Tarkir sky; a shrill roar to Narset's left told her the skyriders had engaged the attacker. Narset spun a coil of magic between her hands, ready to strike out at the dragon if it should try the deck, but the beast didn't seem eager to face its opponents from the hallway again. It roared once, close enough that Narset felt its fetid breath as a cold wind, then swerved off the side of the ship, firing occasional blasts of white, icy air from its maw. Narset felt her muscles relax. The skyriders could handle things from here.
 

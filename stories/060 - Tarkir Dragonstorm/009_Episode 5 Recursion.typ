@@ -9,7 +9,7 @@
 
 #emph[The problem with the new khan of the Abzan] , Ajani thought, #emph[wasn't the fact that she was a soldier at heart, but that she had no illusions about this.]  As a result, Felothar often spent ages deliberating on matters with the help of her Council of Houses; each of the house representatives' opinions were given equal weight and consideration. It made her beloved among her people, but it also made it so that every decision was mired in hours of intense discussion.
 
-#figure(image("009_Episode 5: Recursion/01.png", width: 100%), caption: [Art by: Constantin Marin], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Recursion/01.png", width: 100%), caption: [Art by: Constantin Marin], supplement: none, numbering: none)
 
 And they simply did not have the time.
 
@@ -149,7 +149,7 @@ And he was gone before Elspeth or Narset could say another word, striding down t
 
 The air in the stormplains rippled and moaned like a thing near death, like an animal being eaten alive. Elspeth stared across the vast plains, mesmerized. She could #emph[see ] the dragonstorms warping the very air and earth, how the soil bristled with scales and the sky filled with the suggestion of teeth; she imagined the planes seething with these storms. Dragons, like locusts, eating everything in sight. An eternity of them, turning the worlds into a feast. Elspeth had thought herself removed—she refused to think of how her heart broke as Ajani turned away—from human emotion but she shuddered nonetheless at the thought of the dragonstorms overtaking everything.
 
-#figure(image("009_Episode 5: Recursion/02.png", width: 100%), caption: [Art by: Leon Tukker], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Recursion/02.png", width: 100%), caption: [Art by: Leon Tukker], supplement: none, numbering: none)
 
 "We're looking for a kind of nexus," said Narset, gesturing expansively. Her brow puckered with the effort of description. "Something like a coil of clouds and a bright light radiating from within them. Perhaps that is where the dragons emerge from."
 

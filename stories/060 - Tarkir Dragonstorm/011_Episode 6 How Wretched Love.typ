@@ -29,7 +29,7 @@ Jace told himself he needed to learn how to let go—if just a little. The fact 
 
 Morning sunlight syruped through the blinds, gold as butter, limning Vraska's long frame as she sat curled on a stool beside the window, face averted. She was so beautiful she made him ache. More than anything, he wanted her happy, wanted her #emph[safe] . And for a while, they had been. Tarkir, despite its rampant dragon problem, could be a bucolic place, with its tight-knit communities and abundance of natural resources. Jace had thought they'd visit the Jeskai and see if their mountain settlements included inns in which they could stay, but Vraska, perhaps lonely for home, had suggested they find accommodations in Sultai territory. Jace had relented, of course, and the two had been pleased to discover the local coffee could be made not just cold but also sweet and lavishly seasoned with cardamom and cinnamon.
 
-#figure(image("011_Episode 6: How Wretched Love/01.png", width: 100%), caption: [Art by: Bruce Brenneise], supplement: none, numbering: none)
+#figure(image("011_Episode 6 How Wretched Love/01.png", width: 100%), caption: [Art by: Bruce Brenneise], supplement: none, numbering: none)
 
 Loot made a gurgling noise in Jace's arms, drawing his attention. He looked down at the odd little creature. Despite what he said to Vraska, Loot did not seem fine. Whatever dreams he was experiencing, they weren't kind ones. At times, he kicked like he was trying to squirm away from a heavy blanket.
 
@@ -101,7 +101,7 @@ Narset closed her eyes.
 
 This was the problem with so many people, especially those who thought of themselves as exceptionally clever: they couldn't fathom a world that did not conform to their vision. Anything that diverged from their understanding of normal was wrong and illogical, a line of thinking that Narset knew to be a fallacy. The Multiverse was infinitely more complex than a mortal being could ever hope to comprehend, and this place, this dimension, this whatever it was, was a representation of that truth and others beside it. She was certain of this.
 
-#figure(image("011_Episode 6: How Wretched Love/02.png", width: 100%), caption: [Art by: Kai Carpenter], supplement: none, numbering: none)
+#figure(image("011_Episode 6 How Wretched Love/02.png", width: 100%), caption: [Art by: Kai Carpenter], supplement: none, numbering: none)
 
 So, Narset did as she had done before when she was young and Ojutai bade her to study with him: she let go of her preconceptions and allowed herself to see what she had refused to witness before. In doing so, the realm stopped fighting her.
 

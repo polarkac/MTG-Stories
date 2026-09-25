@@ -27,7 +27,7 @@ Eshki Dragonclaw roars to the crowd—and the crowd roars in answer. The cold sn
 
 Surrounded by lands that would have conquered any of the other clans of Tarkir, the Temur have not just survived but thrived. The drums beating their festival tattoo, the smoked meats delicious and succulent, the bright colors of their coats—all of these are testament to that fact.
 
-#figure(image("010_Temur: Together Survives the Pack/01.png", width: 100%), caption: [Art by: Ben Wootten], supplement: none, numbering: none)
+#figure(image("010_Temur Together Survives the Pack/01.png", width: 100%), caption: [Art by: Ben Wootten], supplement: none, numbering: none)
 
 And no one feels more pride in this than Eshki.
 
@@ -179,7 +179,7 @@ The spirits with which they need to speak most do not leave themselves to an aft
 
 Up and up. Higher and higher they climb, until they must struggle with the air itself for breath. Nothing here is easy. Their heart aches for those who have never known it any other way.
 
-#figure(image("010_Temur: Together Survives the Pack/02.png", width: 100%), caption: [Art by: Sam Burley], supplement: none, numbering: none)
+#figure(image("010_Temur Together Survives the Pack/02.png", width: 100%), caption: [Art by: Sam Burley], supplement: none, numbering: none)
 
 As they crest a rise in the mountain, they turn to Eshki, their hand laid on a jagged stone. Perhaps the tooth of some long-gone member of Atarka's brood.
 
@@ -283,7 +283,7 @@ Each one.
 
 The forest rises before them. Eshki and Alniul approach it, their feet leaving long trails in the snow behind them. Even proud Eshki's shoulders are rounded by the weight of what they've had to carry. Between the old friends, there is only the silence of what they have had to hear and see.
 
-#figure(image("010_Temur: Together Survives the Pack/03.png", width: 100%), caption: [Art by: Jesper Ejsing], supplement: none, numbering: none)
+#figure(image("010_Temur Together Survives the Pack/03.png", width: 100%), caption: [Art by: Jesper Ejsing], supplement: none, numbering: none)
 
 Even the forest has no comfort for them. As they take their first steps beneath the canopies, no creatures dart before them. They hear no birds alighting from the trees, no wings flapping overhead. The cries of the wolf do not come, nor the distant calls of the reindeer.
 
@@ -395,7 +395,7 @@ And when Alniul tilts their head to the endless eternal blue overhead … they 
 
 Eshki has never counted singing among her talents. Nor would any of her clanmates unfortunate enough to hear her, deep in her cups, trying to join in on the hunting and drinking songs so vital to the Temur. Her voice was always too sharp, her timing too eager. But it made people laugh, sometimes, to sing with her. That was enough.
 
-#figure(image("010_Temur: Together Survives the Pack/04.png", width: 100%), caption: [Art by: Danny Schwartz], supplement: none, numbering: none)
+#figure(image("010_Temur Together Survives the Pack/04.png", width: 100%), caption: [Art by: Danny Schwartz], supplement: none, numbering: none)
 
 Deep in Rainveil Forest, she is not certain if it's enough anymore. As Alniul's voice rings through the clearing like a struck bell, each note brings with it a magic as delicate as morning frost.
 

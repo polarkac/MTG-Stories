@@ -11,7 +11,7 @@ Sarkhan Vol could feel the dragon's heart pulse beneath his ribs, its trembling,
 
 He roared, and answers rippled through the cold gray sky. More dragons emerged from the clouds, and in their eyes, Sarkhan saw reverence. Sarkhan saw worship. Sarkhan saw their faith in his ability to lead them to prey unending, their trust he would ensure they never hungered again. Not that they could help it. They belonged to him. He knew this like he knew the fire smoldering in his belly. The ritual had done #emph[something]  to the dragonstorms, something to him, too: Sarkhan had expected his transformation, but not this control over the dragons themselves. But it was all right. He would not fail them. They were his, but Sarkhan was theirs, too, had always been theirs, and would always be theirs. He would do what was needed to ensure that Tarkir was ruled by dragons again.
 
-#figure(image("012_Episode 7: Return/01.png", width: 100%), caption: [Art by: Kai Carpenter], supplement: none, numbering: none)
+#figure(image("012_Episode 7 Return/01.png", width: 100%), caption: [Art by: Kai Carpenter], supplement: none, numbering: none)
 
 And the first thing he needed to do was destroy the temple.
 
@@ -97,7 +97,7 @@ In the air, Elspeth and Sarkhan rose higher and higher. The archangel moved like
 
 #emph[Or reach it.] 
 
-#figure(image("012_Episode 7: Return/02.png", width: 100%), caption: [Art by: Joshua Raphael], supplement: none, numbering: none)
+#figure(image("012_Episode 7 Return/02.png", width: 100%), caption: [Art by: Joshua Raphael], supplement: none, numbering: none)
 
 Despite all this, Narset grinned as she vaulted up, reaching out with her magic as the creature's breath filled the air, gathering it with her hands, moving it up, guiding the momentum of the dragon's flight so it crashed shoulder first into the stone. Landing, she did the same with a black dragon next, only this one she redirected into the path of a thing like a crane if it was the size of a house, its back frilled with red spines. There was a strange peace in the desperation: this, at least, was without vagaries. She was #emph[absolutely]  going to die, but not yet, not now, not while Elspeth stood against Sarkhan like a sparrow before a storm, and in the calm of that knowledge, that certainty of her death deferred, Narset found what she had lost: her center, the deep and impenetrable quiet she'd known in Ojutai's company when there was only the work of learning, of listening, of trusting in her body and her magic. Then, suddenly, it was the easiest thing in the world.
 
@@ -169,7 +169,7 @@ Then—
 
 Ajani once heard a story about how crows, particularly during breeding season, would come together to harry any hawks in the vicinity of their nests. It didn't matter that, one on one, there was no recourse for the crow except to escape the larger predator. Together, they had the advantage. Whatever magic had transformed Sarkhan had also affected the wild dragons: they were larger, stronger than any Ajani had seen. But the Abzan dragons and their riders fought like a single beast, they fought like this was nothing they hadn't seen before and nothing they hadn't defeated. After all, they had access to centuries of military knowledge, passed on by the clan's ancestors. For that reason, they might win.
 
-#figure(image("012_Episode 7: Return/03.png", width: 100%), caption: [Art by: Darren Tan], supplement: none, numbering: none)
+#figure(image("012_Episode 7 Return/03.png", width: 100%), caption: [Art by: Darren Tan], supplement: none, numbering: none)
 
 Though only if the number of wild dragons stopped increasing. They were multiplying at a speed he'd never seen before, congealing out of the clouds before their eyes. And those faces—they seemed less dragons than things that had crawled out of nightmares.
 
@@ -259,7 +259,7 @@ Narset would have liked for Shiko to be by her side, or to see Felothar's spirit
 
 Then one of them was torn apart by two of its foes like so much parchment, its rider swallowed in a gulp. Another of the Abzan's dragons plummeted through the skies, its wings devoured by acid. Then another, another, falling like stones. Narset's optimism died with them. But they hadn't been fighting to win. They were only here to buy time. They might have had a chance if they'd been able to kill Sarkhan or drive him away, but Sarkhan seemed impervious to their efforts.
 
-#figure(image("012_Episode 7: Return/04.png", width: 100%), caption: [Art by: Camille Alquier], supplement: none, numbering: none)
+#figure(image("012_Episode 7 Return/04.png", width: 100%), caption: [Art by: Camille Alquier], supplement: none, numbering: none)
 
 Six. Eight. Twelve dead. The number of casualties was increasing, and the wild dragons were beginning to notice their advantage, their manner shifting. No longer did they seem wary of Narset's allies. No, there was pleasure now in how they fought, a playfulness that had the hairs on Narset's nape prickling.
 

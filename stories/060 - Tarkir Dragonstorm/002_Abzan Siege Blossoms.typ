@@ -27,7 +27,7 @@ Pressing a hand to the latch, Mehtma spoke three words. A buzz vibrated through 
 
 Like all of lower Qatros Karst, the chamber had been shaped from rock by talented earthcarvers. The space was as high as a guard tower; the entire population of the local house could gather in the grove if they crammed together. The walls glowed with life-giving light. A breeze slid through from cunningly carved shafts that reached all the way to the cliff face; cycling spells kept the air moving. Empty benches were arrayed around the wall of the chamber.
 
-#figure(image("002_Abzan: Siege Blossoms/01.png", width: 100%), caption: [Art by: Forrest Imel], supplement: none, numbering: none)
+#figure(image("002_Abzan Siege Blossoms/01.png", width: 100%), caption: [Art by: Forrest Imel], supplement: none, numbering: none)
 
 Only two years ago, the Kin-Tree had been little more than a fragile sapling. Now, it rose to twice Mehtma's height. Its scant canopy shimmered with tender leaves nourished not by sunlight but by the faith and loyalty of House Mevak. Yet she saw no sign of buds—not until the ancestors flowered into the sacred tree and their golden spirit-flowers blossomed through it.
 
@@ -93,7 +93,7 @@ Mehtma would have punched him right then, and he knew it, but he was flanked by 
 
 She and Vauti climbed the wide underground ramp to the deeper parts of the city side by side. As solid a marvel of stone sculpting Qatros Karst, a grand haven born from humble refugee caves, the marks of the siege were visible even down here. She passed an emergency shelter festooned with cloth walls, an archway repaired with wood taken from a fruit orchard above that had been destroyed in a direct hit from a ballista, a stain of blood never fully washed out. Before the siege, the pillared hall had been home to stalls hawking all the bits and bobs of luxury: street food, coffee and tea, herbs and spices, ribbons, lush carpets, books of poetry and laments, desert-born crystals, and dragonstorm glass. Now, no stalls were allowed, by order of the captain of logistics. Every bit of supply and labor was run through Jurjis's office. Each empty stall may as well have been stamped with his smug face.
 
-#figure(image("002_Abzan: Siege Blossoms/02.png", width: 100%), caption: [Art by: Volkan Baga], supplement: none, numbering: none)
+#figure(image("002_Abzan Siege Blossoms/02.png", width: 100%), caption: [Art by: Volkan Baga], supplement: none, numbering: none)
 
 "Last night, Sultai necromancy reached all the way into the arena district," said Vauti. "Two killed, eleven afflicted."
 
@@ -209,7 +209,7 @@ Through gritted teeth, he said, "You may believe Abzan loves the children it tea
 
 She shook her head, but a chill spread through her flesh. "No. You and I aren't the enemy, Cemil, whatever anyone has told you. The Sultai are feeding you poison."
 
-#figure(image("002_Abzan: Siege Blossoms/03.png", width: 100%), caption: [Art by: Flavio Greco Paglia], supplement: none, numbering: none)
+#figure(image("002_Abzan Siege Blossoms/03.png", width: 100%), caption: [Art by: Flavio Greco Paglia], supplement: none, numbering: none)
 
 Cemil rolled sideways, and Mehtma had relaxed just enough—too much!—that she couldn't stop him from throwing her off. Her back hit the ground hard, knocking the breath out of her, and the blade spun along the rampart with a hiss of metal scraping stone, sparks spitting. In the time it took her to scramble back up, he had jumped atop the battlements.
 
@@ -285,7 +285,7 @@ A flash of gold spun before her eyes. A falling petal brushed her cheek as the t
 
 "Daughter of House Mevak, we grant you strength," said a voice, not on the air, but felt through her flesh. "Hear me, Mehtma. I fight beside you, my worthy sister."
 
-#figure(image("002_Abzan: Siege Blossoms/04.png", width: 100%), caption: [Art by: Bastien L. Deharme], supplement: none, numbering: none)
+#figure(image("002_Abzan Siege Blossoms/04.png", width: 100%), caption: [Art by: Bastien L. Deharme], supplement: none, numbering: none)
 
 A glowing gold figure stepped out of the tree, a loxodon in gleaming armor, her form shimmering as light spread through spirit-leaves; she was small but with a determined elegance that had only begun to blossom in her life. Her voice was that of wind through branches. Her implacable gaze caused Jurjis to cry out loud in astonishment and take a step back, staring.
 

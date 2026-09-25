@@ -69,7 +69,7 @@ Instead, a Mardu hunting party that had been tasked with scouting and following 
 
 The Mardu had no need for a former Abzan diplomat, but they had space for her, and for her children, and if they were willing to work, they were welcome to stay. For three days, Paala's mother had searched for something that needed her to do it, and then a hunter had taken pity and informed her that one of their manul, the great riding cats who carried them on the high mountain hunts, had been lost. Her kittens needed tending, or they would follow her into death.
 
-#figure(image("008_Mardu: Where Lightning Tells Our Story/01.png", width: 100%), caption: [Art by: Alexander Mokhov], supplement: none, numbering: none)
+#figure(image("008_Mardu Where Lightning Tells Our Story/01.png", width: 100%), caption: [Art by: Alexander Mokhov], supplement: none, numbering: none)
 
 Paala and Refia had been sharing their tent with litter after litter of manul cats ever since, and half the feline mounts in the camp still sought them out for ear scritches and dried meat when not in harness. It was honorable work, if not as glorious as riding with the hunting parties or the warriors.
 
@@ -159,7 +159,7 @@ Young manul were easier to convince to run without prey or threat nearby. They c
 
 The main camp had been erected only a day's ride from the base of the mountains. They'd all been waiting over a week for the next dragonstorm to roll in. Once it was time for the trials, they couldn't just move around and trust that they'd be near a mountain when it was time to catch the lightning. They needed to stay where the candidates could reasonably hope to succeed.
 
-#figure(image("008_Mardu: Where Lightning Tells Our Story/02.png", width: 100%), caption: [Art by: Danny Schwartz], supplement: none, numbering: none)
+#figure(image("008_Mardu Where Lightning Tells Our Story/02.png", width: 100%), caption: [Art by: Danny Schwartz], supplement: none, numbering: none)
 
 As the day stretched on, Paala saw the other candidates only rarely. Sometimes they would pull ahead of her and vanish into the grass; other times, they would be off in the distance, watching their surroundings for signs of a challenger. Thunder rolled more and more frequently as the day went on. The storm was almost overhead, and the long fingers of the afternoon were clutching at the land when the gentle slopes of the mountain foothills began appearing around her, rippling the ground and making her slow her manul. Even the fleet-footed cats could be knocked off balance if ridden too quickly, and, so, she chose caution over foolishness on her initial approach.
 
@@ -279,7 +279,7 @@ In the light, the lightning writhed like vipers, nesting and confined. This was 
 
 The true test was suddenly clear. If she approached without true love for her clan in her heart, the vipers would know, and they would strike her where she stood. The venom of a storm must be beyond comprehension.
 
-#figure(image("008_Mardu: Where Lightning Tells Our Story/03.png", width: 100%), caption: [Art by: Josiah "Jo" Cameron], supplement: none, numbering: none)
+#figure(image("008_Mardu Where Lightning Tells Our Story/03.png", width: 100%), caption: [Art by: Josiah "Jo" Cameron], supplement: none, numbering: none)
 
 Reaching out with hand and heart at the same time, she offered her palm to the snakes. They tickled it with their tongues, writhing in their tangles, and, one by one, turned away, until only the largest regarded her with anything like interest. It bumped its nose against her hand, slithering forward, and she closed her fingers around it, pulling the snake—seizing the lightning—from the storm.
 

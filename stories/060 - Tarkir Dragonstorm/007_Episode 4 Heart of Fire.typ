@@ -43,7 +43,7 @@ Death was racing them to their prize. Already, the dragon's thrashing was beginn
 
 "Hurry," he urged.
 
-#figure(image("007_Episode 4: Heart of Fire/01.png", width: 100%), caption: [Art by: Billy Christian], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Heart of Fire/01.png", width: 100%), caption: [Art by: Billy Christian], supplement: none, numbering: none)
 
 Sarkhan brought his spear above the creature, its screaming renewed now that it was bound: it was dying, and it understood that now; it was dying, and the instrument of its death stood over it like the farmer over his ailing bull, no longer good for anything but its meat. Almost, Sarkhan faltered. For as long as he had been alive, he had loved dragons, venerated them. This act was a blasphemy, a profaning of everything he'd once seen as holy.
 
@@ -63,7 +63,7 @@ Incarceration by the Abzan was not part of Narset's plan. It happened quickly. T
 
 And the scouts had stoically listened to Narset's explanation, exchanging nervous looks between themselves, before saying in brisk but apologetic tones that they were still required to take the two in for a conversation with their khan. Otherwise, it'd be on their heads.
 
-#figure(image("007_Episode 4: Heart of Fire/02.png", width: 100%), caption: [Art by: Livia Prima], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Heart of Fire/02.png", width: 100%), caption: [Art by: Livia Prima], supplement: none, numbering: none)
 
 Narset acquiesced, if reluctantly. Elspeth looked as if she wanted a fight but was placated by her companion's insistence that it wouldn't take too long, lapsing into a statue-like silence. Courtesies were owed. And they had, of course, gone to the stormplains rather spontaneously, after they had concluded the best place to find the alleged temple was where the dragonstorms were the fiercest.
 

@@ -9,7 +9,7 @@
 
 The next performers were a strangeness of cumbersome satchels and cloying incense, beribboned spears and etched swords with blunted edges, headdresses that seemed like wildly decorated manes at first. Whenever they moved, they chimed, jangled, and occasionally rattled like a pouch full of bone dice. Narset studied them with interest as they made their preparations on what passed for a stage in the bustling tavern. The building, which was often the first or last stop for anyone coming from or venturing to the Salt Road, slouched on the lip of the fishing village surrounding Dirgur Lake Monastery. In years past, it'd been a much smaller establishment, operated by an elderly monk who'd forsworn her vows for a raucous triptych of husbands—a tea house with ambitions. But what was once a trickle of customers grew into an implacable deluge, and the proprietors were forced to expand. Narset suspected there'd be more renovation work soon; the night's clientele were already spilling into the jasmine-scented air outside. She made note to arrange for a formal meeting, if for no other reason than to collate what news the tavern's owners might have heard. Narset's status as the waymaster meant very few were willing to be upfront with her, and even fewer had the stomach to be anything but ingratiating.
 
-#figure(image("001_Episode 1: Stories and Their Bones/01.png", width: 100%), caption: [Art by: Constantin Marin], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Stories and Their Bones/01.png", width: 100%), caption: [Art by: Constantin Marin], supplement: none, numbering: none)
 
 The pair on stage touched their foreheads together, less people than a maelstrom of rainbow fabrics, faces now obscured by bestial masks: one red, one blue. #emph[When did they put them on?]  Narset wondered. She sat just close enough to be able to hear the two giggling to one another in a halfway familiar dialect. It carried loan words from the Sultai, a smattering of profanities from the Abzan, and conjugations bizarre as their paraphernalia. Narset wanted very badly to ask what province they hailed from and why their grammar was so elastic, if the idiosyncrasies in their speech were native to whichever home village they hailed from or accrued from a life in travel, or it was something peculiar to them and them alone. She'd heard apocrypha about how twins developed their own language and certainly, the two could pass for such: they had the same build, the same lopsided smirk, the same way of canting their heads, like two foxes sharing secrets.
 
@@ -131,7 +131,7 @@ The illusions cracked like ice, jagged striations wending up and through the ima
 
 "—the spirit dragons."
 
-#figure(image("001_Episode 1: Stories and Their Bones/02.png", width: 100%), caption: [Art by: Liiga Smilshkalne], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Stories and Their Bones/02.png", width: 100%), caption: [Art by: Liiga Smilshkalne], supplement: none, numbering: none)
 
 As illusionary versions of the spirit dragons—miniaturized to fit the tavern, almost adorable—flew overhead, Narset thought about how they were the embodiments of not just their respective clan's greatest hopes, but the traits that would save them. She watched as the few Abzan in attendance, faces haunted by memory, bowed to the simulacra of Betor, recalling the stories of how Dromoka had demanded the Abzan repudiate their honored dead. The dragonlord had branded their ancestral worship unnatural, and she'd made them choose between their pasts and the survival of their present. Betor, brilliant as the desert sun, existed in defiance of those edicts, the lost spirits of the Abzan brought together into a singular form.
 
@@ -187,7 +187,7 @@ The performers released a paired sigh. Narset realized that had been their last 
 
 "Though the dragonlords were vanquished, the dragonstorms remained. And they've gotten worse."
 
-#figure(image("001_Episode 1: Stories and Their Bones/03.png", width: 100%), caption: [Art by: Andrew Mar], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Stories and Their Bones/03.png", width: 100%), caption: [Art by: Andrew Mar], supplement: none, numbering: none)
 
 A low murmur slithered through the tavern.
 

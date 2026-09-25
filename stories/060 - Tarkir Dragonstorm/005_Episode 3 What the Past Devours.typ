@@ -33,7 +33,7 @@ Behind him, something in the dust woke.
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("005_Episode 3: What the Past Devours/01.png", width: 100%), caption: [Art by: Piotr Dura], supplement: none, numbering: none)
+#figure(image("005_Episode 3 What the Past Devours/01.png", width: 100%), caption: [Art by: Piotr Dura], supplement: none, numbering: none)
 
 The horned individual standing beside his hut bowed low as Ajani returned, her smooth face splitting into a star-white grin. "It's such a blessing to be able to once again stand in the company of a hero."
 
@@ -155,7 +155,7 @@ Suddenly, Narset was at the battle again. It was becoming clear the rebel leader
 
 Narset gestured down toward where the land yawned into an enormous rift. In the vast chasm floated monoliths of varying sizes, each seamed with an eerie glow.
 
-#figure(image("005_Episode 3: What the Past Devours/02.png", width: 100%), caption: [Art by: Carlos Palma Cruchaga], supplement: none, numbering: none)
+#figure(image("005_Episode 3 What the Past Devours/02.png", width: 100%), caption: [Art by: Carlos Palma Cruchaga], supplement: none, numbering: none)
 
 "Hedrons," said Elspeth, surprised. "I know Nahiri had built them on Zendikar to bind the Eldrazi. But what are they doing here? There was never any mention of her coming to Tarkir."
 
@@ -243,7 +243,7 @@ It was a brutish, effective, and utterly unexpected move on Elspeth's part. Sark
 
 Hard as the archangel had hit Sarkhan, it hadn't been enough. As the archangel spun to regard her friend, Sarkhan unfolded, snarling from the ground. The angle was perfect. With the archangel's wings, she would not be able to turn, not quickly enough, not before Sarkhan sank his blade through her ribs. Narset did not hesitate, fingers twinning in a complicated pattern before she spread her hands, mana flowing through her. Indigo light rippled through the air. The blast sent Sarkhan crashing to the ground ten feet away, panting and boneless and stunned.
 
-#figure(image("005_Episode 3: What the Past Devours/03.png", width: 100%), caption: [Art by: Diego Gisbert], supplement: none, numbering: none)
+#figure(image("005_Episode 3 What the Past Devours/03.png", width: 100%), caption: [Art by: Diego Gisbert], supplement: none, numbering: none)
 
 "There's been enough death in Tarkir," she said after a drawn-out pause, hand set on Elspeth's wrist. "We don't need more."
 

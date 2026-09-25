@@ -39,7 +39,7 @@ At once, Nishang leapt for it, reaching into the flames to retrieve the scorched
 
 Nishang stumbled out into the street. As the adrenaline from the altercation retreated, his drunkenness returned. He braced himself against a street lamp, and, for the first time, he took in the damage to his shoulder. There was no blood, only gnarled tendons clinging to diseased tissue. Though he had grown used to it, the stench nearly made him retch. Then he did, right there on the sidewalk.
 
-#figure(image("006_Sultai: Betrayal/01.png", width: 100%), caption: [Art by: Sergey Glushakov], supplement: none, numbering: none)
+#figure(image("006_Sultai Betrayal/01.png", width: 100%), caption: [Art by: Sergey Glushakov], supplement: none, numbering: none)
 
 In the foul liquid sat several teeth, a corner of tongue, perhaps, a piece of lung, and surely what was left of his dignity. Just beyond it stood a sibsig, face gaunt but eyes daggered; marked by his chartreuse robes with brass embellishments, his crown of flowering vines, and his pair of golden prosthetic legs.
 
@@ -61,7 +61,7 @@ His loss of the organ and dropping it into the water seemed to excite the fish. 
 
 Nishang's remaining eye took in this change in environment—an eerie, ghostly forest wrenching out of a murky, black sea. The boat eased through the water, sheltered from the crooked tree roots and mud mounds by the magic emanating from the carp's fin. The air was muggy, sticky—each breath into his withering lungs felt like he could take it with a spoon. He hacked up more blood as he neared a massive tree at the center of the swamp.
 
-#figure(image("006_Sultai: Betrayal/02.png", width: 100%), caption: [Art by: Alexander Ostrowski], supplement: none, numbering: none)
+#figure(image("006_Sultai Betrayal/02.png", width: 100%), caption: [Art by: Alexander Ostrowski], supplement: none, numbering: none)
 
 There, the small bit of iridescent moonlight began to dim, waning to something akin to a deep indigo. He felt as if he were not alone. The jungle trees trembled in the wind and twinkled in their hollow spaces, as if they were full of eyes—an audience of shadow creatures eager to watch him perish.
 
@@ -205,7 +205,7 @@ Titsui straightened.
 
 At once, Titsui's entire form became engulfed in purple flames. His robes, feathers, and flesh burned away like cannon fodder, revealing the monstrous form of a rakshasa beneath. Blue-skinned, tusked, and demon-horned, the immense and muscular creature rose to a great height. His wings tremored, shaking the feathers away to reveal four muscular arms that stretched wide. The alleyway could barely contain him. Skulls, both human and animal, decorated his armor along with the shining trinkets that hung from his shoulders, wrists, and waist. He grinned wide, teeth dripping with black, devilish delight.
 
-#figure(image("006_Sultai: Betrayal/03.png", width: 100%), caption: [Art by: Chris Rahn], supplement: none, numbering: none)
+#figure(image("006_Sultai Betrayal/03.png", width: 100%), caption: [Art by: Chris Rahn], supplement: none, numbering: none)
 
 "You are such a talker when you drink," the rakshasa chortled. "I guess, in all your incessant rambling, I missed that little detail, how your friend died."
 
@@ -219,7 +219,7 @@ Nishang fell back with both fear and surprise. "You … you tricked me."
 
 "No," said Nishang, shaking his head. "No. I hate these traitors. But I #emph[hate]  being lied to as well."
 
-#figure(image("006_Sultai: Betrayal/04.png", width: 100%), caption: [Art by: Fajareka Setiawan], supplement: none, numbering: none)
+#figure(image("006_Sultai Betrayal/04.png", width: 100%), caption: [Art by: Fajareka Setiawan], supplement: none, numbering: none)
 
 The rakshasa, like a spider cradling its prey, ensnared him in his web, taking Nishang by the shoulders and spinning him around so he was looking out into the street. There, he saw the march of many other sibsig, all adorned with floral wreaths, waving to the crowd of adoring patrons.
 
@@ -251,7 +251,7 @@ Nishang suddenly felt himself fall to one knee by no will of his own. His head b
 
 At the command, Nishang stood to his feet again. Try as he might, he could not open his mouth to resist; though he tried to plant them firmly on the ground, his feet turned him round and marched him back into the street. There, he joined the march of other sibsig heading toward the castle. He looked to those around him—the cheering citizens along the street, the Sultai warrior escorts, and the sibsig themselves—for help, but the rakshasa forced a rictus grin onto his face. He looked positively delighted to be there, he realized miserably.
 
-#figure(image("006_Sultai: Betrayal/05.png", width: 100%), caption: [Art by: Ioannis Fiore], supplement: none, numbering: none)
+#figure(image("006_Sultai Betrayal/05.png", width: 100%), caption: [Art by: Ioannis Fiore], supplement: none, numbering: none)
 
 Guided by proud necromancers who cast intricate, snake-like spells in the air through song, dance, and mystic instruments to welcome them, the sibsig were led into Kheru Temple. Sunlight, once golden and warm, faded behind the arched doorway of twisting branches as they entered, and it was replaced by a sublime and resplendent white glow that emanated from the roots of a vast, ancient tree. Submerged beneath the sparkling surface of a large crystal-blue pool, its roots drank in the water's aspect, bringing starlight to the branches, the hanging floral vines, and the emerald leaves. It was a wonder to behold.
 
