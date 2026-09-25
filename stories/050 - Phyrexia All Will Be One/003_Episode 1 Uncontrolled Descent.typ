@@ -9,7 +9,7 @@
 
 Kaito couldn't have answered if someone had asked him what he was expecting to find in New Phyrexia. The information they had going in was too scant in some places, and no one still living had ever witnessed a fully compleated plane. They had their intel and their recon and everything they could have to prepare them for the incursion, but he still didn't know what he'd been expecting—only, roughly, what he hadn't been.
 
-#figure(image("003_Episode 1: Uncontrolled Descent/01.jpg", width: 100%), caption: [Art by: Igor Kieryluk], supplement: none, numbering: none)
+#figure(image("003_Episode 1 Uncontrolled Descent/01.jpg", width: 100%), caption: [Art by: Igor Kieryluk], supplement: none, numbering: none)
 
 He certainly hadn't been expecting a feeling like slamming into a wall of electrostatic wind—not enough to do actual damage, but enough to disorient, to distract, and inevitably, to steal consciousness away.
 
@@ -35,7 +35,7 @@ He grabbed instinctively for his sword, body suddenly flooded with the adrenalin
 
 Kaito turned, loath as he was to take his eyes off the Wanderer when she was so close to vanishing, and beheld Nahiri, sword in hand and cheeks faintly flushed with exertion, the heat of her blood showing through the slatey tone of her skin. She was dancing—no, #emph[fighting]  with a figure that looked to have been shaped from liquid metal spliced with panels of wiry cabling, like a fever dream of mechanical poetry escaped from the inventor's bench and turned against the world. It seemed impossible that anyone, even the lithomancer, could fight this construction and win.
 
-#figure(image("003_Episode 1: Uncontrolled Descent/02.jpg", width: 100%), caption: [Art by: Chris Cold], supplement: none, numbering: none)
+#figure(image("003_Episode 1 Uncontrolled Descent/02.jpg", width: 100%), caption: [Art by: Chris Cold], supplement: none, numbering: none)
 
 Then the air flashed around her, igniting with a crash as loud as thunder, as Nahiri called the glittering metallic sand of New Phyrexia to join her dance. It rose grain by grain to swirl around her, a storm even deadlier than her hail of shaped stone blades, and crashed together on the fighting figure, overwhelming it as sand invaded exposed machinery and nasal passages alike, putting down Nahiri's opponent in the blink of an eye.
 
@@ -155,7 +155,7 @@ As a group, the four of them resumed their trek through the blasted wastes of Ne
 
 The Wanderer continued to flicker and did not speak again. She stayed close to Kaito, looking around them with evident worry. Something was clearly bothering her—he wished he had some way to help her, but they couldn't afford to stop long enough for him to try.
 
-#figure(image("003_Episode 1: Uncontrolled Descent/03.jpg", width: 100%), caption: [Art by: Campbell White], supplement: none, numbering: none)
+#figure(image("003_Episode 1 Uncontrolled Descent/03.jpg", width: 100%), caption: [Art by: Campbell White], supplement: none, numbering: none)
 
 On they went, until on the horizon a small, ramshackle assemblage of tents and lean-tos appeared, small figures visible moving between them. Nahiri and Tyvar tensed. Kaito, more concerned about getting the Wanderer to a place of rest, motioned for them to be calm. The group continued moving until the figures came into clearer view: they were Mirrans. Most were human, with bronze skin and gold armor, flashes of white fabric visible between the plates. Leonin also moved among them, comforting feline figures. Soft gold glinted from what little exposed skin could be seen around their armor.
 
@@ -171,7 +171,7 @@ He turned to the Wanderer, intending to say something to boost her spirits and b
 
 A wiry human woman with short-cropped red hair and fair skin devoid of metal ornamentation came out to meet them, a staff topped with a gleaming light held low by her side, posing no immediate threat, but ready to become one.
 
-#figure(image("003_Episode 1: Uncontrolled Descent/04.jpg", width: 100%), caption: [Art by: Miranda Meeks], supplement: none, numbering: none)
+#figure(image("003_Episode 1 Uncontrolled Descent/04.jpg", width: 100%), caption: [Art by: Miranda Meeks], supplement: none, numbering: none)
 
 "You aren't Phyrexian," she said, voice sharp. "You're the ones Koth told us were coming. I'm Melira. I'm a friend, and a healer. Are any of you hurt? Do you require aid?"
 
@@ -259,7 +259,7 @@ She was infected.
 
 She was already lost.
 
-#figure(image("003_Episode 1: Uncontrolled Descent/05.jpg", width: 100%), caption: [Art by: PINDURSKI], supplement: none, numbering: none)
+#figure(image("003_Episode 1 Uncontrolled Descent/05.jpg", width: 100%), caption: [Art by: PINDURSKI], supplement: none, numbering: none)
 
 She knew she should tell her companions—but how? And what good would it do any of them to know? They couldn't kill her, and if they tried, she would fight back, regardless of her condition. She couldn't leave, or she would carry the taint away from this doomed and dying plane to infect another. The Mirran was supposedly a healer, but even a healer couldn't stop this—could they? No, it was best to get them as far as she possibly could before she succumbed and became something that was easier for them to destroy.
 

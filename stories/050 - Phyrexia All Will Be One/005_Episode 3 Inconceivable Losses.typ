@@ -11,7 +11,7 @@ The tunnel plunged downward, arrowing for the heart of New Phyrexia. The enclosi
 
 Elspeth clung to the cart, aware that a single bump could leave her tumbling and alone in the depths of this hostile, breathtaking darkness.
 
-#figure(image("005_Episode 3: Inconceivable Losses/01.jpg", width: 100%), caption: [Art by: Yeong-Hao Han], supplement: none, numbering: none)
+#figure(image("005_Episode 3 Inconceivable Losses/01.jpg", width: 100%), caption: [Art by: Yeong-Hao Han], supplement: none, numbering: none)
 
 For the first time, she wished she were riding with the other Planeswalkers, instead of the Mirrans. Someone who could have provided her with a distraction. Instead, there was only the descent and the dark, and the elves at the controls, holding on as tightly as she was.
 
@@ -161,7 +161,7 @@ Elspeth turned back to the entrance and stepped into Sheoldred's Coliseum.
 
 The interior was a vast, gutted-out bowl surrounded by high ranks of backless seating, so steep that there was little doubt that eager spectators could tumble from the heights if they weren't careful. A pitted black-metal floor stretched through the center of the bowl, a pool of bubbling necrogen visible at its center and around the edges. It was a pit of horrors.
 
-#figure(image("005_Episode 3: Inconceivable Losses/02.jpg", width: 100%), caption: [Art by: Dibujante Nocturno], supplement: none, numbering: none)
+#figure(image("005_Episode 3 Inconceivable Losses/02.jpg", width: 100%), caption: [Art by: Dibujante Nocturno], supplement: none, numbering: none)
 
 And in the bowl, bleeding profusely from a dozen terrible wounds, stood Vraska. The gorgon had one hand clasped against her midsection, blood trickling between her fingers as she held some essential piece of herself inside. The serpentine tendrils atop her head hung limp, and a ring of Phyrexians closed in on her, stepping over the petrified bodies of their fellows.
 
@@ -249,7 +249,7 @@ They stepped straight into the middle of a war.
 
 The fight inside the coliseum had been anything but quiet. They had killed and screamed and shouted for each other without consideration for the fact that they might be overheard. With Jace still inside, there was nothing concealing them from the combatants on the field, most of whom were no longer scattered, but had come together outside the coliseum. They had arranged themselves in ranks ranging from multi-legged, human-size creatures to hulking constructs of sinew and bone.
 
-#figure(image("005_Episode 3: Inconceivable Losses/03.jpg", width: 100%), caption: [Art by: Lie Setiawan], supplement: none, numbering: none)
+#figure(image("005_Episode 3 Inconceivable Losses/03.jpg", width: 100%), caption: [Art by: Lie Setiawan], supplement: none, numbering: none)
 
 The Planeswalkers and Mirrans stared. They had exhausted so much of their strength on the fight to save Vraska. Patches of skin were starting to show through Tyvar's metal shell, and the knives around Nahiri swirled a little more slowly.
 
@@ -303,7 +303,7 @@ He tasted the lies on her lips as something stabbed the palm of his right hand, 
 
 "For the glory of Phyrexia," she purred.
 
-#figure(image("005_Episode 3: Inconceivable Losses/04.jpg", width: 100%), caption: [Art by: Martina Fačková], supplement: none, numbering: none)
+#figure(image("005_Episode 3 Inconceivable Losses/04.jpg", width: 100%), caption: [Art by: Martina Fačková], supplement: none, numbering: none)
 
 She had grown a long, curving tail like a scorpion's, barbed at the end. That was what had struck him, delivering a hearty dose of glistening oil. She laughed, eyes flashing as she unleashed her gaze upon him for the first time. Jace raised his burning arm to cover his face, turned, and ran, fleeing from the Phyrexian who knew him better than anyone.
 
@@ -321,7 +321,7 @@ The bony growth on her spine was spreading, as if ripping this much power out of
 
 She met Jace's eyes across the broken battlefield, her own eyes now black from side to side, like extinguished coals. "Don't let this be for nothing," she said. "Finish the job."
 
-#figure(image("005_Episode 3: Inconceivable Losses/05.jpg", width: 100%), caption: [Art by: Andrey Kuzinskiy], supplement: none, numbering: none)
+#figure(image("005_Episode 3 Inconceivable Losses/05.jpg", width: 100%), caption: [Art by: Andrey Kuzinskiy], supplement: none, numbering: none)
 
 She swung her sword, and in that moment, she was a figure out of legend; in that moment, she could have cleaved the plane. And then, with a vast and terrible shattering, she did precisely that, and everything fell into darkness.
 

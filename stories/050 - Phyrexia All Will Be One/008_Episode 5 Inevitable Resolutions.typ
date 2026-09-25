@@ -9,7 +9,7 @@
 
 The sounds of battle faded behind them as Jace, Kaito, and Kaya delved deeper and deeper into the miniaturized recreation of Elesh Norn's citadel built inside the Seedcore. The space was airy and infinite, filled with shafts of buttery, obscenely golden light untainted by the horrors it had filtered through. Try as she might, Kaya couldn't even guess at the light's origin; there was no sun so far below the surface of what had been Mirrodin, no obvious source of the illumination, but still the halls and rooms around them shone, the air glittering with the dissonant harmony of the unseen Phyrexian choirs.
 
-#figure(image("008_Episode 5: Inevitable Resolutions/01.jpg", width: 100%), caption: [Art by: Marta Nael], supplement: none, numbering: none)
+#figure(image("008_Episode 5 Inevitable Resolutions/01.jpg", width: 100%), caption: [Art by: Marta Nael], supplement: none, numbering: none)
 
 Jace didn't look good. He was moving under his own power, but the wires growing through his flesh and bone were starting to break the skin, piercing through it and weaving themselves together in delicate loops, waving like cilia, even as they formed a shell around his arm. He had shifted the bag containing the sylex to the other side of his body, resting it against his hip as they hurried.
 
@@ -89,7 +89,7 @@ Jace glanced up at her, eyebrows raised in mild surprise.
 
 He sighed heavily, looking suddenly exhausted. "And there is no other way. Better to fulfill the promise of the sylex and scorch the branches, sweep it all away, than to lose the entire Multiverse. Bring the ending. Topple the empires to bring a fresh start. Renew it all."
 
-#figure(image("008_Episode 5: Inevitable Resolutions/02.jpg", width: 100%), caption: [Art by: L.A Draws], supplement: none, numbering: none)
+#figure(image("008_Episode 5 Inevitable Resolutions/02.jpg", width: 100%), caption: [Art by: L.A Draws], supplement: none, numbering: none)
 
 He began to lift the sylex into his lap.
 
@@ -227,7 +227,7 @@ Eyes wild, Elspeth turned toward Tyvar and the struggling Tibalt. Tyvar shook hi
 
 "I can handle this devil," he said. "He owes me a death for what he did to my plane. Go. Find the others. I'll be fine."
 
-#figure(image("008_Episode 5: Inevitable Resolutions/03.jpg", width: 100%), caption: [Art by: Kieran Yanner], supplement: none, numbering: none)
+#figure(image("008_Episode 5 Inevitable Resolutions/03.jpg", width: 100%), caption: [Art by: Kieran Yanner], supplement: none, numbering: none)
 
 The Glimmervoid metal was fading from his skin, and from Tibalt's as well, as the well of Tyvar's magic neared the point of running dry. Tibalt stabbed at him with his free tail, and Tyvar grabbed that one as well, bending them both backward with a strained grunt. Realizing what he was about to do, Tibalt tried to jerk away.
 
@@ -261,7 +261,7 @@ Jace turned to face her, his eyes ablaze with merciless blue light. Somehow, in 
 
 She didn't hesitate. In a single convulsive motion, she drove her blade through Jace and shoved him aside, letting his body take the sword with him as he fell and grabbing the sylex in her own hands.
 
-#figure(image("008_Episode 5: Inevitable Resolutions/04.jpg", width: 100%), caption: [Art by: Magali Villeneuve], supplement: none, numbering: none)
+#figure(image("008_Episode 5 Inevitable Resolutions/04.jpg", width: 100%), caption: [Art by: Magali Villeneuve], supplement: none, numbering: none)
 
 She had time to glance at Kaya and Kaito as light crested over the lip of the sylex and a sharp crack echoed through the room, marking her disappearance. The sylex went with her, bound for some unknown destination, some point beyond the Blind Eternities.
 
@@ -313,4 +313,4 @@ Tyvar bared his teeth, adjusting his grip on his daggers. To see another elf so 
 
 With that, Elesh Norn raised her hand, clicking her perfect claws together, and the invasion began.
 
-#figure(image("008_Episode 5: Inevitable Resolutions/05.jpg", width: 100%), caption: [Art by: Chris Rahn], supplement: none, numbering: none)
+#figure(image("008_Episode 5 Inevitable Resolutions/05.jpg", width: 100%), caption: [Art by: Chris Rahn], supplement: none, numbering: none)

@@ -11,7 +11,7 @@ Static, and screaming, and the sensation of falling forever.
 
 Elspeth had awakened alone on the soil of New Phyrexia, gripped by fear of the worst. They had clearly fallen into a trap. Was she the only one spared, once more a prisoner of Phyrexia?
 
-#figure(image("004_Episode 2: Unstable Foundations/01.jpg", width: 100%), caption: [Art by: Adam Burn], supplement: none, numbering: none)
+#figure(image("004_Episode 2 Unstable Foundations/01.jpg", width: 100%), caption: [Art by: Adam Burn], supplement: none, numbering: none)
 
 The thought barely had time to form before a cluster of Phyrexians charged over the crest of the hill. Elspeth grabbed her sword and rose to meet the threat, grateful they hadn't arrived while she was unconscious. She could so easily have been overwhelmed; the greatest warrior falls when caught off guard.
 
@@ -73,7 +73,7 @@ By the time their feet touched the surface, a crowd had begun to gather. The peo
 
 "Koth!" she cried. "Koth, I thought you were dead!"
 
-#figure(image("004_Episode 2: Unstable Foundations/02.jpg", width: 100%), caption: [Art by: Aurore Folny], supplement: none, numbering: none)
+#figure(image("004_Episode 2 Unstable Foundations/02.jpg", width: 100%), caption: [Art by: Aurore Folny], supplement: none, numbering: none)
 
 The larger Planeswalker caught her around the waist and swung her around, both laughing, bright with a levity that seemed to have little place in this burning terrain, in this bleakest of times. He was an imposing, dark-skinned man whose body was plated with stony armor, and the contrast between him and the slighter—though not much shorter—Elspeth was marked.
 
@@ -137,7 +137,7 @@ Kaya repressed a shudder as she glanced at the blasted, blackened landscape arou
 
 "Yes," said Jace. "We can still win."
 
-#figure(image("004_Episode 2: Unstable Foundations/03.jpg", width: 100%), caption: [Art by: Leanna Crossan], supplement: none, numbering: none)
+#figure(image("004_Episode 2 Unstable Foundations/03.jpg", width: 100%), caption: [Art by: Leanna Crossan], supplement: none, numbering: none)
 
 "Karn?" Elspeth came pushing her way through the others, Koth close behind her. "Has there been any news?"
 
@@ -177,7 +177,7 @@ Melira nodded. "How much do you know about what they've done to our geography?"
 
 Melira lobbed the rock at Nahiri. Halfway along its arc, it froze and broke into pieces, one of them smoothing to form the requested sphere. It moved away from the rest of the debris, beginning to rotate. Melira looked pleased.
 
-#figure(image("004_Episode 2: Unstable Foundations/04.jpg", width: 100%), caption: [Art by: Illustranesia], supplement: none, numbering: none)
+#figure(image("004_Episode 2 Unstable Foundations/04.jpg", width: 100%), caption: [Art by: Illustranesia], supplement: none, numbering: none)
 
 "This is the Seedcore," she said. "This is where we have to get you if you want to set off this sylex of yours."
 
@@ -283,7 +283,7 @@ Tyvar shrugged, turning a hex of metal that shone like impossibly tarnished merc
 
 "Time is all we need," said Tyvar.
 
-#figure(image("004_Episode 2: Unstable Foundations/05.jpg", width: 100%), caption: [Art by: Heonhwa Cho], supplement: none, numbering: none)
+#figure(image("004_Episode 2 Unstable Foundations/05.jpg", width: 100%), caption: [Art by: Heonhwa Cho], supplement: none, numbering: none)
 
 Kaito smiled, shaking his head. "If the metallurgy course can wait, we need to finish preparing," he said, breaking his sword into its individual throwing stars and meticulously running the hexgold whetstone along each edge.
 

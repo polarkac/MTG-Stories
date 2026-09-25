@@ -11,7 +11,7 @@ Elspeth picked up her pace to match Koth's, both moving as quickly as the debris
 
 The hole in the pristine sky above them was still visible, a jagged wound in the porcelain perfection of this place, boiling with every color of Phyrexia. They hurried through a war, and while no one could have called them untouched by its horrors, for the moment, they were too small to attract attention.
 
-#figure(image("007_Episode 4: Impossible Odds/01.jpg", width: 100%), caption: [Art by: Marc Simonetti], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Impossible Odds/01.jpg", width: 100%), caption: [Art by: Marc Simonetti], supplement: none, numbering: none)
 
 Elspeth shot a venomous glance at the warriors overhead. #emph[Just you wait] , she thought, as fiercely as she could. #emph[You'll regret what you've done to us.]
 
@@ -113,7 +113,7 @@ The doors of the altar gaped open before them, the terrible maw of an impossible
 
 "I feel very much as if we're walking into a trap right now," said Tyvar, voice hushed less out of respect for the space than out of a very realistic desire not to attract attention. Frozen Phyrexians studded the walls: Elesh Norn's most beloved subjects.
 
-#figure(image("007_Episode 4: Impossible Odds/02.jpg", width: 100%), caption: [Art by: Nino Vecia], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Impossible Odds/02.jpg", width: 100%), caption: [Art by: Nino Vecia], supplement: none, numbering: none)
 
 "That's because we probably are," said Kaya. "First we get scattered across the surface, then we find Vraska alive and able to hold on just long enough to scream for Jace? With Ajani on their side, they were able to anticipate our plan of attack. He knows too much about us. This Elesh Norn you keep invoking sounds smart enough to use him against us."
 
@@ -151,7 +151,7 @@ The group whipped around to see him clutching his stomach, split skin parting fa
 
 The Planeswalkers looked around the metal-laced landscape, columned in delicate mycosynth, but saw no structures aside from the one to their back.
 
-#figure(image("007_Episode 4: Impossible Odds/03.jpg", width: 100%), caption: [Art by: Andrew Mar], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Impossible Odds/03.jpg", width: 100%), caption: [Art by: Andrew Mar], supplement: none, numbering: none)
 
 "Where?" asked Elspeth.
 
@@ -231,7 +231,7 @@ Tyvar nodded, and—touching the piece of Glimmervoid metal—rippled to metal a
 
 The entryway led into a cavity inside the tree, a great domed room formed from woven roots. Dark passages split off from the chamber, with the large one directly ahead seeming to be the main channel. At the center of the space, atop a low dais, was Karn.
 
-#figure(image("007_Episode 4: Impossible Odds/04.jpg", width: 100%), caption: [Art by: Kasia 'Kafis' Zielińska], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Impossible Odds/04.jpg", width: 100%), caption: [Art by: Kasia 'Kafis' Zielińska], supplement: none, numbering: none)
 
 The great silver golem had been broken open, vivisected, and spread across the platform. Most horrifying of all, at the sound of their footsteps, he turned his head and croaked, "You shouldn't have come here. This place isn't for you."
 
@@ -331,7 +331,7 @@ Beside him, Tibalt was a nightmare of bony plates and protrusions connected by r
 
 "Very well then," said Tyvar, almost formally. "Shall we engage?"
 
-#figure(image("007_Episode 4: Impossible Odds/05.jpg", width: 100%), caption: [Art by: Filipe Pagliuso], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Impossible Odds/05.jpg", width: 100%), caption: [Art by: Filipe Pagliuso], supplement: none, numbering: none)
 
 Ajani roared as Elspeth leapt toward him, and Tibalt lunged for Tyvar as Glimmervoid metal rippled across the hero's skin, and the battle was joined.
 
