@@ -421,7 +421,7 @@ A rock tumbles in the distance, and Jace sees Vraska as she carries their prize 
 
 He's alive, impossibly. They had suspected he would be in a state of suspended animation but didn't expect him to be so young. Vraska carries him now, roly-poly as a toddler, and the boy (Tamiyo's text said it was a boy) seems all too happy to take in the world around them. He holds onto her desperately, and Jace wonders if he cannot remember his own parents.
 
-#figure(image("012_Epilogue 2: Bring the End, Part 2/01.jpg", width: 100%), caption: [Art by: Gaboleps], supplement: none, numbering: none)
+#figure(image("012_Epilogue 2 Bring the End, Part 2/01.jpg", width: 100%), caption: [Art by: Gaboleps], supplement: none, numbering: none)
 
 "Hello #emph[again] ," Vraska says with knowing mirth. "Thanks for taking the rubber mask off."
 

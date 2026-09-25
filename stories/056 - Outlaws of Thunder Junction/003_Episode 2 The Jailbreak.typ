@@ -33,7 +33,7 @@ Nostalgia rippled through her, taking the air right out of her lungs.
 
 Annie picked up the weapon, running her fingers over the familiar metal frame, and slung the strap over her shoulder. With two fingers, she whistled across the flat fields. The wind would carry the sound far—but it was magic that would make sure it reached her friend.
 
-#figure(image("003_Episode 2: The Jailbreak/01.png", width: 100%), caption: [Art by: Caroline Gariba], supplement: none, numbering: none)
+#figure(image("003_Episode 2 The Jailbreak/01.png", width: 100%), caption: [Art by: Caroline Gariba], supplement: none, numbering: none)
 
 Fortune slipped through the air, summoned by the bond between them. He let out a jovial whinny, dark eyes flashing when he spotted Annie's rifle.
 
@@ -265,7 +265,7 @@ Annie took one last look at the prison and followed Eriette and Kaervek back thr
 
 She hated to think what they'd do to each other as enemies—and with any luck, she'd never have to find out.
 
-#figure(image("003_Episode 2: The Jailbreak/02.png", width: 100%), caption: [Art by: Cristi Balanescu], supplement: none, numbering: none)
+#figure(image("003_Episode 2 The Jailbreak/02.png", width: 100%), caption: [Art by: Cristi Balanescu], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -391,7 +391,7 @@ Oko looked over his shoulder and found his crew standing in wait. Vraska stepped
 
 Rakdos slammed into the earth beside Ral, wings spread wide and the desert sun blaring behind him. Recognition spread across Ral's face, but before he could say anything at all, Rakdos swung a boulder-size fist into the lightning mage and sent him skidding off into the dust.
 
-#figure(image("003_Episode 2: The Jailbreak/03.png", width: 100%), caption: [Art by: Victor Maury], supplement: none, numbering: none)
+#figure(image("003_Episode 2 The Jailbreak/03.png", width: 100%), caption: [Art by: Victor Maury], supplement: none, numbering: none)
 
 Tinybones took the opportunity to scramble for a guard's pocket watch, holding it up to the light in triumph. His satisfied giggle made all his bones rattle.
 

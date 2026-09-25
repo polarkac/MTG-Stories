@@ -103,7 +103,7 @@ Cresting over the hill was row upon row of mercenaries. Their silver armor refle
 
 Kellan's forehead creased as his eyes darted around the space trying to understand what was happening. Akul didn't wait for an explanation; he unleashed a charge toward the first row of mercenaries, splintering a nearby building. The Sterling Company opened fire, and Hellspurs poured from the hills with their rifles and steel. Thunder and fire ripped the world apart around them.
 
-#figure(image("009_Episode 5: High Moon/01.png", width: 100%), caption: [Art by: Xabi Gaztelua], supplement: none, numbering: none)
+#figure(image("009_Episode 5 High Moon/01.png", width: 100%), caption: [Art by: Xabi Gaztelua], supplement: none, numbering: none)
 
 Kellan searched the chaos for his father. He expected to find him still bound with iron restraints and held back by Hellspurs—instead, Oko appeared strangely calm, watching as the last bone on his vest fell to the ground. Oko cracked his head against the Hellspur behind him just as Tinybones appeared, reassembled out of the fallen bones of Oko's armor. The little creature reached into his ribcage and pulled out a key, freeing the rest of the crew.
 
@@ -267,4 +267,4 @@ But Kellan didn't owe them anything. Not anymore.
 
 Kellan clasped his hand over Ral's. "I'm with you," he said, unflinching.
 
-#figure(image("009_Episode 5: High Moon/02.png", width: 100%), caption: [Art by: Wylie Beckert], supplement: none, numbering: none)
+#figure(image("009_Episode 5 High Moon/02.png", width: 100%), caption: [Art by: Wylie Beckert], supplement: none, numbering: none)

@@ -159,7 +159,7 @@ The train sped across the golden desert, sun blazing through the elongated glass
 
 If anything went wrong …
 
-#figure(image("005_Episode 3: A Train to Prosperity/01.png", width: 100%), caption: [Art by: Leon Tukker], supplement: none, numbering: none)
+#figure(image("005_Episode 3 A Train to Prosperity/01.png", width: 100%), caption: [Art by: Leon Tukker], supplement: none, numbering: none)
 
 Oko placed a hand on Kellan's shoulder. "Try not to look so terrified," his father drawled, too low for anyone else to hear. "We're supposed to be blending in."
 
@@ -243,7 +243,7 @@ Kellan's heart pinched as he watched Oko's brow furrow. Even Umezawa paused at t
 
 Gisa's cackle exploded through the telepathic channel. #emph["You see, dear brother? Doubt me all you want—I will always prove I'm more powerful than you."]
 
-#figure(image("005_Episode 3: A Train to Prosperity/02.png", width: 100%), caption: [Art by: Chris Seaman], supplement: none, numbering: none)
+#figure(image("005_Episode 3 A Train to Prosperity/02.png", width: 100%), caption: [Art by: Chris Seaman], supplement: none, numbering: none)
 
 #emph["Oko, you've got guards moving for the back of the train,"]  Malcolm said quickly. #emph["You better find somewhere to hide if you want to keep the element of surprise."]
 

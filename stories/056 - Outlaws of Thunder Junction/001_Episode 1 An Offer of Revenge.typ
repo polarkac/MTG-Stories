@@ -51,7 +51,7 @@ The group parted down the middle, making way for a large figure who stalked forw
 
 #emph[Akul.]
 
-#figure(image("001_Episode 1: An Offer of Revenge/01.png", width: 100%), caption: [Art by: Kekai Kotaki], supplement: none, numbering: none)
+#figure(image("001_Episode 1 An Offer of Revenge/01.png", width: 100%), caption: [Art by: Kekai Kotaki], supplement: none, numbering: none)
 
 The dragon clacked his strange mandibles, pulled his tail back, and cracked it against the carriage like a whip, splitting what was left of the vehicle in two.
 
@@ -107,7 +107,7 @@ A pang of dread roiled through her. She hated that a monster like Akul was wreak
 
 Akul wasn't someone she'd ever cross again. But she was happy to take the money he'd left behind.
 
-#figure(image("001_Episode 1: An Offer of Revenge/02.png", width: 100%), caption: [Art by: Kieran Yanner], supplement: none, numbering: none)
+#figure(image("001_Episode 1 An Offer of Revenge/02.png", width: 100%), caption: [Art by: Kieran Yanner], supplement: none, numbering: none)
 
 Annie picked up the lockbox, tucked it safely in one of the saddlebags, and brushed a glowing wisp of mane from Fortune's eyes.
 
@@ -207,7 +207,7 @@ Pointed lanterns hung all around him, trailing down wires and ropes like a casca
 
 Kellan wiped the sweat from his brow with the back of his hand and looked over his shoulder at what was quickly becoming his new favorite view. The Omenpath sat wedged between the enormous rockface, crackling with blue energy. It was hard to believe it had only been a few weeks since he'd stepped through the portal.
 
-#figure(image("001_Episode 1: An Offer of Revenge/03.png", width: 100%), caption: [Art by: Magali Villeneuve], supplement: none, numbering: none)
+#figure(image("001_Episode 1 An Offer of Revenge/03.png", width: 100%), caption: [Art by: Magali Villeneuve], supplement: none, numbering: none)
 
 Even in the daylight, Omenport looked nothing like Eldraine. But Kellan didn't look at the orange and yellow landscape and feel homesick. He felt #emph[hope] .
 
@@ -237,7 +237,7 @@ Some of the workers in the pit screamed. Others pointed in shock.
 
 Kellan didn't hesitate. Golden dust burst from his feet as he flew toward the man and wrapped his arms around him midair, plucking him from the sky like a piece of fruit before lowering him gently to the ground.
 
-#figure(image("001_Episode 1: An Offer of Revenge/04.png", width: 100%), caption: [Art by: Raymond Bonilla], supplement: none, numbering: none)
+#figure(image("001_Episode 1 An Offer of Revenge/04.png", width: 100%), caption: [Art by: Raymond Bonilla], supplement: none, numbering: none)
 
 The worker sputtered a few words of gratitude, teeth chattering with fear, when Ral appeared. His eyes darted from the tower to the man, then back again.
 

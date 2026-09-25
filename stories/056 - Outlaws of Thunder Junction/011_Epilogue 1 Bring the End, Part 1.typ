@@ -249,7 +249,7 @@ And finally, the fifth part of Jace's mind remembers that he knows a healer, and
 
 Carrying his beloved, he returns to the plane he had just left.
 
-#figure(image("011_Epilogue 1: Bring the End, Part 1/01.png", width: 100%), caption: [Art by: Fajareka Setiawan], supplement: none, numbering: none)
+#figure(image("011_Epilogue 1 Bring the End, Part 1/01.png", width: 100%), caption: [Art by: Fajareka Setiawan], supplement: none, numbering: none)
 
 The Blind Eternities for Jace have always appeared to him as a mind does: endlessly intricate layers of glass, curving and overlapping, both mathematic and emotional at once. The mind is not a logical place; we each contain a madness of biological impulse and nature-trained response. The aether of the place between places always appeared to Jace the same way, as a chaotic and beautiful place as illogical as it is fragile.
 

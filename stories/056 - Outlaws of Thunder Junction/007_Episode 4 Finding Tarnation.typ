@@ -41,7 +41,7 @@ A breeze tumbled through the hills, making the fire shudder. Shadows pooled behi
 
 Ashiok lifted their hands above the Outcaster's head, fishing for secrets with the lure of magic. Their fingers moved slow and deliberate. Memories were pulled out of Nolan's mind, leaving streaks of silver threads in the air.
 
-#figure(image("007_Episode 4: Finding Tarnation/01.png", width: 100%), caption: [Art by: Miranda Meeks], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Finding Tarnation/01.png", width: 100%), caption: [Art by: Miranda Meeks], supplement: none, numbering: none)
 
 Kellan's skin prickled with concern.
 
@@ -217,7 +217,7 @@ The boy nodded. "Alright. I'll do it."
 
 Oko feigned gratitude, but he wasn't the least bit surprised. Kellan craved his attention. He wanted #emph[acceptance] . Flattery, it seemed, was the key to keeping his son on his side.
 
-#figure(image("007_Episode 4: Finding Tarnation/02.png", width: 100%), caption: [Art by: Fariba Khamseh], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Finding Tarnation/02.png", width: 100%), caption: [Art by: Fariba Khamseh], supplement: none, numbering: none)
 
 He needed the boy's help, in more ways than he was prepared to explain. And Kellan was willing to oblige him, freely and without question, all because Oko was family. A stranger in almost every way except blood—but to Kellan, that was enough. That kind of allegiance? It was the one thing Oko #emph[was ] grateful for. He just needed to make sure it would last.
 

@@ -195,7 +195,7 @@ Sparks flew nearby. The conversation between Vraska and Ral had escalated.
 
 Oko gripped the medallion tightly. "There's something you should know about me," he said carefully, facing his son. There was no illusion of kindness. No half-truths to disguise himself. He was showing Kellan a part of him that existed deep in his very core. "#emph[I don't like people telling me what to do.] "
 
-#figure(image("010_Episode 6: The Ballad of Thieves and Thunderslingers/01.png", width: 100%), caption: [Art by: Andreas Zafiratos], supplement: none, numbering: none)
+#figure(image("010_Episode 6 The Ballad of Thieves and Thunderslingers/01.png", width: 100%), caption: [Art by: Andreas Zafiratos], supplement: none, numbering: none)
 
 Oko was pulling a hand back to throw another set of vines toward Kellan when thunder grazed his shoulder. He stumbled back, clutching his arm as he sucked air through his teeth.
 
@@ -219,7 +219,7 @@ Vraska tilted her head toward the door with an impatient huff. "Let's just get t
 
 Oko held the key to the center lock. The metal gave a shudder before snapping into place. The spikes stretched out into the glowing door, clicking and turning as the center spun in an erratic pattern.
 
-#figure(image("010_Episode 6: The Ballad of Thieves and Thunderslingers/02.png", width: 100%), caption: [Art by: Leon Tukker], supplement: none, numbering: none)
+#figure(image("010_Episode 6 The Ballad of Thieves and Thunderslingers/02.png", width: 100%), caption: [Art by: Leon Tukker], supplement: none, numbering: none)
 
 Each piece of the key broke apart, moving in opposite directions. The light pulled back like a curtain; there was nothing left to block the way.
 
