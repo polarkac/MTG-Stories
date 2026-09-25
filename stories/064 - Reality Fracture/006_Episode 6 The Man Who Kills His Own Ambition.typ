@@ -171,7 +171,7 @@ The doppelgänger looks her over, studying her with a discerning eye. Unsatisfie
 
 "Dad says hi," says her double, and the air drops to a sudden chill as great jagged icicles suddenly appear all around them.
 
-#figure(image("006_Episode 6: The Man Who Kills His Own Ambition/01.jpg", width: 100%), caption: [Icy Reception | Art by: Borja Pindado], supplement: none, numbering: none)
+#figure(image("006_Episode 6 The Man Who Kills His Own Ambition/01.jpg", width: 100%), caption: [Icy Reception | Art by: Borja Pindado], supplement: none, numbering: none)
 
 Chandra leaps out the window, the only place not suddenly full of stabbing shards of ice, and falls. She lands in a courtyard, legs splayed, but with adrenaline and practice she swoops her feet beneath her and rises to a fighting stance. Her clothes are stiff with frost, and when she tries to step forward, she sees that her feet have frozen in place. The other Chandra hops down gracefully.
 
@@ -185,7 +185,7 @@ Tired, broken, frozen to the ground, Chandra watches helplessly as doubles of th
 
 "You, without mercy," Chandra says to Ajani, motioning toward a hulking leonin wielding two axe heads on a chain to the far right of the group. One axe scrapes the side of a statue, its edge sharp enough to cleave off a stone finger without effort.
 
-#figure(image("006_Episode 6: The Man Who Kills His Own Ambition/02.jpg", width: 100%), caption: [Art by: Manuel Castañón], supplement: none, numbering: none)
+#figure(image("006_Episode 6 The Man Who Kills His Own Ambition/02.jpg", width: 100%), caption: [Art by: Manuel Castañón], supplement: none, numbering: none)
 
 "Mine embraced the Chain Veil," Garruk growls, easing his weary, twitching muscles to grasp his axe as best he can. In the distance, his double emerges, an ogre's skull on his right pauldron and the violet glow of the Chain Veil across his features. He walks tall and confident, shadows of beasts curling at his feet.
 

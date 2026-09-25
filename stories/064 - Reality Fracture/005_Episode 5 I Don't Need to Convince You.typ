@@ -9,7 +9,7 @@
 
 == THE FIRST ATTEMPT
 
-#figure(image("005_Episode 5: I Don't Need to Convince You/01.jpg", width: 100%), caption: [Charge the Sanctum | Art by: Néstor Ossandón Leal], supplement: none, numbering: none)
+#figure(image("005_Episode 5 I Don't Need to Convince You/01.jpg", width: 100%), caption: [Charge the Sanctum | Art by: Néstor Ossandón Leal], supplement: none, numbering: none)
 
 The Theorist drops his pen as soon as he feels her approach up the stairs. Through the eyes of a statue, through wards in each keyhole doorway, through the singular presence she brings with her psyche—with his many eyes he watches her approach.
 
@@ -297,7 +297,7 @@ His eyes blaze, his head tilts with understanding. Meaning illuminates his mind,
 
 "I don't need to convince you,#strong["]  he commands, dark and gentle.
 
-#figure(image("005_Episode 5: I Don't Need to Convince You/02.jpg", width: 100%), caption: [Compel Brutality | Art by: Danny Schwartz], supplement: none, numbering: none)
+#figure(image("005_Episode 5 I Don't Need to Convince You/02.jpg", width: 100%), caption: [Compel Brutality | Art by: Danny Schwartz], supplement: none, numbering: none)
 
 All four of them halt in their tracks. They look at one another, then slowly turn back to him.
 
@@ -331,7 +331,7 @@ Chandra rushes him first. He sees her hold out her hand, arched forward and fing
 
 The pyromancer slows, grinds to an unsteady halt as if her limbs were thick with syrup. Her eyes are the only parts of her moving quickly. They dart, searching for an answer. She is immobile, paralyzed. "What do I do?" she croaks out to anyone who can hear, unable to make eye contact. "What do I do?"
 
-#figure(image("005_Episode 5: I Don't Need to Convince You/03.jpg", width: 100%), caption: [Art by: Anna Podedworna], supplement: none, numbering: none)
+#figure(image("005_Episode 5 I Don't Need to Convince You/03.jpg", width: 100%), caption: [Art by: Anna Podedworna], supplement: none, numbering: none)
 
 Garruk seems to know what to do. The lumbering mass charges forward with his axe held high. The Theorist remembers—this one can see through illusion. No matter. There are much worse ways to die. In a millisecond, he's inside the druid's head, sensing for the flashes of electricity that signal where mind communicates to muscle. Each of those flashes, each of those journeymen carrying orders, the Theorist wills them to stop, to sleep. The electricity fizzles wildly, sparks making it through in bursts and starts, and the Theorist is pleased with his calamity, exiting as swiftly as he arrived.
 

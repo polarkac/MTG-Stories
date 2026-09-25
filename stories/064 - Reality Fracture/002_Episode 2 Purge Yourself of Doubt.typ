@@ -66,7 +66,7 @@ Tam sees the courtyard beyond, how it's smothered in moonlight. No birds to be s
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("002_Episode 2: Purge Yourself of Doubt/01.jpg", width: 100%), caption: [Solitary Cell | Art by: Andrea Piparo], supplement: none, numbering: none)
+#figure(image("002_Episode 2 Purge Yourself of Doubt/01.jpg", width: 100%), caption: [Solitary Cell | Art by: Andrea Piparo], supplement: none, numbering: none)
 
 There isn't anything alive in Liliana's cell except for herself. The silence is maddening—the only heartbeat is her own, the only swill of life whatever bacteria roil in her gut. She can feel them gurgling around, too tiny to be useful. She listens to nothing. It is a cloying silence where every noise is not only self-produced but loud enough to prickle her skin and wriggle discomfort in her neck. Her own skin cells aren't alive enough to be dead enough. Her only food for days has been #emph[fruit] . Liliana is denied all footholds of necromantic power here; she weighs screaming for the sake of something to do.
 

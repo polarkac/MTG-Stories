@@ -231,7 +231,7 @@ She turns back to Garruk. "I think we can help you out."
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("003_Episode 3: I Can Be Both/01.jpg", width: 100%), caption: [Cast Away Doubt | Art by: Zara Alfonso], supplement: none, numbering: none)
+#figure(image("003_Episode 3 I Can Be Both/01.jpg", width: 100%), caption: [Cast Away Doubt | Art by: Zara Alfonso], supplement: none, numbering: none)
 
 Here, in one of the many memory-prisons of the tower, is the part of Jace that is honest about himself.
 

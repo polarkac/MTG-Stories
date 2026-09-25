@@ -291,7 +291,7 @@ By then, Vraska has finished her book and made a tiny pyramid of stones out of b
 
 From thin air, two humans and a leonin appear.
 
-#figure(image("004_Episode 4: Oh, Sweetie/01.jpg", width: 100%), caption: [Art by: Darren Tan], supplement: none, numbering: none)
+#figure(image("004_Episode 4 Oh, Sweetie/01.jpg", width: 100%), caption: [Art by: Darren Tan], supplement: none, numbering: none)
 
 "What took you so long?" Vraska groans. The other three slough off what looks like a thin layer of green slime.
 
@@ -407,7 +407,7 @@ Chandra snuffs her flames. "Lili's nice, you know."
 
 The heap of fabric on the ground shifts. The false Liliana hoists herself up. She places her manicured right hand on her clearly broken jaw. With a gentle white glow, it snaps back into place.
 
-#figure(image("004_Episode 4: Oh, Sweetie/02.jpg", width: 100%), caption: [Generous Revival | Art by: Alessandra Pisano], supplement: none, numbering: none)
+#figure(image("004_Episode 4 Oh, Sweetie/02.jpg", width: 100%), caption: [Generous Revival | Art by: Alessandra Pisano], supplement: none, numbering: none)
 
 "How are you—" Vraska sputters.
 

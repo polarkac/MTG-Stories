@@ -7,7 +7,7 @@
     doc
 )
 
-#figure(image("009_Episode 9: Unafraid/01.jpg", width: 100%), caption: [Art by: Adam Paquette], supplement: none, numbering: none)
+#figure(image("009_Episode 9 Unafraid/01.jpg", width: 100%), caption: [Art by: Adam Paquette], supplement: none, numbering: none)
 
 Meanwhile, the worlds begin to overlay.
 
@@ -43,7 +43,7 @@ But what can she do about the overlay? She runs, and thinks. The Theorist taught
 
 Tam pauses in the throng of cadets and students, blank-eyed Hexhaven and terrified Strixhaven alike, and reaches with her mind. She feels for the edges of the Echoverse high above and can sense its seam. She grimaces, and tries to push, to no avail. A thousand threads of connection are woven between this world and that. The sky is filled with falling debris and panicking sphinxes. It is hard to tell which parts belong to this world and which belong to the original. A handful of Konstrari cadets attempt to move the pieces midair, nudging them to fall as keystones in arches or alongside existing buildings.
 
-#figure(image("009_Episode 9: Unafraid/02.jpg", width: 100%), caption: [Art by: Andrea Piparo], supplement: none, numbering: none)
+#figure(image("009_Episode 9 Unafraid/02.jpg", width: 100%), caption: [Art by: Andrea Piparo], supplement: none, numbering: none)
 
 Somewhere in the screams of the crowd, she hears a single voice. It stops her in her tracks. The crowd moves around her as a river around a rock.
 
@@ -139,7 +139,7 @@ Tam feels small. She's only one mage. She's not a peerless telepath. She's an ap
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("009_Episode 9: Unafraid/03.jpg", width: 100%), caption: [Art by: Ekaterina Burmak], supplement: none, numbering: none)
+#figure(image("009_Episode 9 Unafraid/03.jpg", width: 100%), caption: [Art by: Ekaterina Burmak], supplement: none, numbering: none)
 
 The final memory room is not a trap but a reunion.
 
@@ -187,7 +187,7 @@ Vraska runs for the nearby rubble and drags the suit of armor's shield out with 
 
 Whatever negative feelings have been roiling in Chandra vanish as soon as Vraska says #emph[launch] . Her face erupts in a ferocious grin. "Oh, I know this trick! Just tell me when to fire."
 
-#figure(image("009_Episode 9: Unafraid/04.jpg", width: 100%), caption: [Blazing Crescendo | Art by: Billy Christian], supplement: none, numbering: none)
+#figure(image("009_Episode 9 Unafraid/04.jpg", width: 100%), caption: [Blazing Crescendo | Art by: Billy Christian], supplement: none, numbering: none)
 
 The dragon lumbers forward, and from their side of the wall within the maze they can tell it hasn't taken notice of their machinations. Vraska hears Garruk and Ajani, the clash of their axes, the laugh of the other Vraska high above.
 
@@ -215,7 +215,7 @@ She watches the statue, sees its head turn to face them. The gorgon on top flinc
 
 Chandra's explosion takes her breath away, and the propulsion beneath her feet vibrates through her shinbones. She is launched, and the wind—the wind! It hisses past her head, and her breath catches in her chest as she is thrust high into the air.
 
-#figure(image("009_Episode 9: Unafraid/05.jpg", width: 100%), caption: [Art by: Kieran Yanner], supplement: none, numbering: none)
+#figure(image("009_Episode 9 Unafraid/05.jpg", width: 100%), caption: [Art by: Kieran Yanner], supplement: none, numbering: none)
 
 The dragon turns below her, and Vraska tucks her head to roll on impact.
 
@@ -319,7 +319,7 @@ A nearby portal glows, and this Multiverse's Vraska steps through. She smiles, m
 
 The Theorist opens his mouth to address Liliana, but he doesn't get a word out before the reanimated corpse of Professor Opal tackles him. He hits the floor in a daze, head cracking against the tiles.
 
-#figure(image("009_Episode 9: Unafraid/06.jpg", width: 100%), caption: [Art by: Johan Grenier], supplement: none, numbering: none)
+#figure(image("009_Episode 9 Unafraid/06.jpg", width: 100%), caption: [Art by: Johan Grenier], supplement: none, numbering: none)
 
 The distant self among the cosmos vanishes, but the worlds continue to weave themselves together.
 
@@ -387,7 +387,7 @@ Vraska guides him down. They lie back, her legs curled around him. The Ochran da
 
 "Did it work?" Vraska asks.
 
-#figure(image("009_Episode 9: Unafraid/07.jpg", width: 100%), caption: [Art by: Magali Villeneuve], supplement: none, numbering: none)
+#figure(image("009_Episode 9 Unafraid/07.jpg", width: 100%), caption: [Art by: Magali Villeneuve], supplement: none, numbering: none)
 
 Jace knows it did. But before he says so, he looks at each of his rescuers, his opponents, his friends. One by one, he gifts them what he needs them to hear.
 

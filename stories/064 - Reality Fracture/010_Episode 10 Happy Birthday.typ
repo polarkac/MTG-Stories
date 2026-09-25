@@ -85,7 +85,7 @@ A sensation—godlike amusement, an iceberg groaning, a giant plucking the wing 
 
 Tam was confident, but now she's terrified. Nevertheless, she holds tight to the connection, determined. #emph[There is a Multiverse that must be consumed. It is an illusion made real. It is not natural, but it]  is #emph[corporeal. Will you feast at my invitation?]
 
-#figure(image("010_Episode 10: Happy Birthday/01.jpg", width: 100%), caption: [Art by: Bryan Sola], supplement: none, numbering: none)
+#figure(image("010_Episode 10 Happy Birthday/01.jpg", width: 100%), caption: [Art by: Bryan Sola], supplement: none, numbering: none)
 
 The angel, the monster, sends back the impression of warmth. #emph[Yes] , she smiles, #emph[I have been waiting so long to be once again what I am.]
 
@@ -113,7 +113,7 @@ The clouds peel to either side; the air crackles. She tastes ozone on her tongue
 
 Emrakul engulfs the sky.
 
-#figure(image("010_Episode 10: Happy Birthday/02.jpg", width: 100%), caption: [Emrakul, the Exigent Doom | Art by: Cristi Balanescu], supplement: none, numbering: none)
+#figure(image("010_Episode 10 Happy Birthday/02.jpg", width: 100%), caption: [Emrakul, the Exigent Doom | Art by: Cristi Balanescu], supplement: none, numbering: none)
 
 Tentacles writhe, gripping something that Tam cannot see, and the mass of wriggling flesh parts to reveal a lone silver eye. The horizon cannot contain her. Tam's mind cannot comprehend where she ends and begins. The immensity of the Eldrazi dares Tam to try and make sense of it.
 
@@ -287,7 +287,7 @@ The wave of psychic energy hits one final time.
 
 Tam grips her temples as the rest of her settles into place. Her cleverness shines and glimmers, stretching across her mind like constellations in a starlit sky. Her outlook fills as a dark, alluring lake in her heart, a deep understanding of the meaninglessness—and meaning—of it all. High up, near that starry sky, stands a tower, a place to watch from … and discover far-flung truths. Around her is a fence, an unbreakable barrier, from behind which she can keep her soul safe. Her mind is secured with the fortifications of a survivor; her hands tremble with the sense memory of a thousand handshakes and diplomacies; the space at her hip tingles with emptiness, having never known holster or knife; and closest to her heart is the assurance that no matter how little she has, she may #emph[always]  start over.
 
-#figure(image("010_Episode 10: Happy Birthday/03.jpg", width: 100%), caption: [Art by: Justyna Dura], supplement: none, numbering: none)
+#figure(image("010_Episode 10 Happy Birthday/03.jpg", width: 100%), caption: [Art by: Justyna Dura], supplement: none, numbering: none)
 
 Tam is complete. She is forever unfinished. She is a summary. She is just a person. And that is all she needs to be.
 

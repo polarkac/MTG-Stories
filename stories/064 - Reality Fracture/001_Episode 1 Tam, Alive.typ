@@ -7,7 +7,7 @@
     doc
 )
 
-#figure(image("001_Episode 1: Tam, Alive/01.jpg", width: 100%), caption: [Art by: Cynthia Sheppard], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Tam, Alive/01.jpg", width: 100%), caption: [Art by: Cynthia Sheppard], supplement: none, numbering: none)
 
 The first time Tam opens her eyes, an exhausted man looks back at her with undiluted awe. He blinks too fast, his lips part, a sudden laugh escapes him.
 
@@ -239,7 +239,7 @@ Tam swallows. The praestigial theory is bold, but the method turns her stomach. 
 
 "The origin of a Multiverse. The fusion of two different planes into a single new one. That's how we make ours real."
 
-#figure(image("001_Episode 1: Tam, Alive/02.jpg", width: 100%), caption: [Perfected Theory | Art by: Marta Nael], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Tam, Alive/02.jpg", width: 100%), caption: [Perfected Theory | Art by: Marta Nael], supplement: none, numbering: none)
 
 Tam feels a tightness in her chest. Jadzi has to die so the Theorist can follow her consciousness back to the start. "Is it pertinent to the experiment for the oracle to be terminated?"
 

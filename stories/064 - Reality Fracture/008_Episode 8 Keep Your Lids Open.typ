@@ -163,7 +163,7 @@ At last, the man who was the Living Guildpact nods with satisfaction. He flips a
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("008_Episode 8: Keep Your Lids Open/01.jpg", width: 100%), caption: [Something Worth Saving | Art by: Pindurski], supplement: none, numbering: none)
+#figure(image("008_Episode 8 Keep Your Lids Open/01.jpg", width: 100%), caption: [Something Worth Saving | Art by: Pindurski], supplement: none, numbering: none)
 
 The last aberration stands on an empty beach.
 
@@ -313,7 +313,7 @@ He cries out in agony, and in the privacy of her mind, Jadzi appears in the stor
 
 "It's all so easy for you, isn't it?" she says, her throat gleaming with still-pouring blood. "You're the part that lacks perspective." The Theorist tries to pull away, but her grip is a vise. "Keep your lids open."
 
-#figure(image("008_Episode 8: Keep Your Lids Open/02.jpg", width: 100%), caption: [Prophesied End | Art by: A. M. Sartor], supplement: none, numbering: none)
+#figure(image("008_Episode 8 Keep Your Lids Open/02.jpg", width: 100%), caption: [Prophesied End | Art by: A. M. Sartor], supplement: none, numbering: none)
 
 And as Jadzi's mortal body dies, the Theorist's consciousness is
 
@@ -403,7 +403,7 @@ For a moment, he wonders where Vraska is. But not for one second does he stop.
 
 The Theorist feels for the edge of this Multiverse as if it were a great blanket, plucking at its corners and feeling space-time slide through his fingers. He tugs and pulls, dragging that great fabric over the hard stone of the old Multiverse. As he links the two, vertical threads tie upward and down, connecting one to one, each to each, world to world, atom to atom.
 
-#figure(image("008_Episode 8: Keep Your Lids Open/03.jpg", width: 100%), caption: [Overwrite the Multiverse | Art by: Ryan Pancoast], supplement: none, numbering: none)
+#figure(image("008_Episode 8 Keep Your Lids Open/03.jpg", width: 100%), caption: [Overwrite the Multiverse | Art by: Ryan Pancoast], supplement: none, numbering: none)
 
 And as he weaves, the inner attack continues.
 

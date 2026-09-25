@@ -149,7 +149,7 @@ Tam, very wisely, takes a few steps back.
 
 An unearthly screech. The undead remains of a one-winged chicken bolt out of Liliana's cell and down the hall. Professor Opal screams, but the sound is quickly drowned out by what can only be described as an eruption of rats. Thousands of them in varying states of decay squeeze out from the stonework, pour from the mouth of the giant head, spill from the ceiling, scramble toward Jadzi's cell, and only when Opal's screeches reach their highest register does the curtain call kick in.
 
-#figure(image("007_Episode 7: Pick Up the Pieces/01.jpg", width: 100%), caption: [Liliana the Faultless and Liliana the Repentant | Art by: Marta Nael], supplement: none, numbering: none)
+#figure(image("007_Episode 7 Pick Up the Pieces/01.jpg", width: 100%), caption: [Liliana the Faultless and Liliana the Repentant | Art by: Marta Nael], supplement: none, numbering: none)
 
 The weight of the rats bursts open the bars, and Liliana emerges, hands glowing violet, manic pleasure stretched across her face. She holds aloft a half-eaten wing, then moans as she tears into it.
 
@@ -509,7 +509,7 @@ The boy blinks. "Our friends …"
 
 The boy pulls in close, stuffs his head against the leather of Garruk's breastplate. The intimacy is alarming, but Garruk does not move. He thinks of other youths, of twins. He thinks of how he hasn't once stopped to question if he's the best person to kneel and help this sad, empty boy.
 
-#figure(image("007_Episode 7: Pick Up the Pieces/02.jpg", width: 100%), caption: [Restore with Empathy | Art by: Eelis Kyttanen], supplement: none, numbering: none)
+#figure(image("007_Episode 7 Pick Up the Pieces/02.jpg", width: 100%), caption: [Restore with Empathy | Art by: Eelis Kyttanen], supplement: none, numbering: none)
 
 Garruk turns to the others behind him, and his voice rumbles over the patter of rain and the sting of his own migraine. "I will protect the child."
 
@@ -537,4 +537,4 @@ He grits his teeth and runs for the portal, halts his steps and edges back towar
 
 But it is only as they are passing through the portal that they see Vraska standing on the edge of the building, compelled by the sphinx to spread her arms wide. And as easily as one would step off the last stair, she steps over the edge.
 
-#figure(image("007_Episode 7: Pick Up the Pieces/03.jpg", width: 100%), caption: [Memory Trap | Art by: Ekaterina Burmak], supplement: none, numbering: none)
+#figure(image("007_Episode 7 Pick Up the Pieces/03.jpg", width: 100%), caption: [Memory Trap | Art by: Ekaterina Burmak], supplement: none, numbering: none)
