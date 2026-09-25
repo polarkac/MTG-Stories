@@ -9,7 +9,7 @@
 
 In the seemingly endless halls of the Biblioplex, where arcane knowledge from countless worlds lined shelves that had seen the rise and fall of empires, it seemed as though the only sound on the whole plane of Arcavios was the #emph[click ] of heel on stone. Professor Onyx, as she was known here, took a deep breath as she walked, inhaling the smell of old paper and the familiar ozone that always seemed to accompany magic. She needed a break from yet another insufferable meeting. For all the wisdom and learning in this place, it was populated with some remarkably thickheaded individuals.
 
-#figure(image("001_Episode 1: Class Is in Session/01.jpg", width: 100%), caption: [Professor Onyx | Art by: Kieran Yanner], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Class Is in Session/01.jpg", width: 100%), caption: [Professor Onyx | Art by: Kieran Yanner], supplement: none, numbering: none)
 
 Case in point: despite her considerable renown throughout the Multiverse, the other professors of Strixhaven hadn't recognized Liliana Vess when she introduced herself by an entirely different name. That hadn't surprised her. The school had always been that way, even since she'd been a student so many years ago; always wrapped up in its own little problems.
 
@@ -157,7 +157,7 @@ Will smiled as he followed his sister toward the looming gates. They were massiv
 
 He'd only taken a few steps when he abruptly realized Kasmina wasn't following them. He and Rowan turned and looked back, curious. "Aren't you coming?"
 
-#figure(image("001_Episode 1: Class Is in Session/02.jpg", width: 100%), caption: [Art by: Brian Valeza], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Class Is in Session/02.jpg", width: 100%), caption: [Art by: Brian Valeza], supplement: none, numbering: none)
 
 "Oh, no," Kasmina said, shaking her head. She looked to her owl, and the bird took off, flying toward the Biblioplex. "I have other matters to attend to. Look for an owlin called Mavinda Sharpbeak. She will help you get settled in."
 
@@ -187,7 +187,7 @@ Before Will could form a response, shouts rang out from farther inside the campu
 
 "Hey!" called Will, starting after her. "Wait up!"
 
-#figure(image("001_Episode 1: Class Is in Session/03.jpg", width: 100%), caption: [Art by: Manuel Castañón], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Class Is in Session/03.jpg", width: 100%), caption: [Art by: Manuel Castañón], supplement: none, numbering: none)
 
 They raced around a corner only to skid to a stop at the entrance to a smaller courtyard. Inside, a crowd watched as two groups of students flung spells across a grassy field, the bolts of light and color zipping and spiraling through the air as they narrowly missed their targets. One spell impacted a girl in red and blue and she started to float, kicking her legs helplessly and waving her arms. Laughter and applause rose up from the crowd.
 
@@ -335,7 +335,7 @@ After a moment, Rowan turned and left. Will grabbed his books and hurried after 
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("001_Episode 1: Class Is in Session/04.jpg", width: 100%), caption: [Art by: Piotr Dura], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Class Is in Session/04.jpg", width: 100%), caption: [Art by: Piotr Dura], supplement: none, numbering: none)
 
 On a bench along a scenic campus courtyard, Kasmina watched her owl returning from the dormitories. She could still see the twins in her mind, their images a bit warped from the shape of those avian eyes. Strixhaven would offer many possibilities for them both. She just needed to see which ones they would take.
 

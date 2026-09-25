@@ -9,7 +9,7 @@
 
 The bellowing of the thing in the Snarl was like nothing Will had ever heard before. The roar reached down into his heart, promising every variety of violence and death. With each moment that passed, the creature dragged itself a little farther out of the vortex of power. Above Will and Rowan, a rafter plummeted to the floor, crashing with a phenomenal sound inches from their feet.
 
-#figure(image("008_Episode 5: Final Exam/01.jpg", width: 100%), caption: [Awaken the Blood Avatar | Art by: Kekai Kotaki], supplement: none, numbering: none)
+#figure(image("008_Episode 5 Final Exam/01.jpg", width: 100%), caption: [Awaken the Blood Avatar | Art by: Kekai Kotaki], supplement: none, numbering: none)
 
 "They thought I would never make anything of myself—that I didn't belong here, with all of their high and mighty oracles." Extus cackled. He whirled, gesturing wildly at the statues surrounding him. "But where are they now? Who will help you in your time of need?"
 
@@ -33,7 +33,7 @@ She didn't look at him, though, only stared up at the sky, eyes wide, fur standi
 
 The dragonfire scoured the cobblestones where he had been standing a moment before, scorching the pathway black. The swath of mage hunters close by ignited almost instantly, screeching and hissing as they died. Flashes of searing pain flooded his mind all at once, and he severed the link before he could be overwhelmed.
 
-#figure(image("008_Episode 5: Final Exam/02.jpg", width: 100%), caption: [Draconic Intervention | Art by: Johan Grenier], supplement: none, numbering: none)
+#figure(image("008_Episode 5 Final Exam/02.jpg", width: 100%), caption: [Draconic Intervention | Art by: Johan Grenier], supplement: none, numbering: none)
 
 The mage hunters who had managed to evade the dragons' attack shuddered and twitched as their minds once more became their own. They clicked their many teeth together, spread out those glowing feelers, and turned on the nearest source of magical sustenance: Oriq agents. Fresh screams filled the air as the creatures pounced.
 
@@ -85,7 +85,7 @@ There was no way that some pitiful first-year would be the one to ruin all of hi
 
 #emph[Was there?]
 
-#figure(image("008_Episode 5: Final Exam/03.jpg", width: 100%), caption: [Crackle with Power | Art by: Micah Epstein], supplement: none, numbering: none)
+#figure(image("008_Episode 5 Final Exam/03.jpg", width: 100%), caption: [Crackle with Power | Art by: Micah Epstein], supplement: none, numbering: none)
 
 Rowan struggled to breathe as the air around her sparked and hissed with energy. She felt the power rushing through her, power like she had never dreamed. It felt, in that moment, that she could do #emph[anything] ; mountains would crumble before her, cities burn, oceans boil. She opened her eyes and gasped as she took in the room through a red haze. Her gaze fell to Will, who still lay on the ground, motionless. A fresh wave of rage and grief flooded her as she turned to Extus.
 
@@ -145,7 +145,7 @@ Will grinned and turned toward Extus and the Blood Avatar, red light swirling ar
 
 Suddenly, a red halo of light snapped into place around the Blood Avatar's helmed head.
 
-#figure(image("008_Episode 5: Final Exam/04.jpg", width: 100%), caption: [Culmination of Studies | Art by: Bryan Sola], supplement: none, numbering: none)
+#figure(image("008_Episode 5 Final Exam/04.jpg", width: 100%), caption: [Culmination of Studies | Art by: Bryan Sola], supplement: none, numbering: none)
 
 "It may be big," said Will through clenched teeth, hands shaking with the effort. "But it's a summoned creature. Which means with this spell, we can control it!"
 

@@ -9,7 +9,7 @@
 
 Looking out the window over his desk, Will could see the winds of autumn stirring fallen leaves across the courtyard. Students in the blue and red of Prismari passed by, laughing and chatting, sipping on hot drinks. When his eyes finally drifted back to the #emph[Ethics of Aetheric Manipulation ] assignment, the questions had yet to complete themselves. He sighed and picked up his pencil again just as the door to his dorm room creaked open. Rowan came in, her hair windblown and disordered, smiling about who-knew-what.
 
-#figure(image("004_Episode 3: Extracurriculars/01.jpg", width: 100%), caption: [Explosive Welcome | Art by: Mathias Kollros], supplement: none, numbering: none)
+#figure(image("004_Episode 3 Extracurriculars/01.jpg", width: 100%), caption: [Explosive Welcome | Art by: Mathias Kollros], supplement: none, numbering: none)
 
 "Hey," said Will, already annoyed.
 
@@ -173,7 +173,7 @@ All the crowd watched as the Prismari player threw out a hand wreathed in a circ
 
 The entire arena exploded in cheers.
 
-#figure(image("004_Episode 3: Extracurriculars/02.jpg", width: 100%), caption: [Team Pennant | Art by: Anna Fehr], supplement: none, numbering: none)
+#figure(image("004_Episode 3 Extracurriculars/02.jpg", width: 100%), caption: [Team Pennant | Art by: Anna Fehr], supplement: none, numbering: none)
 
 "Mascot interception! Brilliant!" Quint grabbed Will and wrapped him in a hug as they both cheered with the rest of the crowd.
 
@@ -249,7 +249,7 @@ By all accounts, you didn't want to end up on the wrong side of Professor Onyx. 
 
 They followed her into her office. With a gesture, Professor Onyx ignited a few candles, which burned with purple flame. "What was all of that about?"
 
-#figure(image("004_Episode 3: Extracurriculars/03.jpg", width: 100%), caption: [Professor's Warning | Art by: Kieran Yanner], supplement: none, numbering: none)
+#figure(image("004_Episode 3 Extracurriculars/03.jpg", width: 100%), caption: [Professor's Warning | Art by: Kieran Yanner], supplement: none, numbering: none)
 
 "Nothing," Rowan said, taking a casual tone. "Just two siblings blowing off steam."
 
@@ -393,7 +393,7 @@ Kasmina turned and threw out her hand as Lukka swung again. A wall of blue light
 
 Lukka slammed his weapon against the wall of light, his face contorted with rage. "Frankly? I don't give a damn what he does after all this is burned to the ground."
 
-#figure(image("004_Episode 3: Extracurriculars/04.jpg", width: 100%), caption: [Test of Talents | Art by: Lie Setiawan], supplement: none, numbering: none)
+#figure(image("004_Episode 3 Extracurriculars/04.jpg", width: 100%), caption: [Test of Talents | Art by: Lie Setiawan], supplement: none, numbering: none)
 
 She took a step forward, her shield forcing Lukka back. He swung his blade again and again, trying to force his way through with brute strength, until Kasmina flicked her hand. The light shifted, beams of it shooting out and catching Lukka in the stomach. He flew back and landed next to his trapped fox. Before he could get up, Kasmina was there, the point of her staff held just under his chin.
 

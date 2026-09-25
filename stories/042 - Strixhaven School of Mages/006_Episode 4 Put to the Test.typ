@@ -29,7 +29,7 @@ Outside, Will stumbled into a scene of utter chaos. The crowd, joined by more an
 
 No—not shapes. Creatures.
 
-#figure(image("006_Episode 4: Put to the Test/01.jpg", width: 100%), caption: [Mage Hunters' Onslaught | Art by: Lie Setiawan], supplement: none, numbering: none)
+#figure(image("006_Episode 4 Put to the Test/01.jpg", width: 100%), caption: [Mage Hunters' Onslaught | Art by: Lie Setiawan], supplement: none, numbering: none)
 
 They skittered across the manicured lawn on narrow, pointed legs, insectile plating covering wine-purple flesh. Glowing violet spines ran along their backs and up to eyeless heads, featureless altogether save for a gaping, toothy maw. Terrible screeches rent the air.
 
@@ -87,7 +87,7 @@ Dean Kianne's face twisted in horror. "All of them? I've never seen magic like t
 
 "There's always a spell," muttered Liliana. She extended her hand and black threads of magic shot out from the tips of her fingers, but before they could make contact with him, one of the creatures threw itself in the way. The spell burrowed into its shell, making its chitin crack and crumble to dust.
 
-#figure(image("006_Episode 4: Put to the Test/02.jpg", width: 100%), caption: [Defend the Campus | Art by: Izzy], supplement: none, numbering: none)
+#figure(image("006_Episode 4 Put to the Test/02.jpg", width: 100%), caption: [Defend the Campus | Art by: Izzy], supplement: none, numbering: none)
 
 At her side, Dean Kianne lifted her hands, light shining around her. In seconds, a horde of angular, catlike fractals had assembled. The constructs leapt forward at her direction, colliding with the wave of approaching mage hunters. The man in the red coat faded back into the crowd of churning, spiny bodies, and Liliana was leaning forward to chase him when something stopped her.
 
@@ -107,7 +107,7 @@ Will ran. He ran as fast as he could, trying not to think about the horrifying c
 
 He bounced off the second creature's shell as it whipped one claw at him, nicking his uniform but missing anything important. Falling to the ground, he rolled to one side as another claw buried itself in the earth where his head had been a moment before. Will stuck out his arms blindly, making contact with its armor-plated midsection, and drew the heat from it so fast a crack split through the middle of the shell. The creature fell back, screeching, but by then the other one had gotten up and was scuttling toward him.
 
-#figure(image("006_Episode 4: Put to the Test/03.jpg", width: 100%), caption: [Mage Hunter | Art by: Mathias Kollros], supplement: none, numbering: none)
+#figure(image("006_Episode 4 Put to the Test/03.jpg", width: 100%), caption: [Mage Hunter | Art by: Mathias Kollros], supplement: none, numbering: none)
 
 Suddenly, a roar filled the air, the sound rolling through the sky. More roars answered it until the ground trembled from the cacophony. The creature leapt away from Will and almost #emph[galloped ] on its many legs, moving fast—but not fast enough.
 
@@ -253,7 +253,7 @@ Will only stared as she continued down the tunnel.
 
 Extus rested one hand on the smooth, cool wood of the double doors leading to the Hall of Oracles. They had been locked, but thankfully, the Oriq attack had happened too quickly for any wards to be activated and set in place. With a brief exertion of will, he blasted the doors off their hinges and stepped inside.
 
-#figure(image("006_Episode 4: Put to the Test/04.jpg", width: 100%), caption: [Hall of Oracles | Art by: Piotr Dura], supplement: none, numbering: none)
+#figure(image("006_Episode 4 Put to the Test/04.jpg", width: 100%), caption: [Hall of Oracles | Art by: Piotr Dura], supplement: none, numbering: none)
 
 Encircling the room were stern, wizened visages carved in stone—oracles, long dead but not forgotten. Extus thought he noticed a certain scorn in their flinty eyes, as if even from the grave they didn't approve of what he was doing here. As if they didn't think he belonged in their ranks.
 

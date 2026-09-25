@@ -67,7 +67,7 @@ The lair was surrounded by dark-leaved trees leaning over the divot in the earth
 
 She was looking through her fifth sphere when the sound of wings brought her attention to the sky. Liliana took a deep breath and remembered to adjust her professor's uniform as the shadow of Beledros Witherbloom passed over her.
 
-#figure(image("003_Episode 2: Lessons/01.jpg", width: 100%), caption: [Art by: Raymond Swanland], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Lessons/01.jpg", width: 100%), caption: [Art by: Raymond Swanland], supplement: none, numbering: none)
 
 Beledros circled the spot twice before landing with an earth-shaking tremor. She folded back her black feathered wings as she studied Liliana with those eerie, bright eyes. "Taiva may be harsh at times, but surely dealing with him is not as troublesome as trekking all the way out here, Professor."
 
@@ -111,7 +111,7 @@ Liliana looked back, but the dragon was still curled up in the side of the crate
 
 Lukka stumbled as he moved across a stony ledge, minding his step along the edge of a sheer cliff. Far below, short grass and scrawny trees held on bitterly to life. His hunger had only gotten worse, tightening his stomach more and more with each shaky step. What little food he'd managed to hunt down was long gone, and he'd run out of water hours ago.
 
-#figure(image("003_Episode 2: Lessons/02.jpg", width: 100%), caption: [Art by: Kieran Yanner], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Lessons/02.jpg", width: 100%), caption: [Art by: Kieran Yanner], supplement: none, numbering: none)
 
 The ledge suddenly gave way beneath him, crumbling into loose stone. Lukka cried out as his ankle twisted. He threw out his hands, reaching for anything to save him from the long fall, and his fingers caught on the edge of a sharp, flat stone. Gritting his teeth, he pulled himself up the side of the cliff, legs scrambling for purchase, and finally threw himself back onto the stone shelf. He laid there for what felt like an eternity, his lungs burning as he sucked in gulps of air.
 
@@ -135,7 +135,7 @@ Lukka started to raise a hand but stopped himself. He stared at her, the silence
 
 The warm brush of fur caressed his mind as the link between them settled. It had been a while since he used this gentler magic—not for a servant, but a partner. He hadn't even realized how much he'd missed it.
 
-#figure(image("003_Episode 2: Lessons/03.jpg", width: 100%), caption: [Art by: Kieran Yanner], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Lessons/03.jpg", width: 100%), caption: [Art by: Kieran Yanner], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -249,7 +249,7 @@ Behind his mask, Extus smiled.
 
 Liliana set down the tome she had been studying and rubbed her eyes. Another day of fruitless research. She had done all that she could think of, and none of it would work. There wasn't a book or scroll or spell in Strixhaven that could bring Gideon back. Besides, with the Oriq on the move, there were more pressing matters at hand. Nobody else seemed to be taking them seriously.
 
-#figure(image("003_Episode 2: Lessons/04.jpg", width: 100%), caption: [Confront the Past | Art by: Kieran Yanner], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Lessons/04.jpg", width: 100%), caption: [Confront the Past | Art by: Kieran Yanner], supplement: none, numbering: none)
 
 She glanced out the window behind her desk. In the distance, the suns had begun their slow descent toward the horizon. Light glinted off the floating stones of the Dawnbow. Liliana stared at the star arch, her gaze tracing its curve down toward the buildings of the main campus.
 
