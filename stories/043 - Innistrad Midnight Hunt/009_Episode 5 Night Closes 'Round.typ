@@ -25,7 +25,7 @@ When she blinks, he is gone.
 
 She blinks. Back to the present.
 
-#figure(image("009_Episode 5: Night Closes 'Round/01.jpg", width: 100%), caption: [Duel for Dominance | Art by: Ryan Pancoast], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Night Closes 'Round/01.jpg", width: 100%), caption: [Duel for Dominance | Art by: Ryan Pancoast], supplement: none, numbering: none)
 
 Tovolar's before her. No matter how much his shape changes, his eyes stay the same: burning, quick, bright as brands. He bares his teeth. A smile, she thinks.
 
@@ -153,7 +153,7 @@ A gasp is her only answer—his grasp turns malicious as his claws dig into her 
 
 She stands, her hand still buried in him. "Call off the attack."
 
-#figure(image("009_Episode 5: Night Closes 'Round/02.jpg", width: 100%), caption: [Defend the Celestus | Art by: Andrey Kuzinskiy], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Night Closes 'Round/02.jpg", width: 100%), caption: [Defend the Celestus | Art by: Andrey Kuzinskiy], supplement: none, numbering: none)
 
 How strange to see his eyes dimming in this way. He's hardy enough to live, she's almost certain, and likely will once the shamans get a look at him—but she has never once seen him staggered this way. Not even the first time they fought in the clearing. It isn't simply that she's hurt him physically. Something inside him is broken, something she can't feel from here.
 
@@ -235,7 +235,7 @@ Shifting to her human form, Arlinn takes Chandra's hand.
 
 Chanting meets them first. Arlinn can't make out the words, but the sounds have the shape of towering oaks and old rivers. A glow runs up the arms of the Celestus, and she thinks to herself, slumped against Adeline, that they look like her father's tongs, fresh from the fire.
 
-#figure(image("009_Episode 5: Night Closes 'Round/03.jpg", width: 100%), caption: [Raze the Effigy | Art by: Cristi Balanescu], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Night Closes 'Round/03.jpg", width: 100%), caption: [Raze the Effigy | Art by: Cristi Balanescu], supplement: none, numbering: none)
 
 It brings a giddy smile to her face. But maybe that's the blood loss, too.
 
@@ -285,7 +285,7 @@ Her eyes dart from one witch to another, to Teferi and Kaya, to Chandra and Adel
 
 "I will," she answers. Of that, she's sure.
 
-#figure(image("009_Episode 5: Night Closes 'Round/04.jpg", width: 100%), caption: [Secrets of the Key | Art by: Alix Branwyn], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Night Closes 'Round/04.jpg", width: 100%), caption: [Secrets of the Key | Art by: Alix Branwyn], supplement: none, numbering: none)
 
 #emph["Anoint the Sungold Lock."]
 
@@ -369,7 +369,7 @@ Glee turns to disgust. "That's no way to treat a soon-to-be bride," she says.
 
 "Fine," answers Olivia. "Catch."
 
-#figure(image("009_Episode 5: Night Closes 'Round/05.jpg", width: 100%), caption: [Olivia's Midnight Ambush | Art by: Chris Rallis], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Night Closes 'Round/05.jpg", width: 100%), caption: [Olivia's Midnight Ambush | Art by: Chris Rallis], supplement: none, numbering: none)
 
 In the times to come, Arlinn will think about this moment and what she could have done differently. If she had moved a little faster, would it have been so bad? If she had acted sooner, if she had chosen something else—what would have happened?
 

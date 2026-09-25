@@ -15,7 +15,7 @@ Seeing it sets Arlinn's stomach in knots. There, the spire where she spent sunny
 
 She swallows. As ants around their hill, the zombies around the cathedral. Getting past them will be no easy feat.
 
-#figure(image("005_Episode 3: The Fall of the House of Betzold/01.jpg", width: 100%), caption: [Light Up the Night | Art by: Wei Wei], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Fall of the House of Betzold/01.jpg", width: 100%), caption: [Light Up the Night | Art by: Wei Wei], supplement: none, numbering: none)
 
 "It may well be," Adeline says. "But we won't know until we finish our investigation."
 
@@ -145,7 +145,7 @@ Arlinn nods.
 
 "Don't bother," she says. "Just give me five minutes before you follow."
 
-#figure(image("005_Episode 3: The Fall of the House of Betzold/02.jpg", width: 100%), caption: [Thraben Exorcism | Art by: Matt Stewart], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Fall of the House of Betzold/02.jpg", width: 100%), caption: [Thraben Exorcism | Art by: Matt Stewart], supplement: none, numbering: none)
 
 And, true to form, Kaya doesn't bother waiting around for permission. Into the maw of it she goes. Arlinn's nose tingles as the sharp scent of Kaya's magic fills the air, followed by the low hum she's come to associate with it. Adeline heads to one of the broken windows to peer in. Chandra follows, taking up the same window. From their reaction, there's quite a lot to see.
 
@@ -179,7 +179,7 @@ Arlinn doesn't wait. She comes up to him, resisting the urge to shake his hand. 
 
 How strange to see a ghost's eyes go wide. "My father? Has he sent for me?"
 
-#figure(image("005_Episode 3: The Fall of the House of Betzold/03.jpg", width: 100%), caption: [Dennick, Pious Apparition | Art by: Chris Rallis], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Fall of the House of Betzold/03.jpg", width: 100%), caption: [Dennick, Pious Apparition | Art by: Chris Rallis], supplement: none, numbering: none)
 
 Always better to give the truth where you can, no matter how ugly. "I can't say he did. Your father's dead. I put him to rest myself, but you should know he was calling out for you to the end."
 
@@ -329,7 +329,7 @@ Avacyn may no longer hear prayers.
 
 But Sigarda does.
 
-#figure(image("005_Episode 3: The Fall of the House of Betzold/04.jpg", width: 100%), caption: [Sigarda, Champion of Light | Art by: Howard Lyon], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Fall of the House of Betzold/04.jpg", width: 100%), caption: [Sigarda, Champion of Light | Art by: Howard Lyon], supplement: none, numbering: none)
 
 "Sorin Markov," she says. Her voice is resonant, with a slight echo that casts it as more than human. "How far you've fallen. Carving your way out of the stone only to sulk."
 
@@ -355,7 +355,7 @@ Up the stairs Arlinn goes, following in Adeline's footsteps, trying not to pay a
 
 It is Chandra who finds the room—festooned with bookshelves and antique weapons—and Teferi who finds the Moonsilver Key. It sits in the offering hands of a statue. Sorin must have lopped the head off of it, but the armor and wings leave little doubt who it used to be. The headless Avacyn sits beneath a portrait of a young Sorin and his grandfather dressed in their finest.
 
-#figure(image("005_Episode 3: The Fall of the House of Betzold/05.jpg", width: 100%), caption: [Moonsilver Key | Art by: Joseph Meehan], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Fall of the House of Betzold/05.jpg", width: 100%), caption: [Moonsilver Key | Art by: Joseph Meehan], supplement: none, numbering: none)
 
 Arlinn takes the key.
 

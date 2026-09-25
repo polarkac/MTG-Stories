@@ -11,7 +11,7 @@
 
 Maybe that had been true right after The Travails, when you couldn't swing a cat without a wolfir devouring it, but it isn't true anymore. #emph[Those ] dogs are dying off, and the woods are keen for the taking. They say you can always tell a Falkenrath by their awful stubbornness about hunting; their ravenous nature; their unending quest to close their talons around the food that least wants to be eaten. To be a Falkenrath is to make your home in the heights, such that everyone else sees you hunt.
 
-#figure(image("001_Episode 1: The Witch of the Woods/01.jpg", width: 100%), caption: [Art by: Darek Zabrocki], supplement: none, numbering: none)
+#figure(image("001_Episode 1 The Witch of the Woods/01.jpg", width: 100%), caption: [Art by: Darek Zabrocki], supplement: none, numbering: none)
 
 Klaus is no different. His feet slap against the brush; blood drips from his slick chin onto the reddening leaves of the Ulvenwald; bolts whistle past his ears. Despite all this, he grins. They saw him, all right. Perhaps the traveling monk disguise was a bit of an affront—the pack of hunters at his back are worked into a holy froth. He didn't even know they carried so many bolts on them at once—the #emph[thunk thunk thunk ] of them is like the rap of a giant's knuckles on the trees around him.
 
@@ -81,7 +81,7 @@ And with it, the moon.
 
 Always the moon.
 
-#figure(image("001_Episode 1: The Witch of the Woods/02.jpg", width: 100%), caption: [Arlinn, the Pack's Hope | Art by: Anna Steinbauer], supplement: none, numbering: none)
+#figure(image("001_Episode 1 The Witch of the Woods/02.jpg", width: 100%), caption: [Arlinn, the Pack's Hope | Art by: Anna Steinbauer], supplement: none, numbering: none)
 
 She can feel it even now as she sits in the elder's old home, even now as she tells his wife that she'll do her best to investigate these murders.
 
@@ -169,7 +169,7 @@ Wherever he is and whatever he's doing are no longer her problem. They chose the
 
 The wolves are eager to meet her and eager to play. #emph[Find witches] , she told them, and they're happy to help in whatever way they can. Every few minutes as she runs through the woods, she'll hear one call and run over only to find an oddly shaped bough waiting for her, and the wolf looking at her expectantly. She thanks them, of course; even these strange boughs have their own clues waiting.
 
-#figure(image("001_Episode 1: The Witch of the Woods/03.jpg", width: 100%), caption: [Art by: Rovina Cai], supplement: none, numbering: none)
+#figure(image("001_Episode 1 The Witch of the Woods/03.jpg", width: 100%), caption: [Art by: Rovina Cai], supplement: none, numbering: none)
 
 The further into the woods they go, the more the scent of the place changes. An astringent odor burns the inside of her nostrils; a warm, cinnamon perfume soon follows. When she shifts back to her human shape, she can see the bough more clearly: there #emph[is ] a clue here. A series of crescents and rounds line it, shaped by a careful hand. On the end —hanging from a branch—is a polished piece of opal. She squints. Are those shapes carved into it decorative or are they~Agatha said Finneas followed secret signs to find the enclave.
 
@@ -197,7 +197,7 @@ The woods around her seem to laugh—she feels the thrill of it against her back
 
 They must have gone deep into the woods; Arlinn's mother always used to caution her to turn back whenever she saw the broken rings rising from the earth. As a child, she wondered what it would be like to climb their wide flat surfaces—if the people in Thraben woke up every day with that sort of view. Maybe if she got up there herself, she could pretend to be some pampered noble. Now, as an adult, she eyes the carvings along its pitted surface with worry, the lenses with distinct unease. Her mother had been right to warn her of the Celestus. Whatever purpose it once served is best left to the past.
 
-#figure(image("001_Episode 1: The Witch of the Woods/04.jpg", width: 100%), caption: [Art by: Jonas De Ro], supplement: none, numbering: none)
+#figure(image("001_Episode 1 The Witch of the Woods/04.jpg", width: 100%), caption: [Art by: Jonas De Ro], supplement: none, numbering: none)
 
 "If you'll forgive my little trick, I'll forgive you getting dressed," comes the answer. Her voice is at once charming and distant. She sounds, Arlinn thinks, like the sort of village matron who figured out a long time ago that you were the one stealing her pies. "The wolves in this forest aren't typically so well behaved. Most of them would have attacked."
 
@@ -219,7 +219,7 @@ Arlinn tilts her head. "You don't seem that old."
 
 "Then you're regrowing something," Arlinn says. "Who are you?"
 
-#figure(image("001_Episode 1: The Witch of the Woods/05.jpg", width: 100%), caption: [Art by: Bryan Sola], supplement: none, numbering: none)
+#figure(image("001_Episode 1 The Witch of the Woods/05.jpg", width: 100%), caption: [Art by: Bryan Sola], supplement: none, numbering: none)
 
 "We are what was once and will be. We are what the dark cannot kill. We are the Dawnhart Coven." The woman speaks with the voice of three, her eyes flashing with every syllable. The tip of her staff glows. She taps it to the earth. The brush surrounding them springs to life, growing rapidly, taking strange shape. In a matter of seconds, Arlinn recognizes it: the proud head of the white stag. "But who are you, wolf?"
 

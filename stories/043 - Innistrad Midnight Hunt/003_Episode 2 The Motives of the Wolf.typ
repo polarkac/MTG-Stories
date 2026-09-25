@@ -15,7 +15,7 @@ Tovolar grunted.
 
 He stared straight back at her, and she straight back at him. It only made sense to ask. She hugged her legs closer to her chest. "It's just—I think we can share."
 
-#figure(image("003_Episode 2: The Motives of the Wolf/01.jpg", width: 100%), caption: [Tovolar, Dire Overlord | Art by: Chris Rahn], supplement: none, numbering: none)
+#figure(image("003_Episode 2 The Motives of the Wolf/01.jpg", width: 100%), caption: [Tovolar, Dire Overlord | Art by: Chris Rahn], supplement: none, numbering: none)
 
 How strange she must have looked, covered in blood, looking out toward the village to which she was too afraid to return. The village she was now defending. Tovolar had stayed with her after she changed back. She was glad for the company—the thought of being alone right now was worse than the thought of facing her family. Somehow, as bad as this was, it was easier to deal with knowing that she wasn't alone.
 
@@ -139,7 +139,7 @@ Those wolves don't smell like Mondronen. They're not part of Tovolar's pack. So 
 
 This is more than just a hunt.
 
-#figure(image("003_Episode 2: The Motives of the Wolf/02.jpg", width: 100%), caption: [Art by: Ryan Pancoast], supplement: none, numbering: none)
+#figure(image("003_Episode 2 The Motives of the Wolf/02.jpg", width: 100%), caption: [Art by: Ryan Pancoast], supplement: none, numbering: none)
 
 The howls coming to her ears tell most of it. As a child, she'd plug her ears to try to keep the sound away, but there's no hope of doing that now. Dozens of wolves all calling to each other in the night, maybe even a hundred voices proclaiming to each other: #emph[I'm with you, I will hunt.]
 
@@ -259,7 +259,7 @@ One by one the wolves around them change. How many are there, already changed? H
 
 Patience waited for her every day, once. Now Arlinn is the one who lingers.
 
-#figure(image("003_Episode 2: The Motives of the Wolf/03.jpg", width: 100%), caption: [Art by: Sam Rowan], supplement: none, numbering: none)
+#figure(image("003_Episode 2 The Motives of the Wolf/03.jpg", width: 100%), caption: [Art by: Sam Rowan], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -335,7 +335,7 @@ There are no wolves here.
 
 But there are people, and there is something close to holy light, and for tonight, it will have to do.
 
-#figure(image("003_Episode 2: The Motives of the Wolf/04.jpg", width: 100%), caption: [Dawnhart Wardens | Art by: Joshua Raphael], supplement: none, numbering: none)
+#figure(image("003_Episode 2 The Motives of the Wolf/04.jpg", width: 100%), caption: [Dawnhart Wardens | Art by: Joshua Raphael], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -389,7 +389,7 @@ By the time they arrive, there are a couple dozen new faces there, too. So many 
 
 Perhaps it will be the same for the gathered cathars and mages up ahead. No one Arlinn knows personally, but she knows all cathars and priests after a fashion—you wear someone's clothes long enough, you get an idea of their character. They stand in a throng centered on the witch: six or so cathars, a couple of priests, and the rest hardy Kessigers of no particular stripe. Standing the proudest among them is a dark-skinned woman in white armor, a light dust of snow on her shoulders. If you asked a child to describe the bravest cathar they knew, you'd get someone like her: the well-polished armor, the noble features, broad shoulders, and gentle eyes. She's listening as Katilda explains something—but both turn toward the approaching newcomers.
 
-#figure(image("003_Episode 2: The Motives of the Wolf/05.jpg", width: 100%), caption: [Adeline, Resplendent Cathar | Art by: Bryan Sola], supplement: none, numbering: none)
+#figure(image("003_Episode 2 The Motives of the Wolf/05.jpg", width: 100%), caption: [Adeline, Resplendent Cathar | Art by: Bryan Sola], supplement: none, numbering: none)
 
 "Arlinn Kord, I take it?" calls the cathar. Her voice is rich and resonant—clearly, she's learned to project.
 

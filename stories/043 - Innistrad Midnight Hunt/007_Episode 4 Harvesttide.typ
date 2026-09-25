@@ -23,7 +23,7 @@ Her smile and good mood, gone. She scowls, careful not to upset the maiden's fac
 
 "I think so," says the messenger. From the sound of his voice, it was probably Feuer. Didn't he have some bones he should be reassembling? Olivia never met a finer purveyor of ossuary furniture, but why was he #emph[here] ? "They're up to something. Trying to restore the balance of day and night, I believe."
 
-#figure(image("007_Episode 4: Harvesttide/01.jpg", width: 100%), caption: [Sunset Revelry | Art by: Antonio José Manzanedo], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Harvesttide/01.jpg", width: 100%), caption: [Sunset Revelry | Art by: Antonio José Manzanedo], supplement: none, numbering: none)
 
 She starts to groan and then stops herself. Mustn't disturb the mask, Olivia, it was such a pain to extract. "And how do you believe they mean to do this?" she says. As she gestures, the blood she's resting in splashes like bathwater. "Isn't as if they can throw a chain around the sun."
 
@@ -139,7 +139,7 @@ She can see all of them, and there must be hundreds.
 
 Her chest goes tight.
 
-#figure(image("007_Episode 4: Harvesttide/02.jpg", width: 100%), caption: [Storm the Festival | Art by: Yigit Koroglu], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Harvesttide/02.jpg", width: 100%), caption: [Storm the Festival | Art by: Yigit Koroglu], supplement: none, numbering: none)
 
 "Arlinn," says Kaya. "We're in it deep, aren't we?"
 
@@ -205,7 +205,7 @@ The dire is moving much the same way. Raising his hammer overhead, bringing it d
 
 Teferi. She has to thank him after this.
 
-#figure(image("007_Episode 4: Harvesttide/03.jpg", width: 100%), caption: [Borrowed Time | Art by: Andreas Zafiratos], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Harvesttide/03.jpg", width: 100%), caption: [Borrowed Time | Art by: Andreas Zafiratos], supplement: none, numbering: none)
 
 Out of reflex, Arlinn calls for her wolves, but they won't answer, she knows; there are too many wolves among the attackers. Nature's chosen its side.
 
@@ -249,7 +249,7 @@ And there's Tovolar again. Amid the chaos of the raid, he stands still. Brighter
 
 He smirks, shakes his head. "No."
 
-#figure(image("007_Episode 4: Harvesttide/04.jpg", width: 100%), caption: [Tovolar, the Midnight Scourge | Art by: Chris Rahn], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Harvesttide/04.jpg", width: 100%), caption: [Tovolar, the Midnight Scourge | Art by: Chris Rahn], supplement: none, numbering: none)
 
 The mace still in hand, she marches. Behind her, the chaos continues: cathars slicing at the throats of lycanthropes; witches sheltering the outliers; armored raiders standing tall in the face of their opposition. Chandra's fires cast the scene in an amber glow.
 
@@ -365,4 +365,4 @@ The sun sinks below the horizon. Day changes to night.
 
 And Arlinn Kord changes with it.
 
-#figure(image("007_Episode 4: Harvesttide/05.jpg", width: 100%), caption: [Arlinn, the Moon's Fury | Art by: Anna Steinbauer], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Harvesttide/05.jpg", width: 100%), caption: [Arlinn, the Moon's Fury | Art by: Anna Steinbauer], supplement: none, numbering: none)
