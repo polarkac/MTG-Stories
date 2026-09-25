@@ -181,7 +181,7 @@ Pip and Foggy, along with other neighborhood children, clambered over Hugs, a gr
 
 In an open area between houses, someone had erected an archery butt and a contest was underway. A sable-furred rabbitfolk in a wide straw hat was judging—Finneas, who had won the spring and autumn archery competitions too many times and been subsequently banned from participating. Even so, by request, he indulged in a few trick shots to impress the spectators. Mabel watched him loose three arrows at once, pinning the precise center of each leaf of a clover to the distant target.
 
-#figure(image("002_Episode 2: An Expected Party/01.jpg", width: 100%), caption: [Art by: Victor Adame Minguez], supplement: none, numbering: none)
+#figure(image("002_Episode 2 An Expected Party/01.jpg", width: 100%), caption: [Art by: Victor Adame Minguez], supplement: none, numbering: none)
 
 A few batfolk clerics joined the festivities as the sun dipped below the rooftops, fireflies casting their gentle glow on the crowded street. Porfirio wore his high-collared black robe with its silver hem, decorated with the phases of the moon, while Zoraline's gauzy pale-green dress fluttered around her, circles winking from its folds like the eyes in a luna moth's wings. While Porfirio spoke with Clem's parents, Zoraline seemed distant, distracted, her gaze fixed on the horizon as if she expected something to crest it. The moon, perhaps, though she was looking in the wrong direction if so.
 
@@ -251,7 +251,7 @@ A chorus of assent rose from her audience, but she wasn't finished.
 
 "We have among us someone else who was brave." Mabel gestured at Helga, who froze as eyes and ears swiveled in her direction. "Helga came all the way from Pondside to get help for her village, and to warn us of an attack from the Night Owl."
 
-#figure(image("002_Episode 2: An Expected Party/02.jpg", width: 100%), caption: [Art by: Sidharth Chaturvedi], supplement: none, numbering: none)
+#figure(image("002_Episode 2 An Expected Party/02.jpg", width: 100%), caption: [Art by: Sidharth Chaturvedi], supplement: none, numbering: none)
 
 Now the crowd turned anxious, the volume of murmurs louder. Oliver pinned his ears back but didn't contradict Mabel. Helga seemed to shrink in on herself like a new leaf in full sun.
 

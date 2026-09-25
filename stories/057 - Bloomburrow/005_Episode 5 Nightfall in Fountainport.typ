@@ -11,7 +11,7 @@
 
 Fountainport loomed over the largest pond in Valley. The graceful spire of water magically spouting from a carved lily above the throne room was visible long before Helga and the others reached the Tadpool Harbor District at the base. Each level was a work of art, three basins carved from soapstone and embellished with curved designs: flower petals, lapping waves, stylized frogfolk faces. Large portcullises beneath the city allowed animalfolk to stream into the docks, eager to join year-round celebrations encouraged or directly sponsored by King Glarb himself.
 
-#figure(image("005_Episode 5: Nightfall in Fountainport/01.jpg", width: 100%), caption: [Art by: Leon Tukker], supplement: none, numbering: none)
+#figure(image("005_Episode 5 Nightfall in Fountainport/01.jpg", width: 100%), caption: [Art by: Leon Tukker], supplement: none, numbering: none)
 
 Thoughts of her former mentor seasoned Helga with a dash of anxiety and a heaping spoonful of shame. While her allies admired the floating market beneath the lowest tier of the city, eateries and shops stacked in a jumble of water-stained wood and round windows, she floundered in her mind's muck. While they stared at the blue light shimmering through the ceiling of water held aloft by powerful weaving, surrounded by glass bubbles as large as a house, she hunched as if waiting for a blow to fall.
 
@@ -225,7 +225,7 @@ Ral sighed and sent a bolt of lightning arcing at a lizardfolk in mid-leap. She 
 
 King Glarb stood in front of the Calamity Beast egg as Cruelclaw advanced on Mabel, his gaze murderous.
 
-#figure(image("005_Episode 5: Nightfall in Fountainport/02.jpg", width: 100%), caption: [Art by: Christina Kraus], supplement: none, numbering: none)
+#figure(image("005_Episode 5 Nightfall in Fountainport/02.jpg", width: 100%), caption: [Art by: Christina Kraus], supplement: none, numbering: none)
 
 "I know your type," Cruelclaw rasped, cracking his neck. "You think because you helped fend off some starving bandits once, it makes you a hero. You're not. I'm a professional, and you're an amateur. I'm a fighter, and you're a farmer. Leave with your life and make better choices."
 
@@ -253,7 +253,7 @@ The runes on her blade flashed. She could end him. #emph[But should she? Was thi
 
 Cruelclaw's retort was lost as a croaky shout drew their attention. King Glarb's hands formed complex patterns in the air, and before him Helga struggled vainly to free herself from a block of ice.
 
-#figure(image("005_Episode 5: Nightfall in Fountainport/03.jpg", width: 100%), caption: [Art by: Johan Grenier], supplement: none, numbering: none)
+#figure(image("005_Episode 5 Nightfall in Fountainport/03.jpg", width: 100%), caption: [Art by: Johan Grenier], supplement: none, numbering: none)
 
 Righteous fury filled Mabel. She blurred toward the king, sword swinging, hoping its fire would distract him and break his weaving. Instead of a slice of flame, a huge blaze roared from the blade. It looked like a wolf in mid-leap, the form gone too quickly for her to be certain.
 
@@ -317,7 +317,7 @@ In that moment, Mabel felt as if she understood precisely what had occurred, and
 
 She scrambled down the water steps held in place by Helga's cantrip, racing toward the giant egg in its magic nest. Carrying it proved awkward; it was larger than her and surprisingly heavy. Cautiously, Mabel brought the precious cargo toward the unmoving, unblinking Night Owl.
 
-#figure(image("005_Episode 5: Nightfall in Fountainport/04.jpg", width: 100%), caption: [Art by: Justin Gerard], supplement: none, numbering: none)
+#figure(image("005_Episode 5 Nightfall in Fountainport/04.jpg", width: 100%), caption: [Art by: Justin Gerard], supplement: none, numbering: none)
 
 Soon, Mabel stood close enough to the Calamity Beast that, if it so chose, it could grasp her in its terrifying talons or consume her in a single gulp. Her heart fluttered faster than a dragonfly's wings as she offered the egg to the creature.
 
@@ -415,7 +415,7 @@ Before he could retort, Helga gasped, her eyes glowing like a mirror reflecting 
 
 "The kings in the dark will return," she intoned. "The mage in blue will bring about the end."
 
-#figure(image("005_Episode 5: Nightfall in Fountainport/05.jpg", width: 100%), caption: [Art by: Sam Guay], supplement: none, numbering: none)
+#figure(image("005_Episode 5 Nightfall in Fountainport/05.jpg", width: 100%), caption: [Art by: Sam Guay], supplement: none, numbering: none)
 
 The light left her eyes, and Helga blinked as if nothing untoward had occurred. "What kind of muffins?"
 

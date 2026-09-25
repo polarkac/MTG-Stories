@@ -255,7 +255,7 @@ True to his assertion, dark clouds massed above. Instead of rolling in like a pl
 
 A giant creature hovered in the air, purple lightning crackling across its body. It resembled the Sun Hawk in that both were birdlike. This monster, however, had four wings instead of two, the ends webbed like a batfolk's, a crest on its head like some she'd seen on lizardfolk. The feathers on its back were mud-colored, as were its coverts, but the primaries and secondaries were white, the tail striped. Its sharp talons looked large enough to carry off even Hugs with little difficulty.
 
-#figure(image("004_Episode 4: Soothsaying and Stormcalling/01.jpg", width: 100%), caption: [Art by: Victor Adame Minguez], supplement: none, numbering: none)
+#figure(image("004_Episode 4 Soothsaying and Stormcalling/01.jpg", width: 100%), caption: [Art by: Victor Adame Minguez], supplement: none, numbering: none)
 
 "What is that thing?" Finneas whispered, his voice trembling as he hugged the ground.
 
@@ -295,7 +295,7 @@ Another pass, and this time Zoraline vocalized a haunting glissando that seemed 
 
 Ral's blue-gray eyes crackled with power that rippled along the length of his black fur, collecting in his bracer. Up in the whirling clouds, a flash of light was chased by an ominous rumble.
 
-#figure(image("004_Episode 4: Soothsaying and Stormcalling/02.jpg", width: 100%), caption: [Art by: Chris Seaman], supplement: none, numbering: none)
+#figure(image("004_Episode 4 Soothsaying and Stormcalling/02.jpg", width: 100%), caption: [Art by: Chris Seaman], supplement: none, numbering: none)
 
 "You like a little lightning, don't you? Well, let's check your battery capacity." Ral raised his bracer-clad arm and shouted, #emph["] #emph[Run!"] 
 

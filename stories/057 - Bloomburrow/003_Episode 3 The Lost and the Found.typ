@@ -96,7 +96,7 @@ Helga recovered, embarrassed. "How did you escape?"
 "She chased the squirrelfolk, who ran as cowards do. Hugs lifted the monster by its tail and crack! Broke it apart,
     then threw the pieces away."
 
-#figure(image("003_Episode 3: The Lost and the Found/01.jpg", width: 100%), caption: [Hugs, Grisly Guardian | Art by: Steve Prescott], supplement: none, numbering: none)
+#figure(image("003_Episode 3 The Lost and the Found/01.jpg", width: 100%), caption: [Hugs, Grisly Guardian | Art by: Steve Prescott], supplement: none, numbering: none)
 
 "That's incredible." #emph[Perhaps too incredible?]  No one else seemed impressed; perhaps they'd heard the tale
     before?
@@ -223,7 +223,7 @@ Gev spun his fire maces in a dance like the one at Mabel's party, flames paintin
     tripping one undead mousefolk as he knocked another away. Whirling back to the first, he smashed both maces down on
     its head with a sickening crunch.
 
-#figure(image("003_Episode 3: The Lost and the Found/02.jpg", width: 100%), caption: [Art by: Mark Zug], supplement: none, numbering: none)
+#figure(image("003_Episode 3 The Lost and the Found/02.jpg", width: 100%), caption: [Art by: Mark Zug], supplement: none, numbering: none)
 
 A snarl behind Helga made her duck and cover her head. Hugs lifted a skeletal otterfolk with both paws and ripped it
     in half. He dashed the top part against the ground and threw the rest into the pond. His heavy boot rose and fell,
@@ -355,7 +355,7 @@ A kindly group of otterfolk sighted the party trudging beside the Long River and
     made an unwelcome reappearance as he moaned in distress. Helga stared forlornly at the frothy wake with a pencil in
     one hand and her journal in the other.
 
-#figure(image("003_Episode 3: The Lost and the Found/03.jpg", width: 100%), caption: [Art by: Grady Frederick], supplement: none, numbering: none)
+#figure(image("003_Episode 3 The Lost and the Found/03.jpg", width: 100%), caption: [Art by: Grady Frederick], supplement: none, numbering: none)
 
 The massive trees that gave Three Trees City its name rose in the distance, branches intertwined in places like
     lovers holding hands. How the oak, sycamore, and willow came to grow together along the banks of the Long River, no
@@ -501,7 +501,7 @@ A sinuous form moved below the water's surface, silver scales glinting in the da
     its side, their rosy hue warped by the roiling currents. A huge wave lifted the creature so it loomed above the
     Docklands. Baleful eyes burned with power, and a long mouth gaped to reveal rows of wickedly sharp teeth.
 
-#figure(image("003_Episode 3: The Lost and the Found/04.jpg", width: 100%), caption: [Art by: Samuele Bandini], supplement: none, numbering: none)
+#figure(image("003_Episode 3 The Lost and the Found/04.jpg", width: 100%), caption: [Art by: Samuele Bandini], supplement: none, numbering: none)
 
 "The Flood Gar!" Helga screamed.
 

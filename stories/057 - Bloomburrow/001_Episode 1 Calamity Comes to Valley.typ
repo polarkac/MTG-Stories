@@ -11,7 +11,7 @@
 
 Helga stared at the midmorning sunlight glinting on the rippling surface of the water, its patterns and portents as inscrutable as its darker depths. Cattails and long grasses swayed above her, and a bright dragonfly chased a cloud of gnats. Warm muck and growing things scented the air, comforting her uneasy heart. The pencil she gripped seemed to move of its own accord as her other hand balanced her leaf-bound journal on her lap.
 
-#figure(image("001_Episode 1: Calamity Comes to Valley/01.jpg", width: 100%), caption: [Art by: Andrea Piparo], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Calamity Comes to Valley/01.jpg", width: 100%), caption: [Art by: Andrea Piparo], supplement: none, numbering: none)
 
 She'd come to the shore seeking clarity, quiet, and a brief escape from the worries that plagued her. From this angle, she couldn't see her own reflection, familiar and boring: one smallish frogfolk, green skin, amber eyes, and a perpetual nervous smile. Nothing special, now or ever.
 
@@ -75,7 +75,7 @@ High above, a huge shadow soared and circled in eerie silence. The creature was 
 
 Maha. The Night Owl.
 
-#figure(image("001_Episode 1: Calamity Comes to Valley/02.jpg", width: 100%), caption: [Art by: Alessandra Pisano], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Calamity Comes to Valley/02.jpg", width: 100%), caption: [Art by: Alessandra Pisano], supplement: none, numbering: none)
 
 Without warning, it swooped in a flurry of wings, skimming the tops of the fields before rising again, trailing twilight. Around Helga, animalfolk squealed or croaked in alarm. Some dropped to the ground, huddled in on themselves, while others froze in place, hoping not to attract the Calamity Beast's attention. Others ran for cover to their nearby homes and burrows or to the shelter of any tall plants that might hide them.
 
