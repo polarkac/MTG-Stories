@@ -10,8 +10,8 @@
 #grid(
     columns: (1fr, 1fr),
     gutter: 2em,
-    figure(image("003_Jace’s Origin: Absent Minds/01.png", width: 100%), caption: [], supplement: none, numbering: none),
-    figure(image("003_Jace’s Origin: Absent Minds/02.png", width: 100%), caption: [], supplement: none, numbering: none),
+    figure(image("003_Jace’s Origin Absent Minds/01.png", width: 100%), caption: [], supplement: none, numbering: none),
+    figure(image("003_Jace’s Origin Absent Minds/02.png", width: 100%), caption: [], supplement: none, numbering: none),
 )
 
 = Vryn
@@ -22,7 +22,7 @@ His family lived most of the way up the mage-ring the locals called Silmot’s C
 
 Twenty-two flights of stairs behind him. One to go.
 
-#figure(image("003_Jace’s Origin: Absent Minds/03.jpg", width: 100%), caption: [Art by Chase Stone], supplement: none, numbering: none)
+#figure(image("003_Jace’s Origin Absent Minds/03.jpg", width: 100%), caption: [Art by Chase Stone], supplement: none, numbering: none)
 
 Now that he was this close, he hesitated. He was going to be in trouble, probably as soon as he opened the door, even though he still didn’t think he’d done anything wrong.
 
@@ -160,7 +160,7 @@ He ran up the stairs this time, around the curve of the ring, all the way to its
 
  
 
-#figure(image("003_Jace’s Origin: Absent Minds/04.jpg", width: 100%), caption: [Art by Jaime Jones], supplement: none, numbering: none)
+#figure(image("003_Jace’s Origin Absent Minds/04.jpg", width: 100%), caption: [Art by Jaime Jones], supplement: none, numbering: none)
 
  
 
@@ -192,7 +192,7 @@ As he chewed, the guide ring—smaller and more sensitive than the primary—rea
 
  
 
-#figure(image("003_Jace’s Origin: Absent Minds/05.jpg", width: 100%), caption: [Art by Jung Park], supplement: none, numbering: none)
+#figure(image("003_Jace’s Origin Absent Minds/05.jpg", width: 100%), caption: [Art by Jung Park], supplement: none, numbering: none)
 
  
 
@@ -228,7 +228,7 @@ He scrambled to his feet and spun, but he was too late. Three of his schoolmates
 
  
 
-#figure(image("003_Jace’s Origin: Absent Minds/06.jpg", width: 100%), caption: [Art by Kieran Yanner], supplement: none, numbering: none)
+#figure(image("003_Jace’s Origin Absent Minds/06.jpg", width: 100%), caption: [Art by Kieran Yanner], supplement: none, numbering: none)
 
  
 
@@ -444,7 +444,7 @@ Caden’s hand moved. Jace moved it. He didn’t know how or why or what Caden w
 
  
 
-#figure(image("003_Jace’s Origin: Absent Minds/07.jpg", width: 100%), caption: [Art by Kieran Yanner], supplement: none, numbering: none)
+#figure(image("003_Jace’s Origin Absent Minds/07.jpg", width: 100%), caption: [Art by Kieran Yanner], supplement: none, numbering: none)
 
  
 
@@ -660,7 +660,7 @@ He and his parents climbed the final set of steps to the observation deck, a sec
 
  
 
-#figure(image("003_Jace’s Origin: Absent Minds/08.jpg", width: 100%), caption: [Art by Slawomir Maniak], supplement: none, numbering: none)
+#figure(image("003_Jace’s Origin Absent Minds/08.jpg", width: 100%), caption: [Art by Slawomir Maniak], supplement: none, numbering: none)
 
  
 
@@ -904,7 +904,7 @@ There were long hours studying magical theory in the sphinx’s library; mental 
 
  
 
-#figure(image("003_Jace’s Origin: Absent Minds/09.jpg", width: 100%), caption: [], supplement: none, numbering: none)
+#figure(image("003_Jace’s Origin Absent Minds/09.jpg", width: 100%), caption: [], supplement: none, numbering: none)
 
  
 
@@ -942,7 +942,7 @@ Jace could not read Alhammarret’s mind, and, out of courtesy, Alhammarret did 
 
 By way of answer, Jace opened up a particular set of memories to Alhammarret’s scrutiny. Jace had learned from a high-ranking Separatist officer of Trovian designs for a surprise springtime offensive. They planned to cross the Rime Marshes before the thaw and drive for the Ampryn Core. It would be a brutal campaign for both sides, bringing the fighting to previously untouched civilian territories and potentially breaking the Ampryn stranglehold on the Core States. And Jace had learned of it without letting the Trovians know who he was or what he had gleaned from them.
 
-#figure(image("003_Jace’s Origin: Absent Minds/10.jpg", width: 100%), caption: [Art by Cynthia Sheppard], supplement: none, numbering: none)
+#figure(image("003_Jace’s Origin Absent Minds/10.jpg", width: 100%), caption: [Art by Cynthia Sheppard], supplement: none, numbering: none)
 
  
 
@@ -1018,7 +1018,7 @@ The sphinx’s thoughts were immense and powerful, a buffeting cyclone of mental
 
  
 
-#figure(image("003_Jace’s Origin: Absent Minds/11.jpg", width: 100%), caption: [Art by Ryan Barger], supplement: none, numbering: none)
+#figure(image("003_Jace’s Origin Absent Minds/11.jpg", width: 100%), caption: [Art by Ryan Barger], supplement: none, numbering: none)
 
  
 
@@ -1130,7 +1130,7 @@ He peered into a few more soldiers’ minds until he found his new quarry. A gen
 
 Under cover of darkness, while the lamps in the tent were still lit, Jace stepped over the sleeping forms of the two door guards.
 
-#figure(image("003_Jace’s Origin: Absent Minds/12.jpg", width: 100%), caption: [Art by Cynthia Sheppard], supplement: none, numbering: none)
+#figure(image("003_Jace’s Origin Absent Minds/12.jpg", width: 100%), caption: [Art by Cynthia Sheppard], supplement: none, numbering: none)
 
  
 
@@ -1308,7 +1308,7 @@ Alhammarret stood up, and the full force of his mind hit Jace like a storm front
 
  
 
-#figure(image("003_Jace’s Origin: Absent Minds/13.jpg", width: 100%), caption: [Art by Yan Li], supplement: none, numbering: none)
+#figure(image("003_Jace’s Origin Absent Minds/13.jpg", width: 100%), caption: [Art by Yan Li], supplement: none, numbering: none)
 
  
 
@@ -1360,7 +1360,7 @@ and
 
  
 
-#figure(image("003_Jace’s Origin: Absent Minds/14.jpg", width: 100%), caption: [Art by Eric Deschamps], supplement: none, numbering: none)
+#figure(image("003_Jace’s Origin Absent Minds/14.jpg", width: 100%), caption: [Art by Eric Deschamps], supplement: none, numbering: none)
 
  
 
@@ -1568,4 +1568,4 @@ He’d have to wait and see.
 
  
 
-#figure(image("003_Jace’s Origin: Absent Minds/15.png", width: 100%), caption: [Art by Jaime Jones], supplement: none, numbering: none)
+#figure(image("003_Jace’s Origin Absent Minds/15.png", width: 100%), caption: [Art by Jaime Jones], supplement: none, numbering: none)

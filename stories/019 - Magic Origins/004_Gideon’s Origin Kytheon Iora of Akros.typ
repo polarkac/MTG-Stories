@@ -7,7 +7,7 @@
     doc
 )
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/01.jpg", width: 100%), caption: [Art by Chase Stone], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/01.jpg", width: 100%), caption: [Art by Chase Stone], supplement: none, numbering: none)
 
 At night, the darkness of the prison was complete. It draped itself across the stone walls, and seeped into the prisoners’ ragged clothes, an inky stain that did not wash out completely in what pale daylight managed to penetrate the prison’s interior through the narrow shafts high in the walls. When the wind stopped outside, the still darkness had weight under which many prisoners cracked.
 
@@ -19,7 +19,7 @@ Kytheon must have made a face when presented with this detail. "Try to understan
 
 "You’re in here because you make a poor thief, who was caught for stealing rotten vegetables and a handful of coins. I’m in here for brawling. We’re not killers. So just watch out is all I’m saying." Drasus had shrugged as though nothing could be done.
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/02.jpg", width: 100%), caption: [Art by Zack Stella], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/02.jpg", width: 100%), caption: [Art by Zack Stella], supplement: none, numbering: none)
 
 Drasus was three years older than Kytheon, and hot-tempered. He’d been taken to prison more than a season prior, and seeing him was a welcome reunion, though Kytheon hadn’t liked what he had seen in that shrug. He’d tried a different approach.
 
@@ -41,7 +41,7 @@ The other guards corralled Kytheon and the new prisoners to an enormous six-spok
 
 Kytheon felt a shove at his back, and he took his position at the crank beside the other new prisoners. The wooden beam felt smooth beneath his hands, where countless hands had pushed against the constant resistance of endless barrels of water being hoisted from the river in the valley below to the polis of Akros perched on the cliff above. This was what prison meant. Labor and captivity. He was to be a beast of burden. It was not unlike Akroan hoplite training, Kytheon reflected, smiling to himself. #emph[Making the body like marble,]  they called it—a daily regimen of running and hauling heavy objects. But that was when he was to be a soldier. When he was a kid. That was before he was expelled from the army, before he was an Irregular, before he was a thief, and before he was a prisoner.
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/03.jpg", width: 100%), caption: [Art by Willian Murai], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/03.jpg", width: 100%), caption: [Art by Willian Murai], supplement: none, numbering: none)
 
 His shoulders and calves burned as he worked the crank. He tried to keep the pain at bay by focusing on a single barrel, following its journey from when it appeared out of the floor until it disappeared into the ceiling. He wasn’t counting them, just watching them, willing himself to follow just one more, and one more after that. There was always another one.
 
@@ -79,7 +79,7 @@ There was a roar of agony as the thug reeled back. In an instant, Kytheon was on
 
 Kytheon smiled. A surge of energy welled in him, and he forgot about his sore muscles and grumbling belly. This was his element—the fight.
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/04.jpg", width: 100%), caption: [Art by Eric Deschamps], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/04.jpg", width: 100%), caption: [Art by Eric Deschamps], supplement: none, numbering: none)
 
 Ristos’s thug was a seasoned brawler, Kytheon could tell from his experience scrapping with Drasus. This guy was sack of meat who could take a hit, but he was predictable and, like all of the thugs Kytheon had fought in the alleyways of Akros, this one was a talker.
 
@@ -121,7 +121,7 @@ When the thirteen-year-old kid saw the guards descending on him, he slumped to t
 
 Kytheon stood before the warden, bound in iron at the wrists, a pleased smile stretched across his face. Hixus waved his hand, and the two guards who had escorted the young prisoner turned and left Kytheon and the warden alone.
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/05.jpg", width: 100%), caption: [Art by Chris Rallis], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/05.jpg", width: 100%), caption: [Art by Chris Rallis], supplement: none, numbering: none)
 
 Hixus leaned casually against a wooden table that was littered with various piles of documents. The warden was broad at the shoulders and he wore a breastplate with the ease of a seasoned soldier. He stared at Kytheon, seemingly studying his face. After a moment, he ran his fingers through his thick, grey beard and spoke, "You’ve been here for less than two days." He took a deep breath. "Two days of a ten-year sentence. A brawl in the waterworks, seven prisoners in the infirmary, and a riot…all on your account."
 
@@ -141,7 +141,7 @@ Kytheon didn’t answer.
 
 It was the warden’s turn to smile. "Ah, the Irregulars. Protectors of the Quarter. #emph[Kytheon’s]  Irregulars."
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/06.jpg", width: 100%), caption: [Art by Mark Winters], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/06.jpg", width: 100%), caption: [Art by Mark Winters], supplement: none, numbering: none)
 
 "Yep."
 
@@ -215,7 +215,7 @@ Kytheon charged.
 
 Hours later, Kytheon lamented, he had gained no ground. Each of his charges were abbreviated by chains of brilliant white energy that erupted from the ground to shackle his limbs, or by lashes of luminescent magic that pushed his limbs just enough to interrupt his gait and send him tumbling to the dirt. There could be no progress. The keys were infinitely far from his grasp, and with each fruitless exertion, they edged even farther away.
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/07.jpg", width: 100%), caption: [Art by Chris Rallis], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/07.jpg", width: 100%), caption: [Art by Chris Rallis], supplement: none, numbering: none)
 
 Then without a word, Hixus scooped up the keys and left the gymnasium. Kytheon dropped to his knees in the dirt, frustrated and full of spite.
 
@@ -245,7 +245,7 @@ Half a dozen escape attempts later, Kytheon took to his training. It complimente
 
 Every morning, Kytheon the student was awakened before dawn to join Hixus in the gymnasium, and every afternoon, the irons that bound his wrists were replaced and Kytheon the prisoner rejoined the others at the Waterfall of Akros. He benefited from both activities. Hieromancy strengthened his mind, and turning the great crank strengthened his body.
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/08.jpg", width: 100%), caption: [Art by Chris Rallis], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/08.jpg", width: 100%), caption: [Art by Chris Rallis], supplement: none, numbering: none)
 
 He fell into a rhythm and for four years he relied on the structure to carry him through his days. Until one morning his rhythm was interrupted.
 
@@ -307,7 +307,7 @@ Kytheon yelled out in pain, but the yell turned into a roar. He wrapped both arm
 
 Before the harpy could find its feet, Kytheon summoned forth from the ground a set of brilliant white chains to bind the monster.
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/09.png", width: 100%), caption: [Art by Igor Kieryluk], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/09.png", width: 100%), caption: [Art by Igor Kieryluk], supplement: none, numbering: none)
 
 More enemies swarmed from all directions. Everything around him was a blur of black feathers, and all sound was drowned out by the shrill screeches of the harpies.
 
@@ -381,7 +381,7 @@ The great wooden gates moaned as their hinges gave to the power of the cranks th
 
 The first cyclops came charging down the causeway as the gates began to creak closed. It was a thing of raw anger and unrelenting hunger, its single eye fixed on the gate behind the Irregulars. It had a disproportionately large mouth that frothed as it ran, sending globules of foamy saliva in all directions. This was a mouth that could swallow a person whole.
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/10.jpg", width: 100%), caption: [Art by Raymond Swanland], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/10.jpg", width: 100%), caption: [Art by Raymond Swanland], supplement: none, numbering: none)
 
 The Irregulars formed up to take the charge, spears braced, with Kytheon at the apex of the formation. As the cyclops lifted one of its enormous arms to backhand the nuisance aside, Kytheon conjured lengths of chain forged from magic from the ground and bound its wrists.
 
@@ -399,7 +399,7 @@ Kytheon dragged his sword across its throat.
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/11.jpg", width: 100%), caption: [Art by Adam Paquette], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/11.jpg", width: 100%), caption: [Art by Adam Paquette], supplement: none, numbering: none)
 
 Kytheon watched the sun break over the tops of the mountains that rose above Akros. He stopped climbing for a moment to let the sunlight wash over his face.
 
@@ -431,7 +431,7 @@ To his surprise, a man greeted him on the other side. The man had a powerful fra
 
 The man lowered the tip of his spear to the ground and the shift in light brought out the detail of the statue, which Kytheon recognized as a marble replica of the man.
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/12.jpg", width: 100%), caption: [Art by Raymond Swanland], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/12.jpg", width: 100%), caption: [Art by Raymond Swanland], supplement: none, numbering: none)
 
 All Kytheon could articulate was, "Heliod."
 
@@ -459,7 +459,7 @@ Kytheon was sprinting. Beneath his feet, the cracked, barren earth flew past. Hi
 
 Heavy footfalls, one for every half-dozen of his, shook the ground behind him, kicking up clouds of dust. Killing a titan was no easy task, but Kytheon had clearly made an impression on Erebos’s servant. Kytheon glanced at the sticky, black blood that clung to the tip of his sun-touched spear, and risked a look over his shoulder. His vision was filled by the titan’s frame.
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/13.jpg", width: 100%), caption: [Art by Peter Mohrbacher], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/13.jpg", width: 100%), caption: [Art by Peter Mohrbacher], supplement: none, numbering: none)
 
 The titan was clad in scale armor fashioned from scores of golden masks from those who escaped the Underworld. At that moment the vacant eyes of each mask seemed to be staring right at Kytheon.
 
@@ -481,7 +481,7 @@ Three Irregulars emerged from hiding to join Drasus. They had ropes that ended i
 
 Olexo, the youngest among them, cast his rope over the titan’s thick forearm, and the hook sank into pallid flesh. The others followed his lead, and when the titan broke free of Kytheon’s hold, the Irregulars yanked on their ropes. The titan wobbled off balance. Enraged, it whirled its flail around its head, clearly eager to be rid of such annoyances.
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/14.jpg", width: 100%), caption: [Art by Karl Kopinski], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/14.jpg", width: 100%), caption: [Art by Karl Kopinski], supplement: none, numbering: none)
 
 #emph[Every action has a response] . The idea filled Kytheon’s mind. #emph[Every action has a tipping point that, if recognized, can be harnessed as magic to gain control of a fight.]  He saw his opening.
 
@@ -507,9 +507,9 @@ The light lingered for a while, and when it died down, it took a moment for Kyth
 
 Color slowly seeped back into his surroundings. He looked down, inspecting where the spear made contact. No damage, but he noticed flecks of red. He moved a hand to wipe them, and saw that the back of it was splattered red too—both hands were. But if it wasn’t his blood….
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/15.jpg", width: 100%), caption: [Art by Winona Nelson], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/15.jpg", width: 100%), caption: [Art by Winona Nelson], supplement: none, numbering: none)
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/16.png", width: 50%), caption: [], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/16.png", width: 50%), caption: [], supplement: none, numbering: none)
 
 #pagebreak()
 
@@ -553,7 +553,7 @@ A lion’s face.
 
 Kytheon stumbled backward at the revelation, throwing his arms up defensively. The lion made no movement, and after a moment, Kytheon lowered his arms. He saw that the lion was barded like a warhorse, and atop a saddle sat a rider encased in armor like none Kytheon had ever seen. It covered the rider from head to toe, and where it caught the sun it gave off a brilliant gleam.
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/17.jpg", width: 100%), caption: [Art by Anastasia Ovchinnikova], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/17.jpg", width: 100%), caption: [Art by Anastasia Ovchinnikova], supplement: none, numbering: none)
 
 Though his throat was dry, Kytheon managed to push words out of his mouth. "Where am I? Who are you?"
 
@@ -569,4 +569,4 @@ Beyond the knights he saw a woman descending from the air, held aloft on two win
 
 In that moment, Kytheon knew that he had left Theros, his home, behind. His Irregulars were gone—a pain he brought with him. His ordeal had only begun.
 
-#figure(image("004_Gideon’s Origin: Kytheon Iora of Akros/18.png", width: 100%), caption: [Art by Willian Murai], supplement: none, numbering: none)
+#figure(image("004_Gideon’s Origin Kytheon Iora of Akros/18.png", width: 100%), caption: [Art by Willian Murai], supplement: none, numbering: none)

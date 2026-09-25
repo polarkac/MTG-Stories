@@ -7,7 +7,7 @@
     doc
 )
 
-#figure(image("001_Chandra’s Origin: Fire Logic/01.jpg", width: 100%), caption: [Art by Chase Stone], supplement: none, numbering: none)
+#figure(image("001_Chandra’s Origin Fire Logic/01.jpg", width: 100%), caption: [Art by Chase Stone], supplement: none, numbering: none)
 
 = City of Ghirapur, Plane of Kaladesh
 
@@ -35,7 +35,7 @@ Chandra’s mother set down the canister. The lid shimmered and hissed with a th
 
 "I can tell already you’re going to be the best courier this city has ever seen," said her mother with a wink.
 
-#figure(image("001_Chandra’s Origin: Fire Logic/02.jpg", width: 100%), caption: [Art by Tyler Jacobson], supplement: none, numbering: none)
+#figure(image("001_Chandra’s Origin Fire Logic/02.jpg", width: 100%), caption: [Art by Tyler Jacobson], supplement: none, numbering: none)
 
 Chandra tipped her chin up like mock royalty. "Please prepare all my medals and trophies for when I return. I’ll try to remember you all when I am the world’s most important outlaw."
 
@@ -59,7 +59,7 @@ Her mother gave her an awkward hug, patting the canister on her back. "Your fath
 
 The sun dazzled her eyes. The city of Ghirapur moved like a living thing, the architecture adapting to the needs of the gearcrafters, thopter-builders, clockforgers, and other inventors and artisans who swarmed through it. Chandra struggled her way through the crowd, pulling on a school tunic with her teeth, the canister clanking against her back.
 
-#figure(image("001_Chandra’s Origin: Fire Logic/03.jpg", width: 100%), caption: [Art by Magali Villeneuve], supplement: none, numbering: none)
+#figure(image("001_Chandra’s Origin Fire Logic/03.jpg", width: 100%), caption: [Art by Magali Villeneuve], supplement: none, numbering: none)
 
 The thoroughfare was jammed with too many people. She made a decision and took a perpendicular turn toward the canal. Two halves of a bridge glided to meet each other with a series of metallic clicks, merging to become a span over the canal, and Chandra hopped over the gap before it had completely come together. She diagonaled through the gates of the Akhara, a huge, round plaza ringed with tiered seats, skipping across the gears that rotated in the pavement and the raised dais in the center, dodging a clique of jabbering Ætherologists.
 
@@ -115,7 +115,7 @@ Chandra’s muscles tensed and she jerked away, making a sound through her teeth
 
 And then something happened that had never happened to her before. Her hands glowed from within, illuminating the bones and blood vessels and the lines in her palms. Growing in intensity, the heat erupted through her skin until her hands were engulfed with fire like two torches. Chandra yelped in shock and stood there, dazzled, looking back and forth between her hands as they burned.
 
-#figure(image("001_Chandra’s Origin: Fire Logic/04.jpg", width: 100%), caption: [Art by Eric Deschamps], supplement: none, numbering: none)
+#figure(image("001_Chandra’s Origin Fire Logic/04.jpg", width: 100%), caption: [Art by Eric Deschamps], supplement: none, numbering: none)
 
 The soldiers backed away in a semicircle. Captain Baral stood still, surprise turning to genuine interest.
 
@@ -133,7 +133,7 @@ Chandra burst into a run. She slipped between two of the soldiers, both of whom 
 
 Chandra took a series of turns through the streets, leaving the consuls’ soldiers and a tangle of bewildering emotions behind her. She kept glancing down at her hands, but they appeared to be nothing but hands now. There was no sign of the self-immolating craziness from moments before. It wasn’t that she hadn’t seen magic before; inventors regularly built creations that defied explanation, made even more wondrous by the power of Æther. But conjuring fire without the use of a device—that was new to her.
 
-#figure(image("001_Chandra’s Origin: Fire Logic/05.jpg", width: 100%), caption: [Art by Lius Lasahido], supplement: none, numbering: none)
+#figure(image("001_Chandra’s Origin Fire Logic/05.jpg", width: 100%), caption: [Art by Lius Lasahido], supplement: none, numbering: none)
 
 She ran onto a bridge back in the direction of home, but froze midway across. Rising almost silently into view were three ornate flying roterothopters, beating the air with their spinning rotors, each one with a large lens staring right at her.
 
@@ -141,7 +141,7 @@ She still had the canister. She wasn’t sure whether she was still eligible for
 
 The whirlers dipped and swung through the air toward her, staying just behind her as she fled back across the bridge. It was hard to escape on foot something that flew; the whirlers rose easily over obstacles she had to run around and she had to keep checking what was directly in front of her. She ducked into narrow alleys and dashed through shops, but the whirlers nimbly curved around to meet her when she came out the other side.
 
-#figure(image("001_Chandra’s Origin: Fire Logic/06.jpg", width: 100%), caption: [Art by Svetlin Velinov], supplement: none, numbering: none)
+#figure(image("001_Chandra’s Origin Fire Logic/06.jpg", width: 100%), caption: [Art by Svetlin Velinov], supplement: none, numbering: none)
 
 She approached a familiar spire: the Consuls’ Foundry, the Æther-powered factory that mass-produced automatons for the consuls. She was about to circle around it and head deeper into the city when she heard her name.
 
@@ -165,7 +165,7 @@ It was the last place Chandra would have chosen to enter. As she debated, Mrs. P
 
 Chandra ran inside as Mrs. Pashiri began yelling insults at the whirlers.
 
-#figure(image("001_Chandra’s Origin: Fire Logic/07.jpg", width: 100%), caption: [Art by Johann Bodin], supplement: none, numbering: none)
+#figure(image("001_Chandra’s Origin Fire Logic/07.jpg", width: 100%), caption: [Art by Johann Bodin], supplement: none, numbering: none)
 
 The interior of the Foundry was a still life of silent machinery. Half-assembled automata hung motionless, suspended by their torsos at machinists’ stations. Legs and grippers stood in racks, waiting for their turn to be riveted together and become another mass-produced servitor. The main overhead lamps were dark, and the only light was from a round glass skylight in the domed ceiling. A huge pylon, planted in the center of the space, soared up to the top of the dome. Automatic arms and gear-driven manipulators were folded against the pylon like a duck’s wings.
 
@@ -183,7 +183,7 @@ She pushed past one small artifact creature and elbowed another out of the way. 
 
 A gear-driven humanoid construct reached out to her. Instead of hands it had metal shackles, and it reached for her wrists with its fetter-claws. She punched it, because that was fist logic. But instead of connecting, her fist threw a blast of fire, knocking back the construct and smashing it into scorched pieces on the ground. Another artifact creature crept at her and she fire-punched it too, flame erupting out of her at the point of impact. Her hands bloomed with fire again. These were beautiful machines, and she was in no way in control of her fire skill, but there was no time to stop and think. She raged forward with a progression of shouts and blows, scorching her intricate assailants one by one as they surrounded her.
 
-#figure(image("001_Chandra’s Origin: Fire Logic/08.jpg", width: 100%), caption: [Art by Daarken], supplement: none, numbering: none)
+#figure(image("001_Chandra’s Origin Fire Logic/08.jpg", width: 100%), caption: [Art by Daarken], supplement: none, numbering: none)
 
 She tried to cut her way to the rear exit but the horde of Foundry servitors came at her too fast, and the big, six-legged monstrosity still stood guard at the door. The whirler even had the audacity to swing low, sprout a bladed claw, and nip at her back.
 
@@ -303,7 +303,7 @@ Knapsacks. Tool belts. Armfuls of possessions.
 
 Her mother pressed a knapsack into Chandra’s arms. They climbed the stairs to the heavy segmented door that formed the entrance to their home. Her father rolled the door closed and her mother welded it shut with a wand. They headed out into the night, their home in their hands, stealing from shadow to shadow. They didn’t speak, and Chandra didn’t ask questions as they climbed into the back of a waiting wagon and put a blanket over themselves.
 
-#figure(image("001_Chandra’s Origin: Fire Logic/09.jpg", width: 100%), caption: [Art by Dan Scott], supplement: none, numbering: none)
+#figure(image("001_Chandra’s Origin Fire Logic/09.jpg", width: 100%), caption: [Art by Dan Scott], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -333,7 +333,7 @@ She bellowed in theirs.
 
 Her fire came readily, without thinking, as natural as the impulse to run. She carved handfuls of fire as she ran, cupping her hands as if she were grabbing clay out of the air, grazing the beasts’ faces with it and cutting off their paths. She threw flame without hesitation, without burning her sleeves, without trying. There was no negotiation with the fire this time. She needed it and it came to her.
 
-#figure(image("001_Chandra’s Origin: Fire Logic/10.jpg", width: 100%), caption: [Art by Victor Adame Minguez], supplement: none, numbering: none)
+#figure(image("001_Chandra’s Origin Fire Logic/10.jpg", width: 100%), caption: [Art by Victor Adame Minguez], supplement: none, numbering: none)
 
 The beasts dispersed with only singed fur or superficial burns, leaving Chandra alone with her heaving breaths and the glow in her cheeks. She found a trail and walked back to the village, clasping her hands together with a secret smile on her face. She didn’t tell her parents she had almost been gored to death by a herd of woodland creatures, but they pointed out that she had barely eaten anything at dinner. She couldn’t, not with the excitement making little explosions in her stomach.
 
@@ -453,7 +453,7 @@ The day the soldiers surrounded the village, Chandra was exploring in the woods,
 
 They wore the same uniforms as those who had stopped her in the restricted corridor back in Ghirapur. Weapons were affixed to their forearms, and many of them carried lit lanterns, despite it being the middle of the day. One of them was tall and confident, and spoke to the others in a hoarse whisper. Captain Baral. Somehow he had found them.
 
-#figure(image("001_Chandra’s Origin: Fire Logic/11.jpg", width: 100%), caption: [Art by Daarken], supplement: none, numbering: none)
+#figure(image("001_Chandra’s Origin Fire Logic/11.jpg", width: 100%), caption: [Art by Daarken], supplement: none, numbering: none)
 
 The soldiers created a human fence around the village, crossing their arms and displaying their snapblades. One woman from the village shouted at them, and at Captain Baral’s order, the soldiers shoved her back.
 
@@ -501,7 +501,7 @@ Her father appeared out of the village smoke. He shoved himself between them, we
 
 Baral approached her father, put one hand on his shoulder, and stabbed him through the gut with a dagger. Her father gasped and crumpled, falling to his knees, holding his stomach in his hands. He glanced at Chandra for a moment, and she saw his last emotion in his eyes—not fear, but disappointment that he couldn’t do better for her. He bent over, shuddering, and fell to the ground.
 
-#figure(image("001_Chandra’s Origin: Fire Logic/12.jpg", width: 100%), caption: [Art by Jason A. Engle], supplement: none, numbering: none)
+#figure(image("001_Chandra’s Origin Fire Logic/12.jpg", width: 100%), caption: [Art by Jason A. Engle], supplement: none, numbering: none)
 
 Chandra didn’t hear the sound she made at that moment. The world became enveloped in steam and smoke, and the uniforms of soldiers. She didn’t feel the clink of cuffs around her wrists, the dainty loops of copper filigree that held like heavy iron. She didn’t feel the vent pack blasting steam. She didn’t feel herself being walked to the skyship, stepping over the threshold and put in her seat, gripping her mother’s shawl. And she didn't see the plumes of smoke trailing away from the village as the skyship rose and turned its nose around toward Ghirapur. She only saw her father crumpling down into the mud, over and over again, and heard the disheartened sigh of his final breath leaking out of him.
 
@@ -531,7 +531,7 @@ Chandra’s fists squeezed. The vent pack hissed, then whistled like a tea kettl
 
 As the executioner took three ritualized steps toward Chandra, the blade slid out from his arm, doubling its deadly length. Chandra’s whole body tensed. The vent pack’s whistling turned to a sputter as something boiled within her.
 
-#figure(image("001_Chandra’s Origin: Fire Logic/13.jpg", width: 100%), caption: [Art by Lius Lasahido], supplement: none, numbering: none)
+#figure(image("001_Chandra’s Origin Fire Logic/13.jpg", width: 100%), caption: [Art by Lius Lasahido], supplement: none, numbering: none)
 
 The executioner leaned his masked face close to Chandra’s. "I know you’re trying, pyromancer," he said in a gravelly whisper.
 
@@ -549,7 +549,7 @@ Every one of her muscles tensed. She reached inside, grasping for something, any
 
 In a slow instant, the blade arced down through the air toward her neck. Chandra felt the prickling sensation wash over her like a wave of coals. Her vision flickered at the edges, blurring out Baral and the announcer and everything around her. The arena and the crowd warped in a molten haze. She felt the sputtering steam from her vent pack turn to white-hot liquid, barely aware that the pack had melted into slag, and was dripping down her leg and burning through the stone dais.
 
-#figure(image("001_Chandra’s Origin: Fire Logic/14.jpg", width: 100%), caption: [Art by Eric Deschamps], supplement: none, numbering: none)
+#figure(image("001_Chandra’s Origin Fire Logic/14.jpg", width: 100%), caption: [Art by Eric Deschamps], supplement: none, numbering: none)
 
 Her hands caught fire, flash-melting the restraints. Her arms caught fire. Her shoulders and torso caught fire. She turned her face away, but the flame spread up her face. Her hair became a blaze of incandescence. Her eyes roasted, becoming red-hot orbs in their sockets.
 
@@ -571,4 +571,4 @@ Somehow, though, the raging funnel of flame did not harm them. One of the monks 
 
 "Greetings, pyromancer," said the monk. "You are welcome here."
 
-#figure(image("001_Chandra’s Origin: Fire Logic/15.jpg", width: 100%), caption: [Art by Eric Deschamps], supplement: none, numbering: none)
+#figure(image("001_Chandra’s Origin Fire Logic/15.jpg", width: 100%), caption: [Art by Eric Deschamps], supplement: none, numbering: none)

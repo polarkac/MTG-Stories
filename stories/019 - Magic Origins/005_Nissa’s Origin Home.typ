@@ -43,7 +43,7 @@
 
 #emph[It would end her.]
 
-#figure(image("005_Nissa’s Origin: Home/01.png", width: 100%), caption: [Art by Chase Stone], supplement: none, numbering: none)
+#figure(image("005_Nissa’s Origin Home/01.png", width: 100%), caption: [Art by Chase Stone], supplement: none, numbering: none)
 
 Nissa awoke with a start, screaming and gasping for breath.
 
@@ -99,7 +99,7 @@ When her feet wanted to turn around, she reminded herself of why she was leaving
 
 Nissa didn’t stop or even slow until she saw the first hint of deep, blue light through the trees. She had kept such a pace that she would be ahead of any Joraga trackers by at least half a day, and that’s only if they could find her trail. But they wouldn’t. She had been using her nature magic to cover it, putting every last blade of grass back in its place. She glanced over her shoulder to reassure herself. Her spell had worked flawlessly; there was no sign that she had travelled here. Not even the most skilled tracker would be able to find her.
 
-#figure(image("005_Nissa’s Origin: Home/02.jpg", width: 100%), caption: [Art by Wesley Burt], supplement: none, numbering: none)
+#figure(image("005_Nissa’s Origin Home/02.jpg", width: 100%), caption: [Art by Wesley Burt], supplement: none, numbering: none)
 
 As the reality of that thought set in, Nissa’s mouth went dry. She took a deep breath, forcing down the feeling of dread, and turned forward to press on.
 
@@ -139,7 +139,7 @@ She understood then. The glowing stream of light and life was the land’s soul.
 
 It eased her into a vision, guiding her gently into its thoughts, its memories, and its hopes.
 
-#figure(image("005_Nissa’s Origin: Home/03.jpg", width: 100%), caption: [Art by Chris Rahn], supplement: none, numbering: none)
+#figure(image("005_Nissa’s Origin Home/03.jpg", width: 100%), caption: [Art by Chris Rahn], supplement: none, numbering: none)
 
 #emph[The stream swirled around her, each of its jewels sparkling, but Nissa understood that they were more than just jewels; each sparkle was a living being. All the beasts, plants, and races of Zendikar were a part of the endless stream.]
 
@@ -203,7 +203,7 @@ Nissa’s heart soared at seeing it again. "Hello, Zendikar," she said.
 
 The stream trilled with excitement and shot up, whirling around her and Mazik like a funnel cloud. It blew their hair into the air and filled them with a feeling of enchantment. Before their hair even had a chance to settle, the light was tugging on their wrists, asking for them to follow.
 
-#figure(image("005_Nissa’s Origin: Home/04.jpg", width: 100%), caption: [Art by Howard Lyon], supplement: none, numbering: none)
+#figure(image("005_Nissa’s Origin Home/04.jpg", width: 100%), caption: [Art by Howard Lyon], supplement: none, numbering: none)
 
 Nissa looked to Mazik.
 
@@ -259,7 +259,7 @@ As they picked their way deeper into the marshland, Nissa formed a connection wi
 
  
 
-#figure(image("005_Nissa’s Origin: Home/05.jpg", width: 100%), caption: [Art by Tianhua X], supplement: none, numbering: none)
+#figure(image("005_Nissa’s Origin Home/05.jpg", width: 100%), caption: [Art by Tianhua X], supplement: none, numbering: none)
 
  
 
@@ -355,7 +355,7 @@ With a spiting hiss, two of the nearest vampires sprang up toward him, securing 
 
  
 
-#figure(image("005_Nissa’s Origin: Home/06.jpg", width: 100%), caption: [Art by Igor Kieryluk], supplement: none, numbering: none)
+#figure(image("005_Nissa’s Origin Home/06.jpg", width: 100%), caption: [Art by Igor Kieryluk], supplement: none, numbering: none)
 
  
 
@@ -429,7 +429,7 @@ Mazik encouraged Nissa to practice using her new powers. She agreed; it felt lik
 
  
 
-#figure(image("005_Nissa’s Origin: Home/07.jpg", width: 100%), caption: [Art by David Gaillet], supplement: none, numbering: none)
+#figure(image("005_Nissa’s Origin Home/07.jpg", width: 100%), caption: [Art by David Gaillet], supplement: none, numbering: none)
 
  
 
@@ -487,7 +487,7 @@ Nissa realized it in the same moment Mazik said it. "The Roil! It’s happening!
 
  
 
-#figure(image("005_Nissa’s Origin: Home/08.jpg", width: 100%), caption: [Art by Sam Burley], supplement: none, numbering: none)
+#figure(image("005_Nissa’s Origin Home/08.jpg", width: 100%), caption: [Art by Sam Burley], supplement: none, numbering: none)
 
 Nissa had heard stories of the Roil, the force of Zendikar that consumed everything in its path. The stories didn’t seem to be exaggerations. Rocks were raining down around them and the land was shuddering and undulating like the violent waves of an ocean.
 
@@ -521,7 +521,7 @@ She could see it then; the Roil wasn’t an alien force; the Roil was Zendikar�
 
  
 
-#figure(image("005_Nissa’s Origin: Home/09.jpg", width: 100%), caption: [Art by Izzy], supplement: none, numbering: none)
+#figure(image("005_Nissa’s Origin Home/09.jpg", width: 100%), caption: [Art by Izzy], supplement: none, numbering: none)
 
  
 
@@ -841,7 +841,7 @@ Nissa woke to a circle of scowling faces and realized that she had been screamin
 
  
 
-#figure(image("005_Nissa’s Origin: Home/10.jpg", width: 100%), caption: [Art by Lius Lasahido], supplement: none, numbering: none)
+#figure(image("005_Nissa’s Origin Home/10.jpg", width: 100%), caption: [Art by Lius Lasahido], supplement: none, numbering: none)
 
  
 
@@ -985,7 +985,7 @@ Galed didn’t hear a word; he was lost in the heat of bloodletting, dispatching
 
  
 
-#figure(image("005_Nissa’s Origin: Home/11.jpg", width: 100%), caption: [Art by Igor Kieryluk], supplement: none, numbering: none)
+#figure(image("005_Nissa’s Origin Home/11.jpg", width: 100%), caption: [Art by Igor Kieryluk], supplement: none, numbering: none)
 
  
 
@@ -1033,7 +1033,7 @@ Nissa followed his eyes and realized that her blade was poking his garment right
 
  
 
-#figure(image("005_Nissa’s Origin: Home/12.jpg", width: 100%), caption: [Art by Johannes Voss], supplement: none, numbering: none)
+#figure(image("005_Nissa’s Origin Home/12.jpg", width: 100%), caption: [Art by Johannes Voss], supplement: none, numbering: none)
 
  
 
@@ -1117,7 +1117,7 @@ Nissa’s steps slowed, but for just a heartbeat. She forced herself to press on
 
  
 
-#figure(image("005_Nissa’s Origin: Home/13.jpg", width: 100%), caption: [Art by Sam Burley], supplement: none, numbering: none)
+#figure(image("005_Nissa’s Origin Home/13.jpg", width: 100%), caption: [Art by Sam Burley], supplement: none, numbering: none)
 
  
 
@@ -1147,4 +1147,4 @@ This was her path. It was the very thing that she had been searching for all her
 
 As she tumbled into the vast space, she saw her path unravel through the eternities. It would lead her many places, but for now it would lead her home.
 
-#figure(image("005_Nissa’s Origin: Home/14.jpg", width: 100%), caption: [Art by Wesley Burt], supplement: none, numbering: none)
+#figure(image("005_Nissa’s Origin Home/14.jpg", width: 100%), caption: [Art by Wesley Burt], supplement: none, numbering: none)

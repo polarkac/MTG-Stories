@@ -7,7 +7,7 @@
     doc
 )
 
-#figure(image("002_Liliana's Origin: The Fourth Pact/01.jpg", width: 100%), caption: [Art by Chase Stone], supplement: none, numbering: none)
+#figure(image("002_Liliana's Origin The Fourth Pact/01.jpg", width: 100%), caption: [Art by Chase Stone], supplement: none, numbering: none)
 
 = Gift of the Raven Man
 
@@ -15,7 +15,7 @@ A man died somewhere nearby—too near—wasting his last breath on an inarticul
 
 She'd grown up walking the tracks and trails of the Caligo Forest and knew them as well as anyone—certainly better than any of the soldiers fighting and dying under its branches now. Even at night, the woods felt like home to her, with owls and nightingales calling softly among the dark boughs. But on this night the forest had become a battlefield, and the only calls were the screams of the dying and the harsh croak of ravens squabbling over the flesh of the dead.
 
-#figure(image("002_Liliana's Origin: The Fourth Pact/02.jpg", width: 100%), caption: [Art by Karla Ortiz], supplement: none, numbering: none)
+#figure(image("002_Liliana's Origin The Fourth Pact/02.jpg", width: 100%), caption: [Art by Karla Ortiz], supplement: none, numbering: none)
 
 She stopped and listened, straining her ears for any sound of pursuit, some indication that she'd been detected. No human soldier came behind her, she was sure—just one raven hopping and fluttering from branch to branch behind her, waiting for her to die.
 
@@ -43,7 +43,7 @@ He held up his empty hands. "Your father is our lord and general. Of course I kn
 
 "Like you, I'd rather lie low in the woods than end up a headless corpse dragged behind the horses of your father's foes, my skin stretched over their shields and my skull dancing through the trees."
 
-#figure(image("002_Liliana's Origin: The Fourth Pact/03.jpg", width: 100%), caption: [Art by Chris Rahn], supplement: none, numbering: none)
+#figure(image("002_Liliana's Origin The Fourth Pact/03.jpg", width: 100%), caption: [Art by Chris Rahn], supplement: none, numbering: none)
 
 As he spoke, Liliana thought she heard hoof beats in the distance. "I have to go," she said.
 
@@ -99,7 +99,7 @@ All of her studies, her lessons, the daily routines of crushing herbs and mixing
 
 #emph[Of course!]  She nearly jumped at the unexpected thought. Over the years, she had expanded her studies beyond what Lady Ana could teach, dabbling in magic that took a more…direct approach to life and death. All in service to her work as a healer, of course. She knew magic that could turn even a burned and shriveled esis root into a cure for Josu. At least in theory.
 
-#figure(image("002_Liliana's Origin: The Fourth Pact/04.jpg", width: 100%), caption: [Art by Bastien L. Deharme], supplement: none, numbering: none)
+#figure(image("002_Liliana's Origin The Fourth Pact/04.jpg", width: 100%), caption: [Art by Bastien L. Deharme], supplement: none, numbering: none)
 
 But how did #emph[he]  know that?
 
@@ -145,7 +145,7 @@ She screamed.
 
 But she turned her scream into another spell, using the pain to focus her mind. The spell rolled from her mouth like the tolling of a bell, and a deathly chill soothed her burning skin as her magic took shape. Three spectral hands floated up from the ground at the crones' feet, trailing wisps of shadow like ghostly arms.
 
-#figure(image("002_Liliana's Origin: The Fourth Pact/05.jpg", width: 100%), caption: [Art by David Palumbo], supplement: none, numbering: none)
+#figure(image("002_Liliana's Origin The Fourth Pact/05.jpg", width: 100%), caption: [Art by David Palumbo], supplement: none, numbering: none)
 
 Now it was the witches' turn to howl in pain as the hands disappeared into their chests and emerged from their backs, clutching glowing motes of golden light. Their screams turned to pathetic moans as they sank to the ground, clutching their chests with what little strength Liliana's spell had left them. One skin-witch stretched out a hand toward her and mumbled something that might have been a spell, but Liliana felt nothing.
 
@@ -231,7 +231,7 @@ Liliana lifted her glowing vial, and its golden light glimmered in Josu's eyes a
 
 "Don't!" Lady Ana made one final protest, but too late.
 
-#figure(image("002_Liliana's Origin: The Fourth Pact/06.jpg", width: 100%), caption: [Art by Izzy], supplement: none, numbering: none)
+#figure(image("002_Liliana's Origin The Fourth Pact/06.jpg", width: 100%), caption: [Art by Izzy], supplement: none, numbering: none)
 
 The potion filled Josu's mouth, and a gleaming golden drop spilled down his chin. For a moment fear twisted his face and Liliana worried he might spit out the precious liquid, but then he swallowed, and again, and one more time. Then his eyes closed and he settled back on his pillow.
 
@@ -271,7 +271,7 @@ The foul air of his breath stung her nostrils even as she fought to inhale, tryi
 
 "Sorry!" He staggered to his feet and lurched at her. "You #emph[damned]  me, Sister!" Glaring at her, he brought his clawed fingers to his own neck. "Damned me to endless torment!" He raked his nails down his neck and onto his chest, tearing skin and cloth alike…but not a drop of blood welled in the gashes. "Torment!"
 
-#figure(image("002_Liliana's Origin: The Fourth Pact/07.jpg", width: 100%), caption: [Art by Izzy], supplement: none, numbering: none)
+#figure(image("002_Liliana's Origin The Fourth Pact/07.jpg", width: 100%), caption: [Art by Izzy], supplement: none, numbering: none)
 
 Bracing herself against the wall, Liliana fought her way to her feet, edging away from him. But despite the stiffness of his limbs, he was fast, and he caught her neck in his hand again, pressing her back against the plaster.
 
@@ -325,7 +325,7 @@ Her soul burned in exquisite agony, and Josu's magic dissipated, unable to conta
 
 She stretched her hands to her sides and the corpses strewn about in the rubble rose up, her servants to command once more. The mob of zombies lurched at Josu, swallowed him up and overwhelmed him.
 
-#figure(image("002_Liliana's Origin: The Fourth Pact/08.jpg", width: 100%), caption: [Art by Izzy], supplement: none, numbering: none)
+#figure(image("002_Liliana's Origin The Fourth Pact/08.jpg", width: 100%), caption: [Art by Izzy], supplement: none, numbering: none)
 
 As Josu struggled against the press of undead flesh, something pulled at her from behind. Whirling around, she saw the ruins of her father's house change. The walls twisted and split, forming dark tree trunks under a shroud of black leaves. Clouds of dust became billowing fog, and the rubble-strewn floor turned into swampy ground strewn with dead leaves and gnarled roots. Her feet didn't move, but she felt that she was being drawn through unspeakable eternities, plucked from the world she knew and thrust into a whole other world.
 
@@ -349,7 +349,7 @@ The floor shook again as the dragon chuckled, and Liliana turned to look at him�
 
 "I can help you, Liliana Vess," Bolas said. "But immortality is beyond the reach of us all, now."
 
-#figure(image("002_Liliana's Origin: The Fourth Pact/09.jpg", width: 100%), caption: [Art by D. Alexander Gregory], supplement: none, numbering: none)
+#figure(image("002_Liliana's Origin The Fourth Pact/09.jpg", width: 100%), caption: [Art by D. Alexander Gregory], supplement: none, numbering: none)
 
 "Says the thirty-thousand-year-old dragon." Liliana turned her back on him again, staring down at her hands. Creased and spotted with age, her skin hung loose on her bones. She stood as straight as she could manage, unwilling to display her body's frailty in front of the mighty dragon. But it was not just her body—her soul was a withered bloom, bereft of hope.
 
@@ -421,7 +421,7 @@ And she was still old.
 
 The dragon deposited her in another great hall. Leaping flames filled an archway in front of her, but as Bolas withdrew, the flames died down and the fourth demon came—slithered—into view. In place of legs, he had a bulbous tail trailing behind him into the fires. His bestial head jutted forward from his hulking shoulders, dominated by a leering grin that showed his sharp teeth. Two horns, surmounted by an elaborate headdress, swooped out to the sides from a tawny mane. Tattered, leathery wings stretched out from his shoulders. And his long arms trailed sharp claws almost to the ground.
 
-#figure(image("002_Liliana's Origin: The Fourth Pact/10.jpg", width: 100%), caption: [Art by Tianhua X], supplement: none, numbering: none)
+#figure(image("002_Liliana's Origin The Fourth Pact/10.jpg", width: 100%), caption: [Art by Tianhua X], supplement: none, numbering: none)
 
 "Liliana Vess," he said, stooping so his breath washed over her face. His voice was a harsh whisper, and a serpent's tongue flicked out between his teeth as he drew out the end of her name. "I am Kothophed."
 
@@ -489,7 +489,7 @@ He reached a claw toward her face again and she winced in anticipation, bringing
 
 His touch was more gentle, but still agonizing, as he traced the claw in whorls across her face. "You are a Planeswalker," he said as he worked. "That makes you special. You are also one of the most powerful mages in all the planes, and that makes you extraordinary."
 
-#figure(image("002_Liliana's Origin: The Fourth Pact/11.jpg", width: 100%), caption: [Art by Aleksi Briclot], supplement: none, numbering: none)
+#figure(image("002_Liliana's Origin The Fourth Pact/11.jpg", width: 100%), caption: [Art by Aleksi Briclot], supplement: none, numbering: none)
 
 #emph[Yes,]  she thought. #emph[So the Raven Man said] .
 
@@ -507,5 +507,5 @@ But some part of Liliana knew that Kothophed was the one who should be afraid. S
 
 It was written on her skin.
 
-#figure(image("002_Liliana's Origin: The Fourth Pact/12.jpg", width: 100%), caption: [Art by Karla Ortiz], supplement: none, numbering: none)
+#figure(image("002_Liliana's Origin The Fourth Pact/12.jpg", width: 100%), caption: [Art by Karla Ortiz], supplement: none, numbering: none)
 
