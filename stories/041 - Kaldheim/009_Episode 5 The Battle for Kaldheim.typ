@@ -9,7 +9,7 @@
 
 Far above the Feltmark, wheeling between the columns of smoke that rose from the many chimneys of the Beskir Stronghold, a raven sailed through the air. A raven, it is known, can cover a hundred miles in a day, and this one had done just that. It had passed over the high ridges of the Tusk mountains, seen the fire giants scaling the cliffsides while Tuskeri braveswords rolled cut logs and boulders to knock them back to earth. The raven, with one black and inscrutable eye, had watched the Skelle gather in their marshes and swear oaths by blood, readying for war. It had followed the coast for some time, where longships dotted the horizon, the greatest fleet of the age riding the wind westward, to the one place in Bretagard that all flock to in times of crisis.
 
-#figure(image("009_Episode 5: The Battle for Kaldheim/01.jpg", width: 100%), caption: [Bretagard Stronghold | Art by: Jung Park], supplement: none, numbering: none)
+#figure(image("009_Episode 5 The Battle for Kaldheim/01.jpg", width: 100%), caption: [Bretagard Stronghold | Art by: Jung Park], supplement: none, numbering: none)
 
 The raven landed on a thatched roof in one of the inner courtyards, past the thick walls that ringed the fortress. Below, among the rising sounds of weapons pressed to grindstone, of mail brushing plate, two voices stood out. The raven, as was its way, paused to listen.
 
@@ -33,7 +33,7 @@ Rune-Eyes stood from her seat. "This is Tyvar, of Skemfar, and Kaya, of—elsewh
 
 "No serpent-kissing elf can call himself my friend," growled Fynn. "Least of all their prince."
 
-#figure(image("009_Episode 5: The Battle for Kaldheim/02.jpg", width: 100%), caption: [Fynn, the Fangbearer | Art by: Lie Setiawan], supplement: none, numbering: none)
+#figure(image("009_Episode 5 The Battle for Kaldheim/02.jpg", width: 100%), caption: [Fynn, the Fangbearer | Art by: Lie Setiawan], supplement: none, numbering: none)
 
 He hadn't drawn his weapon yet, but he looked ready to. Tyvar hadn't even risen from his chair, though. "It isn't just the humans that will die if the elves go to war. But I suppose you'll be the one to talk down my brother, then, when he arrives at the head of an army."
 
@@ -61,7 +61,7 @@ A moment of silence passed between them. Fynn was the first to break it. "But wi
 
 "There is one, yet, who can wield it," came a voice from the darkened corner of the room where the light of the braziers didn't quite reach. A fifth figure stepped from the shadows—an old man, in a long, heavy traveling cloak. There was a raven perched on his shoulder. "The god for whom the sword was meant. Halvar, God of Battle."
 
-#figure(image("009_Episode 5: The Battle for Kaldheim/03.jpg", width: 100%), caption: [Strategic Planning | Art by: Donato Giancola], supplement: none, numbering: none)
+#figure(image("009_Episode 5 The Battle for Kaldheim/03.jpg", width: 100%), caption: [Strategic Planning | Art by: Donato Giancola], supplement: none, numbering: none)
 
 From his eyes spilled a faint glow—the same light frozen inside the blade of the sword. Before Alrund, even Fynn was speechless.
 
@@ -91,7 +91,7 @@ But Tyvar's eyes, as he turned to face her, locked on to something else. A shado
 
 She saw the rest in individual moments, separate frames as she fell: the raven, its wing bent into an unnatural position; Tyvar and Arni, arms wheeling around them as they started to fall, grabbing for handholds that weren't there; above them all, a massive horned figure with two leathery, ragged wings, carrying a heavy-looking, long-handled axe.
 
-#figure(image("009_Episode 5: The Battle for Kaldheim/04.jpg", width: 100%), caption: [Varragoth, Bloodsky Sire | Art by: Tyler Jacobson], supplement: none, numbering: none)
+#figure(image("009_Episode 5 The Battle for Kaldheim/04.jpg", width: 100%), caption: [Varragoth, Bloodsky Sire | Art by: Tyler Jacobson], supplement: none, numbering: none)
 
 It was closer than she had seen him before; even falling down, down, away from the demon, she could make out the tangle of bruise-colored flesh that hung in the shape of a wild beard; she could see thousands of years of imprisonment boiling out of those crazy eyes. Varragoth swung again, driving his axe into the raven's side, and then Kaya was turning over and over, the wind deafening in her ears, falling, falling.
 
@@ -113,7 +113,7 @@ With effort, she pulled them all back to corporeal form, and at once, they were 
 
 Arni was the one that caught the branch along the bank; with Kaya's help, they hauled Tyvar out of the water. He was still gasping for air, clutching his arms as if freezing. It was lucky, she guessed, that the draugr on all sides seemed too surprised to take a swing at them before she'd found her footing again.
 
-#figure(image("009_Episode 5: The Battle for Kaldheim/05.jpg", width: 100%), caption: [Grim Draugr | Art by: Grzegorz Rutkowski], supplement: none, numbering: none)
+#figure(image("009_Episode 5 The Battle for Kaldheim/05.jpg", width: 100%), caption: [Grim Draugr | Art by: Grzegorz Rutkowski], supplement: none, numbering: none)
 
 Kaya dodged the first blow, parried the second. She knocked away a sword swing meant for Tyvar, took the draugr's arm off at the elbow. "Get up, kid!"
 
@@ -133,7 +133,7 @@ Over the dead-choked fields rose a sound Kaya had never heard before. A few chan
 
 It sounded again, and Kaya followed it to the gentle curve of a hill some ways off. A line of figures had begun to form—most carried shields of bronze, stained with the green patina of age. Some carried spears, some swords. Kaya only needed to see how Tyvar looked at them to know who they were: the elves of Skemfar, marching to war.
 
-#figure(image("009_Episode 5: The Battle for Kaldheim/06.jpg", width: 100%), caption: [Harald, King of Skemfar | Art by: Collin Estrada], supplement: none, numbering: none)
+#figure(image("009_Episode 5 The Battle for Kaldheim/06.jpg", width: 100%), caption: [Harald, King of Skemfar | Art by: Collin Estrada], supplement: none, numbering: none)
 
 "Tyvar, we don't have time for this. We have to move," said Kaya, but Tyvar seemed rooted to the spot.
 
@@ -153,7 +153,7 @@ An earth-trembling footstep shook her from her trance, freezing her where she st
 
 Just as it began to move toward her, there was a splashing sound to Kaya's left. She saw, hanging in the air, the most unlikely thing: a dolphin. Oddly majestic, almost pristine in the middle of all the chaos and carnage. It was arcing through the air toward her, gray skin wet and sleek—it must have jumped from the whitewater rapids next to her, Kaya realized. Seamlessly, that shining skin billowed back into the shape of a cloak, and the creature landed on now human legs; the cloak settled on slender, brown shoulders. In front of Kaya and the troll stood a middle-aged woman with wild, unbound hair. She said nothing, only raised her hands. As her eyes glowed with shifting, multi-colored light, Kaya realized she was looking at one of the gods of Kaldheim.
 
-#figure(image("009_Episode 5: The Battle for Kaldheim/07.jpg", width: 100%), caption: [Cosima, God of the Voyage | Art by: Andy Brase], supplement: none, numbering: none)
+#figure(image("009_Episode 5 The Battle for Kaldheim/07.jpg", width: 100%), caption: [Cosima, God of the Voyage | Art by: Andy Brase], supplement: none, numbering: none)
 
 Behind her, a wall of water rose from the river, white and thrashing like an animal. It swept over the undead Torga and a handful of draugr. The wave carried all of them off as it rolled down the field, one more combatant in the mad battle across Bretagard.
 
@@ -195,7 +195,7 @@ Kaya set her weight into a balanced stance and took a deep breath. Yeah, she cou
 
 The first of Varragoth's demons stepped out of the crowd, shoving draugr aside. There were two more behind him, and who knew how many beyond that. She bent her knees, prepared again to leap forward—and was interrupted by the familiar sound of a horn blowing, much closer this time.
 
-#figure(image("009_Episode 5: The Battle for Kaldheim/08.jpg", width: 100%), caption: [Warhorn Blast | Art by: Bryan Sola], supplement: none, numbering: none)
+#figure(image("009_Episode 5 The Battle for Kaldheim/08.jpg", width: 100%), caption: [Warhorn Blast | Art by: Bryan Sola], supplement: none, numbering: none)
 
 They crashed into the draugr and the demons both, from the east, where the rising sun shone on their armor and shields, making the ancient, tarnished brass seem—for a moment—new again. Elves, she realized. A line of pike-bearers set their hafts against the ground, forming a wall between Kaya and the demons. They were #emph[helping ] her.
 
@@ -265,7 +265,7 @@ The closest draugr had formed into ranks, marching toward Kaya and Harald at a s
 
 She was watching the demons rise on those black wings—that's why she saw it. A roiling, stretching pattern across the sky, like the very air was wearing thin. It began to tear, spilling that divine light—another rift in the world, like the one the draugr still spilled out of. There was something different about this one, though. Where the sky was held taut, she could make out something, pressing into the back of the developing rift like a hand against cloth. With a sound like thunder, it tore open.
 
-#figure(image("009_Episode 5: The Battle for Kaldheim/09.jpg", width: 100%), caption: [Koma's Coil Token | Art by: Simon Dominic], supplement: none, numbering: none)
+#figure(image("009_Episode 5 The Battle for Kaldheim/09.jpg", width: 100%), caption: [Koma's Coil Token | Art by: Simon Dominic], supplement: none, numbering: none)
 
 The thing that emerged from the rift had features she recognized—flat nostrils, a coiled body, arcing fangs laced with venom—but at this scale, they appeared alien and strange. It wasn't simply massive, it was #emph[continental] . Not just a snake, but #emph[the ] snake; anything else a pale imitation, a lesser copy. It looked big enough to coil around any of the branches of the World Tree. #emph[Which it probably does] , Kaya thought.
 
@@ -277,7 +277,7 @@ As the serpent reached the rift into Karfell, it paused. Those great gaping nost
 
 Kaya's relief was so great she almost didn't notice the other beings spilling out of the rift Koma had just torn open. Angels, it looked like, with great feathered wings of white and black and brown and red, armed and armored, many of them roaring with sudden and startling fury. Not angels, she realized after a moment—Valkyries. Inga had told her about them. Arbiters of judgement, guardians of the heroic souls forever fighting and feasting in Starnheim. They slammed into the demons from above, feathered wings tangling with leather membrane as they tumbled out of the air together or rebounded off clashing steel.
 
-#figure(image("009_Episode 5: The Battle for Kaldheim/10.jpg", width: 100%), caption: [Starnheim Unleashed | Art by: Johannes Voss], supplement: none, numbering: none)
+#figure(image("009_Episode 5 The Battle for Kaldheim/10.jpg", width: 100%), caption: [Starnheim Unleashed | Art by: Johannes Voss], supplement: none, numbering: none)
 
 Only one figure among them wasn't winged; they dangled, in fact, from the arm of a Valkyrie, who was carrying them down close toward Kaya. Just before they reached the ground—maybe ten feet up—the wingless one let go. The air around them seemed to harden, then, condensing into solid, reflective shards of—something. With a juggler's speed, they grabbed and threw three of them. Each one sunk into the chest of a massive, undead Torga. The trolls didn't just go down, though—they shattered, as if they'd been glass under a hammer.
 
@@ -295,7 +295,7 @@ The stranger twitched their head away from the arcing weapon—in the right dire
 
 That didn't sound like the name of a Kaldheimr. "Great. We'll handle the rest of the introductions later."
 
-#figure(image("009_Episode 5: The Battle for Kaldheim/11.jpg", width: 100%), caption: [Shard Token | Art by: Aaron Miller], supplement: none, numbering: none)
+#figure(image("009_Episode 5 The Battle for Kaldheim/11.jpg", width: 100%), caption: [Shard Token | Art by: Aaron Miller], supplement: none, numbering: none)
 
 Kaya turned back toward the mass of draugr and demons. Something was surging through the crowd toward them, knocking corpse-like soldiers into the air as it barreled their way. Varragoth—who else?—crashed free of the ranks of draugr, looking more like a wild beast than a demon jarl now. The iron armor he'd been wearing was warped, gouged, and broken; somewhere along the way he'd lost his axe. He was bleeding from a dozen different wounds now, but he was still upright. Clinging to his back, red hair darkened with blood and eyes unfocused, was Tyvar.
 
@@ -311,7 +311,7 @@ Kaya didn't even have time to exhale. Behind them came a sudden rushing sound, l
 
 Kaya didn't know if the draugr were mindless undead, but they were at the very least slow-witted; they didn't notice their reinforcements cut off. Across the field, she saw the demons who weren't engaged with the Valkyries take flight, panic finally overcoming their bloodlust. She turned to find Halvar standing, the Sword of the Realms pointing straight up into the air. Light poured from it in a dazzling, kaleidoscopic rush. Behind him, something caught her eye: motion, in one of the windows of the village across the bridge. There, the moony, wide-eyed face of a child stared, open-mouthed, as the god of battle sealed up the holes in the world. #emph[Yeah] , thought Kaya. #emph[This one will make a pretty good saga.]
 
-#figure(image("009_Episode 5: The Battle for Kaldheim/12.jpg", width: 100%), caption: [Halvar, God of Battle | Art by: Lie Setiawan], supplement: none, numbering: none)
+#figure(image("009_Episode 5 The Battle for Kaldheim/12.jpg", width: 100%), caption: [Halvar, God of Battle | Art by: Lie Setiawan], supplement: none, numbering: none)
 
 "By the end," Tyvar was saying, as they crossed the now-quiet battlefield, made muddy from the tramping of countless boots, "I #emph[personally ] slew close to a hundred draugr, and three demons. It is my guess, though, that they will be telling tales of you for a long time. The woman who killed Varragoth—Slayer of the Bloodsky Sire. Why, I can almost hear it now!"
 
@@ -349,7 +349,7 @@ Harald, too, was close by, flanked by a retinue of brass-armored honor guard. He
 
 "We broke the draugr lines and drove off their main body," said Sigrid. "Our scouts are pursuing the stragglers, but we'll never catch them all. Unless draugr melt in the warmer months, we'll be dealing with them for years. But any trouble they cause will be nothing compared to the demons that escaped."
 
-#figure(image("009_Episode 5: The Battle for Kaldheim/13.jpg", width: 100%), caption: [Sigrid, God-Favored | Art by: Johannes Voss], supplement: none, numbering: none)
+#figure(image("009_Episode 5 The Battle for Kaldheim/13.jpg", width: 100%), caption: [Sigrid, God-Favored | Art by: Johannes Voss], supplement: none, numbering: none)
 
 "It's the same all across Bretagard. Probably all across the realms," said Inga. "The rifts were open for a long time. There's no telling what slipped through."
 
@@ -375,7 +375,7 @@ Kaya looked at them in surprise. It was hard to believe that name mentioned here
 
 Esika was dying. That wasn't supposed to happen—she was a god. It was by her hand, in fact, that the gods were freed from their mortality, from aging, from that final closing in of the dark. It was Esika who brewed the potion of divinity from the sap of the World Tree, the draught that kept death at bay, and yet she could feel the life escaping her. Running down her arms, her body, her face. She couldn't move her legs—she would have fallen to the ground by now, if the monster who had done this was not holding her up with one raw, flesh-colored claw. It tilted her to one side, regarding her with those dark, empty eye sockets. It had found her, this thing, in her sanctum, the place where she drew the sap and brewed the Cosmos Elixir. Nobody—nothing—had ever found her here.
 
-#figure(image("009_Episode 5: The Battle for Kaldheim/14.jpg", width: 100%), caption: [Esika, God of the Tree | Art by: Collin Estrada], supplement: none, numbering: none)
+#figure(image("009_Episode 5 The Battle for Kaldheim/14.jpg", width: 100%), caption: [Esika, God of the Tree | Art by: Collin Estrada], supplement: none, numbering: none)
 
 A voice rose from the creature's throat, then—an odd amalgamation of tones and deliveries, as if the words had been stolen from other voices, synthesized into something new. "Not enough hunger in you. Not enough fear to survive. Soon, though."
 
@@ -385,7 +385,7 @@ Esika tried to raise her arms—she had never been a warrior, not like Halvar or
 
 She watched, helpless, as the monster reached the well. What poison would it use? What corruption would it seed in this most sacred place?
 
-#figure(image("009_Episode 5: The Battle for Kaldheim/15.jpg", width: 100%), caption: [Tyrite Sanctum | Art by: Volkan Baga], supplement: none, numbering: none)
+#figure(image("009_Episode 5 The Battle for Kaldheim/15.jpg", width: 100%), caption: [Tyrite Sanctum | Art by: Volkan Baga], supplement: none, numbering: none)
 
 To her surprise, it produced one of her own bottles. It must have taken one from her during their fight. She watched it dip the bottle into the well and hold it up to the light. Inside, the sap of the World Tree shimmered with all the colors of the realms. The most beautiful thing in this world—in any world, as far as Esika was concerned. If the monster was moved, it showed no sign.
 
@@ -397,4 +397,4 @@ The light in the room seemed to be fading, or maybe that was just her vision goi
 
 From the other side of the portal came a sound so unearthly and strange, she almost didn't recognize it as a voice: "#emph[Welcome back, Vorinclex. We step ever closer to perfection.] "
 
-#figure(image("009_Episode 5: The Battle for Kaldheim/16.jpg", width: 100%), caption: [Vorinclex, Monstrous Raider | Art by: Richard Luong], supplement: none, numbering: none)
+#figure(image("009_Episode 5 The Battle for Kaldheim/16.jpg", width: 100%), caption: [Vorinclex, Monstrous Raider | Art by: Richard Luong], supplement: none, numbering: none)

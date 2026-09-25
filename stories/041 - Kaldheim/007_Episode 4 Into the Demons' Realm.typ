@@ -27,7 +27,7 @@ Down on the partially cooled surface of the magma lake, a few oddly straight lin
 
 In an easy, almost practiced motion, Tyvar hopped over the lip of the ridge. He kicked off a spire of rock, then slid down a slope of glassy gravel. His momentum stopped just in front of the magma flats, where he looked back up at her. "Coming?"
 
-#figure(image("007_Episode 4: Into the Demons' Realm/01.jpg", width: 100%), caption: [Immersturm Skullcairn | Art by: Cliff Childs], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Into the Demons' Realm/01.jpg", width: 100%), caption: [Immersturm Skullcairn | Art by: Cliff Childs], supplement: none, numbering: none)
 
 Fun as it would have been to hop between lily pads of cooled stone, Kaya didn't feel like taking a dunk into lava if she missed a jump. Apparently, neither did Tyvar; once she'd gotten down to the edge of the lake, he'd pressed his fingertips into the blackened shore and closed his eyes.
 
@@ -69,7 +69,7 @@ Cutting a path toward them, through the chunks of cooled magma, was—improbably
 
 "Demons," said Tyvar. "Ready yourself."
 
-#figure(image("007_Episode 4: Into the Demons' Realm/02.jpg", width: 100%), caption: [Demon Berserker Token | Art by: Grzegorz Rutkowski], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Into the Demons' Realm/02.jpg", width: 100%), caption: [Demon Berserker Token | Art by: Grzegorz Rutkowski], supplement: none, numbering: none)
 
 As the ship drew nearer, Kaya could make out three figures on board. On one, an iron helmet added rows of horns to the two that naturally curled from his forehead; a black visor concealed his eyes. Another had one hand replaced by a massive flanged mace, the ridges crusted over with blood. Near the prow, on an elevated platform, was the biggest—a thickly built brute with his right side covered in black iron plates. The membranes of his great wings were rent and torn from past skirmishes. With his left hand, he hefted another harpoon, leaning back for the throw.
 
@@ -149,7 +149,7 @@ Tyvar slapped her shoulder and grinned. "I'm certain you'll put them to good use
 
 "Actually," said Kaya, glancing back at where the demon longship was wedged into the black stone path. "I've got a better idea."
 
-#figure(image("007_Episode 4: Into the Demons' Realm/03.jpg", width: 100%), caption: [], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Into the Demons' Realm/03.jpg", width: 100%), caption: [], supplement: none, numbering: none)
 
 As vessels went, Kaya had much preferred Cosima's longship. On top of its uncanny ability to take one wherever they needed to go, there was no chance of impaling herself along the gunwale or setting her hair on fire adjusting the boom. Luckily, Tyvar seemed to have a bit more experience sailing than she did, and once the demon ship built up speed, it smashed through the plates of cooled magma floating on the lava's surface without so much as a judder.
 
@@ -187,7 +187,7 @@ A bolt of searing flame shot down from the switchback of stairs above them; Kaya
 
 Grinning down at them from the ridge above was Tibalt. A curl of red, jittering flame wreathed one hand; in the other, he held that sword of shimmering, colorful glass.
 
-#figure(image("007_Episode 4: Into the Demons' Realm/04.jpg", width: 100%), caption: [Sword of the Realms | Art by: Lie Setiawan], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Into the Demons' Realm/04.jpg", width: 100%), caption: [Sword of the Realms | Art by: Lie Setiawan], supplement: none, numbering: none)
 
 "We've got to get that sword away from him," said Kaya. Another ball of flame arced through the air, turning the rock molten where Tyvar had been standing a moment before.
 
@@ -267,7 +267,7 @@ He shook his head. "My talents #emph[do ] have their limits, you know."
 
 Despite everything—the iron reek of blood, the tear in the sky—that forced a laugh from Kaya. It died in her throat, though, when she saw the first figures rising from the fiery lake far below them. With each beat of their leathery wings, they rose higher into the air, bearing swords and spears, halberds and hammers, the weight of the weapons and armor dragging at them but not keeping them from their steady, dreadful progress. There must have been thousands of them, all headed for that hole in the sky. Their invitation to pillage, to burn, to destroy not just one world but all the worlds this plane had to offer. At their center, rising from a ship with two vast masts of fire, was a demon that dwarfed all the others. In one hand he dragged a great double-bladed axe; he seemed to be beating his wings with manic fury, bowling past others in his need for escape. She knew his name, even before Tyvar whispered it, dumbstruck. She had heard it spoken enough times during her time with the Omenseekers: Varragoth.
 
-#figure(image("007_Episode 4: Into the Demons' Realm/05.jpg", width: 100%), caption: [Varragoth, Bloodsky Sire | Art by: Ian Miller], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Into the Demons' Realm/05.jpg", width: 100%), caption: [Varragoth, Bloodsky Sire | Art by: Ian Miller], supplement: none, numbering: none)
 
 Kaya turned to Tyvar, who was still staring at the unholy flock rising before them. "Tyvar, we have to go. This plane is about to go to pieces."
 

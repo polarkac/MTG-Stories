@@ -29,17 +29,17 @@ Tibalt wrapped Valki in magical chains and brought him to the coldest, most remo
 
 Never had Tibalt seen a greedier, more gold-crazed bunch of zombies! The denizens of the other realms, he knew, would need a bit more convincing before they were willing to march to war.
 
-#figure(image("005_Episode 3: The Saga of Tibalt/01.jpg", width: 100%), caption: [Valki, God of Lies | Art by: Yongjae Choi], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Saga of Tibalt/01.jpg", width: 100%), caption: [Valki, God of Lies | Art by: Yongjae Choi], supplement: none, numbering: none)
 
 The next step in Tibalt's masterful plan was to suit up in his new disguise as Valki and visit Koll the Forgemaster. Koll was one of the dwarves—that metal-brained, oblivious species of blacksmiths—and it just so happened that Koll was the greatest of them all, for whatever that was worth. He was the only one who could work with Tyrite, the hardened sap of the World Tree, which had all sorts of interesting properties. Koll was making a sword out of the stuff, a blade which could open paths between all the realms of Kaldheim. It was supposed to be for Halvar, the god of battle—every plane has one of those dumb brutes, you know—but the thing was, Tibalt needed it. Crossing between the realms was a real pain otherwise, and he had a lot of work to do up and down the World Tree. Koll was awfully stubborn about handing it over to Valki—something about Halvar saving him from a giant wolf and Valki being the God of Lies—so Tibalt did the realms a favor and pushed the obnoxious dwarf right into his own forge.
 
-#figure(image("005_Episode 3: The Saga of Tibalt/02.jpg", width: 100%), caption: [The Trickster-God's Heist | Art by: Randy Vargas], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Saga of Tibalt/02.jpg", width: 100%), caption: [The Trickster-God's Heist | Art by: Randy Vargas], supplement: none, numbering: none)
 
 Tibalt took his act to Skemfar, home of the elves, and sought an audience with their king. King Harald, son of Hraldir, the very same elf who had united the warring clans of Wood and Shadow, was known across the realms as a wise and steadfast leader. He was known to #emph[Tibalt] , though, as a proud, paranoid fool who believed the elves should be in charge of every last twig in Kaldheim, and hatred and mistrust of the Skoti—the gods of Kaldheim—had long ago settled into the bones of every elf in Skemfar.
 
 Oh, if you could have seen the royal court that day! The lies that clever Tibalt wove—the dark cloud that settled over Harald as he heard of all the terrible things the gods had planned for his people, too terrible even for the mischievous Valki to stand idly by! The only choice, if the elves were to survive, was clear: strike first.
 
-#figure(image("005_Episode 3: The Saga of Tibalt/03.jpg", width: 100%), caption: [Harald, King of Skemfar | Art by: Grzegorz Rutkowski], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Saga of Tibalt/03.jpg", width: 100%), caption: [Harald, King of Skemfar | Art by: Grzegorz Rutkowski], supplement: none, numbering: none)
 
 In Surtland, Tibalt warned the frost giants of an incursion of Torga trolls, awakened from their long slumber. In Bretagard, he promised the vicious Skelle clan the return of their demon master, Varragoth. All across the realms of Kaldheim, Tibalt sowed the seeds of war and chaos.
 
@@ -49,7 +49,7 @@ We pause the saga, for a moment, to recount a saying common throughout the multi
 
 Tibalt may have been both brilliant and powerful, but he wasn't strong enough to take on every shepherd and reaper in the halls of Starnheim. There was a being, though, that could! Koma, he was called—the Cosmos Serpent, first and oldest of the monsters birthed from the World Tree. Long ago, the Skoti had banished Koma from entering the realms, trapping him in the empty Cosmos. For eons, his restlessness grew, his hunger went unsated and his thirst for destruction unquenched. Tibalt pitied the poor snake; he really did. So, with the Sword of the Realms, he cut open a doorway to the home of the Valkyries, where the Cosmos Serpent could make up for lost time.
 
-#figure(image("005_Episode 3: The Saga of Tibalt/04.jpg", width: 100%), caption: [Open the Omenpaths | Art by: Eric Deschamps], supplement: none, numbering: none)
+#figure(image("005_Episode 3 The Saga of Tibalt/04.jpg", width: 100%), caption: [Open the Omenpaths | Art by: Eric Deschamps], supplement: none, numbering: none)
 
 Now, Tibalt was no great believer in swords. His faith laid with knives, with hooks, with hellfire and brimstone—but even Tibalt had to admit that the Sword of the Realms had proven very useful. He had crossed the Cosmos with it, time and again. He had used it to unleash Koma on the Valkyries of Starnheim. Now, he was using it for a far more humble task, though one just as important—he was leaving a trail, dragging the tip through the black basalt surface of Immersturm. It was important, after all, that the planeswalker follow him here.
 

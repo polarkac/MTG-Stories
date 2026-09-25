@@ -9,7 +9,7 @@
 
 In the bottom of the longship of Cosima, Kaya lay back and watched the night sky above drift by. It was all she could really do; there were no oars on the ship, no rudder. As soon as she had stepped on board, it had lurched suddenly away from the docks, and she understood that when Alrund had told her the ship "would carry her where she needed to go," he hadn't meant she'd have any choice in the matter. Nothing to be done about it, then, except to lay back and think.
 
-#figure(image("003_Episode 2: Awaken the Trolls/01.jpg", width: 100%), caption: [Mistgate Pathway | Art by: Yeong-Hao Han], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Awaken the Trolls/01.jpg", width: 100%), caption: [Mistgate Pathway | Art by: Yeong-Hao Han], supplement: none, numbering: none)
 
 Normally, the realms of Kaldheim were no more closely linked than the individual planes—if anything, the gulf between them was more absolute, since Kaya's natural ability to planeswalk didn't allow her to cross between them. Even for the gods of this world, crossing the Cosmos was no small task.
 
@@ -43,7 +43,7 @@ Around the stone, four trolls stepped out from the shadows, bigger than any in t
 
 "Friends," he said, in a low, sonorous voice. "You know my many names. I am called Trickster by some, Ruse-Forger by others. Some have called me the Prince of Mischief, some the God of Lies. All know me as Valki, and my first gift to you, the gift of languages, is free. Hear my words; understand them. What I have to tell you is of grave importance."
 
-#figure(image("003_Episode 2: Awaken the Trolls/02.jpg", width: 100%), caption: [Valki, God of Lies | Art by: Yongjae Choi], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Awaken the Trolls/02.jpg", width: 100%), caption: [Valki, God of Lies | Art by: Yongjae Choi], supplement: none, numbering: none)
 
 A god? Here? At least this one wasn't pretending to be an old man. Although#emph[, ] thought Kaya, there was something strange about him. Something she couldn't quite place.
 
@@ -61,7 +61,7 @@ She blew gently toward Valki, little motes of white light exiting her pursed lip
 
 #emph[Bad idea] , thought Kaya. But, then again, how good had any of her ideas turned out to be so far? She stepped out from behind her tree. "Probably thought you could get away with a sloppy illusion, right?" said Kaya. "Dumb trolls won't know the difference. Bad luck for you, Tibalt."
 
-#figure(image("003_Episode 2: Awaken the Trolls/03.jpg", width: 100%), caption: [Tibalt, Cosmic Impostor | Art by: Yongjae Choi], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Awaken the Trolls/03.jpg", width: 100%), caption: [Tibalt, Cosmic Impostor | Art by: Yongjae Choi], supplement: none, numbering: none)
 
 The corner of his lip rose in a grin. The expression didn't seem to dampen any of that anger. "Sharp eyes on this one. Have we been acquainted, then?"
 
@@ -107,7 +107,7 @@ He held two fingers to his mouth, then, and gave the loudest, most shrill whistl
 
 A rumbling underfoot cut her off, and the hill closest to Tibalt got about a foot taller. His grin climbed a few inches, too.
 
-#figure(image("003_Episode 2: Awaken the Trolls/04.jpg", width: 100%), caption: [Art by: Simon Dominic], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Awaken the Trolls/04.jpg", width: 100%), caption: [Art by: Simon Dominic], supplement: none, numbering: none)
 
 "Actually," said Tibalt, "it looks like your eyes aren't as keen as you believed them to be."
 
@@ -147,7 +147,7 @@ The other trolls roared and banged their fists on the ground, spread out in a se
 
 "Need a hand?" came a voice from her left.
 
-#figure(image("003_Episode 2: Awaken the Trolls/05.jpg", width: 100%), caption: [Tyvar Kell | Art by: Chris Rallis], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Awaken the Trolls/05.jpg", width: 100%), caption: [Tyvar Kell | Art by: Chris Rallis], supplement: none, numbering: none)
 
 Leaning against one of the ancient, twisting trees of this place was a man with long braids of red hair. By his pointed ears, Kaya could see that he was an elf, but his body was packed with more muscle than she was used to seeing on their kind. He was clearly proud of it, too; despite the cold, he wore no shirt. Only a collection of charms hanging from necklaces and a pair of bracers, one of which was fixed with a brass knife-blade. There was something about his relaxed, easy pose that made him seem young, even for a people who always seemed young.
 

@@ -9,7 +9,7 @@
 
 They came in ships like nothing the villagers of Sevalgr had seen before. Long and trim, inscribed with tales of glorious battle and cunning victory, gliding over the waves like the drakes and serpents carved into their prows. They were nothing like the meager fishing boats, which provided the sole source of food for the village now that they could no longer go into the forest.
 
-#figure(image("001_Episode 1: Travelers/01.jpg", width: 100%), caption: [Mistgate Pathway | Art by: Yeong-Hao Han], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Travelers/01.jpg", width: 100%), caption: [Mistgate Pathway | Art by: Yeong-Hao Han], supplement: none, numbering: none)
 
 Neither were the men and women aboard these ships shrunken, bent by hunger and fear, as the people of Sevalgr were; even the greybeard who accompanied them, the one with the raven on his shoulder, didn't seem to lean too heavily on his walking stick. They wore hoods and scarves, fishskin jerkins, armor—though nothing that would drag them to the bottom of the sea if they were to fall into the water. Their bodies were tattooed with navigational maps. There could be no mistaking them. Omenseekers.
 
@@ -49,7 +49,7 @@ The villagers had seen her, of course. That woman in strange garb, loitering by 
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("001_Episode 1: Travelers/02.jpg", width: 100%), caption: [Inga Rune-Eyes | Art by: Bram Sels], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Travelers/02.jpg", width: 100%), caption: [Inga Rune-Eyes | Art by: Bram Sels], supplement: none, numbering: none)
 
 Yeah, fine—it had been her idea. Journey into the wilderness, slay the terrible beast that's been eating up townsfolk. It seemed like the kind of thing heroes did, and she supposed she was a hero now. It didn't hurt that she was getting paid for it, though she certainly wished she knew who was paying her. But anonymous coin, minted from half a dozen different planes, was hard to argue with, and as an added benefit, it seemed nice and simple. Nothing like that messy business on Ravnica.
 
@@ -97,7 +97,7 @@ It landed on his arm, then hopped to his shoulder, where it seemed to lean close
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("001_Episode 1: Travelers/03.jpg", width: 100%), caption: [Kaya the Inexorable | Art by: Tyler Jacobson], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Travelers/03.jpg", width: 100%), caption: [Kaya the Inexorable | Art by: Tyler Jacobson], supplement: none, numbering: none)
 
 It looked, to Kaya, exactly like the sort of place to find a monster. Ahead of their party, the mouth of the cave yawned wide and dark. What faint light made its way through the cloud cover and forest canopy didn't reach beyond the first few steps. In front of the cave, the snow was marred by a long streak of blood and dirt; something had been dragged inside.
 
@@ -179,7 +179,7 @@ Then she was tumbling back onto the cave floor, a few feet to the monster's left
 
 It was only then that she noticed the pavonine, shifting radiance that now filled the cave. She looked back at the Omenseekers and saw Asi.
 
-#figure(image("001_Episode 1: Travelers/04.jpg", width: 100%), caption: [Alrund, God of the Cosmos | Art by: Kieran Yanner], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Travelers/04.jpg", width: 100%), caption: [Alrund, God of the Cosmos | Art by: Kieran Yanner], supplement: none, numbering: none)
 
 No—not Asi. Not exactly. His hood was thrown back, and from his eyes spilled that strange light illuminating the cavern walls, a shifting pattern of greens and blues and purples. Not just a charming old man, then. Or, not #emph[just ] that.
 
