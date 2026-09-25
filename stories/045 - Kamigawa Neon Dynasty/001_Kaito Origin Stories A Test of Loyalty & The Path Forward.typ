@@ -11,7 +11,7 @@
 
 The street was crawling with kami tonight. The Lantern Festival was a favorite for many of Towashi's night-loving spirits. On any other day, Kaito might've appreciated the extra camouflage. Part of his job required the ability to move through the streets unseen—and hordes of kami were an ideal solution. But he was running out of time. If he didn't finish the job soon, he'd lose a payday to another Reckoner.
 
-#figure(image("001_Kaito Origin Stories: A Test of Loyalty & The Path Forward/01.jpg", width: 100%), caption: [Art by: Nils Hamm], supplement: none, numbering: none)
+#figure(image("001_Kaito Origin Stories A Test of Loyalty & The Path Forward/01.jpg", width: 100%), caption: [Art by: Nils Hamm], supplement: none, numbering: none)
 
 It hadn't taken Kaito long to find his target. Gamblers were notoriously bad at keeping secrets, and this one had a history of debt and soured friendships. But if Kaito moved too soon, he'd risk scaring him off. And on a night like this, with heavy crowds and an abundance of fireworks displays, there were a thousand places for a stranger to hide.
 
@@ -107,7 +107,7 @@ All Kaito could see was the dying gray color of her skin, and the way the black 
 
 "Satoru wishes to speak with you," she said in a hollow voice, sweeping a hand toward one of the back rooms.
 
-#figure(image("001_Kaito Origin Stories: A Test of Loyalty & The Path Forward/02.jpg", width: 100%), caption: [Art by: Anna Pavleeva], supplement: none, numbering: none)
+#figure(image("001_Kaito Origin Stories A Test of Loyalty & The Path Forward/02.jpg", width: 100%), caption: [Art by: Anna Pavleeva], supplement: none, numbering: none)
 
 Kaito followed her without a word, happy to leave the others behind, but he felt his nerves jolt to life across his skin. It was rare for Satoru to summon anyone. When he did, the people who stepped into his office usually came out with one less finger, or several missing teeth—if they came out alive at all.
 
@@ -243,7 +243,7 @@ Kaito had the good sense not to laugh, even when Eiko's eyes sparkled with humor
 
 Eiko stood in front of the Kodama of the West Tree. It towered over her by nearly thirty feet, wide limbs covered in bark and its mouth stretched with threads of golden sap. A dozen luminescent blossoms circled the kami's head, and cascades of smaller branches trailed down its shoulders like a crown of hair.
 
-#figure(image("001_Kaito Origin Stories: A Test of Loyalty & The Path Forward/03.jpg", width: 100%), caption: [Art by: Daarken], supplement: none, numbering: none)
+#figure(image("001_Kaito Origin Stories A Test of Loyalty & The Path Forward/03.jpg", width: 100%), caption: [Art by: Daarken], supplement: none, numbering: none)
 
 Kaito drummed his fingers against his arms, watching the introduction from a distance. He didn't know exactly what his sister was saying, or how displeased the kami was to see trespassers so close to the border of Jukai Forest, but after a while, Eiko bowed low and returned to Kaito's side.
 
@@ -299,7 +299,7 @@ Kaito's heart pounded. "Did you see the man? The one I chased?"
 
 She shook her head. "It wasn't a man—it was a light. It was glowing as bright as a star, and then it #emph[exploded] . Everyone else was so busy looking toward the wall, but I was looking for you. And the light—it transformed into an animal and vanished. When I found out the emperor was missing, I knew they must've been connected somehow. That maybe the Futurists had found a way to #emph[weaponize]  #emph[kami] ."
 
-#figure(image("001_Kaito Origin Stories: A Test of Loyalty & The Path Forward/04.jpg", width: 100%), caption: [Art by: Dominik Mayer], supplement: none, numbering: none)
+#figure(image("001_Kaito Origin Stories A Test of Loyalty & The Path Forward/04.jpg", width: 100%), caption: [Art by: Dominik Mayer], supplement: none, numbering: none)
 
 Kaito scraped a hand through his hair, frustrated. "I've told you a thousand times—what happened had nothing to do with the Futurists. There was a man in the temple that night. A man who was in the very room where the emperor was last seen. #emph[That's ] who's responsible for the emperor's disappearance. Not a glowing animal."
 
@@ -427,7 +427,7 @@ Tameshi frowned. "I'm trying to #emph[protect ] kami."
 
 "Is that why you have one of them in a cage?" Eiko marched toward the display of equipment. There was no lock on the crate, but she yanked the door with such force that Kaito wondered if a lock would've stopped her at all.
 
-#figure(image("001_Kaito Origin Stories: A Test of Loyalty & The Path Forward/05.jpg", width: 100%), caption: [Art by: Campbell White], supplement: none, numbering: none)
+#figure(image("001_Kaito Origin Stories A Test of Loyalty & The Path Forward/05.jpg", width: 100%), caption: [Art by: Campbell White], supplement: none, numbering: none)
 
 She stepped back, waiting for a kami to appear, when the silver face of a metal tanuki peeked its head around the corner and released several beeps and a whistle.
 
@@ -507,7 +507,7 @@ Leaves fluttered behind him, and a dark object burst from the treeline, metal bo
 
 The robot beeped. The kami released a layered greeting.
 
-#figure(image("001_Kaito Origin Stories: A Test of Loyalty & The Path Forward/06.jpg", width: 100%), caption: [Art by: Rudy Siswanto], supplement: none, numbering: none)
+#figure(image("001_Kaito Origin Stories A Test of Loyalty & The Path Forward/06.jpg", width: 100%), caption: [Art by: Rudy Siswanto], supplement: none, numbering: none)
 
 Eiko and Tameshi appeared on the hill. When their eyes fell on the kami, Eiko's gasp was audible. She slowly made her way to Kaito's side, hand clutched at the material near her neck. "Did—did it say anything?"
 
@@ -561,7 +561,7 @@ The grass rustled nearby, and Kaito spun to find Satoru's spies. Five Hyozan Rec
 
 Nari—the Reckoner with an expertise in poisons, her hair scraped back into a high braid. And behind her was Satoru's channeler. Nari flashed her teeth. "Satoru sends his regards."
 
-#figure(image("001_Kaito Origin Stories: A Test of Loyalty & The Path Forward/07.jpg", width: 100%), caption: [Art by: Rovina Cai], supplement: none, numbering: none)
+#figure(image("001_Kaito Origin Stories A Test of Loyalty & The Path Forward/07.jpg", width: 100%), caption: [Art by: Rovina Cai], supplement: none, numbering: none)
 
 Kaito tried not to react when tendrils of black smoke poured from the channeler's skin, snapping at the air like vipers. "I don't remember putting a request in for a babysitter," he said.
 
@@ -639,7 +639,7 @@ The Order of Jukai had arrived.
 
 A woman with yellow flames in her hands stood at the edge of the hill. Seven glowing stones floated beside her, and she wore a helmet made of bone. All around her were at least a dozen more kami channelers, clad in leather armor and ready for a fight.
 
-#figure(image("001_Kaito Origin Stories: A Test of Loyalty & The Path Forward/08.jpg", width: 100%), caption: [Art by: Howard Lyon], supplement: none, numbering: none)
+#figure(image("001_Kaito Origin Stories A Test of Loyalty & The Path Forward/08.jpg", width: 100%), caption: [Art by: Howard Lyon], supplement: none, numbering: none)
 
 Nari released a guttural shout, and then—chaos.
 
@@ -679,7 +679,7 @@ It moved in erratic bursts, long limbs stretched out like it was searching by to
 
 #emph[Gravelighter, the Kami of Forgotten Clearings.]
 
-#figure(image("001_Kaito Origin Stories: A Test of Loyalty & The Path Forward/09.jpg", width: 100%), caption: [Art by: Miranda Meeks], supplement: none, numbering: none)
+#figure(image("001_Kaito Origin Stories A Test of Loyalty & The Path Forward/09.jpg", width: 100%), caption: [Art by: Miranda Meeks], supplement: none, numbering: none)
 
 "I—I'll try to talk to her," Eiko murmured, almost too low for Kaito to hear.
 
@@ -925,4 +925,4 @@ And after that?
 
 There were many more planes to search.
 
-#figure(image("001_Kaito Origin Stories: A Test of Loyalty & The Path Forward/10.jpg", width: 100%), caption: [Art by: Yongjae Choi], supplement: none, numbering: none)
+#figure(image("001_Kaito Origin Stories A Test of Loyalty & The Path Forward/10.jpg", width: 100%), caption: [Art by: Yongjae Choi], supplement: none, numbering: none)

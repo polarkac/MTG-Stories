@@ -65,7 +65,7 @@ An icy shudder ran through the Wanderer. There was no time to say anything—no 
 
 The Wanderer screamed, hands shooting to her temples as the device pulsed with energy. The metal wires dug themselves deeper into her flesh, throbbing with power. There was a flash of white, and she felt her mind jump from the compound to the Imperial Palace, where Kyodai wailed in her chamber. It was as if their minds had been united—and the connection meant that Kyodai was in agony, too.
 
-#figure(image("006_Episode 5: Threads of War/01.jpg", width: 100%), caption: [Art by: Wylie Beckert], supplement: none, numbering: none)
+#figure(image("006_Episode 5 Threads of War/01.jpg", width: 100%), caption: [Art by: Wylie Beckert], supplement: none, numbering: none)
 
 The Wanderer felt like her soul was flickering between the doorway of one plane and the next. The Reality Chip was disrupting her spark, forcing her on the verge of planeswalking. But it also sharpened the Wanderer's bond with Kyodai, and through it, the Wanderer could hear Kyodai's thoughts as clearly as if they'd been standing in the same room.
 
@@ -99,7 +99,7 @@ The Wanderer didn't dare look him in the eyes. She was too afraid he'd see the c
 
 Tamiyo gave a nod of understanding and pressed a finger to the Reality Chip, waiting as the strange wires writhed and shook free of the Wanderer's skin.
 
-#figure(image("006_Episode 5: Threads of War/02.jpg", width: 100%), caption: [Art by: Aurore Folny], supplement: none, numbering: none)
+#figure(image("006_Episode 5 Threads of War/02.jpg", width: 100%), caption: [Art by: Aurore Folny], supplement: none, numbering: none)
 
 The Wanderer bit the edge of her lip, trying not to gasp from the pain. "There's something else," she added, watching the way Tamiyo was studying the chip like it wasn't a weapon at all but a book in an ancient library. Something that needed time to be understood. "Kyodai said Eiganjo is already under attack. If there's any hope of stopping the Uprisers, we need to get there before Risona reaches Kyodai."
 
@@ -225,7 +225,7 @@ Kaito removed his mask. Himoto folded and refolded like metal paper before shift
 
 He blinked, watching the drone vanish in the crowd. "Making sure we have a backup plan." There was no time to explain—not when the emperor was in danger.
 
-#figure(image("006_Episode 5: Threads of War/03.jpg", width: 100%), caption: [Art by: Cristi Balanescu], supplement: none, numbering: none)
+#figure(image("006_Episode 5 Threads of War/03.jpg", width: 100%), caption: [Art by: Cristi Balanescu], supplement: none, numbering: none)
 
 Kaito charged across the roof, scaling wall after wall, trying to close the gap between him and his enemy. Tezzeret was too focused on the emperor to notice Tamiyo flying above, scroll already beginning to unroll.
 
@@ -297,7 +297,7 @@ The fallen bodies of Risona's Uprisers were slumped on the floor. They'd entered
 
 But the Wanderer was not just any Imperial. And unlike Risona, she had trained on more than one plane. Adapting was second nature to the Wanderer now.
 
-#figure(image("006_Episode 5: Threads of War/04.jpg", width: 100%), caption: [Art by: Johan Grenier], supplement: none, numbering: none)
+#figure(image("006_Episode 5 Threads of War/04.jpg", width: 100%), caption: [Art by: Johan Grenier], supplement: none, numbering: none)
 
 Risona rotated her sword through the air, building momentum for her next strike.
 
@@ -391,7 +391,7 @@ Light-Paws's eyes fluttered. "You can't mean that I~?" She couldn't find the wor
 
 "Kyodai gives her blessing, as do I." The emperor nodded. "You will be my proxy, and rule Kamigawa for as long as I am unable."
 
-#figure(image("006_Episode 5: Threads of War/05.jpg", width: 100%), caption: [Art by: A. M. Sartor], supplement: none, numbering: none)
+#figure(image("006_Episode 5 Threads of War/05.jpg", width: 100%), caption: [Art by: A. M. Sartor], supplement: none, numbering: none)
 
 Light-Paws knelt then, forehead pressed to the ground. A sign of great respect. "I will do what you ask and honor your legacy every day until you return."
 
@@ -485,7 +485,7 @@ Tamiyo's eyes fluttered at the sound of Jin-Gitaxias's voice. She sat up, proces
 
 Frowning, Tamiyo reached for her satchel and pulled out one of her story scrolls. She stared at the parchment, watching as the words flashed with a metallic sheen and morphed into another language entirely. She read the Phyrexian text as if she'd been doing it all her life and felt a strange contentment wash over her.
 
-#figure(image("006_Episode 5: Threads of War/06.jpg", width: 100%), caption: [Tamiyo's Compleation | Art by: Dominik Mayer], supplement: none, numbering: none)
+#figure(image("006_Episode 5 Threads of War/06.jpg", width: 100%), caption: [Tamiyo's Compleation | Art by: Dominik Mayer], supplement: none, numbering: none)
 
 Phyrexia was her new home. She was a part of it—mind, body, and soul.
 

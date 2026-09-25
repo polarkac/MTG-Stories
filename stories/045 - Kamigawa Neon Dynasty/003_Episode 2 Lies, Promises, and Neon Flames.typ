@@ -15,7 +15,7 @@ Towashi was filled with even more color than usual. A parade of modified umbrell
 
 Normally, Kaito loved the vibrancy of Towashi at night, but he didn't have time for nostalgia. He was looking for someone.
 
-#figure(image("003_Episode 2: Lies, Promises, and Neon Flames/01.jpg", width: 100%), caption: [Kaito Shizuki | Art by: Yongjae Choi], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Lies, Promises, and Neon Flames/01.jpg", width: 100%), caption: [Kaito Shizuki | Art by: Yongjae Choi], supplement: none, numbering: none)
 
 Kaito pressed a finger to his temple, and the live feed from his drone appeared in his vision. The device was hovering above a darkened alley, and Kaito ushered the tanuki-shaped drone toward the bustling rainbow-hued street.
 
@@ -183,7 +183,7 @@ He took a step forward, urgent. "If this is about the emperor—"
 
 Kaito's thoughts stalled. He wasn't sure he'd heard her right. "What does Tameshi have to do with any of this?"
 
-#figure(image("003_Episode 2: Lies, Promises, and Neon Flames/02.jpg", width: 100%), caption: [Art by: Scott M. Fischer], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Lies, Promises, and Neon Flames/02.jpg", width: 100%), caption: [Art by: Scott M. Fischer], supplement: none, numbering: none)
 
 Eiko's eyes latched onto the doorway. Kaito had never seen her so nervous. She reached inside her robes and pulled out a small device shaped like a paper fan. With a brush of her thumb, the edges expanded into a small dome. Energy radiated outward, creating a cocoon of white light around the siblings.
 
@@ -249,7 +249,7 @@ But every piece of intel Kaito uncovered only confirmed what his sister had told
 
 Tameshi was hiding something. Not just from Kaito, but from the other Futurists, too.
 
-#figure(image("003_Episode 2: Lies, Promises, and Neon Flames/03.jpg", width: 100%), caption: [Art by: Alayna Danner], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Lies, Promises, and Neon Flames/03.jpg", width: 100%), caption: [Art by: Alayna Danner], supplement: none, numbering: none)
 
 Kaito watched him day after day, working at the Futurist department like his beliefs were aligned with the rest of Otawara. And then the sun would set, and when everyone else went home, Tameshi stayed inside his lab, carrying on with a project no one else in the compound seemed to know about.
 
@@ -295,7 +295,7 @@ As Kaito began to stand, he spotted a data chip tucked behind some of the paperw
 
 It was a blueprint of a strange device, thin and square, with wire-like arms reaching out of it like a jellyfish. Kaito had never seen anything like it before.
 
-#figure(image("003_Episode 2: Lies, Promises, and Neon Flames/04.jpg", width: 100%), caption: [Art by: Campbell White], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Lies, Promises, and Neon Flames/04.jpg", width: 100%), caption: [Art by: Campbell White], supplement: none, numbering: none)
 
 But it still didn't prove that Tameshi knew the man with the metal arm.
 
@@ -333,7 +333,7 @@ Even with the drone's camera, all Kaito could see below was a too-large shadow. 
 
 "The fleshling's previous utility is irrelevant. Doubt and weakness must be excised from the whole."
 
-#figure(image("003_Episode 2: Lies, Promises, and Neon Flames/05.jpg", width: 100%), caption: [Art by: Joshua Raphael], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Lies, Promises, and Neon Flames/05.jpg", width: 100%), caption: [Art by: Joshua Raphael], supplement: none, numbering: none)
 
 There was a shuffle of footsteps near one of the containers, and a gruff voice mumbled something Kaito couldn't hear.
 

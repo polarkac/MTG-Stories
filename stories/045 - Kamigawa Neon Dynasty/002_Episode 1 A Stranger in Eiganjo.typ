@@ -13,7 +13,7 @@ The fragrant smell of ramen broth, pork dumplings, and katsu curry wafted throug
 
 Not that the emperor's advisor would approve of Kaito's extracurricular activities.
 
-#figure(image("002_Episode 1: A Stranger in Eiganjo/01.jpg", width: 100%), caption: [Art by: Julian Kok Joon Wen], supplement: none, numbering: none)
+#figure(image("002_Episode 1 A Stranger in Eiganjo/01.jpg", width: 100%), caption: [Art by: Julian Kok Joon Wen], supplement: none, numbering: none)
 
 Dishes were stacked on the nearby counter; the basin beside it was filled with soapy water, bubbles rising dangerously close to the edge. Kaito was nearly to the door when a small kami poked its head out of the water, blinking like it had just been woken from a nap. Four miniature teacups floated around its salamander-shaped body, its face framed by a collection of painted horns that resembled broken shards of porcelain.
 
@@ -77,7 +77,7 @@ Dressed in her decorative kimono, Light-Paws strode across the room with the bal
 
 Kaito and Eiko both bowed respectfully. Light-Paws was their teacher, but she was also the closest thing they had to a guardian.
 
-#figure(image("002_Episode 1: A Stranger in Eiganjo/02.jpg", width: 100%), caption: [Art by: Randy Vargas], supplement: none, numbering: none)
+#figure(image("002_Episode 1 A Stranger in Eiganjo/02.jpg", width: 100%), caption: [Art by: Randy Vargas], supplement: none, numbering: none)
 
 Even if Kaito didn't love the rules of the palace, it never stopped him from craving Light-Paws's approval. He just wished it came as naturally to him as it did to Eiko. Imperial life suited his sister.
 
@@ -185,7 +185,7 @@ She was more than a shadow. She was someone Kaito cared about.
 
 He remembered to bow. "Thank you for the opportunity, Your Emperorness—er, #emph[Highness] ."
 
-#figure(image("002_Episode 1: A Stranger in Eiganjo/03.jpg", width: 100%), caption: [Art by: Eric Deschamps], supplement: none, numbering: none)
+#figure(image("002_Episode 1 A Stranger in Eiganjo/03.jpg", width: 100%), caption: [Art by: Eric Deschamps], supplement: none, numbering: none)
 
 She didn't react to the clumsy nickname he'd been using for years, but Swift-Arm's nose twitched disapprovingly. He picked up one of the wooden practice swords from its stand. With two hands, he held it out to the emperor and dipped his head. When he retrieved the second, he tossed it to Kaito from several feet away.
 
@@ -245,7 +245,7 @@ Blue lights blazed across the Futurist's chest in uneven patterns, making the ne
 
 In his hand, the triangular shape expanded before folding over itself again and again, shifting into an origami crane-shaped drone. It took off quickly, disappearing into the clouds like it was carrying a secret on its wings.
 
-#figure(image("002_Episode 1: A Stranger in Eiganjo/04.jpg", width: 100%), caption: [Art by: Cristi Balanescu], supplement: none, numbering: none)
+#figure(image("002_Episode 1 A Stranger in Eiganjo/04.jpg", width: 100%), caption: [Art by: Cristi Balanescu], supplement: none, numbering: none)
 
 When the man turned back around, Kaito was standing in front of him.
 
@@ -397,7 +397,7 @@ Kaito had never laid eyes on Kyodai before. The guardian spirit of Kamigawa only
 
 The kami was enormous, with hundreds of golden, human-sized arms forming her belly and limbs. Gold spheres trailed along the fans at her back, with a large black one embedded in her forehead. With a pointed mouth like a dragon, three masks lined Kyodai's face. They represented Michiko Konda—the first emperor to channel with Kyodai.
 
-#figure(image("002_Episode 1: A Stranger in Eiganjo/05.jpg", width: 100%), caption: [Kyodai, Soul of Kamigawa | Art by: Daniel Zrom], supplement: none, numbering: none)
+#figure(image("002_Episode 1 A Stranger in Eiganjo/05.jpg", width: 100%), caption: [Kyodai, Soul of Kamigawa | Art by: Daniel Zrom], supplement: none, numbering: none)
 
 Kaito's gaze trailed to the massive central machine hanging from the ceiling. It was once told to him that Kyodai would cling to it like an enormous cable, almost as if she were keeping herself separate from the mortal plane below.
 

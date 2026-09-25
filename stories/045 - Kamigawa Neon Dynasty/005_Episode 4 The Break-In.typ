@@ -73,7 +73,7 @@ Tamiyo studied the jellyfish-like wires for a moment before taking the emperor's
 
 The emperor's jaw tensed. Above her, Kyodai howled in confusion. "Do what you must."
 
-#figure(image("005_Episode 4: The Break-In/01.jpg", width: 100%), caption: [Art by: Alix Branwyn], supplement: none, numbering: none)
+#figure(image("005_Episode 4 The Break-In/01.jpg", width: 100%), caption: [Art by: Alix Branwyn], supplement: none, numbering: none)
 
 Tamiyo placed the Reality Chip on the back of the emperor's hand. In an instant, the panel flashed with light, and the wires fused to her flesh like veins pulsing with energy. She let out a sharp yelp, bracing against the pain, until the Reality Chip seemed to settle like a mere extension of her own being.
 
@@ -153,7 +153,7 @@ Light-Paws didn't just stumble into a bow—she practically collapsed into it. E
 
 The emperor twisted her mouth. "Please—we have little time for formalities. Risona and the Asari Uprisers are on their way to Eiganjo as we speak. We must prepare our forces at once."
 
-#figure(image("005_Episode 4: The Break-In/02.jpg", width: 100%), caption: [Art by: Ekaterina Burmak], supplement: none, numbering: none)
+#figure(image("005_Episode 4 The Break-In/02.jpg", width: 100%), caption: [Art by: Ekaterina Burmak], supplement: none, numbering: none)
 
 Light-Paws rose, nose twitching with confusion. "How do you know this?"
 
@@ -295,7 +295,7 @@ And he'd promised the emperor~
 
 Tamiyo's face was blank. Controlled. "It is not your fault, Kaito. You could not have known what would happen."
 
-#figure(image("005_Episode 4: The Break-In/03.jpg", width: 100%), caption: [Art by: Marta Nael], supplement: none, numbering: none)
+#figure(image("005_Episode 4 The Break-In/03.jpg", width: 100%), caption: [Art by: Marta Nael], supplement: none, numbering: none)
 
 He rolled his shoulders back, nodding toward the machine. "We need to destroy it. All of it. So that they can never harm the kami again."
 
@@ -387,7 +387,7 @@ He let out a dark chuckle. "Your problem," Tezzeret said icily, "is that you dep
 
 Something cracked against the back of Kaito's head, and everything around him faded to black.
 
-#figure(image("005_Episode 4: The Break-In/04.jpg", width: 100%), caption: [Art by: Lie Setiawan], supplement: none, numbering: none)
+#figure(image("005_Episode 4 The Break-In/04.jpg", width: 100%), caption: [Art by: Lie Setiawan], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -455,7 +455,7 @@ The Wanderer brought her sword down like a blow from the heavens and cleaved Jin
 
 The wound was severe, and the metallic cry that erupted from his throat rattled through her eardrums. The Wanderer fought her way to Kaito and Tamiyo, both bound to surgical tables like they were being readied for an experiment. She took one look at the restraints and cleaved them apart, too.
 
-#figure(image("005_Episode 4: The Break-In/05.jpg", width: 100%), caption: [Art by: Cristi Balanescu], supplement: none, numbering: none)
+#figure(image("005_Episode 4 The Break-In/05.jpg", width: 100%), caption: [Art by: Cristi Balanescu], supplement: none, numbering: none)
 
 Pulling Kaito toward her with one arm, she watched his eyes flicker back to consciousness.
 

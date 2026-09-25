@@ -13,7 +13,7 @@ The nezumi had never made it a secret they didn't like visitors; using the poiso
 
 But the key to finding Tezzeret was with the nezumi.
 
-#figure(image("004_Episode 3: An Unexpected Alliance/01.jpg", width: 100%), caption: [Art by: Bryan Sola], supplement: none, numbering: none)
+#figure(image("004_Episode 3 An Unexpected Alliance/01.jpg", width: 100%), caption: [Art by: Bryan Sola], supplement: none, numbering: none)
 
 After Tameshi's death, Kaito had spent weeks tracking down every scrap of information he could find on Tezzeret. He'd gone to Otawara's libraries, scoured every archive, and spoke with some of Kamigawa's most revered Living Historians.
 
@@ -259,7 +259,7 @@ Kaito held his cup between his palms, letting the warmth move through him. "Tell
 
 Tamiyo started to reply when her demeanor shifted abruptly. Her eyes landed somewhere behind Kaito, and her face softened into a smile. "I believe you know of my son, Nashi."
 
-#figure(image("004_Episode 3: An Unexpected Alliance/02.jpg", width: 100%), caption: [Art by: Valera Lutfullina], supplement: none, numbering: none)
+#figure(image("004_Episode 3 An Unexpected Alliance/02.jpg", width: 100%), caption: [Art by: Valera Lutfullina], supplement: none, numbering: none)
 
 Kaito turned to find the young nezumi standing in the doorway. With bright white fur and gray spots, he wore a black leather jacket with sharp cuts and silver rings along the edge of his ear.
 
@@ -401,7 +401,7 @@ He left the room, pulling the door shut behind him, and hurried for the exit. Bu
 
 The monster who murdered Tameshi.
 
-#figure(image("004_Episode 3: An Unexpected Alliance/03.jpg", width: 100%), caption: [Art by: Chase Stone], supplement: none, numbering: none)
+#figure(image("004_Episode 3 An Unexpected Alliance/03.jpg", width: 100%), caption: [Art by: Chase Stone], supplement: none, numbering: none)
 
 Kaito clenched his teeth, eyes blazing with anger.
 
@@ -441,7 +441,7 @@ Kaito raced for the lab doors without looking back.
 
 He ran from the compound, cold air catching in his throat. He didn't know where he was running, only that he had to get away as fast as possible. Streetlights followed the glowing road, but Kaito leapt over a low wall and took a path through the buildings instead. Jin-Gitaxias was almost certainly aware Kaito had fled with the Reality Chip by now. If they weren't on his tail, they would be soon.
 
-#figure(image("004_Episode 3: An Unexpected Alliance/04.jpg", width: 100%), caption: [Art by: Mila Pesic], supplement: none, numbering: none)
+#figure(image("004_Episode 3 An Unexpected Alliance/04.jpg", width: 100%), caption: [Art by: Mila Pesic], supplement: none, numbering: none)
 
 Feet pounding against the concrete, Kaito skidded to a halt near one of the fenced-in platforms. It was dark, but he could see the drop toward the clouds below.
 
@@ -473,7 +473,7 @@ The last time he'd seen the Emperor of Kamigawa, she was still a child. But the 
 
 #emph[The Wanderer.]
 
-#figure(image("004_Episode 3: An Unexpected Alliance/05.jpg", width: 100%), caption: [Art by: William Arnold], supplement: none, numbering: none)
+#figure(image("004_Episode 3 An Unexpected Alliance/05.jpg", width: 100%), caption: [Art by: William Arnold], supplement: none, numbering: none)
 
 Kaito pressed a hand to his chest like he couldn't hold back the emotions. The #emph[relief] .
 
