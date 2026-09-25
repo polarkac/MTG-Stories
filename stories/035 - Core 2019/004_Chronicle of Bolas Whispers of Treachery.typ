@@ -15,7 +15,7 @@ Naiva supposed the ghostfire blade Tae Jin could call up using forbidden Jeskai 
 
 "My mother was a scribe who served Shu Yun before the fall. She survived Ojutai's purge and dedicated herself to saving what she could of the history and knowledge of the Jeskai Way. A few wanderers and scouts managed to escape and hide in the mountains. These people carry all that remains of the old way. My mother sent me into the wilderness to study with the man who became my master. He is the one who sent me to you. He taught me the way of the ghostfire blade so it would not be lost."
 
-#figure(image("004_Chronicle of Bolas: Whispers of Treachery/01.jpg", width: 100%), caption: [Ghostfire Blade | Art by: Cyril Van Der Haegen], supplement: none, numbering: none)
+#figure(image("004_Chronicle of Bolas Whispers of Treachery/01.jpg", width: 100%), caption: [Ghostfire Blade | Art by: Cyril Van Der Haegen], supplement: none, numbering: none)
 
 "That you are a ghostfire warrior is an unpleasant surprise," said Grandmother. "Is this some kind of trap on the part of Ojutai? This is exactly the sort of roundabout trick a cunning and unscrupulous opponent might use to flush its prey out of hiding. His prey being me, and what he believes I know."
 
@@ -49,7 +49,7 @@ The old orc had climbed atop a flat rock, his form visible as a darker shadow as
 
 The clouds to the north had piled up in a portentous way over the rugged borderlands that Atarka considered the edge of her hunting territory. Flashes of lightning spanned the higher reaches, streaks of light that flashed and died. They were too far away to hear thunder.
 
-#figure(image("004_Chronicle of Bolas: Whispers of Treachery/02.jpg", width: 100%), caption: [Island | Art by: Florian de Gesincourt], supplement: none, numbering: none)
+#figure(image("004_Chronicle of Bolas Whispers of Treachery/02.jpg", width: 100%), caption: [Island | Art by: Florian de Gesincourt], supplement: none, numbering: none)
 
 "It's a dragon tempest, and it's moving in fast," Fec added. "I know their scent and taste well."
 
@@ -111,7 +111,7 @@ His grave expression made her wish she had asked him a question that got him to 
 
 "She means a shaman, like your people have." Baishya wedged an elbow into Naiva's ribs as a reminder that only Temur shamans knew the secret of whispering, speaking mind to mind with other shamans. Naiva knew this skill existed because the two girls shared everything, part of the bond of being twins. But evidently that was no longer true.
 
-#figure(image("004_Chronicle of Bolas: Whispers of Treachery/03.jpg", width: 100%), caption: [Whisperer of the Wilds | Art by: David Gaillet], supplement: none, numbering: none)
+#figure(image("004_Chronicle of Bolas Whispers of Treachery/03.jpg", width: 100%), caption: [Whisperer of the Wilds | Art by: David Gaillet], supplement: none, numbering: none)
 
 He glanced between them, reading something in their expressions. "It's true the dragons fear our magic. They fear anything they think they cannot control or which does not belong to them."
 
@@ -163,7 +163,7 @@ It was warm by the fire; her cheeks felt scalded.
 
 "No, a different sort of goat. A smaller, domesticated goat that lives alongside humanoids. They're hardy creatures who thrive in the mountains where I come from."
 
-#figure(image("004_Chronicle of Bolas: Whispers of Treachery/04.jpg", width: 100%), caption: [Mountain | Art by: Florian de Gesincourt], supplement: none, numbering: none)
+#figure(image("004_Chronicle of Bolas Whispers of Treachery/04.jpg", width: 100%), caption: [Mountain | Art by: Florian de Gesincourt], supplement: none, numbering: none)
 
 "Are those mountains different from our mountains?"
 
@@ -199,7 +199,7 @@ Watchfires had blazed all night far below. We had heard a distant buzz of activi
 
 "They will soon learn to be afraid." He craned his neck, shifting to get a better look down the mountain. A hiss of fire steamed from his nostrils. "How odd. A lone traveler climbs toward us. What frail human would dare?"
 
-#figure(image("004_Chronicle of Bolas: Whispers of Treachery/05.jpg", width: 100%), caption: [Art by: Yongjae Choi], supplement: none, numbering: none)
+#figure(image("004_Chronicle of Bolas Whispers of Treachery/05.jpg", width: 100%), caption: [Art by: Yongjae Choi], supplement: none, numbering: none)
 
 "Maybe it's a trap."
 
@@ -241,7 +241,7 @@ I would have asked what he meant by saying it was "convenient," but Chromium Rhu
 
 "That's not all. The chief claims that divine favor elevated him above his lowly subjects. Those who are touched by dragon's blood, or who drink or eat it, are considered holy and may live a life of ease and plenty while the less fortunate serve them as slaves."
 
-#figure(image("004_Chronicle of Bolas: Whispers of Treachery/06.jpg", width: 100%), caption: [Art by: Slawomir Maniak], supplement: none, numbering: none)
+#figure(image("004_Chronicle of Bolas Whispers of Treachery/06.jpg", width: 100%), caption: [Art by: Slawomir Maniak], supplement: none, numbering: none)
 
 Nicol chuckled. His sly amusement troubled me. "Those who are strong or clever enough will stand atop those who are weak and stupid, will they not? These are the first humans I have seen who have not disgusted me with their feebleness and unctuous groveling."
 
@@ -283,7 +283,7 @@ The human eyes flashed with a pulse of annoyance, a glimpse into Chromium Rhuell
 
 But our elder brother's rage flared in a flash of staggeringly bright blue light. The air around us swirled. A strong gust shoved me backward like a blow. When the blinding-white haze faded, Chromium Rhuell in all his draconic magnificence loomed over us, shining like a mirror ablaze with light. His wings were spread wide and the flat crest of his face reflected the sun in my eyes so I could barely see.
 
-#figure(image("004_Chronicle of Bolas: Whispers of Treachery/07.jpg", width: 100%), caption: [Art by: Chase Stone], supplement: none, numbering: none)
+#figure(image("004_Chronicle of Bolas Whispers of Treachery/07.jpg", width: 100%), caption: [Art by: Chase Stone], supplement: none, numbering: none)
 
 "I hear what you are doing, Nicol Bolas. You twist words to whatever shape you wish them to make, then twist them again to suit your wishes. You are the least of us, last fallen, not even a whole dragon but only half of one, bound as you are to Ugin. Do not ever again attempt to challenge me or you will regret it."
 
@@ -311,7 +311,7 @@ My bones hummed. Whispers chased through my head as the wind moaned over the pea
 
 #emph[He doesn't trust you and never has. He considers you an upstart, unworthy, fickle, and he'll have one of his spies stab you in the back the moment he sees an opportunity.]
 
-#figure(image("004_Chronicle of Bolas: Whispers of Treachery/08.jpg", width: 100%), caption: [Art by: Bastien L. Deharme], supplement: none, numbering: none)
+#figure(image("004_Chronicle of Bolas Whispers of Treachery/08.jpg", width: 100%), caption: [Art by: Bastien L. Deharme], supplement: none, numbering: none)
 
 A cloud briefly covered the sun, shaking my mind loose from these vexed imaginings.
 
@@ -357,7 +357,7 @@ Built along a lakeside, the most distant settlement boasted its own miniature ve
 
 The palisade was so new, the scars of its building still tore through the earth, revealing fragile roots and plump pale worms. This heir had a single ballista placed by the settlement's gate, facing the road as if he were more concerned with human enemies than dragon flights. I flew out over the lake, not wanting to get too close to the weapon's venom-tipped bolts. Nicol swept a wide circle around the settlement and its fields, making sure everyone knew he was there.
 
-#figure(image("004_Chronicle of Bolas: Whispers of Treachery/09.jpg", width: 100%), caption: [Art by: Svetlin Velinov], supplement: none, numbering: none)
+#figure(image("004_Chronicle of Bolas Whispers of Treachery/09.jpg", width: 100%), caption: [Art by: Svetlin Velinov], supplement: none, numbering: none)
 
 When horns blew and drums pounded out the alert, a young man dressed in a crested helmet strode out of the chief's longhouse. He was tall and handsome, his arms and neck adorned with twisted gold jewelry that shone like trapped sunlight. Like him, his warriors were clad in armor made of dragon scales. These scales had once belonged to the dragon he had killed, I was sure: the scales shimmered with delicate green tones under the sunlight, giving the warriors a luminous beauty they had stolen from one of us. There was something anticipatory and yet indecisive in the dragon-killer's manner as he stared up at Nicol as Nicol had once stared at the sun.
 
@@ -387,7 +387,7 @@ Nicol flew out to me where I had remained hanging back, over the lake.
 
 The chief's son marched to the central settlement, now without its garrison of fearsome warriors, and he killed the chief's supporters and installed himself on the throne. Meanwhile Nicol roosted atop the birth mountain and with his presence there lured the two heirs each with their band of warriors higher and higher up the slopes, round and around until the two factions came face to face upon a rugged field of ancient lava. There they fought bitterly amid the sharp stones, the middle-aged man against the young woman. While the two armies struggled, Nicol flew down to the unguarded temple and burned it and its acolytes to the ground.
 
-#figure(image("004_Chronicle of Bolas: Whispers of Treachery/10.jpg", width: 100%), caption: [Art by: Chris Rallis], supplement: none, numbering: none)
+#figure(image("004_Chronicle of Bolas Whispers of Treachery/10.jpg", width: 100%), caption: [Art by: Chris Rallis], supplement: none, numbering: none)
 
 But he left the bewildered chief alive amid the charred bones and beams. He picked up the old man almost tenderly in his claws and flew with him to the fourth and final settlement where the chief's second wife had set up as one of his heirs after she, too, had killed a dragon. She was the mage who had first ensorcelled venom.
 
@@ -443,7 +443,7 @@ A vast and fearful sigh passed through the assembly. People sank to their knees,
 
 Deep in his coruscating gaze I caught a glimpse of the brothers with the wagon, back in Arcades's orderly realm, working in amity. That peace had been shattered by the abrupt upwelling of a long-buried grudge because Nicol had stuck a claw of doubt and envy into a vulnerable heart. The man, so stricken, had succumbed to a whisper that roused the worst in him.
 
-#figure(image("004_Chronicle of Bolas: Whispers of Treachery/11.jpg", width: 100%), caption: [Murder | Art by: Tyler Jacobson], supplement: none, numbering: none)
+#figure(image("004_Chronicle of Bolas Whispers of Treachery/11.jpg", width: 100%), caption: [Murder | Art by: Tyler Jacobson], supplement: none, numbering: none)
 
 "Ugin, you know I am right," my twin said softly, beguilingly, his voice so gentle a pressure, so persuasive, so credible in its argument. "Now that we grasp the magic, there is nothing that will stop us from building a greater chiefdom, from spreading our rule, from getting our revenge on Vaevictis and his surly brothers, from putting our siblings in their place. Least of the fallen! They'll see. We'll show them, won't we? We'll no longer be least. They'll bow before us. You know it's what you want. The power can be ours. It will be ours."
 
@@ -495,7 +495,7 @@ Grandmother raised a hand to remind her that Fec, Rakhan, and Sorya were sleepin
 
 He shook his head. "That's all I know. The scroll I memorized ends there."
 
-#figure(image("004_Chronicle of Bolas: Whispers of Treachery/12.jpg", width: 100%), caption: [Scroll of the Masters | Art by: Lake Hurwitz], supplement: none, numbering: none)
+#figure(image("004_Chronicle of Bolas Whispers of Treachery/12.jpg", width: 100%), caption: [Scroll of the Masters | Art by: Lake Hurwitz], supplement: none, numbering: none)
 
 Naiva groaned. Baishya pressed her hands against her mouth.
 
@@ -509,7 +509,7 @@ Grandmother nodded with her usual calm, firelight flickering on her face so she 
 
 "This was no tempest-born dragon. This dragon vanished in a flash of golden light, like a second sun. It did not fly away. It was simply there, and then not there."
 
-#figure(image("004_Chronicle of Bolas: Whispers of Treachery/13.jpg", width: 100%), caption: [Crux of Fate | Art by: Michael Komarck], supplement: none, numbering: none)
+#figure(image("004_Chronicle of Bolas Whispers of Treachery/13.jpg", width: 100%), caption: [Crux of Fate | Art by: Michael Komarck], supplement: none, numbering: none)
 
 "That's impossible," said Naiva.
 

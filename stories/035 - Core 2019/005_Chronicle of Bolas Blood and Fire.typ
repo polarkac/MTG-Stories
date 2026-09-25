@@ -27,7 +27,7 @@ Lightning flashed. A burst of hot rain slammed through, hissing as it struck the
 
 Lightning flashed in a long chain of bolts that traced a path across the entire arc of the heavens. It splintered into a vast architecture of antlers wreathed in fire. A roar like the crash of a hundred thunderclaps drove Naiva to her knees, where she gasped for breath. Darka also fell, barely catching himself on a hand. Only Grandmother remained upright, unbowed, grasping her staff.
 
-#figure(image("005_Chronicle of Bolas: Blood and Fire/01.jpg", width: 100%), caption: [Fearsome Awakening | Art by: Véronique Meignaud], supplement: none, numbering: none)
+#figure(image("005_Chronicle of Bolas Blood and Fire/01.jpg", width: 100%), caption: [Fearsome Awakening | Art by: Véronique Meignaud], supplement: none, numbering: none)
 
 "She's found the dead broodling." Her shout was barely audible in the tumult.
 
@@ -91,7 +91,7 @@ Very well. She was up to the challenge!
 
 But the thought of turning him over to Atarka grated. He wasn't wrong for pointing out that the rule of the dragonlords was harsh and uncompromising, that it made the people more like servants than proud hunters. She did not want to become one of those spineless tale-tellers who scraped and wheedled in Ayagor to try to win the favor of Atarka, as if the dragon cared anything for her mortal subjects except that they brought her meat and more meat.
 
-#figure(image("005_Chronicle of Bolas: Blood and Fire/02.jpg", width: 100%), caption: [Dragon Whisperer | Art by: Chris Rallis], supplement: none, numbering: none)
+#figure(image("005_Chronicle of Bolas Blood and Fire/02.jpg", width: 100%), caption: [Dragon Whisperer | Art by: Chris Rallis], supplement: none, numbering: none)
 
 "Is forbidden talk what got you kicked out of your tribe?" she asked.
 
@@ -145,7 +145,7 @@ Grandmother did not move, keeping herself between the dragon and Darka's kinsman
 
 Atarka raised her head and tested the air. The pungent odor of the tempest still lingered, woven in with the smell of grass, of dirt, of drying blood and old rock.
 
-#figure(image("005_Chronicle of Bolas: Blood and Fire/03.jpg", width: 100%), caption: [Dragonlord Atarka | Art by: Karl Kopinski], supplement: none, numbering: none)
+#figure(image("005_Chronicle of Bolas Blood and Fire/03.jpg", width: 100%), caption: [Dragonlord Atarka | Art by: Karl Kopinski], supplement: none, numbering: none)
 
 "Show me."
 
@@ -211,7 +211,7 @@ Dragon killers.
 
 Atarka raised her head, sinew and flesh dripping from her jaws, and fixed a hot, golden gaze upon Tae Jin. The air snapped with anticipation. He had her attention now, and that was not a good thing.
 
-#figure(image("005_Chronicle of Bolas: Blood and Fire/04.jpg", width: 100%), caption: [Student of Ojutai | Art by: Jason A. Engle], supplement: none, numbering: none)
+#figure(image("005_Chronicle of Bolas Blood and Fire/04.jpg", width: 100%), caption: [Student of Ojutai | Art by: Jason A. Engle], supplement: none, numbering: none)
 
 He rubbed at his eyes, shook his head as if to clear it, and muttered, "That isn't the story I meant to tell. Let me try again."
 
@@ -267,7 +267,7 @@ He blasted flame in a ring around them, not to trap them—since they could easi
 
 Like their progenitors, they were belligerent and small-minded. Yet even a dragon as magnificent as himself could not defeat them alone. But he was not alone. He had subjects who sang his praises with poems that asked for no higher honor than a chance to prove themselves worthy of his regal generosity and noble perspicacity. He had armies of eager warriors and an academy packed with clever sorcerers he had taught, all seeking to challenge their skills against the mightiest of foes. He possessed the weapons of the long-dead dragon killers.
 
-#figure(image("005_Chronicle of Bolas: Blood and Fire/05.jpg", width: 100%), caption: [Art by: Yongjae Choi], supplement: none, numbering: none)
+#figure(image("005_Chronicle of Bolas Blood and Fire/05.jpg", width: 100%), caption: [Art by: Yongjae Choi], supplement: none, numbering: none)
 
 An irritating flash of thought crackled in his mind with the timbre of Ugin's voice scolding him: #emph[If it is wrong to kill dragons when the humanoids do it, then it is wrong for us to kill our kinfolk. Or did Merrevia Sal die for nothing, Nicol? Was it never about her at all but only about the humiliation you felt at not saving her?]
 
@@ -307,7 +307,7 @@ The young dragon king ordered the ballistae to draw up, using the long stretch o
 
 So their bolts struck true, time and again. Rubra took a bolt to the eye. Though the shot did not kill him outright, the numbing venom seeped into his brain. He struggled away toward the barrier wall, perhaps hoping to take refuge on one of the pinnacles, but lost consciousness and fell to earth just beyond the baggage train. The rear guard raced with swords and spears to wreak havoc upon his sluggish body, shouting and dancing with glee. The young dragon king was too busy dodging the fire-breath of his cousins to reprimand his soldiers when they triumphantly bathed themselves in the dead behemoth's hot blood.
 
-#figure(image("005_Chronicle of Bolas: Blood and Fire/06.jpg", width: 100%), caption: [Art by: Scott Murphy], supplement: none, numbering: none)
+#figure(image("005_Chronicle of Bolas Blood and Fire/06.jpg", width: 100%), caption: [Art by: Scott Murphy], supplement: none, numbering: none)
 
 The rest of the army was not faring so well. Vaevictis himself took five direct hits, but iron could not pierce his thick hide. He roared fire across the artillery lines, sending ballistae up in gouts of flame. Lividus and Ravus swooped down to snap up soldiers and fling them through the air to their deaths. Mounts panicked, throwing their riders as they fled. The wagons in the baggage train began to burn together with the hapless drivers and grooms. Smoke billowed upward, throwing ashy patches across the ground.
 
@@ -343,7 +343,7 @@ A shadow darkened the canyon as Ravus dropped down from the sky.
 
 Working in concert, the sorcerers flung the disintegration spell at the dragon overhead. It hit like an invisible wave pouring through him. Ravus splintered like rock heated until it explodes. Scales hailed down in deadly discs upon his troops. Half the sorcerers were killed outright, punctured by sharp bone fragments or smashed by slabs of raining flesh.
 
-#figure(image("005_Chronicle of Bolas: Blood and Fire/07.jpg", width: 100%), caption: [Art by: Even Amundsen], supplement: none, numbering: none)
+#figure(image("005_Chronicle of Bolas Blood and Fire/07.jpg", width: 100%), caption: [Art by: Even Amundsen], supplement: none, numbering: none)
 
 "Ravus!" With a cry of enraged grief, Lividus flamed the ballistae just as a second set of bolts flew. The force of his blast sent the bolts skittering against the canyon walls, leaving the young king vulnerable with the charred ballistae, the last sorcerers, and the blood-soaked rearguard as his sole companions.
 
@@ -399,7 +399,7 @@ Dragons turned their gaze upon the fields and herds of the humanoid settlements.
 
 No cage can confine greed. No chains can bind envy. As they grow, they are lashed by desire and anger, and so the dragons were not sated. Their hunger did not abate.
 
-#figure(image("005_Chronicle of Bolas: Blood and Fire/08.jpg", width: 100%), caption: [Art by: Adam Paquette], supplement: none, numbering: none)
+#figure(image("005_Chronicle of Bolas Blood and Fire/08.jpg", width: 100%), caption: [Art by: Adam Paquette], supplement: none, numbering: none)
 
 Dragons crossed the mighty seas to find new lands in which to feed their hunger for flesh and for power. When even those distant shores became too crowded, then dragons fought each other with tooth and claw, with fire and ice. Under dragon standards, they raised proud war bands from among the humanoids who worshiped or feared them. Sorcerers who sought a dragon-like power through mastery of their magical gifts came crawling to offer their services, for in all the wide world no creature is as powerful as a dragon, not in the beginning of days and never across all the unending span of eternity.
 
@@ -447,7 +447,7 @@ Again, he rubbed his eyes, then cautiously rose as if unsure his legs would hold
 
 Grandmother stood. "This is an ominous turn of events. Once before, a whispering voice sought to alter the events on Tarkir. To my shame, I listened. Ugin's death is partly to be blamed on me. Maybe the visions your master and the windfolk received didn't come from Ugin. But if they did, it's more important than ever that we reach Ugin's grave quickly. First, we must honor Darka for his hunting prowess in life and his unflinching acceptance of death."
 
-#figure(image("005_Chronicle of Bolas: Blood and Fire/09.jpg", width: 100%), caption: [Ainok Tracker | Art by: Evan Shipard], supplement: none, numbering: none)
+#figure(image("005_Chronicle of Bolas Blood and Fire/09.jpg", width: 100%), caption: [Ainok Tracker | Art by: Evan Shipard], supplement: none, numbering: none)
 
 They pulled the ainok's mangled remains from amid the bloody ruins left by Atarka's feeding. His knife and amulets they wrapped up to return to his ainok kin. The items from his pack they split between themselves. Such objects were too valuable to be abandoned. Afterward, in the ainok manner, they lay his body on the ground and ringed it with stones. Each spoke a brief prayer and a single memory, nothing elaborate. Every spirit passed into the realm of the ancestors, and with another hunt always looming, the greatest honor they could show the deceased was to continue on, year after year, generation after generation.
 

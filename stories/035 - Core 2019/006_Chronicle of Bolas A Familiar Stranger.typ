@@ -11,7 +11,7 @@ Where the flat tundra gave way to the western range of the Qal Sisma, hills rose
 
 Here, at the gateway to Ugin's grave, Grandmother halted their party with a raised hand rather than speech. The fissure dove deep to create a vast canyon cut through ice and rock. What lay at the base of the canyon was concealed by a huge cocoon of spiky rocks dusted with snow and decorated with crackling lines of ice that traced unfathomable runes woven into its surface.
 
-#figure(image("006_Chronicle of Bolas: A Familiar Stranger/01.jpg", width: 100%), caption: [Crucible of the Spirit Dragon | Art by: Jung Park], supplement: none, numbering: none)
+#figure(image("006_Chronicle of Bolas A Familiar Stranger/01.jpg", width: 100%), caption: [Crucible of the Spirit Dragon | Art by: Jung Park], supplement: none, numbering: none)
 
 From where they stood on an overlook, there was no way down into the canyon, although a dusty trail kept going out of sight around the rocky ground that bordered the chasm. Naiva remembered the journey to Ugin's grave six years ago, the trek across the tundra, trapping birds and hunting a herd of saiga, and how they'd reached the cleft. After gaping in awe at the strange formation they had walked on the narrow trail along the canyon's rim to a shallow cave. There, they had camped for ten nights.
 
@@ -59,7 +59,7 @@ Fec quickly vanished from sight around the curve of the trail while the others h
 
 Grandmother touched her lips to command silence. She led the girls back the way they had come through the debris field, cut through here and there with stands of surviving trees. After about two hundred paces she showed them a nock cut into the trunk of an old juniper. Sliding sideways between the trees, they eased through the foliage and emerged onto a dried-up stream bed. They followed its descent for short ways, slipping and sliding on smooth stones. Grandmother halted beside a large rock half concealed by the thick branches of a medicinal plant called weeping berry. A mark had been carved into the rock: the "claw of Temur," now forbidden by Atarka. She brushed aside the hanging branches to reveal the narrow entrance to a tunnel.
 
-#figure(image("006_Chronicle of Bolas: A Familiar Stranger/02.png", width: 50%), caption: [], supplement: none, numbering: none)
+#figure(image("006_Chronicle of Bolas A Familiar Stranger/02.png", width: 50%), caption: [], supplement: none, numbering: none)
 
 She tapped first Naiva's nose and then Baishya's, the old gesture she'd used to get their attention when they were toddlers. "This knowledge belongs to the whisperers, and to the elders. Never tell anyone else. Do you understand me?"
 
@@ -123,7 +123,7 @@ Grandmother took the antler and set it back among the others. "Fec will have rea
 
 They placed the stones on the ground and followed her into a wide tunnel, the only other outlet. The ceiling sloped down until they had to crawl. Fec's rumbling voice whispered around them, although his words were inaudible. After a pause, as if he was listening, he spoke again in apparent reply. Why was Grandmother spying instead of greeting her kinfolk in the normal manner?
 
-#figure(image("006_Chronicle of Bolas: A Familiar Stranger/03.jpg", width: 100%), caption: [Formless Nurturing | Art by: Cliff Childs], supplement: none, numbering: none)
+#figure(image("006_Chronicle of Bolas A Familiar Stranger/03.jpg", width: 100%), caption: [Formless Nurturing | Art by: Cliff Childs], supplement: none, numbering: none)
 
 The passageway ended in a long horizontal cleft, too narrow to squeeze through, that overlooked the large, shallow cave. The stone hearth was covered in a fine, white ash. The packs and weapons of clan hunters lay scattered on the ground behind a stone wall high enough to keep out wandering beasts, but the hunters were gone. Fec stood at the entrance with the light behind him. He was looking toward someone at the back of the cave, their face and form obscured by shadows.
 
@@ -197,7 +197,7 @@ Baishya said, "It was hard to see her face but I thought she looked like Mevra."
 
 "Of course you aren't." Grandmother grasped a hand of each girl, holding tightly. "But until I figure out why Ugin has sent visions to us now, or if they are even Ugin's visions, you two must stay here."
 
-#figure(image("006_Chronicle of Bolas: A Familiar Stranger/04.jpg", width: 100%), caption: [Ugin's Nexus | Art by: Sam Burley], supplement: none, numbering: none)
+#figure(image("006_Chronicle of Bolas A Familiar Stranger/04.jpg", width: 100%), caption: [Ugin's Nexus | Art by: Sam Burley], supplement: none, numbering: none)
 
 "Who else's visions could they be?"
 
@@ -267,7 +267,7 @@ A gleaming mist drifted before her eyes, obscuring her vision. Colors twisted li
 
 The air clotted in Naiva's lungs. She fell forward as her vision hazed. With her last conscious breath, she clasped her twin's hand, skin to skin. The magic of the hedrons opened a gate mind to mind. The Spirit Dragon's essence rose like a cliff of ice around her, glittering and impassable. She fell into the vision where Baishya had already plunged.
 
-#figure(image("006_Chronicle of Bolas: A Familiar Stranger/05.jpg", width: 100%), caption: [Ugin, the Spirit Dragon | Art by: Chris Rahn], supplement: none, numbering: none)
+#figure(image("006_Chronicle of Bolas A Familiar Stranger/05.jpg", width: 100%), caption: [Ugin, the Spirit Dragon | Art by: Chris Rahn], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -309,7 +309,7 @@ Or at least, this is a story the humanoids often tell as they weave tales about 
 
 He seeks in his mind for the spark that opens the way between worlds. In a wash of invisible, rippling flame, he shifts through a blind, disorienting darkness and, after a moment of stomach-churning unpleasantness, finds himself again floating above the still waters and their mysterious aura of meditative peace.
 
-#figure(image("006_Chronicle of Bolas: A Familiar Stranger/06.jpg", width: 100%), caption: [Island | Art by: Florian de Gesincourt], supplement: none, numbering: none)
+#figure(image("006_Chronicle of Bolas A Familiar Stranger/06.jpg", width: 100%), caption: [Island | Art by: Florian de Gesincourt], supplement: none, numbering: none)
 
 He stares at his perfect image staring back at himself.
 
@@ -351,7 +351,7 @@ The water waits motionless, calm, and yet expectant, almost aware. Another globe
 
 He walks the planes, wonders and dangers unfolding as he crosses from plane to plane. Tumultuous Zendikar. Moon-haunted Innistrad. Sun-drenched Lorwyn. Sturdy Alara with its mana in perfect balance. Shandalar's verdant flow of magic. And so many more, some vast and saturated with mana, some attenuated shards leached of life and magic both.
 
-#figure(image("006_Chronicle of Bolas: A Familiar Stranger/07.jpg", width: 100%), caption: [Jund | Art by: Aleksi Briclot], supplement: none, numbering: none)
+#figure(image("006_Chronicle of Bolas A Familiar Stranger/07.jpg", width: 100%), caption: [Jund | Art by: Aleksi Briclot], supplement: none, numbering: none)
 
 Did even Te Ju Ki suspect how manifold the universe is? The grandeur of the Multiverse awes him; its magnitude humbles him.
 
@@ -411,7 +411,7 @@ His words are so heartfelt. Yet he abandons his soldiers, leaving them to pick u
 
 He came to find Nicol, so he follows his twin. They fly across the plains and mountains of Jamuraa and thence across the ocean, passing over other islands and continents. Dominaria is beautiful, wrought with cascading waterfalls and splendid mountain ranges, lush pastures and flourishing forests that breathe life into the air, colorful reefs and sparkling sand-strewn islands. But amid the striking landscape nestles the residue of war: blighted fields, scorched villages, scattered bones. Even the land has been warped by dire magic wielded without thought for its consequences: rivers blocked until the waters flood hapless settlements, canyons gouged through peaceful plains, avalanches burying quiet valleys. Nicol surveys the landscape with a satisfied smile, seeming not to notice any of this horrifying destruction.
 
-#figure(image("006_Chronicle of Bolas: A Familiar Stranger/08.jpg", width: 100%), caption: [Tectonic Rift | Art by: John Avon], supplement: none, numbering: none)
+#figure(image("006_Chronicle of Bolas A Familiar Stranger/08.jpg", width: 100%), caption: [Tectonic Rift | Art by: John Avon], supplement: none, numbering: none)
 
 "Did you ever suspect the world is so vast a place, Ugin? I have traveled everywhere, no place too small or too grand that I have not set claw upon it. Half of it I now rule, as I have risen from least to greatest. All of Dominaria will soon kneel before me. No one dares call me "least" now. And you are returned to share this triumph with me."
 
@@ -463,7 +463,7 @@ Nicol blinks but says nothing.
 
 "I don't know why, or how, it happened. Only that I was on Dominaria, facing you, and then, suddenly, I was flung beyond this plane. It shocked me at the time. I was bewildered and confused. But I have since discovered there are many planes, many worlds. They are linked by a shadowy space, a web of darkness to which everything attaches. By moving in and out through the web, I can pass from one world to another. Such wonders I have seen! A hundred worlds I have visited. To rule Dominaria is all very well for a small-minded despot like that old chief who killed our injured sister and believed it made him divine and invincible. But he and his squalid heirs were nothing more than negligible tyrants compared to the eternity and infinity of—"
 
-#figure(image("006_Chronicle of Bolas: A Familiar Stranger/09.jpg", width: 100%), caption: [Crucible of Worlds | Art by: Ron Spencer], supplement: none, numbering: none)
+#figure(image("006_Chronicle of Bolas A Familiar Stranger/09.jpg", width: 100%), caption: [Crucible of Worlds | Art by: Ron Spencer], supplement: none, numbering: none)
 
 "Are you comparing me to those pathetic, weak, short-lived humans who I destroyed with the most superficial flicker of my mind?" The words emerge in the barest whisper.
 
@@ -535,7 +535,7 @@ At last, Naiva could take her silence no longer and broke in. "But what does it 
 
 "To pass on a vision to you telling you to come to this grave?"
 
-#figure(image("006_Chronicle of Bolas: A Familiar Stranger/10.jpg", width: 100%), caption: [Tomb of the Spirit Dragon | Art by: Sam Burley], supplement: none, numbering: none)
+#figure(image("006_Chronicle of Bolas A Familiar Stranger/10.jpg", width: 100%), caption: [Tomb of the Spirit Dragon | Art by: Sam Burley], supplement: none, numbering: none)
 
 "Perhaps. Tae Jin's master must be a powerful shaman. Thus, he too can receive a vision, and thus, Tae Jin is sent to me in order to tell me the story Ugin told the Jeskai long ago. That story must be important as part of what the Spirit Dragon wants me to know. But what am I to learn from all these hints and landmarks? What does Ugin want me to see?"
 
@@ -617,7 +617,7 @@ The pregnant woman's laughter filled the canyon, echoing off its high walls unti
 
 A dragon unfolded out of the illusion, so magnificent a creature that the memory of Atarka's might seemed paltry in comparison. He was so big he blocked the sun, allowing its light to limn his form on either side so he shone. Rainbows refracted around him, spilling arcs of color across the sky as if in celebration of his arrival. In shock Naiva stared up at the curved horns familiar to her from the strange memories she'd shared inside the hedron. A gleaming, egg-shaped gem floated between the horns, turning slowly, mesmerizing.
 
-#figure(image("006_Chronicle of Bolas: A Familiar Stranger/11.jpg", width: 100%), caption: [Gem of Becoming | Art by: Jack Wang], supplement: none, numbering: none)
+#figure(image("006_Chronicle of Bolas A Familiar Stranger/11.jpg", width: 100%), caption: [Gem of Becoming | Art by: Jack Wang], supplement: none, numbering: none)
 
 "All will be well now," said the dragon in his soft, beguiling voice. "You are safe now, little Naiva. All your troubles will be solved. Everything you have always wanted will become yours for as long as you live. Trust me. I just need one thing. One little thing."
 

@@ -25,7 +25,7 @@ An arrow flashed overhead to cut through one of the wings of the aven. As the av
 
 The dragon roared, neck whipping from side to side as it raged. Tae Jin dodged between the boulders. A second stream of its icy breath blasted into the open ground where he'd just been standing.
 
-#figure(image("003_Chronicle of Bolas: Things Unseen/01.jpg", width: 100%), caption: [Icefall Regent | Art by: David Gaillet], supplement: none, numbering: none)
+#figure(image("003_Chronicle of Bolas Things Unseen/01.jpg", width: 100%), caption: [Icefall Regent | Art by: David Gaillet], supplement: none, numbering: none)
 
 Naiva leaped sideways to push Grandmother into a narrow gap between two boulders. Blades of grass froze and shattered at her heels. The backs of her legs went numb, but her felted trousers gave her some protection. Looking back, she saw Baishya on her knees, doubled over, exhausted and almost fainting from the effort of moving the rock. Fec shot a useless arrow toward the dragon that bounced off its scaly hide, but it didn't even look his way. It snaked its head down to smack into the boulder Baishya had moved and which she was now sheltered behind. Naiva plucked her skinning knife from its sheath and raced back to her twin, reaching her just as the dragon used a massive claw to shove the boulder aside as if it were the merest pebble.
 
@@ -105,7 +105,7 @@ As she spoke the name #emph[Bolas] , her mouth settled into a grim line. She gav
 
 The young man nodded obediently. By the pressure of his lips and the tightening of his eyes, Naiva could tell he was re-ordering his thoughts, retreating from the ordinary conversation he'd just had with her into his rote memorization of an ancient story.
 
-#figure(image("003_Chronicle of Bolas: Things Unseen/02.jpg", width: 100%), caption: [Student of Ojutai | Art by: Jason A. Engle], supplement: none, numbering: none)
+#figure(image("003_Chronicle of Bolas Things Unseen/02.jpg", width: 100%), caption: [Student of Ojutai | Art by: Jason A. Engle], supplement: none, numbering: none)
 
 They walked in silence beneath the whispering trees.
 
@@ -145,7 +145,7 @@ Whatever happened to me, I could not allow him to die.
 
 So, I reached into my tiny arsenal of magical tricks and spun a pair of transparent, feather-light globes out of the nexus of colors and into the air. With a huff, I blew them in the direction of Vaevictis. The shining orbs startled him so deeply that he tumbled, tail over head, trying to come to a halt. Frantically he called for his siblings, who were heedlessly burning up and down the valley as humans screamed and ran.
 
-#figure(image("003_Chronicle of Bolas: Things Unseen/03.jpg", width: 100%), caption: [Art by: Chris Rahn], supplement: none, numbering: none)
+#figure(image("003_Chronicle of Bolas Things Unseen/03.jpg", width: 100%), caption: [Art by: Chris Rahn], supplement: none, numbering: none)
 
 Of course, I sped after Nicol, although I chanced one glance over my shoulder just before the valley dropped out of sight. Spun on the wind, the globes wafted up against the dread dragon's gleaming scales and gently popped.
 
@@ -197,7 +197,7 @@ A flash of ire lit in his eyes that I hadn't been amazed by his revelation.
 
 I had my pride, too. Maybe I hadn't been following around Arcades all this time, as he had, studying behavior and customs and laws and weapons, but everything that existed intrigued me. Thus, when I was not meditating and studying magic with Te Ju Ki, I observed all the details of life around the central town and the nearby settlements that had fallen under its sway, including two seaside ports.
 
-#figure(image("003_Chronicle of Bolas: Things Unseen/04.jpg", width: 100%), caption: [Hinterland Harbor | Art by: Daniel Ljunggren], supplement: none, numbering: none)
+#figure(image("003_Chronicle of Bolas Things Unseen/04.jpg", width: 100%), caption: [Hinterland Harbor | Art by: Daniel Ljunggren], supplement: none, numbering: none)
 
 So, I said, "Some have built boats with sails for wings and have crossed the waters and returned to tell the tale. The idea of sails for wings is quite ingenious, don't you think?"
 
@@ -249,7 +249,7 @@ But when the mountain appeared in the distance with its long smooth slopes and s
 
 Nicol kept an eye on her as she retreated, but I could not keep my gaze off the mountain. A thrill of sentiment agitated me. We had no parents as humans measured family. We had only a progenitor, unseen, never spoken to, from whose wing beats we had fallen like chaff shaken out of a sheaf of wheat. The mountain was just the unforeseen place where we had woken, a chance, a coincidence. Nevertheless, the peak called to me as if it had a voice made of invisible threads that drew me ever closer to its secret, molten heart.
 
-#figure(image("003_Chronicle of Bolas: Things Unseen/05.jpg", width: 100%), caption: [Mountain | Art by: Rebecca Guay], supplement: none, numbering: none)
+#figure(image("003_Chronicle of Bolas Things Unseen/05.jpg", width: 100%), caption: [Mountain | Art by: Rebecca Guay], supplement: none, numbering: none)
 
 The mountain had not changed, or so I thought as we drew closer. But the landscape around it had changed. In the time of our falling birth, a dense forest had stretched out in every direction around the mountain, cut here and there with random clearings made by an eruption of stony ground or the fall of a giant tree. Of course, the harsh memory of our sister's death in one such clearing remained as fresh as the hot blood of the beasts we'd killed earlier, whose meat had been stolen from us by our living sister.
 
@@ -321,7 +321,7 @@ Of course, the lack of a fire was no hardship for hunters. Their gear protected 
 
 Assigned to sentry duty, Naiva took a strip of dried meat and made her way to the edge of the trees, still brooding over the revelation about worlds. But really it was more about Baishya receiving secret training. Of course whisperers lived in constant danger from Atarka. Of course it made sense that shamans shared their knowledge only with others like themselves. But that sense of being left behind still rankled.
 
-#figure(image("003_Chronicle of Bolas: Things Unseen/06.jpg", width: 100%), caption: [Whisperer of the Wilds | Art by: David Gaillet], supplement: none, numbering: none)
+#figure(image("003_Chronicle of Bolas Things Unseen/06.jpg", width: 100%), caption: [Whisperer of the Wilds | Art by: David Gaillet], supplement: none, numbering: none)
 
 She climbed up on one of the outermost rocks, tucking herself against it to become part of the boulder. At least she had this world and its beauty and challenges. The vantage gave her an excellent view to the northwest across a flat expanse of tundra sweeping toward the eastern range of the Qal Sisma. Where the tundra broke against the foothills, a vast chasm split the land. The deep canyon and its shattered rock was too far away to see clearly, drowned by the shadows of encroaching twilight, but a faint blueish haze drifted above the chasm as a person's breath on a cold morning clouds the icy air.
 
@@ -377,7 +377,7 @@ Naiva jumped out into the open and shouted gibberish to draw its gaze. As the dr
 
 The creature crashed forward, hissing as its head slapped down onto the earth. Tae Jin spun backward to avoid being crushed, stumbled, and fell hard. Yet the dragon still had life in it. It lurched forward, snapping at him. Both Grandmother and Fec shouted at it, charging in from either side to stab at its neck, trying to draw it off. Baishya called up her magic again, sliding a huge rock sideways until it wedged up against the broodling's shoulder, trapping it. Uninjured, it could have shaken off the burden, but its struggles were weakening.
 
-#figure(image("003_Chronicle of Bolas: Things Unseen/07.jpg", width: 100%), caption: [Herdchaser Dragon | Art by: Seb McKinnon], supplement: none, numbering: none)
+#figure(image("003_Chronicle of Bolas Things Unseen/07.jpg", width: 100%), caption: [Herdchaser Dragon | Art by: Seb McKinnon], supplement: none, numbering: none)
 
 Naiva thrust the obsidian point of her spear into the dragon's unblinking eye, the sharp stone slicing the hard outer surface and sliding deep through the silvery orb into the soft brain beneath. The beast shuddered and with a last gasp coughed up glowing embers.
 

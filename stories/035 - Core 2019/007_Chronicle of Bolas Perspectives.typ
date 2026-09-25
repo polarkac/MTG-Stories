@@ -25,7 +25,7 @@ He smiled. "Of course I am. Who else could I be?"
 
 If he was as the stories claimed, he would be able to get into her mind. Probably he already had. Once he picked through her thoughts, he'd realize Yasova Dragonclaw was right in front of him. Her only hope was to distract him. Hadn't Ugin said not ever to make him angry? If he killed her, then at least she couldn't betray her loved ones.
 
-#figure(image("007_Chronicle of Bolas: Perspectives/01.jpg", width: 100%), caption: [Nicol Bolas, the Arisen | Art by: Svetlin Velinov], supplement: none, numbering: none)
+#figure(image("007_Chronicle of Bolas Perspectives/01.jpg", width: 100%), caption: [Nicol Bolas, the Arisen | Art by: Svetlin Velinov], supplement: none, numbering: none)
 
 "Yes, I have heard of you. I know all about you. You're a liar when you say you aren't twin to Ugin. You were born together and fell together. Isn't that right?"
 
@@ -103,7 +103,7 @@ What a sorrow and a grieving I felt at his disappearance! What a howl of despair
 
 It happened so fast I truly believed it was my fault. I thought I had not properly reckoned with the cunning and hate of the surviving humanoids. I berated myself for overlooking the power of their sorcerers, for it was impossible for me to believe my dear Ugin was a coward. The only explanation that made sense was that a powerful spell had obliterated him right before my astonished eyes.
 
-#figure(image("007_Chronicle of Bolas: Perspectives/02.jpg", width: 100%), caption: [Doublecast | Art by: Even Amundsen], supplement: none, numbering: none)
+#figure(image("007_Chronicle of Bolas Perspectives/02.jpg", width: 100%), caption: [Doublecast | Art by: Even Amundsen], supplement: none, numbering: none)
 
 Of course, I rooted out all the humanoid sorcerers in the area. I persuaded them to give up their secrets. Those who refused I killed, while those who cooperated I learned from and then killed later. Since I could no longer trust them. Afterward I wisely created my own academies to train those with magic, so they could serve the greater good under my suzerainty.
 
@@ -159,7 +159,7 @@ Fled.
 
 The ugly landscape of his hearts was starkly revealed. Hadn't he abandoned me the first time just when I most needed him? Now he had come back merely to taunt me with the affection I held for him that he clearly did not hold for me. Obviously, he had done it because he was envious of everything I had achieved. My vast intelligence and clever strategies. My mastery of magical skills he wanted for himself and that the old woman had promised him but never delivered. My myriad grateful subjects and the promise of the world I would soon rule as benevolent overlord beloved by all, awe-struck by my majesty and power.
 
-#figure(image("007_Chronicle of Bolas: Perspectives/03.jpg", width: 100%), caption: [Draconic Disciple | Art by: Yongjae Choi], supplement: none, numbering: none)
+#figure(image("007_Chronicle of Bolas Perspectives/03.jpg", width: 100%), caption: [Draconic Disciple | Art by: Yongjae Choi], supplement: none, numbering: none)
 
 How dare he claim to be better than me? How dare he flaunt magic that he refused to share? He was nothing, no one, too weak and cowardly to fight. He was least in standing among us elder-born dragons, not really deserving of even being counted among us. Probably he had hoped to steal my glory and claim it for himself. No wonder he was angry, recognizing he hadn't the gift or strength for what I had so easily managed.
 
@@ -209,7 +209,7 @@ Of course, a great deal of time had passed as you humanoids measure it. The Domi
 
 Yet as I searched the wide world over, I found no trace of Ugin. At length, I made my way to Arcades's kingdom, as Ugin and I had once done when we were fledglings.
 
-#figure(image("007_Chronicle of Bolas: Perspectives/04.jpg", width: 100%), caption: [Arcades, the Strategist | Art by: Even Amundsen], supplement: none, numbering: none)
+#figure(image("007_Chronicle of Bolas Perspectives/04.jpg", width: 100%), caption: [Arcades, the Strategist | Art by: Even Amundsen], supplement: none, numbering: none)
 
 Arcades welcomed me in his most tendentious elder sibling manner, wondering where I had been hiding myself all this time and proudly showing me about the empire he considered meticulously regulated and magnificently vast. But I knew better.
 
@@ -271,7 +271,7 @@ His head dropped lower. She took another step back but could move no farther, tr
 
 "The name means nothing to you. It's another plane. One you will never see in your entire short, brutish, nasty life."
 
-#figure(image("007_Chronicle of Bolas: Perspectives/05.jpg", width: 100%), caption: [Highland Lake | Art by: Noah Bradley], supplement: none, numbering: none)
+#figure(image("007_Chronicle of Bolas Perspectives/05.jpg", width: 100%), caption: [Highland Lake | Art by: Noah Bradley], supplement: none, numbering: none)
 
 Her limbs were cold and her heart was sluggish, as if her body had decided it was better to collapse into insensibility than face the shattering power of Nicol Bolas, Ugin's greatest enemy. But she would not cringe.
 
@@ -307,7 +307,7 @@ His smile lit the entire world. "Fetch her for me. Then you will receive your re
 
 There was no future for her in clinging to the past. She'd been right when she'd told Tae Jin that the old ways were a corpse better consumed by vultures.
 
-#figure(image("007_Chronicle of Bolas: Perspectives/06.jpg", width: 100%), caption: [Atarka's Command | Art by: Chris Rahn], supplement: none, numbering: none)
+#figure(image("007_Chronicle of Bolas Perspectives/06.jpg", width: 100%), caption: [Atarka's Command | Art by: Chris Rahn], supplement: none, numbering: none)
 
 Yet when she thought of the young ghostfire warrior, of his courage and sacrifice, a shudder passed through her frame and ripped a gash in her certainty. What would Tae Jin say when he learned she had handed over the great Yasova Dragonclaw to Nicol Bolas?
 

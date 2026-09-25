@@ -23,7 +23,7 @@ Her twin sister climbed up beside her, squinting against the rising sun. "It isn
 
 Yasova clambered up beside them, dropping to one knee beside the girls. The high plateau spread before them, so wide and bare it seemed the skin of the earth had no clothing to protect it. A straggly line of stunted trees marked the course of a stream that wound across the plateau. Otherwise, the stark landscape was nothing but stretches of grass, marshy hollows, puddles of icy water melting out of patches of snow, and knobs of bare rock like this one poking above the grass amid a tumble of boulders. The wind never let up, rippling through grass, tugging at loose strands of Naiva's hair.
 
-#figure(image("002_Chronicle of Bolas: The First Lesson/01.jpg", width: 100%), caption: [Rugged Highlands | Art by: Eytan Zana], supplement: none, numbering: none)
+#figure(image("002_Chronicle of Bolas The First Lesson/01.jpg", width: 100%), caption: [Rugged Highlands | Art by: Eytan Zana], supplement: none, numbering: none)
 
 "Do you see the dragon?" Naiva pointed east.
 
@@ -89,7 +89,7 @@ Some ways away from the watercourse, amid high grass, a knob of rock rose about 
 
 Naiva was eager to get going. She left her pack with the others and, carrying only her spear and knife, hurried into the tall grass. Although the grass was tall enough to hide her from view, it rustled as she moved through it, a nuisance she'd never had to deal with in the mountains where grass never grew this high.
 
-#figure(image("002_Chronicle of Bolas: The First Lesson/02.jpg", width: 100%), caption: [Forest | Art by: Titus Lunter], supplement: none, numbering: none)
+#figure(image("002_Chronicle of Bolas The First Lesson/02.jpg", width: 100%), caption: [Forest | Art by: Titus Lunter], supplement: none, numbering: none)
 
 Behind, Baishya panted, "Wait up."
 
@@ -133,7 +133,7 @@ Maybe their voices woke him, or maybe he was all along fighting his way back to 
 
 "How badly did I hit my head?" he whispered. "My vision shows me two. It is said the Temur whisperers have the power to create a double of themselves out of ice. Is one the magical revenant of the other?"
 
-#figure(image("002_Chronicle of Bolas: The First Lesson/03.jpg", width: 100%), caption: [Mirror Mockery | Art by: Ryan Alexander Lee], supplement: none, numbering: none)
+#figure(image("002_Chronicle of Bolas The First Lesson/03.jpg", width: 100%), caption: [Mirror Mockery | Art by: Ryan Alexander Lee], supplement: none, numbering: none)
 
 Grandmother's hand tightened on the spear she carried: an ordinary spear with an obsidian point, not the fabled dragon claw spear that had once heralded her position as ruler of all the Temur people. "You're being hunted by one of Ojutai's broodlings, aren't you?"
 
@@ -157,7 +157,7 @@ He took in several ragged breaths to build strength for more words. "Ojutai dest
 
 Grandmother's brow wrinkled. A glimmer woke in her eyes, a flash of excitement, a thrill of fear and hope. "The Spirit Dragon spoke to your shamans?"
 
-#figure(image("002_Chronicle of Bolas: The First Lesson/04.jpg", width: 100%), caption: [Haven of the Spirit Dragon | Art by: Raymond Swanland], supplement: none, numbering: none)
+#figure(image("002_Chronicle of Bolas The First Lesson/04.jpg", width: 100%), caption: [Haven of the Spirit Dragon | Art by: Raymond Swanland], supplement: none, numbering: none)
 
 "Yes, and I know—" He broke off, coughing. Red droplets speckled his chin, and his breathing grew more ragged as he fought to stay awake.
 
@@ -243,7 +243,7 @@ Nicol stared at everything too, the sky so wide and the clouds like mist, and th
 
 In a valley high in the mountains spread a deep, dark lake. A long lean dragon with metallic sheen on his scales was stretched out on a flat outcropping of bare rock, forelegs hanging over the edge, his sleek head dangling over the water as if he'd fallen asleep. As we flew excitedly around him, seeking a place to land, something monstrously large turned in the waters of the lake, vanishing into murkier depths. From his perch on the outcropping, Chromium Rhuell looked up sharply and with the greatest displeasure.
 
-#figure(image("002_Chronicle of Bolas: The First Lesson/05.jpg", width: 100%), caption: [Art by: Chase Stone], supplement: none, numbering: none)
+#figure(image("002_Chronicle of Bolas The First Lesson/05.jpg", width: 100%), caption: [Art by: Chase Stone], supplement: none, numbering: none)
 
 "Why do you disturb me, young ones?"
 
@@ -289,7 +289,7 @@ I flew over, Nicol beside me. When we landed next to her, she turned raw red eye
 
 "Go hunt your own." She tore off a great slab of flesh, and with blood staining her muzzle and teeth, she gnashed and swallowed, then turned her head again to glare at us. "You're so small, the two of you. Little runts. Probably too small to hunt."
 
-#figure(image("002_Chronicle of Bolas: The First Lesson/06.jpg", width: 100%), caption: [Art by: Svetlin Velinov], supplement: none, numbering: none)
+#figure(image("002_Chronicle of Bolas The First Lesson/06.jpg", width: 100%), caption: [Art by: Svetlin Velinov], supplement: none, numbering: none)
 
 "We can hunt!" Nicol clawed angrily at the dirt, then added, "Better than you can, once we learn how."
 
@@ -339,7 +339,7 @@ We cleaned ourselves off in a hot sandbank and napped in the afternoon sun. Afte
 
 By this time, we had explored into new territory. Several times we were chased by a big ugly dragon named Vaevictis Asmadi who, with his siblings, furiously guarded a territory they claimed for their own hunting grounds even though it had plenty of space and game enough for many hunters to cull. So, we explored farther afield, for to us, it seemed the land was vast and the ocean that girdled it an insurmountable barrier. We were so young and ignorant in those days.
 
-#figure(image("002_Chronicle of Bolas: The First Lesson/07.jpg", width: 100%), caption: [Art by: Steven Belledin], supplement: none, numbering: none)
+#figure(image("002_Chronicle of Bolas The First Lesson/07.jpg", width: 100%), caption: [Art by: Steven Belledin], supplement: none, numbering: none)
 
 One day, we settled on a hill amid a richly forested plain. From this vantage, we found ourselves looking over a riverside settlement inhabited by the bipeds called humans. In general, we avoided humans. They didn't taste good, and I didn't like eating things that could talk.
 
@@ -405,7 +405,7 @@ I was pleased to hear him be so reasonable. I thought I knew him down to his bon
 
 So, it was then that we accompanied Arcades back to the town. He made us known to the people there, and they greeted us with awe and respect, although, perhaps not quite as much awe and respect as they showed to Arcades, whom they called "Dragonlord."
 
-#figure(image("002_Chronicle of Bolas: The First Lesson/08.jpg", width: 100%), caption: [Art by: Even Amundsen], supplement: none, numbering: none)
+#figure(image("002_Chronicle of Bolas The First Lesson/08.jpg", width: 100%), caption: [Art by: Even Amundsen], supplement: none, numbering: none)
 
 There we sojourned for years. We watched as the humans enclosed more territory with more walls, as people were born in increasing numbers and built more houses and cleared more fields, as trade envoys came from distant towns to the growing city. I poked my snout into everything, and made particular friends with an old holy elder named Te Ju Ki, whose sole purpose in life, it seemed, was to think about things that could not be seen. She lived alone in a round chamber whose walls were made of stone slabs. Like the stone, she was tough and dry. Though she was withered of limb and frail of body, her mind was as sharp as obsidian.
 
@@ -447,7 +447,7 @@ His voice was breathless and lost. "But that dispute between us was all settled 
 
 The words fell hollowly, given the evidence.
 
-#figure(image("002_Chronicle of Bolas: The First Lesson/09.jpg", width: 100%), caption: [Murder | Art by: Tyler Jacobson], supplement: none, numbering: none)
+#figure(image("002_Chronicle of Bolas The First Lesson/09.jpg", width: 100%), caption: [Murder | Art by: Tyler Jacobson], supplement: none, numbering: none)
 
 The guards took him away. As a steward directed the body be removed and the blood washed off the stones, I raised my eyes to the roof of one of the nearby buildings. Nicol lounged there, stretched along the ridgeline, watching the scene with an avid gaze.
 
@@ -501,7 +501,7 @@ A loud rustling like the sound of rainfall swept over them, though the sky remai
 
 A shadow fell across them as a dragon's head and sinuous neck rose from behind the outcropping. It was a stunningly beautiful creature, scales a pale gray-white with a hint of blue. A dark blue crest rose from the center of its head between two long, elegant horns. Its gaze marked them, each one, and dismissed them, each one, with a gleam of intelligence nothing like the brute hunger of Atarka's antlered broodlings. Then it saw the young man still seated on the ground. The creature hissed, threads of a cold, misty haze leaking from its nostrils.
 
-#figure(image("002_Chronicle of Bolas: The First Lesson/10.jpg", width: 100%), caption: [Cunning Breezedancer | Art by: Todd Lockwood], supplement: none, numbering: none)
+#figure(image("002_Chronicle of Bolas The First Lesson/10.jpg", width: 100%), caption: [Cunning Breezedancer | Art by: Todd Lockwood], supplement: none, numbering: none)
 
 Tae Jin jumped to his feet, pressing his forearms together in a gesture of supplication. Was it after all a trap? Had he delivered up Grandmother to one of Ojutai's broodlings?
 

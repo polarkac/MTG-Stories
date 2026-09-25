@@ -49,7 +49,7 @@ But the magical wall held.
 
 The noise lessened. The rumbling faded into a pregnant silence. It should have been too dark to see except Baishya's hands were glowing with the eerie, wispy light.
 
-#figure(image("001_Chronicle of Bolas: The Twins/01.jpg", width: 100%), caption: [Rattleclaw Mystic | Art by: Tyler Jacobson], supplement: none, numbering: none)
+#figure(image("001_Chronicle of Bolas The Twins/01.jpg", width: 100%), caption: [Rattleclaw Mystic | Art by: Tyler Jacobson], supplement: none, numbering: none)
 
 Naiva's voice had frozen in her throat. Her breath blew clouds of mist in front of her eyes, only it was not her breath.
 
@@ -117,7 +117,7 @@ Baishya had her knife out, kicking each of the crushed goblins to make sure ther
 
 Dragging the laden net behind them, they slogged over to where stands of hardy juniper offered a more stable path down into the valley. Clouds of white haze were still billowing skyward along the avalanche's path. The dragons, taking it as a game, raced in from the distant peaks to breathe fire onto the heaps of snow. Meltwater churned down the valley's cleft in rising bursts of whitewater.
 
-#figure(image("001_Chronicle of Bolas: The Twins/02.jpg", width: 100%), caption: [Thornwood Falls | Art by: Eytan Zana], supplement: none, numbering: none)
+#figure(image("001_Chronicle of Bolas The Twins/02.jpg", width: 100%), caption: [Thornwood Falls | Art by: Eytan Zana], supplement: none, numbering: none)
 
 "Even if they survived the avalanche, how can they survive such a flood?" Naiva whispered, heart cold. She hated being afraid. It made her angry.
 
@@ -161,7 +161,7 @@ Naiva handed the net over to other hunters and followed Grandmother and Baishya 
 
 "For Yasova Dragonclaw."
 
-#figure(image("001_Chronicle of Bolas: The Twins/03.jpg", width: 100%), caption: [Yasova Dragonclaw | Art by: Winona Nelson], supplement: none, numbering: none)
+#figure(image("001_Chronicle of Bolas The Twins/03.jpg", width: 100%), caption: [Yasova Dragonclaw | Art by: Winona Nelson], supplement: none, numbering: none)
 
 Naiva leaned closer, hands curling into fists, shocked to hear Baishya speak that word. Atarka had banished the name Dragonclaw and eaten every person who had dared use the term in her presence.
 
@@ -189,7 +189,7 @@ Two of the bigger egg-stones drop as if they are already dead. They crack into t
 
 He opens his wings, letting the sun dry out the dampness lingering on his still-soft scales. Craning his supple neck, he studies the landscape. The great shadow ripples across an expanse of forest and grassland toward a ridge of distant mountains. Sunlight returns behind its passage, gilding the scene with vivid colors.
 
-#figure(image("001_Chronicle of Bolas: The Twins/04.jpg", width: 100%), caption: [Timber Gorge | Art by: YW Tang], supplement: none, numbering: none)
+#figure(image("001_Chronicle of Bolas The Twins/04.jpg", width: 100%), caption: [Timber Gorge | Art by: YW Tang], supplement: none, numbering: none)
 
 Arcades Sabboth alights beside him to bask. "Such a lot of trees everywhere around our perch. And look, there are all sorts of animals abounding here, some on four feet and some on two. Some are wild, and some have tamed themselves. They must all have names, just as we do. What is that assemblage of structures over by the river? It looks very orderly and interesting."
 
@@ -235,7 +235,7 @@ The hunters fling a large net over her head. With a howl of surprise she thrusts
 
 "Quiet. If they see us, you're trapped and at their mercy."
 
-#figure(image("001_Chronicle of Bolas: The Twins/05.jpg", width: 100%), caption: [Dragon | Art by: Jack Wang], supplement: none, numbering: none)
+#figure(image("001_Chronicle of Bolas The Twins/05.jpg", width: 100%), caption: [Dragon | Art by: Jack Wang], supplement: none, numbering: none)
 
 Nicol hisses. It's true they can do nothing as long as he's trapped. It's maddening. It's wrong!
 
@@ -281,7 +281,7 @@ Nicol looks at the cloudless sky and the dizzyingly brilliant sun. The sun is ma
 
 "I am not afraid of the hunters," he says, sure that the sun fears nothing.
 
-#figure(image("001_Chronicle of Bolas: The Twins/06.jpg", width: 100%), caption: [Mountain | Art by: Jonas De Ro], supplement: none, numbering: none)
+#figure(image("001_Chronicle of Bolas The Twins/06.jpg", width: 100%), caption: [Mountain | Art by: Jonas De Ro], supplement: none, numbering: none)
 
 "Of course you aren't."
 
@@ -327,7 +327,7 @@ Ugin does not reply. He stares all around at the landscape. The world is not new
 
 "I see one!" Nicol spots a dragon swooping low over a herd of animals. It's exhilarating to watch the prey scatter in fear. The dragon snatches a running beast with such grace and power.
 
-#figure(image("001_Chronicle of Bolas: The Twins/07.jpg", width: 100%), caption: [Art by: Chris Rahn], supplement: none, numbering: none)
+#figure(image("001_Chronicle of Bolas The Twins/07.jpg", width: 100%), caption: [Art by: Chris Rahn], supplement: none, numbering: none)
 
 The yapping still sounds from below as the dogs find the forest debris where he and Ugin landed. When he thinks of the dead sister, he wants to tear all the hunters and dogs to pieces, but maybe the fault doesn't lie with them. They just took the opportunity to get something they wanted. Maybe the fault lies with the dragons who didn't survive.
 

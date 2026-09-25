@@ -71,7 +71,7 @@ Her head began to ache. When she squeezed her eyes shut, pale ghostly shapes flo
 
 She raised an eyebrow. "He taught the skill to the shamans among our ancestors."
 
-#figure(image("008_Chronicle of Bolas: The Unwritten Now/01.jpg", width: 100%), caption: [Shaman of Forgotten Ways | Art by: Tyler Jacobson], supplement: none, numbering: none)
+#figure(image("008_Chronicle of Bolas The Unwritten Now/01.jpg", width: 100%), caption: [Shaman of Forgotten Ways | Art by: Tyler Jacobson], supplement: none, numbering: none)
 
 "He must have learned mind-speaking from Bolas," Naiva muttered angrily. "Why should we trust the Spirit Dragon? He could have been manipulating us all this time too, couldn't he?"
 
@@ -109,7 +109,7 @@ Naiva scrubbed tears from her cheeks, hating how they made her feel. "You were h
 
 "I do not believe Bolas can destroy the hedrons. Even if he can, if he destroys the hedrons, then the essence of Ugin will be obliterated. If his essence is destroyed, then even if the rock of Tarkir remains, it will no longer have a soul. That will be the death of our people and all of Tarkir. Even the dragons. As much as I hate the dragons, I love my people more. I do not want them to perish, even if it means saving the dragons."
 
-#figure(image("008_Chronicle of Bolas: The Unwritten Now/02.jpg", width: 100%), caption: [Crucible of the Spirit Dragon | Art by: Jung Park], supplement: none, numbering: none)
+#figure(image("008_Chronicle of Bolas The Unwritten Now/02.jpg", width: 100%), caption: [Crucible of the Spirit Dragon | Art by: Jung Park], supplement: none, numbering: none)
 
 Naiva gazed on her sister's face. Baishya's expression was peaceful, but the rapid movements of her eyes gave away that some part of her mind was active.
 
@@ -141,7 +141,7 @@ Although this realm is perfectly created for meditation, although he has rested 
 
 He should never have left the birth mountain, yet he hadn't fled Dominaria on purpose. The spark had taken him unawares. It had flung him outward like a fish hooked and hauled out of the water, the only home it had ever known, to be thrown onto unfamiliar shores. He hadn't understood what happened until he'd landed on Tarkir, and then the sense of belonging and connection he'd felt for Tarkir had kept him preoccupied for far too long.
 
-#figure(image("008_Chronicle of Bolas: The Unwritten Now/03.jpg", width: 100%), caption: [Seek the Horizon | Art by: Min Yum], supplement: none, numbering: none)
+#figure(image("008_Chronicle of Bolas The Unwritten Now/03.jpg", width: 100%), caption: [Seek the Horizon | Art by: Min Yum], supplement: none, numbering: none)
 
 Was he at fault? Or was it just the way things had fallen out? Maybe if he'd stayed, events would have unfolded in the same way. Nicol had succumbed to the worst in himself, and now, he intended to inflict his power and anger upon all of Dominaria.
 
@@ -173,7 +173,7 @@ Nicol plunges toward the water, claws out. As Ugin dodges, he raises a dense fog
 
 Wingbeats carry Nicol aloft again. He begins to circle as the haze slowly dissipates. "Ugin! Don't be too much of a coward to admit your treachery. I'll have my revenge either way."
 
-#figure(image("008_Chronicle of Bolas: The Unwritten Now/04.jpg", width: 100%), caption: [Nicol Bolas, the Ravager | Art by: Svetlin Velinov], supplement: none, numbering: none)
+#figure(image("008_Chronicle of Bolas The Unwritten Now/04.jpg", width: 100%), caption: [Nicol Bolas, the Ravager | Art by: Svetlin Velinov], supplement: none, numbering: none)
 
 Ugin has traveled through the Multiverse with the greatest curiosity, observing as he goes, recalling the lessons of Te Ju Ki and the example of Chromium Rhuell. He has learned the magic of discovery, of investigation, of discernment, and even of defense. What he has taken no time to learn is the magic of attack and assault. He would always prefer to talk rather than fight, to build rather than tear down. He cannot win by copying Nicol's aggression. Only shrewdness, and a bit of dragon trickery, can save him now.
 
@@ -209,7 +209,7 @@ He knows what he must do. Nicol will never stop pursuing him, not unless he thin
 
 He planeswalks back to the Meditation Realm, where he waits, floating above the still waters, or perhaps his reflection floats, looking down on himself. He is exhausted yet buoyed up by new strength, by a surety that he will reject what Nicol has become.
 
-#figure(image("008_Chronicle of Bolas: The Unwritten Now/05.jpg", width: 100%), caption: [Pools of Becoming | Art by: Jason Chan], supplement: none, numbering: none)
+#figure(image("008_Chronicle of Bolas The Unwritten Now/05.jpg", width: 100%), caption: [Pools of Becoming | Art by: Jason Chan], supplement: none, numbering: none)
 
 In a burst of light, Nicol appears high in the lustrous sky. He dives, all teeth and claw. In a flash of comprehension, Ugin sees how malevolence is threaded through his twin's entire being. Maybe it was only a tiny seed within him, long ago; maybe Ugin leaving allowed it to thrive and flourish. The brother he was born with, whom he flew with—Nicol—has been entirely devoured by Bolas, the name Nicol gave himself because he could only measure himself against others. Maybe nothing Ugin could have done would have changed this outcome. But he regrets that it has come to this.
 
@@ -239,7 +239,7 @@ The dragon floats above the dry seabed beneath the luminous sky.
 
 He sweeps his gaze across the fractured realm and its barren, broken landscape. This manner of destruction is the promise Bolas has made; it is what Bolas wants for anything or anyone who defies him. Someone must stand against him, someone who knows him well enough to defeat him. And Bolas is not the only threat against the Multiverse.
 
-#figure(image("008_Chronicle of Bolas: The Unwritten Now/06.jpg", width: 100%), caption: [Apex of Power | Art by: Svetlin Velinov], supplement: none, numbering: none)
+#figure(image("008_Chronicle of Bolas The Unwritten Now/06.jpg", width: 100%), caption: [Apex of Power | Art by: Svetlin Velinov], supplement: none, numbering: none)
 
 Ugin has a lot to do if he means to protect the planes.
 
@@ -285,7 +285,7 @@ In a great city of glass and stone, a winged creature with the bearded face of a
 
 "Ugin, my friend, welcome to my newest home. What brings you to this plane?"
 
-#figure(image("008_Chronicle of Bolas: The Unwritten Now/07.jpg", width: 100%), caption: [Azor, the Lawbringer | Art by: Ryan Pancoast], supplement: none, numbering: none)
+#figure(image("008_Chronicle of Bolas The Unwritten Now/07.jpg", width: 100%), caption: [Azor, the Lawbringer | Art by: Ryan Pancoast], supplement: none, numbering: none)
 
 "When last we met, we discussed our common foe. Every world is in danger, as long as our enemy is free and whole. That is why I am here. I have devised a plan to rid the Multiverse of his influence, but I cannot do it without you."
 
@@ -357,7 +357,7 @@ Speaking in a rush, one picking up when the other paused to catch her breath, th
 
 "The Spirit Dragon has not forgotten Tarkir. We have a chance to deflect Bolas. One desperate chance. I will take it."
 
-#figure(image("008_Chronicle of Bolas: The Unwritten Now/08.jpg", width: 100%), caption: [Ugin, the Spirit Dragon | Art by: Raymond Swanland], supplement: none, numbering: none)
+#figure(image("008_Chronicle of Bolas The Unwritten Now/08.jpg", width: 100%), caption: [Ugin, the Spirit Dragon | Art by: Raymond Swanland], supplement: none, numbering: none)
 
 "Do you mean to surrender yourself to him?" Naiva demanded.
 
@@ -415,7 +415,7 @@ Sparks flashed along the ground in a warning cast of deadly rain. "Of course he 
 
 "Why do you lie?" the dragon cried. "I saw him fall! I saw his body hit the ground. Your own granddaughter confirmed it. Little Naiva, is it not true? Ugin is dead!"
 
-#figure(image("008_Chronicle of Bolas: The Unwritten Now/09.jpg", width: 100%), caption: [Tomb of the Spirit Dragon | Art by: Sam Burley], supplement: none, numbering: none)
+#figure(image("008_Chronicle of Bolas The Unwritten Now/09.jpg", width: 100%), caption: [Tomb of the Spirit Dragon | Art by: Sam Burley], supplement: none, numbering: none)
 
 "If you're so sure Ugin is dead, why #emph[did]  you return to Tarkir?" said Baishya in her most scornful voice, the one that usually annoyed Naiva out of all reason. Hearing it turned on a stupendously powerful Planeswalker, who could obliterate grandmother and granddaughter with the merest touch of magic, made her appreciate her twin's quiet but sharp courage, so different from her own brash boldness. Yet who was the bold one now? Not Naiva, hiding inside the cave-like space within a hedron while others faced down the dragon.
 
@@ -449,7 +449,7 @@ Her fingers touched the grainy rock shield, ready to shove it aside.
 
 Baishya's voice slapped her like a chilling wind. "Maybe I don't want to hunt. Maybe nothing you offer tempts me, because from everything I've heard, you're stuck in the past, circling around and around your rivalry with Ugin—"
 
-#figure(image("008_Chronicle of Bolas: The Unwritten Now/10.jpg", width: 100%), caption: [Nicol Bolas, the Arisen | Art by: Svetlin Velinov], supplement: none, numbering: none)
+#figure(image("008_Chronicle of Bolas The Unwritten Now/10.jpg", width: 100%), caption: [Nicol Bolas, the Arisen | Art by: Svetlin Velinov], supplement: none, numbering: none)
 
 "I'm not stuck!"
 
@@ -497,7 +497,7 @@ Scarcely able to breathe for the dust in her lungs and the hope choking her hear
 
 "You used your magic to hold off the rocks!" she cried, because it was the only thing she could think of to say. Tears cut trails down her dust-smeared, blood-streaked face.
 
-#figure(image("008_Chronicle of Bolas: The Unwritten Now/11.jpg", width: 100%), caption: [Temur Runemark | Art by: Chris Rallis], supplement: none, numbering: none)
+#figure(image("008_Chronicle of Bolas The Unwritten Now/11.jpg", width: 100%), caption: [Temur Runemark | Art by: Chris Rallis], supplement: none, numbering: none)
 
 "Is he gone?" Baishya whispered, leaning trustingly against her sister.
 
@@ -567,7 +567,7 @@ Just as Naiva started to ask what the organs would be used for, Baishya interrup
 
 "Not only for dragons, since I met a Planeswalker before you were born. He seemed in most ways as human as you or me, and was especially disrespectful and a bit tedious when he whined and begged," said Grandmother with a cough of displeasure.
 
-#figure(image("008_Chronicle of Bolas: The Unwritten Now/12.jpg", width: 100%), caption: [Sarkhan, Fireblood | Art by: Grzegorz Rutkowski], supplement: none, numbering: none)
+#figure(image("008_Chronicle of Bolas The Unwritten Now/12.jpg", width: 100%), caption: [Sarkhan, Fireblood | Art by: Grzegorz Rutkowski], supplement: none, numbering: none)
 
 But it was more than a cough. She was growing out of breath as they climbed the steep path toward the rim of the canyon and had to lean heavily on her spear when she had never needed its aid before. Where once she had seemed ageless, the difficult journey and the confrontation with the powerful Bolas had exhausted her. Maybe she would not die this year, or even in five years, but mortality had its claws in her. The knowledge sunk its weight into Navia's heart like a stone. Yet now she also understood that Yasova Dragonclaw did not fear death for herself, only the obliteration of her people.
 
@@ -603,7 +603,7 @@ Baishya nudged Naiva and whispered, "I told you Grandmother took him into the tr
 
 "With care, it can be dug free. Baishya, you must see if Ugin will continue to communicate with you through the ocean of memories. Fec will record whatever you see. All that he carves will be stored here with the rest of our hidden stories. Naiva will hunt for you, and keep you safe."
 
-#figure(image("008_Chronicle of Bolas: The Unwritten Now/13.jpg", width: 100%), caption: [Highland Game | Art by: John Severin Brassell], supplement: none, numbering: none)
+#figure(image("008_Chronicle of Bolas The Unwritten Now/13.jpg", width: 100%), caption: [Highland Game | Art by: John Severin Brassell], supplement: none, numbering: none)
 
 "Will we ever be safe?" Naiva asked.
 
