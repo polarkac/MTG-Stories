@@ -43,7 +43,7 @@ Sumptuous disorder: both an aesthetic and a way of life in New Capenna.
 
 The impossible city indulged itself on strong, gilded lines that soared upward and broke apart into delicate ironwork. The decorations mirrored the waterscapes and fauna of the terraced gardens that were the signatures of Park Heights. If Xander could capture it in the stroke of a brush or pen, he would. But alas, his talents had never lain in the making of landscapes on canvas.
 
-#figure(image("001_Episode 1: Homecoming/01.jpg", width: 100%), caption: [Art by: Grady Frederick], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Homecoming/01.jpg", width: 100%), caption: [Art by: Grady Frederick], supplement: none, numbering: none)
 
 And yet, the town knew his mark as well as those of the most famous creators. He'd painted it in blood enough times.
 
@@ -75,11 +75,11 @@ Anhelo's mouth tugged up on one side, a trademark smirk that revealed one of his
 
 Xander chuckled, setting down his tape and running his fingers over the assortment of pauldrons he'd selected from his collection. Anhelo's attire had been lacking for a few weeks now, and that simply would not do. Moreover, he needed some changes if he was to blend in properly with the rabble of lower levels.
 
-#figure(image("001_Episode 1: Homecoming/02.jpg", width: 100%), caption: [Art by: Christian Dimitrov], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Homecoming/02.jpg", width: 100%), caption: [Art by: Christian Dimitrov], supplement: none, numbering: none)
 
 Every level of New Capenna held its own~charms, from the lowest rungs of the utilitarian Caldaia, reimagined in its ghastly fashion by Ziatora and her Riveteers, to the bustling midtown of the Mezzio steeped in the crime and opportunity the Cabaretti promised. Xander's favorite level was, by far, his museum in the heavenly expanses of Park Heights. Which was one of the many reasons why he rarely left and Anhelo always came to him.
 
-#figure(image("001_Episode 1: Homecoming/03.jpg", width: 100%), caption: [Art by: Christian Dimitrov], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Homecoming/03.jpg", width: 100%), caption: [Art by: Christian Dimitrov], supplement: none, numbering: none)
 
 "If only I ran this town," Xander mused, finally settling on an adornment for the shoulder that would clip into a high collar of steel. It was closer to the chin than Anhelo usually preferred. But the Deacon wore his shirts open far too low in Xander's opinion, and when it came to fashion, there were none with a better eye than Xander.
 
@@ -129,7 +129,7 @@ Anhelo departed, and rather than returning to his window, Xander headed to the f
 
 These were the last remaining histories of the founding of New Capenna, a time he should remember but that had become murky following his deal. Xander lifted two cotton gloves, donning them before leafing through the first text. He had read these words many times but had yet to give up hope that somewhere in the annals of the past, he just might find the key to their future.
 
-#figure(image("001_Episode 1: Homecoming/04.jpg", width: 100%), caption: [Art by: Martina Fačková], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Homecoming/04.jpg", width: 100%), caption: [Art by: Martina Fačková], supplement: none, numbering: none)
 
 = OFFICE OF GRANDFATHER CABARETTI
 
@@ -183,7 +183,7 @@ Jinnie waved the notion away, causing the feline in her lap to give her a very o
 
 "Give them my best." Jetmir pushed away from his desk, situating his own sash around his shoulders and taking up his scepter. At its top was the face of a crowned leonin—the symbol of the Cabaretti.
 
-#figure(image("001_Episode 1: Homecoming/05.jpg", width: 100%), caption: [Art by: Ryan Pancoast], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Homecoming/05.jpg", width: 100%), caption: [Art by: Ryan Pancoast], supplement: none, numbering: none)
 
 "Always." Jinnie flashed him a dazzling smile and stepped out the door.
 
@@ -221,7 +221,7 @@ The well-paved walkways above had given way to suspended streets of steel. Vivie
 
 She had seen many impressive places in her travels. But this was certainly a marvel unto itself~so long as she was willing to look past its grave errors in rejecting nature so completely.
 
-#figure(image("001_Episode 1: Homecoming/06.jpg", width: 100%), caption: [Art by: Jake Murray], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Homecoming/06.jpg", width: 100%), caption: [Art by: Jake Murray], supplement: none, numbering: none)
 
 A raucous uproar erupted from the open doors of a nearby building. Abandoning her initial curiosity—an anvil surrounded by flames on a nearby platform—Vivien leapt from the girder she had been crossing onto one lower that connected to the doors. The light of the room within struck clean lines through the smoke and fog. Vivien slipped inside, her smooth movements going mostly unnoticed. Those who did see her paid no mind. They were too engrossed in the speech.
 
@@ -289,7 +289,7 @@ Tezzeret huffed in amusement. "Understood."
 
 Elspeth startled at the transport that whizzed overhead, rattling on suspended tracks that hung a little too low for something so noisy. She blinked several times, eyes still adjusting to the bright lights of New Capenna as compared to the dim train. The city was teeming with people of every shape and size, wearing all manner of strange clothing.
 
-#figure(image("001_Episode 1: Homecoming/07.jpg", width: 100%), caption: [Art by: Thomas Stoop], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Homecoming/07.jpg", width: 100%), caption: [Art by: Thomas Stoop], supplement: none, numbering: none)
 
 Buildings towered above her, connected by a maze of rails and walkways, decorated with balconies and ornate designs that spoke of nothing but indulgence. Every ceiling seemed to be another's floor as the city continued to stretch higher and higher, reaching dizzying heights before plunging into the low cloud cover.
 
@@ -303,7 +303,7 @@ Her friend had never lied to her and had always given sound council, even when s
 
 So why had she never felt more out of place?
 
-#figure(image("001_Episode 1: Homecoming/08.jpg", width: 100%), caption: [Art by: Sam Chivers], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Homecoming/08.jpg", width: 100%), caption: [Art by: Sam Chivers], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -312,7 +312,7 @@ So why had she never felt more out of place?
 #grid(
     columns: (1fr, 1fr),
     gutter: 2em,
-    figure(image("001_Episode 1: Homecoming/09.png", height: 40%), caption: [], supplement: none, numbering: none),
-    figure(image("001_Episode 1: Homecoming/10.png", height: 40%), caption: [], supplement: none, numbering: none),
+    figure(image("001_Episode 1 Homecoming/09.png", height: 40%), caption: [], supplement: none, numbering: none),
+    figure(image("001_Episode 1 Homecoming/10.png", height: 40%), caption: [], supplement: none, numbering: none),
 )
 

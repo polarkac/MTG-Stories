@@ -13,7 +13,7 @@
 
 "It's the quietest section of the city we've seen so far," Vivien admitted.
 
-#figure(image("009_Episode 5: Hymn of the Angels/01.jpg", width: 100%), caption: [Art by: Adam Paquette], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Hymn of the Angels/01.jpg", width: 100%), caption: [Art by: Adam Paquette], supplement: none, numbering: none)
 
 "Giada?"
 
@@ -155,7 +155,7 @@ The door opened before Jinnie could say anything more, revealing a cephalid woma
 
 "Kamiz," Jinnie said with relief. "How is Jetmir?"
 
-#figure(image("009_Episode 5: Hymn of the Angels/02.jpg", width: 100%), caption: [Art by: Chris Rallis], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Hymn of the Angels/02.jpg", width: 100%), caption: [Art by: Chris Rallis], supplement: none, numbering: none)
 
 "Stable, though ailing. I see you secured the Font. Excellent, I knew you would. Come in, before anyone sees you."
 
@@ -249,7 +249,7 @@ Led by Kamiz, they escaped into a back alley, Riveteers and Maestros charging af
 
 "Park Heights. The main Obscura stronghold, the Cloud Spire. If it's not safe there, we won't be safe anywhere."
 
-#figure(image("009_Episode 5: Hymn of the Angels/03.jpg", width: 100%), caption: [Art by: Sam White], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Hymn of the Angels/03.jpg", width: 100%), caption: [Art by: Sam White], supplement: none, numbering: none)
 
 = PARK HEIGHTS CATHEDRAL
 
@@ -287,7 +287,7 @@ This had all been a setup. The Obscura were as compromised as everyone else was.
 
 Giada complied.
 
-#figure(image("009_Episode 5: Hymn of the Angels/04.jpg", width: 100%), caption: [Art by: Ekaterina Burmak], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Hymn of the Angels/04.jpg", width: 100%), caption: [Art by: Ekaterina Burmak], supplement: none, numbering: none)
 
 Vivien at their back, they raced through the park, branches reaching out, clawing at their faces and arms as they bolted in search of a reprieve. #emph[Let there be one safe place in this city, one sanctuary] , Elspeth silently beseeched the cruel and uncaring gods. They emerged back onto a path that connected to a nearby cathedral suspended below angel statues.
 
@@ -311,7 +311,7 @@ It was warmth and goodness. It was fulfilling yet longing. It was~
 
 "My family. I'm home," Giada said reverently, as if struck with unexpected clarity.
 
-#figure(image("009_Episode 5: Hymn of the Angels/05.jpg", width: 100%), caption: [Art by: Eric Deschamps], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Hymn of the Angels/05.jpg", width: 100%), caption: [Art by: Eric Deschamps], supplement: none, numbering: none)
 
 Suddenly, the word "home" held meaning. Elspeth shared a long stare with Giada who wore an enigmatic smile. She radiated like the angels of the cathedral. Her very form seemed to belong here, as though it were a piece finally returning to its spot.
 
@@ -333,7 +333,7 @@ Ob Nixilis smashed his fist straight through the face of the ghostly wolf. It di
 
 "Run," Ob Nixilis growled as Vivien passed. His voice was sandpaper and fire. "Play with my agents until I'm ready to torment you." He kept his focus solely on Elspeth and Giada, wearing a cruel smile. Self-satisfied. As though everything was kindling for him to burn. "You thought you could best me? I'll show you what happens to people who dare contradict me—who even think of getting in the way of my power. Once the Font is in my possession, I'll end you both, one at a time, #emph[slowly] ."
 
-#figure(image("009_Episode 5: Hymn of the Angels/06.jpg", width: 100%), caption: [Art by: Slawomir Maniak], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Hymn of the Angels/06.jpg", width: 100%), caption: [Art by: Slawomir Maniak], supplement: none, numbering: none)
 
 Elspeth could feel the immense power radiating from him. "Giada, if this goes sideways, run. Do it before I fall," Elspeth whispered. "I'll hold him off as long as I can, but you must get away while I can distract him."
 
@@ -363,7 +363,7 @@ Giada's focus remained solely on Elspeth. "Thank you, for everything. I found my
 
 Light filled the room. It shot out in every direction from Giada's body, the force of the blast strong enough to throw Ob Nixilis away. Elspeth, however, was unaffected. She looked on in awe as Giada was transformed into the radiant magic of Halo.
 
-#figure(image("009_Episode 5: Hymn of the Angels/07.jpg", width: 100%), caption: [Art by: Eric Deschamps], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Hymn of the Angels/07.jpg", width: 100%), caption: [Art by: Eric Deschamps], supplement: none, numbering: none)
 
 Elspeth breathed it in, allowing it to coat her flesh like armor and sink into her bones. The singing returned, a full chorus in which every part was in perfect harmony. It reached a true crescendo of joy, as if to overwrite the screams of the Cabaretti celebration that had dared to take the same name.
 
@@ -389,7 +389,7 @@ The Halo seeped into the blade, running up tracks in the fuller. From middle to 
 
 Elspeth would defend New Capenna.
 
-#figure(image("009_Episode 5: Hymn of the Angels/08.jpg", width: 100%), caption: [Art by: Volkan Baga], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Hymn of the Angels/08.jpg", width: 100%), caption: [Art by: Volkan Baga], supplement: none, numbering: none)
 
 She lunged forward, wielding her new sword with both hands. Ob Nixilis barely had time to roll away from her thrust. As he dodged, he raised up a hand, pointing at her. She could feel the magic collecting in the air and narrowly avoided his shot.
 
@@ -486,6 +486,6 @@ Elspeth was pleased it seemed like Vivien was ready to continue this journey wit
 #grid(
     columns: (1fr, 1fr),
     gutter: 2em,
-    figure(image("009_Episode 5: Hymn of the Angels/09.png", width: 100%), caption: [], supplement: none, numbering: none),
-    figure(image("009_Episode 5: Hymn of the Angels/10.png", width: 100%), caption: [], supplement: none, numbering: none),
+    figure(image("009_Episode 5 Hymn of the Angels/09.png", width: 100%), caption: [], supplement: none, numbering: none),
+    figure(image("009_Episode 5 Hymn of the Angels/10.png", width: 100%), caption: [], supplement: none, numbering: none),
 )

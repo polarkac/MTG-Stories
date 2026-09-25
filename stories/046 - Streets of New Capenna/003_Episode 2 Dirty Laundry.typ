@@ -11,7 +11,7 @@
 
 New Capenna was a blur. Elspeth held onto a pole in the train car as it jostled down the tracks, but doing so was unnecessary when she was packed so tightly alongside other commuters that it was impossible to move. With a lurch and a groan, the train came to a halt at the main station for the Mezzio—the beating heart of the city—and exhaled smoke and people.
 
-#figure(image("003_Episode 2: Dirty Laundry/01.jpg", width: 100%), caption: [Art by: Muhammad Firdaus], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Dirty Laundry/01.jpg", width: 100%), caption: [Art by: Muhammad Firdaus], supplement: none, numbering: none)
 
 From this station, golden elevators in the shapes of giant beetle shells lifted the wealthy to Park Heights. Workers rose from Caldaia via steam-filled stairwells. She fit in easier with the latter than the glittering fashions of the former.
 
@@ -151,7 +151,7 @@ It was a good question, one Elspeth had no doubt she'd be asking herself later w
 
 #emph[The Maestros.]  Elspeth knew little about the family other than that whenever they were mentioned by the citizenry, it was in the context of art or death, and their laundry always reeked with the metallic tang of blood.
 
-#figure(image("003_Episode 2: Dirty Laundry/02.jpg", width: 100%), caption: [Art by: Jodie Muir], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Dirty Laundry/02.jpg", width: 100%), caption: [Art by: Jodie Muir], supplement: none, numbering: none)
 
 "I'm feeling generous today." The leader eased away from the shopkeeper. "I'll forgive you for that poor choice in words and let it not be the last mistake you make on this earth if you empty the contents of your pockets."
 
@@ -281,7 +281,7 @@ His footsteps were hasty behind her. "No, #emph[no] ~anyone from New Capenna kno
 
 "It's all right!" He must have seen her expression as he kept up with her fast pace. "We all start somewhere. Why don't you start with the Maestros? We don't have an opportunity for new recruits from the outside ruins often—surprised anyone still lives out there, frankly—and if you're curious about the history of New Capenna, then you'll be thrilled to know that all young family members start in the museum up in Park Heights." The man came to a stop, holding out his hand. "Wait, where are my manners? Forgive me. I'm Anhelo."
 
-#figure(image("003_Episode 2: Dirty Laundry/03.jpg", width: 100%), caption: [Art by: Aurore Folny], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Dirty Laundry/03.jpg", width: 100%), caption: [Art by: Aurore Folny], supplement: none, numbering: none)
 
 Elspeth regarded his hand warily. She imagined shaking it would feel like she was making a deal—one she didn't yet know the terms of. Instead, she ignored it, continuing to walk. But said, "Elspeth."
 
@@ -347,7 +347,7 @@ His expression was smug. He thought he had found the carrot she would blindly fo
 
 The Adversary sat in a mirrored room, its entrance hidden behind a barroom bookcase. To enter the establishment, one needed to know a secret knock and a magical touch. To enter this room, one had to be willing to gamble with their lives.
 
-#figure(image("003_Episode 2: Dirty Laundry/04.jpg", width: 100%), caption: [Art by: Vincent Proce], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Dirty Laundry/04.jpg", width: 100%), caption: [Art by: Vincent Proce], supplement: none, numbering: none)
 
 His loyal lieutenants and officers surrounded him. Means to an end, the whole lot of them. He would use them as long as they had breath and proved themselves useful. A sickly purple light hung overhead.
 
@@ -364,6 +364,6 @@ The Adversary considered this and let out a bark of laughter. #emph[Really.]  Th
 #grid(
     columns: (1fr, 1fr),
     gutter: 2em,
-    figure(image("003_Episode 2: Dirty Laundry/05.png", height: 40%), caption: [], supplement: none, numbering: none),
-    figure(image("003_Episode 2: Dirty Laundry/06.png", height: 40%), caption: [], supplement: none, numbering: none),
+    figure(image("003_Episode 2 Dirty Laundry/05.png", height: 40%), caption: [], supplement: none, numbering: none),
+    figure(image("003_Episode 2 Dirty Laundry/06.png", height: 40%), caption: [], supplement: none, numbering: none),
 )

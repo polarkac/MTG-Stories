@@ -43,7 +43,7 @@ Elspeth wove through the dusty crates, burlap-wrapped sculptures, and muslin-cov
 
 "But the price of knowledge is oftentimes found in the veins of others." Xander's eyes shone like the gold that capped one of the horns that framed his brow like an ivory crown. The other vampires of the Maestros lacked the feature, so it was not some quirk of the local variety on New Capenna.
 
-#figure(image("006_Episode 3: Tests/01.jpg", width: 100%), caption: [Art by: Dominik Mayer], supplement: none, numbering: none)
+#figure(image("006_Episode 3 Tests/01.jpg", width: 100%), caption: [Art by: Dominik Mayer], supplement: none, numbering: none)
 
 "You're saying I must kill to get the information I seek?"
 
@@ -71,7 +71,7 @@ She had been expecting there to be some resistance. But she moved effortlessly t
 
 It led her to an unassuming door, painted a deep navy, so dark it was nearly black in the dingy light of the alley. In place of a knocker or knob was a small sigil that looked like a palm, faintly outlined in charcoal that was only a shade darker than the door itself. The symbol was so subtle, it'd likely be missed every time if one didn't know what they were looking for.
 
-#figure(image("006_Episode 3: Tests/02.jpg", width: 100%), caption: [Art by: Muhammad Firdaus], supplement: none, numbering: none)
+#figure(image("006_Episode 3 Tests/02.jpg", width: 100%), caption: [Art by: Muhammad Firdaus], supplement: none, numbering: none)
 
 Elspeth knocked three times, and the door swung open to reveal a young woman. She wore a sloping metal cap, its drooping brim covering the tip of her nose. Elspeth could only vaguely make out her eyes through the slit in its front. The smell of sandalwood and orange drifted on whisps of pale smoke that curled around her shoulders.
 
@@ -147,7 +147,7 @@ She wedged herself through gaps in the stonework. With a foot and hand on each w
 
 "We ain't no rats, let's show her, boys!" The raccoonfolk drew a dagger from his side. The alley was frustratingly narrow, making combat difficult. A feat that became even harder when three others like her first attacker launched themselves at her.
 
-#figure(image("006_Episode 3: Tests/03.jpg", width: 100%), caption: [Art by: Aaron Miller], supplement: none, numbering: none)
+#figure(image("006_Episode 3 Tests/03.jpg", width: 100%), caption: [Art by: Aaron Miller], supplement: none, numbering: none)
 
 Elspeth dodged the blade and caught the creature by the scruff. "I don't have time for you!" she spun and used him like a battering ram to bowl over the others. To her surprise, it worked. While they were stunned, she took her opportunity to disengage, running down the alley and hoisting herself over a low wall and into the gap in the buildings she'd seen earlier.
 
@@ -189,7 +189,7 @@ He chuckled, sliding a pendant along the chain at his neck. "Must this always be
 
 Xander lifted a small bottle and two tiny flutes from one of the drawers at his desk. Within the bottle was a faintly glowing substance. At the top, it shimmered like sunlight. Golden. Brilliant. Then it swirled down through deep orange and into a purple as dark as midnight. The solution looked as if the cosmos had been distilled and pushed through a sieve, leaving only the base elements of existence behind in solution that was neither liquid, solid, nor gas—more like pure magic condensed.
 
-#figure(image("006_Episode 3: Tests/04.jpg", width: 100%), caption: [Art by: Aleksi Briclot], supplement: none, numbering: none)
+#figure(image("006_Episode 3 Tests/04.jpg", width: 100%), caption: [Art by: Aleksi Briclot], supplement: none, numbering: none)
 
 "Is that~" Her voice had fallen to a whisper, as though she sat before the nectar of the gods.
 
@@ -215,7 +215,7 @@ Tonight's job was easy enough. The vial of Halo was warm in her breast pocket. E
 
 Compared to the other tasks Xander had given her, this was—quite literally—a walk in the park.
 
-#figure(image("006_Episode 3: Tests/05.jpg", width: 100%), caption: [Art by: Olga Tereshenko], supplement: none, numbering: none)
+#figure(image("006_Episode 3 Tests/05.jpg", width: 100%), caption: [Art by: Olga Tereshenko], supplement: none, numbering: none)
 
 Still, she kept an eye out for any would-be threats. There were a few late-night wanderers, but none that seemed particularly alarming. Elspeth gave others leeway, choosing darker, more secluded paths that rounded back to the drop point.
 
@@ -301,7 +301,7 @@ She laughed softly with a shake of her head. She might never fully understand th
 
 "Everyone operates within everyone else's budgets, so to speak."
 
-#figure(image("006_Episode 3: Tests/06.jpg", width: 100%), caption: [Art by: Dominik Mayer], supplement: none, numbering: none)
+#figure(image("006_Episode 3 Tests/06.jpg", width: 100%), caption: [Art by: Dominik Mayer], supplement: none, numbering: none)
 
 "What a way to create order and structure."
 
@@ -361,7 +361,7 @@ Xander's face broadened into an amused smile. "You're not walking into any Cabar
 
 Elspeth adjusted the feathered side cape on her right shoulder. She had been wondering the entire way to the cabaret just when Xander had begun working on this outfit. It was impeccably tailored, and the plate fit her chest, shoulders, and hips immaculately while complementing the white silken layers beneath. But perhaps the most impressive element was the scale mail that hugged her legs, made to look like fishnet stockings. The diadem on her brow made her feel like a queen and gave her the confidence she needed to enter the cabaret Xander had directed her to, a location for new Cabaretti recruits.
 
-#figure(image("006_Episode 3: Tests/07.jpg", width: 100%), caption: [Art by: Anna Steinbauer], supplement: none, numbering: none)
+#figure(image("006_Episode 3 Tests/07.jpg", width: 100%), caption: [Art by: Anna Steinbauer], supplement: none, numbering: none)
 
 After a quick scan of the crowded room, Elspeth went right for the bar.
 
@@ -434,6 +434,6 @@ Jinnie. The right hand of Jetmir, the head of the Cabaretti. Fate had smiled on 
 #grid(
     columns: (1fr, 1fr),
     gutter: 2em,
-    figure(image("006_Episode 3: Tests/08.png", height: 40%), caption: [], supplement: none, numbering: none),
-    figure(image("006_Episode 3: Tests/09.png", height: 40%), caption: [], supplement: none, numbering: none),
+    figure(image("006_Episode 3 Tests/08.png", height: 40%), caption: [], supplement: none, numbering: none),
+    figure(image("006_Episode 3 Tests/09.png", height: 40%), caption: [], supplement: none, numbering: none),
 )

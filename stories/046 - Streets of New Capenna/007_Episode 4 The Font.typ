@@ -57,7 +57,7 @@ Movement ended his musings.
 
 Xander turned to face the living shadows at the far end of the hall. Into that gloom, he asked, "Have you finally come to kill me, Adversary?"
 
-#figure(image("007_Episode 4: The Font/01.jpg", width: 100%), caption: [Art by: Matt Stewart], supplement: none, numbering: none)
+#figure(image("007_Episode 4 The Font/01.jpg", width: 100%), caption: [Art by: Matt Stewart], supplement: none, numbering: none)
 
 = CRESCENDO
 
@@ -65,7 +65,7 @@ Elspeth stood on the dance floor of the Vantoleone with a platter in hand. Jinni
 
 As a part of the floor team, Elspeth was well positioned to see and hear everything. Moreover, she could move unbothered. No one paid any of the uniformed staff any mind. They were as unimportant as the pennons hung against the pillars or the overgrown flowerpots at the base of each one.
 
-#figure(image("007_Episode 4: The Font/02.jpg", width: 100%), caption: [Art by: Kasia 'Kafis' Zelińska], supplement: none, numbering: none)
+#figure(image("007_Episode 4 The Font/02.jpg", width: 100%), caption: [Art by: Kasia 'Kafis' Zelińska], supplement: none, numbering: none)
 
 Well, she didn't go #emph[entirely]  unnoticed.
 
@@ -181,7 +181,7 @@ Xander never saw the Adversary lift his other hand to point at him.
 
 The #emph[bang]  of magic reverberated through Park Heights. But the last thing Xander heard as he staggered away was the clattering of his trusted sword, the tool of his infamy, slipping from his fingers for the last time. His foot met open air, and he plummeted into the clouds below.
 
-#figure(image("007_Episode 4: The Font/03.jpg", width: 100%), caption: [Art by: Yongjae Choi], supplement: none, numbering: none)
+#figure(image("007_Episode 4 The Font/03.jpg", width: 100%), caption: [Art by: Yongjae Choi], supplement: none, numbering: none)
 
 = CRESCENDO
 
@@ -221,7 +221,7 @@ Giada grunted as she pushed open a heavy backstage door. Elspeth put her shoulde
 
 The goons at the far end caught sight of them before they'd taken more than two steps, no doubt alerted to their presence by the noise of the hinges. Elspeth cursed their luck. Had they still been facing the other way, she might have managed to get the drop on them.
 
-#figure(image("007_Episode 4: The Font/04.jpg", width: 100%), caption: [Art by: Bud Cook], supplement: none, numbering: none)
+#figure(image("007_Episode 4 The Font/04.jpg", width: 100%), caption: [Art by: Bud Cook], supplement: none, numbering: none)
 
 "There's more coming from inside," Giada said, glancing back toward the theater.
 
@@ -239,7 +239,7 @@ Elspeth could tell by their smirks that these guards underestimated her. "I'd li
 
 Without warning, a flash of green blazed through the air from somewhere behind them. Charged with magic and cool green flame, the arrow exploded with a howl into a ghostly viridian wolf. It landed on the back of one of their first would-be attackers, driving him to the ground. The man yelled an obscenity, trying to twist away, but the spectral wolf sunk in its claws.
 
-#figure(image("007_Episode 4: The Font/05.jpg", width: 100%), caption: [Art by: Olena Richards], supplement: none, numbering: none)
+#figure(image("007_Episode 4 The Font/05.jpg", width: 100%), caption: [Art by: Olena Richards], supplement: none, numbering: none)
 
 "What the—!" His companion didn't have time to finish. Two more shots were fired, summoning two more wolves.
 
@@ -333,7 +333,7 @@ Ob Nixilis cracked his knuckles and rolled his head. "I want the families' heads
 
 The city was on fire. The families were at war.
 
-#figure(image("007_Episode 4: The Font/06.jpg", width: 100%), caption: [Art by: Nestor Ossandon Leal], supplement: none, numbering: none)
+#figure(image("007_Episode 4 The Font/06.jpg", width: 100%), caption: [Art by: Nestor Ossandon Leal], supplement: none, numbering: none)
 
 Elspeth, Vivien, and Giada fled through the streets, dashing up iron stairwells and onto rooftops as they raced through the Mezzio.
 
@@ -395,7 +395,7 @@ The way those men talked made her sound like an easy target.
 
 She was going to prove them all wrong.
 
-#figure(image("007_Episode 4: The Font/07.jpg", width: 100%), caption: [Art by: Rémi Jacquot], supplement: none, numbering: none)
+#figure(image("007_Episode 4 The Font/07.jpg", width: 100%), caption: [Art by: Rémi Jacquot], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -404,6 +404,6 @@ She was going to prove them all wrong.
 #grid(
     columns: (1fr, 1fr),
     gutter: 2em,
-    figure(image("007_Episode 4: The Font/08.png", height: 40%), caption: [], supplement: none, numbering: none),
-    figure(image("007_Episode 4: The Font/09.png", height: 40%), caption: [], supplement: none, numbering: none),
+    figure(image("007_Episode 4 The Font/08.png", height: 40%), caption: [], supplement: none, numbering: none),
+    figure(image("007_Episode 4 The Font/09.png", height: 40%), caption: [], supplement: none, numbering: none),
 )
