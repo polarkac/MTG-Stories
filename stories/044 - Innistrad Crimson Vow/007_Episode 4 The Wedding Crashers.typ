@@ -11,7 +11,7 @@ A spear of light shatters the windows of Voldaren Manor. Invitation wards crumbl
 
 Tonight, they break down the doors of this awful castle. Tonight, they fight tooth, nail, claw, and sword to take back the day.
 
-#figure(image("007_Episode 4: The Wedding Crashers/01.jpg", width: 100%), caption: [Sigarda's Summons | Art by: Nestor Ossandon Leal], supplement: none, numbering: none)
+#figure(image("007_Episode 4 The Wedding Crashers/01.jpg", width: 100%), caption: [Sigarda's Summons | Art by: Nestor Ossandon Leal], supplement: none, numbering: none)
 
 Arlinn can't give the order fast enough. The moment she sees the angelic plume of light, she shouts to the others, "Now!"
 
@@ -71,7 +71,7 @@ She knows she isn't.
 
 The light up ahead is proof of that.
 
-#figure(image("007_Episode 4: The Wedding Crashers/02.jpg", width: 100%), caption: [Resistance Squad | Art by: Joshua Raphael], supplement: none, numbering: none)
+#figure(image("007_Episode 4 The Wedding Crashers/02.jpg", width: 100%), caption: [Resistance Squad | Art by: Joshua Raphael], supplement: none, numbering: none)
 
 Mounted cathars break off from the crowd, taking to the courtyards and gardens, swords and lances ready to mete out justice. Chandra and Adeline go with them, Adeline mounting her charger before helping Chandra up behind her.
 
@@ -187,7 +187,7 @@ Arlinn can't take any chances. She leaps into the air, catching Kaya mid-fall, l
 
 "Leave the fight to us," Kaya says. "Go."
 
-#figure(image("007_Episode 4: The Wedding Crashers/03.jpg", width: 100%), caption: [Kaya, Geist Hunter | Art by: Ryan Pancoast], supplement: none, numbering: none)
+#figure(image("007_Episode 4 The Wedding Crashers/03.jpg", width: 100%), caption: [Kaya, Geist Hunter | Art by: Ryan Pancoast], supplement: none, numbering: none)
 
 Arlinn spares a glance over her shoulder—at the angels, the mortals, the immortals, and the ghosts. Somewhere in that din is Sorin. She can't catch sight of him here. She doesn't have time to search.
 
@@ -385,7 +385,7 @@ And maybe that's the last touch of anger she needs to send her over the edge.
 
 Senses sharpen. Strength returns to her as she grows, strength enough to keep fighting, at least for now. Her human mind is falling away, falling into the forest; she smells pine, tastes blood. Like the cry of a lost hunter, her last conscious thought: #emph[this isn't the way we solve our problems.]  But there is no one in the woods to hear it. Only the Moonsilver Key, only Olivia, only the faces staring back at her remain.
 
-#figure(image("007_Episode 4: The Wedding Crashers/04.jpg", width: 100%), caption: [Sure Strike | Art by: Lie Setiawan], supplement: none, numbering: none)
+#figure(image("007_Episode 4 The Wedding Crashers/04.jpg", width: 100%), caption: [Sure Strike | Art by: Lie Setiawan], supplement: none, numbering: none)
 
 Pure instinct drives her. She pounces, Olivia twirls away. A flash of gold—the sword's coming again. Arlinn catches it barehanded and flings it aside. With the other, she hurls Olivia through a statue of herself.
 

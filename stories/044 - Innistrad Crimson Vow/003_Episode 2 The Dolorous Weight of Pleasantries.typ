@@ -17,7 +17,7 @@
 
 "But she's far from it! I won't believe it until I see it myself."
 
-#figure(image("003_Episode 2: The Dolorous Weight of Pleasantries/01.jpg", width: 100%), caption: [Voldaren Estate | Art by: Richard Wright], supplement: none, numbering: none)
+#figure(image("003_Episode 2 The Dolorous Weight of Pleasantries/01.jpg", width: 100%), caption: [Voldaren Estate | Art by: Richard Wright], supplement: none, numbering: none)
 
 Relio drinks from his goblet. A little blood dribbles down his chin, staining his pure white ruff, which Cordelia warned him would happen. He never listens to her. Don't feed on wastrels, she told him, but there he went; don't antagonize the Nusfar simply because they look like children, she said, only to find him dangling blood-soaked candies over the head of a girl at least five times his age. Of all the vampires Cordelia knows, Relio seems the most eager to part with his immortality.
 
@@ -65,7 +65,7 @@ Silence rolls over the grand hall like a crimson tide as all eyes land on the da
 
 Olivia Voldaren has finally arrived.
 
-#figure(image("003_Episode 2: The Dolorous Weight of Pleasantries/02.jpg", width: 100%), caption: [Olivia, Crimson Bride | Art by: Anna Steinbauer], supplement: none, numbering: none)
+#figure(image("003_Episode 2 The Dolorous Weight of Pleasantries/02.jpg", width: 100%), caption: [Olivia, Crimson Bride | Art by: Anna Steinbauer], supplement: none, numbering: none)
 
 And what an entry she's made! Floating down the steps in her wedding finery, her swirling, haunted sanguine train held aloft by bats! Every gleaming arcane light glitters anew, every one illuminating some new detail: the glimmer of her golden jewels, the glint of her teeth, the glamor of a gown made from the spirits of her oldest victims. In all the time Cordelia's been alive—a few hundred years now—she's never seen such sartorial heights. That collar has got to be at least as tall as some toddlers.
 
@@ -95,7 +95,7 @@ That's her usual routine. It#emph[ usually]  works. Tonight, as she tries to wal
 
 Adeline stifles a laugh, which almost makes the whole thing worth it. Chandra hasn't heard her laugh in a while. With some bitterness, she glances to the towering guards on either side of the gate. It isn't their fault #emph[directly] , but they are part of the problem.
 
-#figure(image("003_Episode 2: The Dolorous Weight of Pleasantries/03.jpg", width: 100%), caption: [By Invitation Only | Art by: Micah Epstein], supplement: none, numbering: none)
+#figure(image("003_Episode 2 The Dolorous Weight of Pleasantries/03.jpg", width: 100%), caption: [By Invitation Only | Art by: Micah Epstein], supplement: none, numbering: none)
 
 Coming right to the front gates was Arlinn's idea. If there was a wedding going on—and if they showed up in a small group, with Sorin—then maybe they'd be let in. Chandra thought it was stupid from the get-go. Who ever heard of letting the enemy waltz right into your operation just because they came in fancy dress? But Sorin thought it was worth a shot, too, so here they were.
 
@@ -281,7 +281,7 @@ Olivia snaps her fingers. One of the thralls hands her an ornate knife.
 
 The daggers shift then, the crowd's attention now on Olivia. With a small flourish, she rakes the knife across her arm. Old blood, potent blood, blood dark as the night around them, drips onto Edgar Markov's coffin.
 
-#figure(image("003_Episode 2: The Dolorous Weight of Pleasantries/04.jpg", width: 100%), caption: [Art by: Volkan Baga], supplement: none, numbering: none)
+#figure(image("003_Episode 2 The Dolorous Weight of Pleasantries/04.jpg", width: 100%), caption: [Art by: Volkan Baga], supplement: none, numbering: none)
 
 The red chandelier above, the red carpets below, joined by the woman in her red wedding dress, the red blood on the white slab coffin.
 
@@ -339,7 +339,7 @@ Sorin strains to remember his grandfather smiling like this before now. It's bea
 
 He takes her hand. For long, horrible moments, he drinks the blood from her wrist. Only after this does he rise from the coffin.
 
-#figure(image("003_Episode 2: The Dolorous Weight of Pleasantries/05.jpg", width: 100%), caption: [Edgar's Awakening | Art by: Joshua Raphael], supplement: none, numbering: none)
+#figure(image("003_Episode 2 The Dolorous Weight of Pleasantries/05.jpg", width: 100%), caption: [Edgar's Awakening | Art by: Joshua Raphael], supplement: none, numbering: none)
 
 Done with his meal, he dabs at his face with a handkerchief. Now he turns to face the crowd, now he takes in the sight.
 

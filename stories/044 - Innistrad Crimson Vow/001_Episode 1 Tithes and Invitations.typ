@@ -15,7 +15,7 @@ But it is the best hour the humans of Stensia have had in weeks. With the moon h
 
 For when the vampires wake from their little jest, they will doubtless hunger, and when they hunger, they hunt, and when they hunt, people die.
 
-#figure(image("001_Episode 1: Tithes and Invitations/01.jpg", width: 100%), caption: [Art by: Lucas Graciano], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Tithes and Invitations/01.jpg", width: 100%), caption: [Art by: Lucas Graciano], supplement: none, numbering: none)
 
 Grigori presses the knife to his mother's wrist. She does not move, she does not stir, for she too is asleep—and has been for some time. Two nights (it is difficult now to keep track) after the Harvesttide Massacre, his mother simply~fell asleep. Refused to wake. He had seen her before, so full of hope, carving her own effigies to burn in the streets. He had seen her after, when the moon refused to set, skin full of wounds, something in her now broken.
 
@@ -83,7 +83,7 @@ He can only hope she, too, is sleeping soundly.
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("001_Episode 1: Tithes and Invitations/02.jpg", width: 100%), caption: [Art by: Ilse Gort], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Tithes and Invitations/02.jpg", width: 100%), caption: [Art by: Ilse Gort], supplement: none, numbering: none)
 
 Adeline has known darkness in her life. She has known evil. Every breath she's taken since the tender age of twelve, when the Church first took her in, has been to strike down those who prey upon humanity.
 
@@ -193,7 +193,7 @@ Adeline kneels. "You've already helped plenty," she says. From the folds of her 
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
 #v(0.35em)
 
-#figure(image("001_Episode 1: Tithes and Invitations/03.jpg", width: 100%), caption: [Sorin the Mirthless | Art by: Martina Fackova], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Tithes and Invitations/03.jpg", width: 100%), caption: [Sorin the Mirthless | Art by: Martina Fackova], supplement: none, numbering: none)
 
 Innistrad will endure, so the saying goes. But one look out the window is all it takes to render that meaningless. There is no way Innistrad can endure this.
 
@@ -267,7 +267,7 @@ The only thing keeping him from smashing it is the thought that his grandfather 
 
 Onward. His grandfather rests in a mausoleum at the very end of the corridor, protected by a massive stone door. Often, Edgar woke for small spells. Sorin left him books for those cases—things he thought exemplified the current state of Innistrad. Sometimes, when he needed his grandfather's counsel, he would even wake him. The two would speak in the drawing room of the dead, and when it was done, Edgar would rest once more. It always left Sorin feeling like a child—but the advice had not once failed him.
 
-#figure(image("001_Episode 1: Tithes and Invitations/04.jpg", width: 100%), caption: [Fateful Absence | Art by: Eric Deschamps], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Tithes and Invitations/04.jpg", width: 100%), caption: [Fateful Absence | Art by: Eric Deschamps], supplement: none, numbering: none)
 
 Resigned, he walks into the mausoleum expecting to see his grandfather resting in the mighty coffin Sorin commissioned for him or reading at his stately desk—and instead finds an empty room.
 
@@ -315,7 +315,7 @@ And, if honesty is the name of the hour~
 
 He throws the letter upon the table. The thief snatches it up first, the pyromancer leaning over her shoulder to read. Like a child, the latter cannot conceal her shock.
 
-#figure(image("001_Episode 1: Tithes and Invitations/05.jpg", width: 100%), caption: [Wedding Invitation | Art by: Justyna Gil], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Tithes and Invitations/05.jpg", width: 100%), caption: [Wedding Invitation | Art by: Justyna Gil], supplement: none, numbering: none)
 
 "It's an invitation," he says.
 

@@ -15,7 +15,7 @@ That's what they say, anyway. Adeline's beginning to wonder how much of what she
 
 Chandra's right at home in the chaos. As a vampire's claw rakes across Adeline's shield, Chandra is there, bounding up onto a table to get a better angle. Their eyes link over the vampire's shoulder. Somehow—despite the screams, despite the obscenities, despite the death grunts around them—Chandra's smirking.
 
-#figure(image("009_Episode 5: Till Death Do Us Part/01.jpg", width: 100%), caption: [Chandra, Dressed to Kill | Art by: Viktor Titov], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Till Death Do Us Part/01.jpg", width: 100%), caption: [Chandra, Dressed to Kill | Art by: Viktor Titov], supplement: none, numbering: none)
 
 A pillar of flame consumes the vampire. Only a pile of ash remains of the woman, her jewelry sitting prettily atop it. Adeline lets out a breath.
 
@@ -77,7 +77,7 @@ As if to answer, the largest of the wolves turns toward them. An arm juts from i
 
 It's Tovolar.
 
-#figure(image("009_Episode 5: Till Death Do Us Part/02.jpg", width: 100%), caption: [Wedding Crasher | Art by: Alexander Mokhov], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Till Death Do Us Part/02.jpg", width: 100%), caption: [Wedding Crasher | Art by: Alexander Mokhov], supplement: none, numbering: none)
 
 "Here to help?" Teferi asks.
 
@@ -233,7 +233,7 @@ When she opens her eyes, Tovolar is the first thing she sees—still bearing the
 
 And it's when she stirs that she realizes they're not alone. Boulder's at her side, too—they all are. Relief and joy overtake the pain of her injuries as she throws her arms around them. Her pack! And they are just as eager to see her, too, lapping at her face, bopping her with their noses.
 
-#figure(image("009_Episode 5: Till Death Do Us Part/03.jpg", width: 100%), caption: [End the Festivities | Art by: Chris Rallis], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Till Death Do Us Part/03.jpg", width: 100%), caption: [End the Festivities | Art by: Chris Rallis], supplement: none, numbering: none)
 
 But the embrace isn't meant to last long. With joy comes clarity, and with clarity comes memory.
 
@@ -399,7 +399,7 @@ Again—each word a needle. Arlinn closes her eyes. The earth is cool and spring
 
 "I know," she says. "I know."
 
-#figure(image("009_Episode 5: Till Death Do Us Part/04.jpg", width: 100%), caption: [Glorious Sunrise | Art by: Andreas Zafiratos], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Till Death Do Us Part/04.jpg", width: 100%), caption: [Glorious Sunrise | Art by: Andreas Zafiratos], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -517,4 +517,4 @@ But they call to her, all the same, the light now filtering through the leaves o
 
 Even though her friends will soon be gone, Arlinn Kord has her pack.
 
-#figure(image("009_Episode 5: Till Death Do Us Part/05.jpg", width: 100%), caption: [Katilda's Rising Dawn | Art by: Manuel Castañón], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Till Death Do Us Part/05.jpg", width: 100%), caption: [Katilda's Rising Dawn | Art by: Manuel Castañón], supplement: none, numbering: none)

@@ -25,7 +25,7 @@ It is not the first time he has seen the window before him, but in this hanging-
 
 Where the other families take opportunities like this to highlight their scions, Olivia seizes the lion's share of attention for herself. Oh, there are others sprinkled here and there—feather, scale, and tooth—but she reigns supreme throughout. From her presence at the top to her portrait in the center~to her standing now at the base of the window, arm in arm with Edgar Markov.
 
-#figure(image("005_Episode 3: Forever Hold Your Peace/01.jpg", width: 100%), caption: [Edgar, Charmed Groom | Art by: Volkan Baga], supplement: none, numbering: none)
+#figure(image("005_Episode 3 Forever Hold Your Peace/01.jpg", width: 100%), caption: [Edgar, Charmed Groom | Art by: Volkan Baga], supplement: none, numbering: none)
 
 They made an achingly regal picture—she with her train of sorrowful spirits, he in his wedding finery. He realizes, looking at them, that these are details. His gathered relatives, looking on him with indifference; the wedding guests, as thirsty for drama as they are for blood; his plundered grandfather. One thing has led to the other, one panel into the next: vampires run rampant, he creates the angel, the angel perishes, he is humiliated, Olivia fills the void of power he's left behind.
 
@@ -75,7 +75,7 @@ And when she looks to him from within her feathered prison it is with the same p
 
 Another thought follows: Olivia can't have brought Sigarda here solely to serve as a gift.
 
-#figure(image("005_Episode 3: Forever Hold Your Peace/02.jpg", width: 100%), caption: [Sigarda's Imprisonment | Art by: Bryan Sola], supplement: none, numbering: none)
+#figure(image("005_Episode 3 Forever Hold Your Peace/02.jpg", width: 100%), caption: [Sigarda's Imprisonment | Art by: Bryan Sola], supplement: none, numbering: none)
 
 The blood dripping from the angel's wounds calls to him. He knows it calls to them, too; he knows his grandfather is also a talented blood mage.
 
@@ -145,7 +145,7 @@ Blood stains his shirt, his skin, his hands—but he stands unyielding before th
 
 "Sorin," says Olivia, baring her fangs, "you're ruining my #emph[special day] ."
 
-#figure(image("005_Episode 3: Forever Hold Your Peace/03.jpg", width: 100%), caption: [Arterial Alchemy | Art by: Caio Monteiro], supplement: none, numbering: none)
+#figure(image("005_Episode 3 Forever Hold Your Peace/03.jpg", width: 100%), caption: [Arterial Alchemy | Art by: Caio Monteiro], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
@@ -233,7 +233,7 @@ There, at the altar: a geist of some sort bursting from the key. No—not a geis
 
 The spirit turns toward her. Brows knit over spectral eyes. "You did."
 
-#figure(image("005_Episode 3: Forever Hold Your Peace/04.jpg", width: 100%), caption: [Katilda, Dawnhart Martyr | Art by: Miguel Castañón], supplement: none, numbering: none)
+#figure(image("005_Episode 3 Forever Hold Your Peace/04.jpg", width: 100%), caption: [Katilda, Dawnhart Martyr | Art by: Miguel Castañón], supplement: none, numbering: none)
 
 Ghostly flowers entwine about the witch's arm. They grow, blossom, and die all in an instant. The spirit studies this with some interest. A simple gesture, and vines join the flowers. In only a few seconds, she's grown herself a staff—one whose many branches glow with purpose.
 
@@ -301,7 +301,7 @@ Sorin stands among them.
 
 In that moment, he notices two things: first, that Olivia and his grandfather are, unfortunately, mostly unharmed; second, the glass is not the only thing that's shattered.
 
-#figure(image("005_Episode 3: Forever Hold Your Peace/05.jpg", width: 100%), caption: [Sanctify | Art by: Kasia 'Kafis' Zielinska], supplement: none, numbering: none)
+#figure(image("005_Episode 3 Forever Hold Your Peace/05.jpg", width: 100%), caption: [Sanctify | Art by: Kasia 'Kafis' Zielinska], supplement: none, numbering: none)
 
 #v(0.35em)
 #line(length: 100%, stroke: rgb(90%, 90%, 90%))
