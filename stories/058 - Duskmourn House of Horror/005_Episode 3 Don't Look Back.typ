@@ -151,7 +151,7 @@ Himoto chittered. Kaito put a hand on her back, lending them both comfort, and w
 
 There was a sound like someone slicing through shoji with an improperly cleaned sword, rough and ragged and grating, and the landscape began to flicker and fade, moving in and out of visibility as if transforming all around him. The sound of ripping paper grew louder, then stopped as abruptly as it had begun. The forest was gone.
 
-#figure(image("005_Episode 3: Don't Look Back/01.jpg", width: 100%), caption: [Art by: Mirko Failoni], supplement: none, numbering: none)
+#figure(image("005_Episode 3 Don't Look Back/01.jpg", width: 100%), caption: [Art by: Mirko Failoni], supplement: none, numbering: none)
 
 Instead, he appeared to be standing in an underground room with rough stone walls and a staircase in one corner, leading upward to an unseen destination. Piles of furniture and boxed-up belongings lined one wall, and the only light came from a flickering girandole hanging from the center of the ceiling. Its candles were almost burned out; soon enough, the room would return to darkness.
 

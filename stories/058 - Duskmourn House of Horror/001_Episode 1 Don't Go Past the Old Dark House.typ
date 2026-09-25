@@ -385,5 +385,5 @@ One by one, they took the monitoring devices and approached the door. It swung o
 
 The last thing any of them saw before the door slammed shut was Aminatou, one hand clenched in Yoshimaru's fur, standing with Etrata, Proft, and Niv-Mizzet as she watched them go. They looked like they were much farther away than they should have been. Then the door closed, and the House was all.
 
-#figure(image("001_Episode 1: Don't Go Past the Old Dark House/01.jpg", width: 100%), caption: [Art by: Borja Pindado], supplement: none, numbering: none)
+#figure(image("001_Episode 1 Don't Go Past the Old Dark House/01.jpg", width: 100%), caption: [Art by: Borja Pindado], supplement: none, numbering: none)
 

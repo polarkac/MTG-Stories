@@ -173,7 +173,7 @@ Nashi froze.
 
 "You can't save me, but you don't need to. You don't need me, Nashi, not anymore. Look at what you've accomplished! You made a hero's charge into the heart of a demon house to save the unsavable. And look at the people who came to help you, simply because you needed it. You are more loved than you can know. Now go, Nashi. Go, and be as spectacular as she always knew you would be."
 
-#figure(image("011_Episode 6: Don't Die/01.png", width: 100%), caption: [Art by: Miranda Meeks], supplement: none, numbering: none)
+#figure(image("011_Episode 6 Don't Die/01.png", width: 100%), caption: [Art by: Miranda Meeks], supplement: none, numbering: none)
 
 Nashi held up the small object the Wanderer had pressed into his hand. "She told me I could change my fate. She told me … I could …"
 

@@ -61,7 +61,7 @@ The girl just looked more confused.
 
 "Marina," said the girl. "Marina Vendrell. Unless you're here to kill me, and then I'm about to run outside to scream for the watch."
 
-#figure(image("009_Episode 5: Don't Give In/01.jpg", width: 100%), caption: [Art by: Magali Villeneuve], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Don't Give In/01.jpg", width: 100%), caption: [Art by: Magali Villeneuve], supplement: none, numbering: none)
 
 "A lovely name," said Tyvar. "Both of them. I am Tyvar Kell, prince of Skemfar. We aren't here to kill you. May we speak?"
 
@@ -81,7 +81,7 @@ Marina stared at her. "What? No!"
 
 "That's the book," said Zimone.
 
-#figure(image("009_Episode 5: Don't Give In/02.jpg", width: 100%), caption: [Art by: Denys Tsiperko], supplement: none, numbering: none)
+#figure(image("009_Episode 5 Don't Give In/02.jpg", width: 100%), caption: [Art by: Denys Tsiperko], supplement: none, numbering: none)
 
 "Was that the one with the academically unpleasant magic annotated in the margins?" asked Tyvar.
 

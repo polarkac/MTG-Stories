@@ -191,7 +191,7 @@ He stepped toward the doorway.
 
 The floor he stepped onto opened like the mouth of a lamprey, wide and circular and ringed with jagged, downward-facing teeth. Kaito fell, barely managing to jam his sword into the remaining sliver of the floor before he dropped entirely out of sight. The Wanderer lunged for him, shouting his name as she reached. He reached back, and their fingertips almost brushed before the hole in the floor gaped wider, dislodging his sword, and Kaito fell into the blackness, Himoto's eyes the only light that tracked his descent.
 
-#figure(image("003_Episode 2: Don't Split the Party/01.jpg", width: 100%), caption: [Art by: Billy Christian], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Don't Split the Party/01.jpg", width: 100%), caption: [Art by: Billy Christian], supplement: none, numbering: none)
 
 The Wanderer tensed as if to jump after him, only to stop when Niko grabbed her wrist. She looked back at them, disbelieving, and they shook her head.
 
@@ -327,7 +327,7 @@ The stranger pulled back the cup of his slingshot even farther before letting fl
 
 Then, the ball of hair hit one of the distant chains, setting it rattling, and the figure whipped around with terrifying speed to face the sound. It stalked toward the motion, only to step into a beartrap that had been concealed by the fog on the floor. It howled, struggling to free itself. The smell of blood filled the air.
 
-#figure(image("003_Episode 2: Don't Split the Party/02.jpg", width: 100%), caption: [Art by: Cristi Balanescu], supplement: none, numbering: none)
+#figure(image("003_Episode 2 Don't Split the Party/02.jpg", width: 100%), caption: [Art by: Cristi Balanescu], supplement: none, numbering: none)
 
 The stranger pocketed his slingshot before gesturing for the others to follow him, a satisfied look on his face as he slid silently between carcasses. Niko and the Wanderer followed, unsure of what was happening, but seeing no better solution.
 

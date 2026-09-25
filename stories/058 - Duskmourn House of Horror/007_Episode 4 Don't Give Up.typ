@@ -113,7 +113,7 @@ Niko and the Wanderer turned to look back at the clearing. The creatures were no
 
 The second struck Nashi, enveloping him as it flew onward, through the bars of the cage. It embedded in a nearby tree, safely clear of the circle, Nashi within.
 
-#figure(image("007_Episode 4: Don't Give Up/01.jpg", width: 100%), caption: [Art by: Jarel Threat], supplement: none, numbering: none)
+#figure(image("007_Episode 4 Don't Give Up/01.jpg", width: 100%), caption: [Art by: Jarel Threat], supplement: none, numbering: none)
 
 Winter crouched low, trying to conceal himself, as Niko and the Wanderer both charged toward the clearing. The ghost was still consuming the lead creature, making a terrible sound, like rusty nails dragged over tin. The other creatures seemed confused, lashing out without any discernible intent.
 
